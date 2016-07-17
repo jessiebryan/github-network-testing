@@ -595,7 +595,6 @@ static enum {
 	PARTIAL_AC,
 	PARTIAL_L3,
 	EARLY,
-	LATE,
 	FULL
 } g_cpucache_up;
 
@@ -672,7 +671,7 @@ static void init_node_lock_keys(int q)
 {
 	struct cache_sizes *s = malloc_sizes;
 
-	if (g_cpucache_up < LATE)
+	if (g_cpucache_up != FULL)
 		return;
 
 	for (s = malloc_sizes; s->cs_size != ULONG_MAX; s++) {
@@ -1666,8 +1665,6 @@ void __init kmem_cache_init(void)
 void __init kmem_cache_init_late(void)
 {
 	struct kmem_cache *cachep;
-
-	g_cpucache_up = LATE;
 
 	/* Annotate slab for lockdep -- annotate the malloc caches */
 	init_lock_keys();

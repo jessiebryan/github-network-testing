@@ -120,11 +120,6 @@ int wl1271_cmd_general_parms(struct wl1271 *wl)
 	if (!wl->nvs)
 		return -ENODEV;
 
-	if (gp->tx_bip_fem_manufacturer >= WL1271_INI_FEM_MODULE_COUNT) {
-		wl1271_warning("FEM index from INI out of bounds");
-		return -EINVAL;
-	}
-
 	gen_parms = kzalloc(sizeof(*gen_parms), GFP_KERNEL);
 	if (!gen_parms)
 		return -ENOMEM;
@@ -153,12 +148,6 @@ int wl1271_cmd_general_parms(struct wl1271 *wl)
 	gp->tx_bip_fem_manufacturer =
 		gen_parms->general_params.tx_bip_fem_manufacturer;
 
-	if (gp->tx_bip_fem_manufacturer >= WL1271_INI_FEM_MODULE_COUNT) {
-		wl1271_warning("FEM index from FW out of bounds");
-		ret = -EINVAL;
-		goto out;
-	}
-
 	wl1271_debug(DEBUG_CMD, "FEM autodetect: %s, manufacturer: %d\n",
 		     answer ? "auto" : "manual", gp->tx_bip_fem_manufacturer);
 
@@ -177,11 +166,6 @@ int wl128x_cmd_general_parms(struct wl1271 *wl)
 
 	if (!wl->nvs)
 		return -ENODEV;
-
-	if (gp->tx_bip_fem_manufacturer >= WL1271_INI_FEM_MODULE_COUNT) {
-		wl1271_warning("FEM index from ini out of bounds");
-		return -EINVAL;
-	}
 
 	gen_parms = kzalloc(sizeof(*gen_parms), GFP_KERNEL);
 	if (!gen_parms)
@@ -206,12 +190,6 @@ int wl128x_cmd_general_parms(struct wl1271 *wl)
 
 	gp->tx_bip_fem_manufacturer =
 		gen_parms->general_params.tx_bip_fem_manufacturer;
-
-	if (gp->tx_bip_fem_manufacturer >= WL1271_INI_FEM_MODULE_COUNT) {
-		wl1271_warning("FEM index from FW out of bounds");
-		ret = -EINVAL;
-		goto out;
-	}
 
 	wl1271_debug(DEBUG_CMD, "FEM autodetect: %s, manufacturer: %d\n",
 		     answer ? "auto" : "manual", gp->tx_bip_fem_manufacturer);

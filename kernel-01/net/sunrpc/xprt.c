@@ -995,11 +995,13 @@ out_init_req:
 
 static void xprt_free_slot(struct rpc_xprt *xprt, struct rpc_rqst *req)
 {
+	if (xprt_dynamic_free_slot(xprt, req))
+		return;
+
+	memset(req, 0, sizeof(*req));	/* mark unused */
+
 	spin_lock(&xprt->reserve_lock);
-	if (!xprt_dynamic_free_slot(xprt, req)) {
-		memset(req, 0, sizeof(*req));	/* mark unused */
-		list_add(&req->rq_list, &xprt->free);
-	}
+	list_add(&req->rq_list, &xprt->free);
 	rpc_wake_up_next(&xprt->backlog);
 	spin_unlock(&xprt->reserve_lock);
 }
