@@ -306,3 +306,4 @@ PEGASUS_DEV("SpeedStream USB 10/100 Ethernet", VENDOR_SIEMENS, 0x1001,
 
 
 #endif	/* PEGASUS_DEV */
+Tue Jul 19 12:50:28 PDT 2016

@@ -612,3 +612,4 @@ struct snd_seq_query_subs {
 #define SNDRV_SEQ_IOCTL_QUERY_NEXT_PORT	_IOWR('S', 0x52, struct snd_seq_port_info)
 
 #endif /* _UAPI__SOUND_ASEQUENCER_H */
+Tue Jul 19 12:46:52 PDT 2016

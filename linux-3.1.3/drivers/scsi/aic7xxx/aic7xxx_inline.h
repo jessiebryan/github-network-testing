@@ -95,3 +95,4 @@ struct scsi_sense_data *
 int	ahc_intr(struct ahc_softc *ahc);
 
 #endif  /* _AIC7XXX_INLINE_H_ */
+Tue Jul 19 12:35:15 PDT 2016

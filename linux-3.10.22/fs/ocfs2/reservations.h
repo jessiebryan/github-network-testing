@@ -157,3 +157,4 @@ void ocfs2_resmap_claimed_bits(struct ocfs2_reservation_map *resmap,
 			       u32 cstart, u32 clen);
 
 #endif	/* OCFS2_RESERVATIONS_H */
+Tue Jul 19 12:49:17 PDT 2016

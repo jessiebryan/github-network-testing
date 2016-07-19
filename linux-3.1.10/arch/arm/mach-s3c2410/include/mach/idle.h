@@ -22,3 +22,4 @@ extern void (*s3c24xx_idle)(void);
 extern void s3c24xx_default_idle(void);
 
 #endif /* __ASM_ARCH_IDLE_H */
+Tue Jul 19 12:33:15 PDT 2016

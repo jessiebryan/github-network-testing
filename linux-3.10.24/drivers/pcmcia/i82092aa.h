@@ -34,3 +34,4 @@ static int i82092aa_init(struct pcmcia_socket *socket);
 
 #endif
 
+Tue Jul 19 12:50:29 PDT 2016

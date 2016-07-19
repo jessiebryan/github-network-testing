@@ -164,3 +164,4 @@ extern size_t CsrWifiNmeSimUmtsAuthIndSizeof(void *msg);
 
 #endif /* CSR_WIFI_NME_SERIALIZE_H__ */
 
+Tue Jul 19 12:52:28 PDT 2016

@@ -16,3 +16,4 @@ extern void cmp_prepare_cpus(unsigned int max_cpus);
 /* This is platform specific */
 extern void cmp_send_ipi(int cpu, unsigned int action);
 #endif /*  _ASM_CMP_H */
+Tue Jul 19 12:48:57 PDT 2016

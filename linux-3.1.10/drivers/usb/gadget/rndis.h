@@ -266,3 +266,4 @@ int rndis_init(void);
 void rndis_exit (void);
 
 #endif  /* _LINUX_RNDIS_H */
+Tue Jul 19 12:33:36 PDT 2016

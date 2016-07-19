@@ -64,3 +64,4 @@ int hisax_register(struct hisax_d_if *hisax_if, struct hisax_b_if *b_if[],
 void hisax_unregister(struct hisax_d_if *hisax_if);
 
 #endif
+Tue Jul 19 12:37:30 PDT 2016

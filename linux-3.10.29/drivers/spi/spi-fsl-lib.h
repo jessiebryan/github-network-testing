@@ -132,3 +132,4 @@ extern int mpc8xxx_spi_remove(struct device *dev);
 extern int of_mpc8xxx_spi_probe(struct platform_device *ofdev);
 
 #endif /* __SPI_FSL_LIB_H__ */
+Tue Jul 19 12:53:45 PDT 2016

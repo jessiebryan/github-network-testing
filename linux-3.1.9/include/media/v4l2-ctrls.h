@@ -521,3 +521,4 @@ int v4l2_subdev_g_ctrl(struct v4l2_subdev *sd, struct v4l2_control *ctrl);
 int v4l2_subdev_s_ctrl(struct v4l2_subdev *sd, struct v4l2_control *ctrl);
 
 #endif
+Tue Jul 19 12:38:22 PDT 2016

@@ -45,3 +45,4 @@ unsigned int rc4_byte(PRC4Ext pRC4);
 void rc4_encrypt(PRC4Ext pRC4, unsigned char *pbyDest, unsigned char *pbySrc, unsigned int cbData_len);
 
 #endif //__RC4_H__
+Tue Jul 19 12:41:25 PDT 2016

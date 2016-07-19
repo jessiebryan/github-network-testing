@@ -27,3 +27,4 @@
 	{ 0, BASE_BAUD, 0x2E8, 3, STD_COM4_FLAGS },	/* ttyS3 */
 
 #endif /* _ASM_X86_SERIAL_H */
+Tue Jul 19 12:47:10 PDT 2016

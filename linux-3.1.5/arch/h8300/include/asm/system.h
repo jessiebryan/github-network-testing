@@ -138,3 +138,4 @@ static inline unsigned long __xchg(unsigned long x, volatile void * ptr, int siz
 extern void die(const char *str, struct pt_regs *fp, unsigned long err);
 
 #endif /* _H8300_SYSTEM_H */
+Tue Jul 19 12:36:09 PDT 2016

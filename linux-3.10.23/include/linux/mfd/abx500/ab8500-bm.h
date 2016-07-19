@@ -477,3 +477,4 @@ int ab8500_fg_inst_curr_done(struct ab8500_fg *di);
 static struct abx500_bm_data ab8500_bm_data;
 #endif
 #endif /* _AB8500_BM_H */
+Tue Jul 19 12:49:58 PDT 2016

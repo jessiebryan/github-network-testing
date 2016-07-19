@@ -1083,3 +1083,4 @@
 #define MX6DL_PAD_SD4_DAT7__GPIO2_IO15             0x35c 0x744 0x000 0x5 0x0
 
 #endif /* __DTS_IMX6DL_PINFUNC_H */
+Tue Jul 19 12:42:28 PDT 2016

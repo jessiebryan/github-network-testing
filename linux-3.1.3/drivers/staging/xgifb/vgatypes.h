@@ -88,3 +88,4 @@ struct xgi_hw_device_info {
 /* If changing this, xgifb.h must also be changed (for xgifb) */
 #endif
 
+Tue Jul 19 12:35:18 PDT 2016

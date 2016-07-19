@@ -17,3 +17,4 @@ struct ifx_modem_platform_data {
 #define IFX_MODEM_6260	2
 
 #endif
+Tue Jul 19 12:35:58 PDT 2016

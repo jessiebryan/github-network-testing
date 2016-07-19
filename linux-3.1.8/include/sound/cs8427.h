@@ -199,3 +199,4 @@ int snd_cs8427_iec958_active(struct snd_i2c_device *cs8427, int active);
 int snd_cs8427_iec958_pcm(struct snd_i2c_device *cs8427, unsigned int rate);
 
 #endif /* __SOUND_CS8427_H */
+Tue Jul 19 12:37:47 PDT 2016

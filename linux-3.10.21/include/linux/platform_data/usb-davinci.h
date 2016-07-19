@@ -57,3 +57,4 @@ struct	da8xx_ohci_root_hub {
 void davinci_setup_usb(unsigned mA, unsigned potpgt_ms);
 
 #endif	/* ifndef __ASM_ARCH_USB_H */
+Tue Jul 19 12:48:42 PDT 2016

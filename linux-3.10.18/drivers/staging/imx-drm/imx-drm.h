@@ -68,3 +68,4 @@ int imx_drm_encoder_add_possible_crtcs(struct imx_drm_encoder *imx_drm_encoder,
 		struct device_node *np);
 
 #endif /* _IMX_DRM_H_ */
+Tue Jul 19 12:46:40 PDT 2016

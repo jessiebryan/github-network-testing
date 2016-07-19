@@ -32,3 +32,4 @@ bool SetZebraRFPowerState8185(struct net_device *dev, RT_RF_POWER_STATE  eRFPowe
 void rtl8225z4_rf_sleep(struct net_device *dev);
 void rtl8225z4_rf_wakeup(struct net_device *dev);
 
+Tue Jul 19 12:52:28 PDT 2016

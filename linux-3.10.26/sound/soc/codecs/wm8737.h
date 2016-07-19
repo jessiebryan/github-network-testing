@@ -320,3 +320,4 @@
 #define WM8737_RESET_WIDTH                           9  /* RESET - [8:0] */
 
 #endif
+Tue Jul 19 12:52:03 PDT 2016

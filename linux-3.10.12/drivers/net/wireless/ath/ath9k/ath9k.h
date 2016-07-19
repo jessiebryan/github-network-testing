@@ -946,3 +946,4 @@ void ath9k_calculate_iter_data(struct ieee80211_hw *hw,
 			       struct ath9k_vif_iter_data *iter_data);
 
 #endif /* ATH9K_H */
+Tue Jul 19 12:42:50 PDT 2016

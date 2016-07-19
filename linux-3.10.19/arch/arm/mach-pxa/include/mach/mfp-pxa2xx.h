@@ -140,3 +140,4 @@ extern void pxa2xx_mfp_config(unsigned long *mfp_cfgs, int num);
 extern void pxa2xx_mfp_set_lpm(int mfp, unsigned long lpm);
 extern int gpio_set_wake(unsigned int gpio, unsigned int on);
 #endif /* __ASM_ARCH_MFP_PXA2XX_H */
+Tue Jul 19 12:46:57 PDT 2016

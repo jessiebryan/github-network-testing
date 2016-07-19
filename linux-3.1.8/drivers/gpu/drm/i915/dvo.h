@@ -142,3 +142,4 @@ extern struct intel_dvo_dev_ops tfp410_ops;
 extern struct intel_dvo_dev_ops ch7017_ops;
 
 #endif /* _INTEL_DVO_H */
+Tue Jul 19 12:37:29 PDT 2016

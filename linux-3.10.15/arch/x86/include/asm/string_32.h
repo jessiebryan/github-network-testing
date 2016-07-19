@@ -340,3 +340,4 @@ extern void *memscan(void *addr, int c, size_t size);
 #endif /* __KERNEL__ */
 
 #endif /* _ASM_X86_STRING_32_H */
+Tue Jul 19 12:44:40 PDT 2016

@@ -878,3 +878,4 @@ vmci_q_header_buf_ready(const struct vmci_queue_header *consume_q_header,
 
 
 #endif /* _VMW_VMCI_DEF_H_ */
+Tue Jul 19 12:53:15 PDT 2016

@@ -87,3 +87,4 @@ extern void set_latch_u5(unsigned char or_mask, unsigned char nand_mask);
 extern unsigned char get_latch_u5(void);
 
 #endif  /* __ASM_RC32434_RB_H */
+Tue Jul 19 12:36:46 PDT 2016

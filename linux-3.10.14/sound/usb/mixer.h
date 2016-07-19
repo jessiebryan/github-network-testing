@@ -73,3 +73,4 @@ int snd_usb_mixer_vol_tlv(struct snd_kcontrol *kcontrol, int op_flag,
 			  unsigned int size, unsigned int __user *_tlv);
 
 #endif /* __USBMIXER_H */
+Tue Jul 19 12:44:23 PDT 2016

@@ -378,3 +378,4 @@ static inline void vlan_set_encap_proto(struct sk_buff *skb,
 		skb->protocol = htons(ETH_P_802_2);
 }
 #endif /* !(_LINUX_IF_VLAN_H_) */
+Tue Jul 19 12:46:07 PDT 2016

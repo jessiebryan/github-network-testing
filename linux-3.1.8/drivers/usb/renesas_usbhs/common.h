@@ -272,3 +272,4 @@ struct usbhs_priv *usbhs_pdev_to_priv(struct platform_device *pdev);
 #define usbhs_priv_to_lock(priv)	(&priv->lock)
 
 #endif /* RENESAS_USB_DRIVER_H */
+Tue Jul 19 12:37:37 PDT 2016

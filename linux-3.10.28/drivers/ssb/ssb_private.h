@@ -291,3 +291,4 @@ static inline int ssb_gpio_unregister(struct ssb_bus *bus)
 #endif /* CONFIG_SSB_DRIVER_GPIO */
 
 #endif /* LINUX_SSB_PRIVATE_H_ */
+Tue Jul 19 12:53:07 PDT 2016

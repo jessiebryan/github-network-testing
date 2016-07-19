@@ -37,3 +37,4 @@ union nf_conntrack_man_proto {
 #define CTINFO2DIR(ctinfo) ((ctinfo) >= IP_CT_IS_REPLY ? IP_CT_DIR_REPLY : IP_CT_DIR_ORIGINAL)
 
 #endif /* _NF_CONNTRACK_TUPLE_COMMON_H */
+Tue Jul 19 12:48:07 PDT 2016

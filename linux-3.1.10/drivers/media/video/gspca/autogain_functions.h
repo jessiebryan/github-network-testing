@@ -177,3 +177,4 @@ static inline int coarse_grained_expo_autogain(
 			gain, exposure);
 	return retval;
 }
+Tue Jul 19 12:33:30 PDT 2016

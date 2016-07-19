@@ -209,3 +209,4 @@ dev_info(&cam->usbdev->dev, "[%s:%s:%d] " fmt "\n", __FILE__, __func__,   \
 #define PDBGG(fmt, args...) do {;} while(0) /* placeholder */
 
 #endif /* _SN9C102_H_ */
+Tue Jul 19 12:49:48 PDT 2016

@@ -20,3 +20,4 @@ bool mxms_foreach(struct nouveau_mxm *, u8,
 		  bool (*)(struct nouveau_mxm *, u8 *, void *), void *);
 
 #endif
+Tue Jul 19 12:42:46 PDT 2016

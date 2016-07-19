@@ -68,3 +68,4 @@ struct kxtj9_platform_data {
 	int (*power_off)(void);
 };
 #endif  /* __KXTJ9_H__ */
+Tue Jul 19 12:35:22 PDT 2016

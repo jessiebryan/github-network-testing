@@ -45,3 +45,4 @@ extern struct key *cifs_get_spnego_key(struct cifs_ses *sesInfo);
 #endif /* KERNEL */
 
 #endif /* _CIFS_SPNEGO_H */
+Tue Jul 19 12:49:55 PDT 2016

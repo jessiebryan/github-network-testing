@@ -23,3 +23,4 @@ static inline int acpi_lid_open(void)
 #endif /* defined(CONFIG_ACPI_BUTTON) || defined(CONFIG_ACPI_BUTTON_MODULE) */
 
 #endif /* ACPI_BUTTON_H */
+Tue Jul 19 12:48:38 PDT 2016

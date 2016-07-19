@@ -48,3 +48,4 @@ static inline void rtsx_reset_detected_cards(struct rtsx_chip *chip, int flag)
 
 #endif  /* __RTSX_SYS_H */
 
+Tue Jul 19 12:35:52 PDT 2016

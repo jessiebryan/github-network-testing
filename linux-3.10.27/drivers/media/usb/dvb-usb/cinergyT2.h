@@ -93,3 +93,4 @@ extern struct dvb_frontend *cinergyt2_fe_attach(struct dvb_usb_device *d);
 
 #endif /* _DVB_USB_CINERGYT2_H_ */
 
+Tue Jul 19 12:52:23 PDT 2016

@@ -340,3 +340,4 @@ extern unsigned int plat_ipi_call_int_xlate(unsigned int);
 extern unsigned int plat_ipi_resched_int_xlate(unsigned int);
 
 #endif /* _ASM_GICREGS_H */
+Tue Jul 19 12:37:59 PDT 2016

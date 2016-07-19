@@ -77,3 +77,4 @@ struct pxa3xx_nand_platform_data {
 
 extern void pxa3xx_set_nand_info(struct pxa3xx_nand_platform_data *info);
 #endif /* __ASM_ARCH_PXA3XX_NAND_H */
+Tue Jul 19 12:43:00 PDT 2016

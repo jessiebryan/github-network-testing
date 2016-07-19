@@ -124,3 +124,4 @@ struct adp1653_flash {
 };
 
 #endif /* ADP1653_H */
+Tue Jul 19 12:42:22 PDT 2016

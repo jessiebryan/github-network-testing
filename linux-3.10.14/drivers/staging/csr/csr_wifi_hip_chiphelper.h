@@ -405,3 +405,4 @@ s32 ChipHelper_DecodeWindow(ChipDescript *chip_help,
                                  u16 *page, u16 *addr, u32 *len);
 
 #endif
+Tue Jul 19 12:44:09 PDT 2016

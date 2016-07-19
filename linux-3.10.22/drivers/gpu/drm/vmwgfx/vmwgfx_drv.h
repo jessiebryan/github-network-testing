@@ -766,3 +766,4 @@ static inline struct ttm_mem_global *vmw_mem_glob(struct vmw_private *dev_priv)
 	return (struct ttm_mem_global *) dev_priv->mem_global_ref.object;
 }
 #endif
+Tue Jul 19 12:49:07 PDT 2016

@@ -448,3 +448,4 @@ static const char *version =
     "sonic.c:v0.92 20.9.98 tsbogend@alpha.franken.de\n";
 
 #endif /* SONIC_H */
+Tue Jul 19 12:33:31 PDT 2016

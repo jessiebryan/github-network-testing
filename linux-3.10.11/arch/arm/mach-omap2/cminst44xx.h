@@ -41,3 +41,4 @@ extern u32 omap4_cminst_read_inst_reg_bits(u8 part, u16 inst, s16 idx,
 extern void omap_cm_base_init(void);
 
 #endif
+Tue Jul 19 12:41:42 PDT 2016

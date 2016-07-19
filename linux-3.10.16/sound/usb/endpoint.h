@@ -31,3 +31,4 @@ void snd_usb_handle_sync_urb(struct snd_usb_endpoint *ep,
 			     const struct urb *urb);
 
 #endif /* __USBAUDIO_ENDPOINT_H */
+Tue Jul 19 12:45:38 PDT 2016

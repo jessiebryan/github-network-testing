@@ -15,3 +15,4 @@ static void __init check_bugs(void)
 	cpu_data(0).udelay_val = loops_per_jiffy;
 #endif
 }
+Tue Jul 19 12:46:29 PDT 2016

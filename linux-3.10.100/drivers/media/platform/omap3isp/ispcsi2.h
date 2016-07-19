@@ -163,3 +163,4 @@ void omap3isp_csi2_unregister_entities(struct isp_csi2_device *csi2);
 int omap3isp_csi2_register_entities(struct isp_csi2_device *csi2,
 				    struct v4l2_device *vdev);
 #endif	/* OMAP3_ISP_CSI2_H */
+Tue Jul 19 12:40:02 PDT 2016

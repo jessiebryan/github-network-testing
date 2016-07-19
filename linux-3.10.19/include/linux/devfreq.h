@@ -257,3 +257,4 @@ static inline int devfreq_unregister_opp_notifier(struct device *dev,
 #endif /* CONFIG_PM_DEVFREQ */
 
 #endif /* __LINUX_DEVFREQ_H__ */
+Tue Jul 19 12:47:23 PDT 2016

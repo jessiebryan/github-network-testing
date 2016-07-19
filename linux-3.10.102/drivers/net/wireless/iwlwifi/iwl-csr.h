@@ -470,3 +470,4 @@
 #define IWL_HOST_INT_OPER_MODE		BIT(31)
 
 #endif /* !__iwl_csr_h__ */
+Tue Jul 19 12:41:22 PDT 2016

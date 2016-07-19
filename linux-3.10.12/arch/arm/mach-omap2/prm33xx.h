@@ -129,3 +129,4 @@ extern int am33xx_prm_deassert_hardreset(u8 shift, u8 st_shift, s16 inst,
 		u16 rstctrl_offs, u16 rstst_offs);
 #endif /* ASSEMBLER */
 #endif
+Tue Jul 19 12:42:30 PDT 2016

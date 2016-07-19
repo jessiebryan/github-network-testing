@@ -33,3 +33,4 @@ int roccat_common2_send_with_status(struct usb_device *usb_dev,
 		uint command, void const *buf, uint size);
 
 #endif
+Tue Jul 19 12:39:21 PDT 2016

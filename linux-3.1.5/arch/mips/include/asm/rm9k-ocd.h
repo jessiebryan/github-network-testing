@@ -54,3 +54,4 @@ extern int titan_irqflags;
 #define unlock_titan_regs() spin_unlock_irqrestore(&titan_lock, titan_irqflags)
 
 #endif	/* !defined(_ASM_RM9K_OCD_H) */
+Tue Jul 19 12:36:12 PDT 2016

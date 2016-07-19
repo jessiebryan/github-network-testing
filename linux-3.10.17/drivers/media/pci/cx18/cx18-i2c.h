@@ -27,3 +27,4 @@ struct v4l2_subdev *cx18_find_hw(struct cx18 *cx, u32 hw);
 /* init + register i2c adapter */
 int init_cx18_i2c(struct cx18 *cx);
 void exit_cx18_i2c(struct cx18 *cx);
+Tue Jul 19 12:45:57 PDT 2016

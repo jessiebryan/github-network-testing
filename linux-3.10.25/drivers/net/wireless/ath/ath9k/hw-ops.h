@@ -213,3 +213,4 @@ static inline void ath9k_hw_set_radar_params(struct ath_hw *ah)
 }
 
 #endif /* ATH9K_HW_OPS_H */
+Tue Jul 19 12:51:07 PDT 2016

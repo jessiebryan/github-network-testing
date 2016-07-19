@@ -215,3 +215,4 @@ extern int pl330_chan_ctrl(void *ch_id, enum pl330_chan_op op);
 extern int pl330_submit_req(void *ch_id, struct pl330_req *r);
 
 #endif	/* __PL330_CORE_H */
+Tue Jul 19 12:36:03 PDT 2016

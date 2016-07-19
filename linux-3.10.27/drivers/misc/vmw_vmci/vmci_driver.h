@@ -48,3 +48,4 @@ bool vmci_guest_code_active(void);
 u32 vmci_get_vm_context_id(void);
 
 #endif /* _VMCI_DRIVER_H_ */
+Tue Jul 19 12:52:24 PDT 2016

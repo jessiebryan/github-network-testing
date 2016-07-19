@@ -55,3 +55,4 @@ struct lm3630_platform_data {
 };
 
 #endif /* __LINUX_LM3630_H */
+Tue Jul 19 12:42:20 PDT 2016

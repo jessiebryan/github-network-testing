@@ -28,3 +28,4 @@ extern int dns_resolve_server_name_to_ip(const char *unc, char **ip_addr);
 #endif /* KERNEL */
 
 #endif /* _DNS_RESOLVE_H */
+Tue Jul 19 12:37:38 PDT 2016

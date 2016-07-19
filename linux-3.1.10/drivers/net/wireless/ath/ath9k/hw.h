@@ -1040,3 +1040,4 @@ void ath9k_hw_ani_monitor(struct ath_hw *ah, struct ath9k_channel *chan);
 #define ATH9K_CLOCK_FAST_RATE_5GHZ_OFDM 44
 
 #endif
+Tue Jul 19 12:33:31 PDT 2016

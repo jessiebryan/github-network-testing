@@ -86,3 +86,4 @@ static const struct cpu_reg cpu_reg_txp = {
 	.spad_base = BNX2_TXP_SCRATCH,
 	.mips_view_base = 0x8000000,
 };
+Tue Jul 19 12:45:22 PDT 2016

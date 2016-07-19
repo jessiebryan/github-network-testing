@@ -446,3 +446,4 @@ struct ipmi_timing_parms {
 #define IPMICTL_SET_MAINTENANCE_MODE_CMD	_IOW(IPMI_IOC_MAGIC, 31, int)
 
 #endif /* _UAPI__LINUX_IPMI_H */
+Tue Jul 19 12:51:21 PDT 2016

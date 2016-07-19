@@ -23,3 +23,4 @@ extern int pcmcia_system3_init(struct device *);
 extern int pcmcia_trizeps_init(struct device *);
 extern int pcmcia_xp860_init(struct device *);
 extern int pcmcia_yopy_init(struct device *);
+Tue Jul 19 12:36:24 PDT 2016

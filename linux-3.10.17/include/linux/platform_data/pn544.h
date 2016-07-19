@@ -42,3 +42,4 @@ struct pn544_nfc_platform_data {
 };
 
 #endif /* _PN544_H_ */
+Tue Jul 19 12:46:08 PDT 2016

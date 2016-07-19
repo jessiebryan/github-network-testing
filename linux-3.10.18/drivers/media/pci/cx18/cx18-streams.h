@@ -60,3 +60,4 @@ int cx18_start_v4l2_encode_stream(struct cx18_stream *s);
 int cx18_stop_v4l2_encode_stream(struct cx18_stream *s, int gop_end);
 
 void cx18_stop_all_captures(struct cx18 *cx);
+Tue Jul 19 12:46:34 PDT 2016

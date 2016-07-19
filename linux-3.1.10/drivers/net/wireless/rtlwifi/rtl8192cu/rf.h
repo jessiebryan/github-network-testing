@@ -49,3 +49,4 @@ void rtl92cu_phy_rf6052_set_ofdm_txpower(struct ieee80211_hw *hw,
 					 u8 *ppowerlevel, u8 channel);
 
 #endif
+Tue Jul 19 12:33:32 PDT 2016

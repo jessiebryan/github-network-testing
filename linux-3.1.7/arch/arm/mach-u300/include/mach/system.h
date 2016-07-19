@@ -40,3 +40,4 @@ static void arch_reset(char mode, const char *cmd)
 	/* Wait for system do die/reset. */
 	while (1);
 }
+Tue Jul 19 12:36:40 PDT 2016

@@ -305,3 +305,4 @@ struct carl9170_rsp {
 } __packed __aligned(4);
 
 #endif /* __CARL9170_SHARED_FWCMD_H */
+Tue Jul 19 12:36:23 PDT 2016

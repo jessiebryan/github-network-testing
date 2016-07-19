@@ -129,3 +129,4 @@ static inline struct device *vhci_dev(struct vhci_hcd *vhci)
 {
 	return vhci_to_hcd(vhci)->self.controller;
 }
+Tue Jul 19 12:37:36 PDT 2016

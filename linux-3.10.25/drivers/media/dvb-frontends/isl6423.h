@@ -61,3 +61,4 @@ static inline struct dvb_frontend *isl6423_attach(struct dvb_frontend *fe,
 #endif /* CONFIG_DVB_ISL6423 */
 
 #endif /* __ISL_6423_H */
+Tue Jul 19 12:51:05 PDT 2016

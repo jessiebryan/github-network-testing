@@ -250,3 +250,4 @@ struct smiapp_sensor {
 	(to_smiapp_subdev(_sd)->sensor)
 
 #endif /* __SMIAPP_PRIV_H_ */
+Tue Jul 19 12:45:57 PDT 2016

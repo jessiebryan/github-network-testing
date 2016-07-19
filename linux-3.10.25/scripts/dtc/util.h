@@ -151,3 +151,4 @@ int utilfdt_decode_type(const char *fmt, int *type, int *size);
 	"\t\thh or b=byte, h=2 byte, l=4 byte (default)\n";
 
 #endif /* _UTIL_H */
+Tue Jul 19 12:51:23 PDT 2016

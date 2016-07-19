@@ -42,3 +42,4 @@ struct mlx4_wqe_srq_next_seg {
 struct mlx4_srq *mlx4_srq_lookup(struct mlx4_dev *dev, u32 srqn);
 
 #endif /* MLX4_SRQ_H */
+Tue Jul 19 12:40:13 PDT 2016

@@ -242,3 +242,4 @@ int gspca_resume(struct usb_interface *intf);
 int gspca_auto_gain_n_exposure(struct gspca_dev *gspca_dev, int avg_lum,
 	int desired_avg_lum, int deadzone, int gain_knee, int exposure_knee);
 #endif /* GSPCAV2_H */
+Tue Jul 19 12:34:07 PDT 2016

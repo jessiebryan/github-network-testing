@@ -472,3 +472,4 @@ snd_pci_quirk_lookup_id(u16 vendor, u16 device,
 #endif
 
 #endif /* __SOUND_CORE_H */
+Tue Jul 19 12:40:16 PDT 2016

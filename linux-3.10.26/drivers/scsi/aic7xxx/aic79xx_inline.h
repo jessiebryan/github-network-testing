@@ -170,3 +170,4 @@ ahd_get_sense_bufaddr(struct ahd_softc *ahd, struct scb *scb)
 int	ahd_intr(struct ahd_softc *ahd);
 
 #endif  /* _AIC79XX_INLINE_H_ */
+Tue Jul 19 12:51:48 PDT 2016

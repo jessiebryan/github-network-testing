@@ -144,3 +144,4 @@ static __inline__ void atomic_set_mask(unsigned long mask, unsigned long *v)
 #define smp_mb__after_atomic_inc() barrier()
 
 #endif /* __ARCH_H8300_ATOMIC __ */
+Tue Jul 19 12:49:34 PDT 2016

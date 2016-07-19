@@ -98,3 +98,4 @@ unsigned int host1x_cdma_wait_locked(struct host1x_cdma *cdma,
 void host1x_cdma_update_sync_queue(struct host1x_cdma *cdma,
 				   struct device *dev);
 #endif
+Tue Jul 19 12:43:24 PDT 2016

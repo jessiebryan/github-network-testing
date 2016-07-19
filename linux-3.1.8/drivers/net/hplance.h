@@ -24,3 +24,4 @@
 #define HPLANCE_REGOFF 0x4000                     /* lance registers */
 #define HPLANCE_MEMOFF 0x8000                     /* struct lance_init_block */
 #define HPLANCE_NVRAMOFF 0xC008                   /* etheraddress as one *nibble* per byte */
+Tue Jul 19 12:37:32 PDT 2016

@@ -26,3 +26,4 @@ int s5pv210_fimc_setup_gpio(enum s5p_camport_id id);
 int exynos4_fimc_setup_gpio(enum s5p_camport_id id);
 
 #endif /* __PLAT_SAMSUNG_CAMPORT_H */
+Tue Jul 19 12:45:42 PDT 2016

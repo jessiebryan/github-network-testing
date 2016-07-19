@@ -23,3 +23,4 @@ u16 dcb_i2c_entry(struct nouveau_bios *, u8 index, u8 *ver, u8 *len);
 int dcb_i2c_parse(struct nouveau_bios *, u8 index, struct dcb_i2c_entry *);
 
 #endif
+Tue Jul 19 12:48:28 PDT 2016

@@ -59,3 +59,4 @@ static inline struct i2c_adapter *s5h1420_get_tuner_i2c_adapter(struct dvb_front
 #endif // CONFIG_DVB_S5H1420
 
 #endif // S5H1420_H
+Tue Jul 19 12:35:47 PDT 2016

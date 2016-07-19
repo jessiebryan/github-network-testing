@@ -59,3 +59,4 @@ enum {
 extern void mmp2_pm_enter_lowpower_mode(int state);
 extern int mmp2_set_wake(struct irq_data *d, unsigned int on);
 #endif
+Tue Jul 19 12:43:47 PDT 2016

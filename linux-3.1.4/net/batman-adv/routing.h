@@ -45,3 +45,4 @@ void bonding_candidate_del(struct orig_node *orig_node,
 			   struct neigh_node *neigh_node);
 
 #endif /* _NET_BATMAN_ADV_ROUTING_H_ */
+Tue Jul 19 12:36:01 PDT 2016

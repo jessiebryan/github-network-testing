@@ -136,3 +136,4 @@ void build_ntlmssp_negotiate_blob(unsigned char *pbuffer, struct cifs_ses *ses);
 int build_ntlmssp_auth_blob(unsigned char *pbuffer, u16 *buflen,
 			struct cifs_ses *ses,
 			const struct nls_table *nls_cp);
+Tue Jul 19 12:51:52 PDT 2016

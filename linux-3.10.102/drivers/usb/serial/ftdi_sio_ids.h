@@ -1451,3 +1451,4 @@
  * ekey biometric systems GmbH (http://ekey.net/)
  */
 #define FTDI_EKEY_CONV_USB_PID		0xCB08	/* Converter USB */
+Tue Jul 19 12:41:26 PDT 2016

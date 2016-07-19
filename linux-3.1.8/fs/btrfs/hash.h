@@ -25,3 +25,4 @@ static inline u64 btrfs_name_hash(const char *name, int len)
 	return crc32c((u32)~1, name, len);
 }
 #endif
+Tue Jul 19 12:37:38 PDT 2016

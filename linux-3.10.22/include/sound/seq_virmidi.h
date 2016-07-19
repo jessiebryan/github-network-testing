@@ -79,3 +79,4 @@ struct snd_virmidi_dev {
 int snd_virmidi_new(struct snd_card *card, int device, struct snd_rawmidi **rrmidi);
 
 #endif /* __SOUND_SEQ_VIRMIDI */
+Tue Jul 19 12:49:24 PDT 2016

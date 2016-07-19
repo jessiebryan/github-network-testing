@@ -60,3 +60,4 @@ extern int via_parse_command_stream(struct drm_device *dev, const uint32_t *buf,
 				    unsigned int size);
 
 #endif
+Tue Jul 19 12:46:33 PDT 2016

@@ -44,3 +44,4 @@ struct led_regulator_platform_data {
 };
 
 #endif /* __LINUX_LEDS_REGULATOR_H */
+Tue Jul 19 12:40:51 PDT 2016

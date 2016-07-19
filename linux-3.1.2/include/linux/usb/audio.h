@@ -564,3 +564,4 @@ struct usb_audio_control_selector {
 #endif /* __KERNEL__ */
 
 #endif /* __LINUX_USB_AUDIO_H */
+Tue Jul 19 12:34:27 PDT 2016

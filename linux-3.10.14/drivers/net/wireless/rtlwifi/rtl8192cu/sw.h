@@ -54,3 +54,4 @@ void rtl92cu_update_hal_rate_tbl(struct ieee80211_hw *hw,
 				 u8 rssi_level);
 
 #endif
+Tue Jul 19 12:44:08 PDT 2016

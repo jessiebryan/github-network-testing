@@ -1367,3 +1367,4 @@ struct ec_params_reboot_ec {
 #endif  /* !__ACPI__ */
 
 #endif  /* __CROS_EC_COMMANDS_H */
+Tue Jul 19 12:40:51 PDT 2016

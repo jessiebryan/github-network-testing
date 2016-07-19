@@ -17,3 +17,4 @@ struct adis16260_platform_data {
 	char direction;
 	unsigned negate:1;
 };
+Tue Jul 19 12:35:51 PDT 2016

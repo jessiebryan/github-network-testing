@@ -44,3 +44,4 @@ static inline void arch_wdt_reset(void)
 	/* delay to allow the serial port to show the message */
 	mdelay(50);
 }
+Tue Jul 19 12:46:19 PDT 2016

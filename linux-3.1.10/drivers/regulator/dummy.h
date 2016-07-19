@@ -25,3 +25,4 @@ extern struct regulator_dev *dummy_regulator_rdev;
 void __init regulator_dummy_init(void);
 
 #endif
+Tue Jul 19 12:33:32 PDT 2016

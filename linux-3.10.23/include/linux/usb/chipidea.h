@@ -36,3 +36,4 @@ struct platform_device *ci13xxx_add_device(struct device *dev,
 void ci13xxx_remove_device(struct platform_device *pdev);
 
 #endif
+Tue Jul 19 12:50:01 PDT 2016

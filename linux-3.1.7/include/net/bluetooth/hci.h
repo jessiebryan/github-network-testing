@@ -1300,3 +1300,4 @@ struct hci_inquiry_req {
 #define IREQ_CACHE_FLUSH 0x0001
 
 #endif /* __HCI_H */
+Tue Jul 19 12:37:07 PDT 2016

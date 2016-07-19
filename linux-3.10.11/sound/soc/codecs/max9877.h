@@ -35,3 +35,4 @@
 extern int max9877_add_controls(struct snd_soc_codec *codec);
 
 #endif
+Tue Jul 19 12:42:27 PDT 2016

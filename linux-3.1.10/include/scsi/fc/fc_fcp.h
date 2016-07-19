@@ -206,3 +206,4 @@ struct fcp_srr {
 #define	FCP_FEAT_INIT	(1 << 1)	/* initiator function supported */
 
 #endif /* _FC_FCP_H_ */
+Tue Jul 19 12:33:43 PDT 2016

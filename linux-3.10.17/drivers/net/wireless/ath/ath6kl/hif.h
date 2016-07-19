@@ -280,3 +280,4 @@ int ath6kl_hif_submit_scat_req(struct ath6kl_device *dev,
 			       struct hif_scatter_req *scat_req, bool read);
 
 #endif
+Tue Jul 19 12:45:59 PDT 2016

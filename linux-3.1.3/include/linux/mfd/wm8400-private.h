@@ -934,3 +934,4 @@ int wm8400_block_read(struct wm8400 *wm8400, u8 reg, int count, u16 *data);
 int wm8400_set_bits(struct wm8400 *wm8400, u8 reg, u16 mask, u16 val);
 
 #endif
+Tue Jul 19 12:35:23 PDT 2016

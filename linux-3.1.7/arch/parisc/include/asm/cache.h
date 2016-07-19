@@ -58,3 +58,4 @@ void parisc_setup_cache_timing(void);
 #define SRHASH_PA20     2   /* pcxu, pcxu_, pcxw, pcxw_ */
 
 #endif
+Tue Jul 19 12:36:47 PDT 2016

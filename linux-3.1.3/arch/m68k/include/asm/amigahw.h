@@ -347,3 +347,4 @@ struct tod2000 {
 #define tod_2000 ((*(volatile struct tod2000 *)(zTwoBase+0xDC0000)))
 
 #endif /* _M68K_AMIGAHW_H */
+Tue Jul 19 12:34:54 PDT 2016

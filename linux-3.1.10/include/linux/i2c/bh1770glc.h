@@ -51,3 +51,4 @@ struct bh1770_platform_data {
 	int (*release_resources)(void);
 };
 #endif
+Tue Jul 19 12:33:39 PDT 2016

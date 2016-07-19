@@ -76,3 +76,4 @@ extern void omap_set_lcd_dma_b1_scale(unsigned int xscale, unsigned int yscale);
 extern int omap_lcd_dma_running(void);
 
 #endif /* __MACH_OMAP1_LCD_DMA_H__ */
+Tue Jul 19 12:43:09 PDT 2016

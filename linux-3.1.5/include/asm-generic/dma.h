@@ -13,3 +13,4 @@ extern int request_dma(unsigned int dmanr, const char *device_id);
 extern void free_dma(unsigned int dmanr);
 
 #endif /* __ASM_GENERIC_DMA_H */
+Tue Jul 19 12:36:29 PDT 2016

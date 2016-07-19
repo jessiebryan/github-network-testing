@@ -59,3 +59,4 @@ static inline void arch_idle(void)
 void arch_reset(char mode, const char *cmd);
 
 #endif /* __ASM_ARCH_MXC_SYSTEM_H__ */
+Tue Jul 19 12:33:52 PDT 2016

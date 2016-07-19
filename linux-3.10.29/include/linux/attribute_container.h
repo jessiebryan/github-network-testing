@@ -70,3 +70,4 @@ struct device *attribute_container_find_class_device(struct attribute_container 
 struct device_attribute **attribute_container_classdev_to_attrs(const struct device *classdev);
 
 #endif
+Tue Jul 19 12:53:50 PDT 2016

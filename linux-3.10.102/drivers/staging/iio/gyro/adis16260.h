@@ -96,3 +96,4 @@ struct adis16260_state {
 #define ADIS16260_SCAN_ANGL	4
 
 #endif /* SPI_ADIS16260_H_ */
+Tue Jul 19 12:41:24 PDT 2016

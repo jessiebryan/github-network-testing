@@ -230,3 +230,4 @@ struct ei_device {
 #define ENTSR_OWC 0x80  /* There was an out-of-window collision. */
 
 #endif /* _8390_h */
+Tue Jul 19 12:36:55 PDT 2016

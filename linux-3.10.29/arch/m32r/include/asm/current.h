@@ -13,3 +13,4 @@ static __inline__ struct task_struct *get_current(void)
 #define current	(get_current())
 
 #endif	/* _ASM_M32R_CURRENT_H */
+Tue Jul 19 12:53:28 PDT 2016

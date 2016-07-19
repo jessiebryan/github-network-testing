@@ -118,3 +118,4 @@ struct resource_table *rproc_find_loaded_rsc_table(struct rproc *rproc,
 extern const struct rproc_fw_ops rproc_elf_fw_ops;
 
 #endif /* REMOTEPROC_INTERNAL_H */
+Tue Jul 19 12:46:00 PDT 2016

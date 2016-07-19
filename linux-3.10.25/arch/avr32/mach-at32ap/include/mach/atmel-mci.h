@@ -15,3 +15,4 @@ struct mci_dma_data {
 #define find_slave_dev(s)	((s)->sdata.dma_dev)
 
 #endif /* __MACH_ATMEL_MCI_H */
+Tue Jul 19 12:50:50 PDT 2016

@@ -375,3 +375,4 @@ extern int call_rtas(const char *, int, int, unsigned long *, ...);
 
 #endif /* __KERNEL__ */
 #endif /* _POWERPC_RTAS_H */
+Tue Jul 19 12:39:54 PDT 2016

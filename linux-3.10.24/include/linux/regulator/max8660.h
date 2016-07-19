@@ -55,3 +55,4 @@ struct max8660_platform_data {
 	unsigned en34_is_high:1;
 };
 #endif
+Tue Jul 19 12:50:39 PDT 2016

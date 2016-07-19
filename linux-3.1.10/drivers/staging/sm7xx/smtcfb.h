@@ -786,3 +786,4 @@ struct ModeInit VGAMode[] = {
 };
 
 #define numVGAModes		ARRAY_SIZE(VGAMode)
+Tue Jul 19 12:33:35 PDT 2016

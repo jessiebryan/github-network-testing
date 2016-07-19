@@ -30,3 +30,4 @@
 #define AC97_CMD_RESET			FIELD(1, 1, 0)
 #define AC97_CMD_ENABLE			FIELD(1, 1, 0)
 #define AC97_CMD_DISABLE		FIELD(0, 1, 0)
+Tue Jul 19 12:33:26 PDT 2016

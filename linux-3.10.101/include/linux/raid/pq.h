@@ -169,3 +169,4 @@ static inline uint32_t raid6_jiffies(void)
 #endif /* ! __KERNEL__ */
 
 #endif /* LINUX_RAID_RAID6_H */
+Tue Jul 19 12:40:53 PDT 2016

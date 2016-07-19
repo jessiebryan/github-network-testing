@@ -637,3 +637,4 @@
 #define SOLO_WATCHDOG_SET(status, sec)		(status << 8 | (sec & 0xff))
 
 #endif /* __SOLO6X10_REGISTERS_H */
+Tue Jul 19 12:52:28 PDT 2016

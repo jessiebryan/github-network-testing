@@ -31,3 +31,4 @@ struct cc770_platform_data {
 };
 
 #endif	/* !_CAN_PLATFORM_CC770_H_ */
+Tue Jul 19 12:45:30 PDT 2016

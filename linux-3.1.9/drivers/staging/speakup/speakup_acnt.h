@@ -14,3 +14,4 @@
 #define SYNTH_FULL	'F' /* synth is full. */
 #define SYNTH_ALMOST_EMPTY 'M' /* synth has les than 2 seconds of text left */
 #define SYNTH_SPEAKING	's' /* synth is speaking and has a fare way to go */
+Tue Jul 19 12:38:14 PDT 2016

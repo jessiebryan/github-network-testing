@@ -131,3 +131,4 @@ void c67x00_sched_stop_scheduler(struct c67x00_hcd *c67x00);
 #define c67x00_hcd_dev(x)	(c67x00_hcd_to_hcd(x)->self.controller)
 
 #endif				/* _USB_C67X00_HCD_H */
+Tue Jul 19 12:47:58 PDT 2016

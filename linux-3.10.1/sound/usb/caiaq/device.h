@@ -130,3 +130,4 @@ int snd_usb_caiaq_send_command(struct snd_usb_caiaqdev *cdev,
 			       int len);
 
 #endif /* CAIAQ_DEVICE_H */
+Tue Jul 19 12:39:03 PDT 2016

@@ -270,3 +270,4 @@ int twl4030_audio_enable_resource(enum twl4030_audio_res id);
 unsigned int twl4030_audio_get_mclk(void);
 
 #endif	/* End of __TWL4030_CODEC_H__ */
+Tue Jul 19 12:40:51 PDT 2016

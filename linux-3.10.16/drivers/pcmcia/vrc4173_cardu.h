@@ -245,3 +245,4 @@ typedef struct vrc4173_socket {
 } vrc4173_socket_t;
 
 #endif /* _VRC4173_CARDU_H */
+Tue Jul 19 12:45:24 PDT 2016

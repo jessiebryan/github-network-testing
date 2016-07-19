@@ -22,3 +22,4 @@ struct mms114_platform_data {
 };
 
 #endif	/* __LINUX_MMS114_H */
+Tue Jul 19 12:38:55 PDT 2016

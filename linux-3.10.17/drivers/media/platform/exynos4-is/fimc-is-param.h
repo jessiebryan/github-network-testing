@@ -1018,3 +1018,4 @@ void __is_set_isp_aa_af_mode(struct fimc_is *is, int cmd);
 void __is_set_isp_aa_af_start_stop(struct fimc_is *is, int cmd);
 
 #endif
+Tue Jul 19 12:45:57 PDT 2016

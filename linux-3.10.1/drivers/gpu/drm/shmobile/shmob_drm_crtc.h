@@ -58,3 +58,4 @@ int shmob_drm_connector_create(struct shmob_drm_device *sdev,
 			       struct drm_encoder *encoder);
 
 #endif /* __SHMOB_DRM_CRTC_H__ */
+Tue Jul 19 12:38:43 PDT 2016

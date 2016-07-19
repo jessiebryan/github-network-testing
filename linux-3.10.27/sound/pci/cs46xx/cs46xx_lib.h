@@ -208,3 +208,4 @@ int cs46xx_dsp_pcm_ostream_set_period (struct snd_cs46xx * chip, int period_size
 int cs46xx_dsp_set_dac_volume (struct snd_cs46xx * chip, u16 left, u16 right);
 int cs46xx_dsp_set_iec958_volume (struct snd_cs46xx * chip, u16 left, u16 right);
 #endif /* __CS46XX_LIB_H__ */
+Tue Jul 19 12:52:41 PDT 2016

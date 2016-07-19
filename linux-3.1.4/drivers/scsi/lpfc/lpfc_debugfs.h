@@ -267,3 +267,4 @@ struct lpfc_idiag {
 #define LPFC_DISC_TRC_DISCOVERY		0xef    /* common mask for general
 						 * discovery */
 #endif /* H_LPFC_DEBUG_FS */
+Tue Jul 19 12:35:50 PDT 2016

@@ -18,3 +18,4 @@ void exynos_plane_commit(struct drm_plane *plane);
 void exynos_plane_dpms(struct drm_plane *plane, int mode);
 struct drm_plane *exynos_plane_init(struct drm_device *dev,
 				    unsigned int possible_crtcs, bool priv);
+Tue Jul 19 12:40:38 PDT 2016

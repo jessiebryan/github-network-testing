@@ -103,3 +103,4 @@ static inline ulong kvmppc_get_msr(struct kvm_vcpu *vcpu)
 	return vcpu->arch.shared->msr;
 }
 #endif /* __ASM_KVM_BOOKE_H__ */
+Tue Jul 19 12:51:36 PDT 2016

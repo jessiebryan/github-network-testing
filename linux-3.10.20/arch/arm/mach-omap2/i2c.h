@@ -40,3 +40,4 @@ struct omap_i2c_dev_attr {
 int omap_i2c_reset(struct omap_hwmod *oh);
 
 #endif	/* __MACH_OMAP2_I2C_H */
+Tue Jul 19 12:47:35 PDT 2016

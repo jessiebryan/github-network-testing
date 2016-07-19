@@ -45,3 +45,4 @@ int intel_scu_ipc_i2c_cntrl(u32 addr, u32 *data);
 int intel_scu_ipc_fw_update(u8 *buffer, u32 length);
 
 #endif
+Tue Jul 19 12:37:27 PDT 2016

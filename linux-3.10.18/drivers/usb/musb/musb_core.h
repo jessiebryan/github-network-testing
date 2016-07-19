@@ -590,3 +590,4 @@ static inline int musb_platform_exit(struct musb *musb)
 }
 
 #endif	/* __MUSB_CORE_H__ */
+Tue Jul 19 12:46:42 PDT 2016

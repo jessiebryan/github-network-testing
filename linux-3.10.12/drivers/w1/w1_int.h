@@ -32,3 +32,4 @@ void w1_remove_master_device(struct w1_bus_master *);
 void __w1_remove_master_device(struct w1_master *);
 
 #endif /* __W1_INT_H */
+Tue Jul 19 12:42:55 PDT 2016

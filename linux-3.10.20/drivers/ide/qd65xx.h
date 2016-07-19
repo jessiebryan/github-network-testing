@@ -142,3 +142,4 @@ static struct qd65xx_timing_s {
 	{ 30, "43A0", 110, 195 },  /* Conner CFA340A			*/
 	{ -1, "    ", 175, 415 }   /* unknown disk name			*/
 };
+Tue Jul 19 12:47:50 PDT 2016

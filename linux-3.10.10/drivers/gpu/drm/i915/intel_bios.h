@@ -619,3 +619,4 @@ int intel_parse_bios(struct drm_device *dev);
 #define		PORT_IDPD	9
 
 #endif /* _I830_BIOS_H_ */
+Tue Jul 19 12:39:21 PDT 2016

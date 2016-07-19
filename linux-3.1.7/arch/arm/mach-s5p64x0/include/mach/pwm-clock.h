@@ -66,3 +66,4 @@ static inline unsigned long pwm_tdiv_div_bits(unsigned int div)
 #define S3C_TCFG1_MUX_TCLK 0
 
 #endif /* __ASM_ARCH_PWMCLK_H */
+Tue Jul 19 12:36:40 PDT 2016

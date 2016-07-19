@@ -6,3 +6,4 @@ int mtdram_init_device(struct mtd_info *mtd, void *mapped_address,
 			unsigned long size, char *name);
 
 #endif /* __MTD_MTDRAM_H__ */
+Tue Jul 19 12:46:08 PDT 2016

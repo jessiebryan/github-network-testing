@@ -424,3 +424,4 @@
 #define bfin_write_USB_DMA7COUNTHIGH(val)	bfin_write16(USB_DMA7COUNTHIGH, val)
 
 #endif /* _CDEF_BF525_H */
+Tue Jul 19 12:52:08 PDT 2016

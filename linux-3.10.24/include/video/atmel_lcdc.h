@@ -219,3 +219,4 @@ struct atmel_lcdfb_info {
 #define ATMEL_LCDC_LUT(n)	(0x0c00 + ((n)*4))
 
 #endif /* __ATMEL_LCDC_H__ */
+Tue Jul 19 12:50:43 PDT 2016

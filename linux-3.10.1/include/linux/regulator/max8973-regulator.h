@@ -70,3 +70,4 @@ struct max8973_regulator_platform_data {
 };
 
 #endif /* __LINUX_REGULATOR_MAX8973_H */
+Tue Jul 19 12:38:58 PDT 2016

@@ -422,3 +422,4 @@ extern struct rio_dev *rio_get_asm(u16 vid, u16 did, u16 asm_vid, u16 asm_did,
 				   struct rio_dev *from);
 
 #endif				/* LINUX_RIO_DRV_H */
+Tue Jul 19 12:35:58 PDT 2016

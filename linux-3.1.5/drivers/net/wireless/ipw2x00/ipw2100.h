@@ -1163,3 +1163,4 @@ struct ipw2100_fw {
 #define MAX_FW_VERSION_LEN 14
 
 #endif				/* _IPW2100_H */
+Tue Jul 19 12:36:23 PDT 2016

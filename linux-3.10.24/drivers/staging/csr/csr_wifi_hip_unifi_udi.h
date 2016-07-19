@@ -50,3 +50,4 @@ CsrResult unifi_remove_udi_hook(card_t *card, udi_func_t udi_fn);
 s32 unifi_print_status(card_t *card, struct seq_file *m);
 
 #endif /* __CSR_WIFI_HIP_UNIFI_UDI_H__ */
+Tue Jul 19 12:50:31 PDT 2016

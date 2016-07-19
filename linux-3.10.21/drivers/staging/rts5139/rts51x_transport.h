@@ -65,3 +65,4 @@ int rts51x_get_epc_status(struct rts51x_chip *chip, u16 *status);
 void rts51x_invoke_transport(struct scsi_cmnd *srb, struct rts51x_chip *chip);
 
 #endif /* __RTS51X_TRANSPORT_H */
+Tue Jul 19 12:48:35 PDT 2016

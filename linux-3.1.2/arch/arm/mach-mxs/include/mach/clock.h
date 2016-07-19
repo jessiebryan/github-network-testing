@@ -60,3 +60,4 @@ void clk_unregister(struct clk *clk);
 
 #endif /* __ASSEMBLY__ */
 #endif /* __MACH_MXS_CLOCK_H__ */
+Tue Jul 19 12:33:50 PDT 2016

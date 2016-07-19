@@ -32,3 +32,4 @@ extern void pyr_vid_init(struct drm_device *dev, struct panel_funcs *p_funcs);
 extern struct drm_display_mode *pyr_vid_get_config_mode(struct drm_device* dev);
 
 #endif
+Tue Jul 19 12:35:17 PDT 2016

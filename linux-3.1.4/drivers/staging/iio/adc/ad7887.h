@@ -103,3 +103,4 @@ static inline void ad7887_ring_cleanup(struct iio_dev *indio_dev)
 }
 #endif /* CONFIG_IIO_RING_BUFFER */
 #endif /* IIO_ADC_AD7887_H_ */
+Tue Jul 19 12:35:51 PDT 2016

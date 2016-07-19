@@ -42,3 +42,4 @@ extern void vcs_scr_writew(struct vc_data *vc, u16 val, u16 *org);
 extern void vcs_scr_updated(struct vc_data *vc);
 
 #endif
+Tue Jul 19 12:40:14 PDT 2016

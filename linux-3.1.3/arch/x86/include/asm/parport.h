@@ -8,3 +8,4 @@ static int __devinit parport_pc_find_nonpci_ports(int autoirq, int autodma)
 }
 
 #endif /* _ASM_X86_PARPORT_H */
+Tue Jul 19 12:35:10 PDT 2016

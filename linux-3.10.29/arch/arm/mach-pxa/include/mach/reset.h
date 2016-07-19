@@ -19,3 +19,4 @@ extern void clear_reset_status(unsigned int mask);
 extern int init_gpio_reset(int gpio, int output, int level);
 
 #endif /* __ASM_ARCH_RESET_H */
+Tue Jul 19 12:53:24 PDT 2016

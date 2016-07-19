@@ -429,3 +429,4 @@ enum {
 #define AR5523_MIN_RXBUFSZ				\
 	(((sizeof(__be32) + IEEE80211_2ADDR_LEN +	\
 	   sizeof(struct ar5523_rx_desc)) + 3) & ~3)
+Tue Jul 19 12:42:50 PDT 2016

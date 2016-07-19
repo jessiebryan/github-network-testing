@@ -261,3 +261,4 @@ static inline unsigned int SCD_QUEUE_STATUS_BITS(unsigned int chnl)
 /*********************** END TX SCHEDULER *************************************/
 
 #endif				/* __iwl_prph_h__ */
+Tue Jul 19 12:48:33 PDT 2016

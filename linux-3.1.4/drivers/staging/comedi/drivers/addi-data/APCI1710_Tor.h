@@ -55,3 +55,4 @@ int i_APCI1710_InsnBitsGetTorCounterProgressStatusAndValue(struct comedi_device 
 							   struct comedi_subdevice *s,
 							   struct comedi_insn *insn,
 							   unsigned int *data);
+Tue Jul 19 12:35:51 PDT 2016

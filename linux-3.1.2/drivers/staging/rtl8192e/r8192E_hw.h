@@ -489,3 +489,4 @@ enum _RTL8192Pci_HW {
 #define	MSR_AP						0x03
 
 #endif
+Tue Jul 19 12:34:12 PDT 2016

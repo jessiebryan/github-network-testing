@@ -64,3 +64,4 @@ int adb_try_handler_change(int address, int new_id);
 int adb_get_infos(int address, int *original_address, int *handler_id);
 
 #endif /* __ADB_H */
+Tue Jul 19 12:46:06 PDT 2016

@@ -565,3 +565,4 @@ do {							\
 } while (0)
 
 #endif /* _ASM_X86_XOR_32_H */
+Tue Jul 19 12:43:22 PDT 2016

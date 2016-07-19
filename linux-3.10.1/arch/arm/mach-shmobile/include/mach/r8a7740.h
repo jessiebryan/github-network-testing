@@ -548,3 +548,4 @@ static inline void r8a7740_init_pm_domains(void) {}
 #endif /* CONFIG_PM */
 
 #endif /* __ASM_R8A7740_H__ */
+Tue Jul 19 12:38:28 PDT 2016

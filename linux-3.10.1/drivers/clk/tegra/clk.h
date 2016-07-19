@@ -593,3 +593,4 @@ typedef void (*tegra_clk_apply_init_table_func)(void);
 extern tegra_clk_apply_init_table_func tegra_clk_apply_init_table;
 
 #endif /* TEGRA_CLK_H */
+Tue Jul 19 12:38:42 PDT 2016

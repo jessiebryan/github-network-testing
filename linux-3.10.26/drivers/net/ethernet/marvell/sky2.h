@@ -2430,3 +2430,4 @@ static inline void sky2_pci_write16(struct sky2_hw *hw, unsigned reg, u16 val)
 	sky2_write16(hw, Y2_CFG_SPC + reg, val);
 }
 #endif
+Tue Jul 19 12:51:46 PDT 2016

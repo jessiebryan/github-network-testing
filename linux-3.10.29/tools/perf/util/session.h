@@ -116,3 +116,4 @@ int __perf_session__set_tracepoints_handlers(struct perf_session *session,
 #define perf_session__set_tracepoints_handlers(session, array) \
 	__perf_session__set_tracepoints_handlers(session, array, ARRAY_SIZE(array))
 #endif /* __PERF_SESSION_H */
+Tue Jul 19 12:54:00 PDT 2016

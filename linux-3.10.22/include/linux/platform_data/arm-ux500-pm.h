@@ -19,3 +19,4 @@ int prcmu_copy_gic_settings(void);
 void ux500_pm_init(u32 phy_base, u32 size);
 
 #endif /* ARM_UX500_PM_H */
+Tue Jul 19 12:49:21 PDT 2016

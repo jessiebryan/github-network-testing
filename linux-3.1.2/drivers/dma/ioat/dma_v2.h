@@ -177,3 +177,4 @@ int ioat2_reset_sync(struct ioat_chan_common *chan, unsigned long tmo);
 extern struct kobj_type ioat2_ktype;
 extern struct kmem_cache *ioat2_cache;
 #endif /* IOATDMA_V2_H */
+Tue Jul 19 12:34:05 PDT 2016

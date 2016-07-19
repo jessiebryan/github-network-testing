@@ -1218,3 +1218,4 @@ struct bfi_fru_rsp_s {
 #pragma pack()
 
 #endif /* __BFI_H__ */
+Tue Jul 19 12:48:34 PDT 2016

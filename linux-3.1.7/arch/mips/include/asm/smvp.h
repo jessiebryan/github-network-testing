@@ -17,3 +17,4 @@ extern void smvp_prepare_cpus(unsigned int max_cpus);
 /* This is platform specific */
 extern void smvp_send_ipi(int cpu, unsigned int action);
 #endif /*  _ASM_SMVP_H */
+Tue Jul 19 12:36:46 PDT 2016

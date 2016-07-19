@@ -19,3 +19,4 @@ struct plat_lcd_data {
 	int	(*match_fb)(struct plat_lcd_data *, struct fb_info *);
 };
 
+Tue Jul 19 12:35:26 PDT 2016

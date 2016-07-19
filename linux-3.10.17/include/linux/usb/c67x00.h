@@ -46,3 +46,4 @@ struct c67x00_platform_data {
 };
 
 #endif /* _LINUX_USB_C67X00_H */
+Tue Jul 19 12:46:09 PDT 2016

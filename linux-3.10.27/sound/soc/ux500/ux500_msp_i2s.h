@@ -554,3 +554,4 @@ int ux500_msp_i2s_trigger(struct ux500_msp *msp, int cmd,
 			int direction);
 
 #endif
+Tue Jul 19 12:52:42 PDT 2016

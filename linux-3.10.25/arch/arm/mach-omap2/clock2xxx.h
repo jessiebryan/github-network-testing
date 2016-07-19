@@ -60,3 +60,4 @@ void omap2_clk_apll96_disable(struct clk_hw *hw);
 void omap2_clk_apll54_disable(struct clk_hw *hw);
 
 #endif
+Tue Jul 19 12:50:48 PDT 2016

@@ -74,3 +74,4 @@ static inline u32 get_pll_output_frequency(u32 ref_freq,
 void via_clock_init(struct via_clock *clock, int gfx_chip);
 
 #endif /* __VIA_CLOCK_H__ */
+Tue Jul 19 12:51:12 PDT 2016

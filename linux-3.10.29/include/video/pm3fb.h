@@ -1059,3 +1059,4 @@
 #define PM3_MAX_PIXCLOCK					300000
 
 #endif /* PM3FB_H */
+Tue Jul 19 12:53:58 PDT 2016

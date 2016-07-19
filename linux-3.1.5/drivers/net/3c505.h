@@ -290,3 +290,4 @@ typedef struct {
         volatile unsigned char hcr_val;  /* what we think the HCR contains */
         spinlock_t lock;	/* Interrupt v tx lock */
 } elp_device;
+Tue Jul 19 12:36:22 PDT 2016

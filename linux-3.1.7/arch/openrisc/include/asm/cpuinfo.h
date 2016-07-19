@@ -32,3 +32,4 @@ struct cpuinfo {
 extern struct cpuinfo cpuinfo;
 
 #endif /* __ASM_OPENRISC_CPUINFO_H */
+Tue Jul 19 12:36:47 PDT 2016

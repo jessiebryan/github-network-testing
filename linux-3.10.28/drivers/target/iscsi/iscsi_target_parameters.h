@@ -288,3 +288,4 @@ extern void iscsi_set_session_parameters(struct iscsi_sess_ops *,
 #define SET_PSTATE_RESPONSE_SENT(p)	((p)->state |= PSTATE_RESPONSE_SENT)
 
 #endif /* ISCSI_PARAMETERS_H */
+Tue Jul 19 12:53:09 PDT 2016

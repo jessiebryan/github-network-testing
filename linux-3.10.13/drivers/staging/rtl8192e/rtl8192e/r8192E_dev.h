@@ -60,3 +60,4 @@ bool rtl8192_rx_query_status_desc(struct net_device *dev,
 void rtl8192_halt_adapter(struct net_device *dev, bool reset);
 void rtl8192_update_ratr_table(struct net_device *dev);
 #endif
+Tue Jul 19 12:43:31 PDT 2016

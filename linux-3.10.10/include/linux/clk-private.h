@@ -207,3 +207,4 @@ struct clk *__clk_register(struct device *dev, struct clk_hw *hw);
 
 #endif /* CONFIG_COMMON_CLK */
 #endif /* CLK_PRIVATE_H */
+Tue Jul 19 12:39:32 PDT 2016

@@ -99,3 +99,4 @@ void mei_cl_all_read_wakeup(struct mei_device *dev);
 void mei_cl_all_write_clear(struct mei_device *dev);
 
 #endif /* _MEI_CLIENT_H_ */
+Tue Jul 19 12:42:49 PDT 2016

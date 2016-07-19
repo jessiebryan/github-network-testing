@@ -145,3 +145,4 @@ struct twl4030_madc_user_parms {
 int twl4030_madc_conversion(struct twl4030_madc_request *conv);
 int twl4030_get_madc_conversion(int channel_no);
 #endif
+Tue Jul 19 12:48:02 PDT 2016

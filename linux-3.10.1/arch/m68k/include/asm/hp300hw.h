@@ -23,3 +23,4 @@ extern unsigned long hp300_model;
 #define HP_433S		(15)	/* 33MHz 68040 - model 433s */
 
 #endif /* _M68K_HP300HW_H */
+Tue Jul 19 12:38:33 PDT 2016

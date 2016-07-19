@@ -34,3 +34,4 @@ extern int core_scsi3_ua_clear_for_request_sense(struct se_cmd *,
 						u8 *, u8 *);
 
 #endif /* TARGET_CORE_UA_H */
+Tue Jul 19 12:51:51 PDT 2016

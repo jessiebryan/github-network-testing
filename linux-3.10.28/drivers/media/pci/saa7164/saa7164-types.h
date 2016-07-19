@@ -440,3 +440,4 @@ struct tmFwInfoStruct {
 	u32	CPUClock;
 	u32	RAMSpeed;
 } __attribute__((packed));
+Tue Jul 19 12:53:02 PDT 2016

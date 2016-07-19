@@ -18,3 +18,4 @@ extern enum reboot_type reboot_type;
 extern void machine_emergency_restart(void);
 
 #endif /* _ASM_X86_EMERGENCY_RESTART_H */
+Tue Jul 19 12:35:09 PDT 2016

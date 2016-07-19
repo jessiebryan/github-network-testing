@@ -110,3 +110,4 @@
 	__raw_writel((value), (void __iomem __force *)PM_BASE + PM_##reg)
 
 #endif /* __ARCH_AVR32_MACH_AT32AP_PM_H__ */
+Tue Jul 19 12:51:29 PDT 2016

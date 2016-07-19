@@ -62,3 +62,4 @@ static inline void omap_barrier_reserve_memblock(void)
 #endif
 #endif /* __ASSEMBLER__ */
 #endif /* OMAP_ARCH_OMAP_SECURE_H */
+Tue Jul 19 12:40:23 PDT 2016

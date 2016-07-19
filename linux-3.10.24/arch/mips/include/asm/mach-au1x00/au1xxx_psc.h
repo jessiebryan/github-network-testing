@@ -464,3 +464,4 @@ typedef struct	psc_spi {
 #define PSC_SMBTMR_SET_CH(x)	(((x) & 0x1f) << 0)
 
 #endif /* _AU1000_PSC_H_ */
+Tue Jul 19 12:50:15 PDT 2016

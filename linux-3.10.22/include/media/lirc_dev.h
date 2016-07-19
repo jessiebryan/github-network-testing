@@ -223,3 +223,4 @@ ssize_t lirc_dev_fop_write(struct file *file, const char __user *buffer,
 			   size_t length, loff_t *ppos);
 
 #endif
+Tue Jul 19 12:49:23 PDT 2016

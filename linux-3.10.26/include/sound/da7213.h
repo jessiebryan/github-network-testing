@@ -50,3 +50,4 @@ struct da7213_platform_data {
 };
 
 #endif /* _DA7213_PDATA_H */
+Tue Jul 19 12:51:59 PDT 2016

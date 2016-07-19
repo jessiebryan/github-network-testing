@@ -120,3 +120,4 @@ struct atmel_ssc_info {
 int atmel_ssc_set_audio(int ssc);
 
 #endif /* _AT91_SSC_DAI_H */
+Tue Jul 19 12:35:28 PDT 2016

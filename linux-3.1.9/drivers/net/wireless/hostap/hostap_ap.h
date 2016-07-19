@@ -261,3 +261,4 @@ void hostap_deauth_all_stas(struct net_device *dev, struct ap_data *ap,
 #endif /* PRISM2_NO_KERNEL_IEEE80211_MGMT */
 
 #endif /* HOSTAP_AP_H */
+Tue Jul 19 12:38:11 PDT 2016

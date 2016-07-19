@@ -289,3 +289,4 @@ void lis3lv02d_poweron(struct lis3lv02d *lis3);
 int lis3lv02d_remove_fs(struct lis3lv02d *lis3);
 
 extern struct lis3lv02d lis3_dev;
+Tue Jul 19 12:34:07 PDT 2016

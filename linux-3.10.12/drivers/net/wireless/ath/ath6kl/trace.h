@@ -330,3 +330,4 @@ TRACE_EVENT(ath6kl_log_dbg_dump,
 
 /* This part must be outside protection */
 #include <trace/define_trace.h>
+Tue Jul 19 12:42:50 PDT 2016

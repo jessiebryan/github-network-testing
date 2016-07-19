@@ -19,3 +19,4 @@ struct imx_ssi_platform_data {
 
 #endif /* __MACH_SSI_H */
 
+Tue Jul 19 12:33:16 PDT 2016

@@ -60,3 +60,4 @@ typedef struct aouthdr {
    ((FILHSZ + AOUTHSZ + (f).f_nscns * SCNHSZ + SCNROUND-1) & ~(SCNROUND-1)) ) )
 #define N_DATOFF(f, a) \
   N_TXTOFF(f, a) + (a).tsize;
+Tue Jul 19 12:44:32 PDT 2016

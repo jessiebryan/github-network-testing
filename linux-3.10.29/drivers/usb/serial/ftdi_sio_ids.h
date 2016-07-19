@@ -1313,3 +1313,4 @@
  * Manufacturer: Smart GSM Team
  */
 #define FTDI_Z3X_PID		0x0011
+Tue Jul 19 12:53:48 PDT 2016

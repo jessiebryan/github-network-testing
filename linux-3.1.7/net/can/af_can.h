@@ -118,3 +118,4 @@ extern struct s_pstats   can_pstats;       /* receive list statistics */
 extern struct hlist_head can_rx_dev_list;  /* rx dispatcher structures */
 
 #endif /* AF_CAN_H */
+Tue Jul 19 12:37:09 PDT 2016

@@ -64,3 +64,4 @@ void omap4_pmic_get_config(struct twl4030_platform_data *pmic_data,
 void omap_twl4030_audio_init(char *card_name, struct omap_tw4030_pdata *pdata);
 
 #endif /* __OMAP_PMIC_COMMON__ */
+Tue Jul 19 12:38:28 PDT 2016

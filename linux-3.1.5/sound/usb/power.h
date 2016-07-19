@@ -15,3 +15,4 @@ static inline void snd_usb_autosuspend(struct snd_usb_audio *chip)
 #endif
 
 #endif /* __USBAUDIO_POWER_H */
+Tue Jul 19 12:36:36 PDT 2016

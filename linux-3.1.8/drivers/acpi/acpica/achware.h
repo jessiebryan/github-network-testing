@@ -141,3 +141,4 @@ acpi_get_timer_duration(u32 start_ticks, u32 end_ticks, u32 * time_elapsed);
 #endif				/* ACPI_FUTURE_USAGE */
 
 #endif				/* __ACHWARE_H__ */
+Tue Jul 19 12:37:28 PDT 2016

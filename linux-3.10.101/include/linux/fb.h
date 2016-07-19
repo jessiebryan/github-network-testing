@@ -793,3 +793,4 @@ extern int fb_find_mode(struct fb_var_screeninfo *var,
 			unsigned int default_bpp);
 
 #endif /* _LINUX_FB_H */
+Tue Jul 19 12:40:50 PDT 2016

@@ -89,3 +89,4 @@
 #define MC13783_NUM_IRQ		MC13XXX_NUM_IRQ
 
 #endif /* ifndef __LINUX_MFD_MC13783_H */
+Tue Jul 19 12:48:41 PDT 2016

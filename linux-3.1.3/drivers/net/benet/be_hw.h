@@ -501,3 +501,4 @@ struct flash_section_info {
 	struct flash_section_hdr fsec_hdr;
 	struct flash_section_entry fsec_entry[32];
 };
+Tue Jul 19 12:35:13 PDT 2016

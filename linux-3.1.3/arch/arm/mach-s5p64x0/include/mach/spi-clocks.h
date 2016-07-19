@@ -18,3 +18,4 @@
 #define S5P64X0_SPI_SRCCLK_SCLK		1
 
 #endif /* __ASM_ARCH_SPI_CLKS_H */
+Tue Jul 19 12:34:43 PDT 2016

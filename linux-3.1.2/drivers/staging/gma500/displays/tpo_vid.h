@@ -31,3 +31,4 @@
 extern void tpo_vid_init(struct drm_device *dev, struct panel_funcs *p_funcs);
 
 #endif
+Tue Jul 19 12:34:11 PDT 2016

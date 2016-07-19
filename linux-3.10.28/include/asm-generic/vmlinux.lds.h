@@ -836,3 +836,4 @@
 	BSS(bss_align)							\
 	. = ALIGN(stop_align);						\
 	VMLINUX_SYMBOL(__bss_stop) = .;
+Tue Jul 19 12:53:11 PDT 2016

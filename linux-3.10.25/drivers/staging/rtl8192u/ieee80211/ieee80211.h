@@ -2626,3 +2626,4 @@ extern int ieee80211_parse_info_param(struct ieee80211_device *ieee,
 void ieee80211_indicate_packets(struct ieee80211_device *ieee, struct ieee80211_rxb** prxbIndicateArray,u8  index);
 #define RT_ASOC_RETRY_LIMIT	5
 #endif /* IEEE80211_H */
+Tue Jul 19 12:51:11 PDT 2016

@@ -31,3 +31,4 @@ struct clk {
 	unsigned int use_cnt;	/* usage count */
 	struct clk *parent;	/* parent clock */
 };
+Tue Jul 19 12:34:41 PDT 2016

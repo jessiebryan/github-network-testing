@@ -70,3 +70,4 @@ static inline void samsung_pm_saved_gpios(void)
 }
 
 #endif /* __ASM_ARCH_PM_CORE_H */
+Tue Jul 19 12:41:42 PDT 2016

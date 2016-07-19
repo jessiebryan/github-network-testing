@@ -80,3 +80,4 @@ static inline int handle_vm86_trap(struct kernel_vm86_regs *a, long b, int c)
 #endif /* CONFIG_VM86 */
 
 #endif /* _ASM_X86_VM86_H */
+Tue Jul 19 12:43:22 PDT 2016

@@ -117,3 +117,4 @@ struct exynos_tmu_platform_data {
 	unsigned int freq_tab_count;
 };
 #endif /* _LINUX_EXYNOS_THERMAL_H */
+Tue Jul 19 12:39:35 PDT 2016

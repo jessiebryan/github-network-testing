@@ -93,3 +93,4 @@ static int snd_ac97_get_enum_double(struct snd_kcontrol *kcontrol,
 				    struct snd_ctl_elem_value *ucontrol);
 static int snd_ac97_put_enum_double(struct snd_kcontrol *kcontrol,
 				    struct snd_ctl_elem_value *ucontrol);
+Tue Jul 19 12:40:58 PDT 2016

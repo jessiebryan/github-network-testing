@@ -63,3 +63,4 @@ pstore_write(enum pstore_type_id type, char *buf, size_t size)
 #endif
 
 #endif /*_LINUX_PSTORE_H*/
+Tue Jul 19 12:38:21 PDT 2016

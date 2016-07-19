@@ -88,3 +88,4 @@ struct vt_setactivate {
 #define vt_get_kmsg_redirect() vt_kmsg_redirect(-1)
 
 #endif /* _UAPI_LINUX_VT_H */
+Tue Jul 19 12:47:30 PDT 2016

@@ -284,3 +284,4 @@ long compat_agp_ioctl(struct file *file, unsigned int cmd, unsigned long arg);
 #define AGP_ERRATA_1X 1<<2
 
 #endif	/* _AGP_BACKEND_PRIV_H */
+Tue Jul 19 12:47:49 PDT 2016

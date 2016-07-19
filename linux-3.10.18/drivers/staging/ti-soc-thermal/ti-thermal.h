@@ -115,3 +115,4 @@ int ti_thermal_unregister_cpu_cooling(struct ti_bandgap *bgp, int id)
 }
 #endif
 #endif
+Tue Jul 19 12:46:41 PDT 2016

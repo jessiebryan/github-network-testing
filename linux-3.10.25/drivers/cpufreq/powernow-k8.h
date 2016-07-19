@@ -188,3 +188,4 @@ static int core_frequency_transition(struct powernow_k8_data *data, u32 reqfid);
 static void powernow_k8_acpi_pst_values(struct powernow_k8_data *data, unsigned int index);
 
 static int fill_powernow_table_fidvid(struct powernow_k8_data *data, struct cpufreq_frequency_table *powernow_table);
+Tue Jul 19 12:51:03 PDT 2016

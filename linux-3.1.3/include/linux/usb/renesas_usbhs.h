@@ -171,3 +171,4 @@ struct renesas_usbhs_platform_info {
 			dc->notify_hotplug(pdev);			\
 	})
 #endif /* RENESAS_USB_H */
+Tue Jul 19 12:35:25 PDT 2016

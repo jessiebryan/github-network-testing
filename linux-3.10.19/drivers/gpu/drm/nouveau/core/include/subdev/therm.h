@@ -78,3 +78,4 @@ extern struct nouveau_oclass nva3_therm_oclass;
 extern struct nouveau_oclass nvd0_therm_oclass;
 
 #endif
+Tue Jul 19 12:47:12 PDT 2016

@@ -136,3 +136,4 @@ extern int mdfld_dsi_get_diagnostic_result(struct mdfld_dsi_config *dsi_config,
 extern int mdfld_dsi_panel_reset(int pipe);
 
 #endif /*__MDFLD_DSI_OUTPUT_H__*/
+Tue Jul 19 12:35:17 PDT 2016

@@ -26,3 +26,4 @@ void psb_intel_crtc_gamma_set(struct drm_crtc *crtc, u16 *red,
 void psb_intel_crtc_destroy(struct drm_crtc *crtc);
 
 #endif
+Tue Jul 19 12:36:25 PDT 2016

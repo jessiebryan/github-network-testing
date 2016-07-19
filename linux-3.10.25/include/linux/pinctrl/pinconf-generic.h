@@ -125,3 +125,4 @@ static inline unsigned long pinconf_to_config_packed(enum pin_config_param param
 #endif /* CONFIG_GENERIC_PINCONF */
 
 #endif /* __LINUX_PINCTRL_PINCONF_GENERIC_H */
+Tue Jul 19 12:51:17 PDT 2016

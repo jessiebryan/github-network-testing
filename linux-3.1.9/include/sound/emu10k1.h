@@ -2246,3 +2246,4 @@ typedef struct snd_emu10k1_fx8010_tram emu10k1_fx8010_tram_t;
 typedef struct snd_emu10k1_fx8010_pcm_rec emu10k1_fx8010_pcm_t;
 
 #endif	/* __SOUND_EMU10K1_H */
+Tue Jul 19 12:38:23 PDT 2016

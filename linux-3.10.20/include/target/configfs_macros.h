@@ -145,3 +145,4 @@ static ssize_t _name##_attr_store(struct config_item *item,		\
 	CONFIGFS_EATTR_OPS_SHOW(_name, _item);
 
 #endif /* _CONFIGFS_MACROS_H_ */
+Tue Jul 19 12:48:06 PDT 2016

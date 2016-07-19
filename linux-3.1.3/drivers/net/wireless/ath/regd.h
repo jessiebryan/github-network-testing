@@ -261,3 +261,4 @@ int ath_reg_notifier_apply(struct wiphy *wiphy,
 			   struct ath_regulatory *reg);
 
 #endif
+Tue Jul 19 12:35:14 PDT 2016

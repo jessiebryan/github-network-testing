@@ -312,3 +312,4 @@ static inline int msf_to_lba(u8 m, u8 s, u8 f)
 	return (((m * CD_SECS) + s) * CD_FRAMES + f) - CD_MSF_OFFSET;
 }
 #endif  /* _LINUX_CDROM_H */
+Tue Jul 19 12:51:54 PDT 2016

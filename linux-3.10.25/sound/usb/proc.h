@@ -6,3 +6,4 @@ void snd_usb_proc_pcm_format_add(struct snd_usb_stream *stream);
 
 #endif /* __USBAUDIO_PROC_H */
 
+Tue Jul 19 12:51:25 PDT 2016

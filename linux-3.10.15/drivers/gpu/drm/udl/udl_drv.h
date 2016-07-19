@@ -145,3 +145,4 @@ int udl_drop_usb(struct drm_device *dev);
 #define CMD_WRITE_RLX16  "\xAF\x6B" /**< 16 bit extended run length command. */
 
 #endif
+Tue Jul 19 12:44:43 PDT 2016

@@ -140,3 +140,4 @@ search_module_dbetables(unsigned long addr)
 	MODULE_PROC_FAMILY MODULE_KERNEL_TYPE MODULE_KERNEL_SMTC
 
 #endif /* _ASM_MODULE_H */
+Tue Jul 19 12:38:00 PDT 2016

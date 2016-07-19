@@ -17,3 +17,4 @@
 struct sc18is602_platform_data {
 	u32 clock_frequency;
 };
+Tue Jul 19 12:52:35 PDT 2016

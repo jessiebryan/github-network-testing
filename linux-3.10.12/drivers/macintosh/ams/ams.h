@@ -68,3 +68,4 @@ extern int ams_i2c_init(struct device_node *np);
 
 extern int ams_input_init(void);
 extern void ams_input_exit(void);
+Tue Jul 19 12:42:47 PDT 2016

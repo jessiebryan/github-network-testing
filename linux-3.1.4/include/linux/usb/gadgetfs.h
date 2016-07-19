@@ -86,3 +86,4 @@ struct usb_gadgetfs_event {
 #define	GADGETFS_CLEAR_HALT	_IO('g', 3)
 
 #endif /* __LINUX_USB_GADGETFS_H */
+Tue Jul 19 12:35:59 PDT 2016

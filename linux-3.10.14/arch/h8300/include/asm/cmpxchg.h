@@ -58,3 +58,4 @@ static inline unsigned long __xchg(unsigned long x, volatile void * ptr, int siz
 #define atomic_xchg(v, new) (xchg(&((v)->counter), new))
 
 #endif /* __ARCH_H8300_CMPXCHG__ */
+Tue Jul 19 12:43:52 PDT 2016

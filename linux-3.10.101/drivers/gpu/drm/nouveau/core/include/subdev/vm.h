@@ -140,3 +140,4 @@ void nouveau_vm_map_sg_table(struct nouveau_vma *vma, u64 delta, u64 length,
 		     struct nouveau_mem *mem);
 
 #endif
+Tue Jul 19 12:40:39 PDT 2016

@@ -116,3 +116,4 @@ static inline int ntfs_bitmap_clear_bit(struct inode *vi, const s64 bit)
 #endif /* NTFS_RW */
 
 #endif /* defined _LINUX_NTFS_BITMAP_H */
+Tue Jul 19 12:53:49 PDT 2016

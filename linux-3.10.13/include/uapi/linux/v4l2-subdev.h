@@ -178,3 +178,4 @@ struct v4l2_subdev_edid {
 #define VIDIOC_SUBDEV_S_EDID	_IOWR('V', 41, struct v4l2_subdev_edid)
 
 #endif
+Tue Jul 19 12:43:42 PDT 2016

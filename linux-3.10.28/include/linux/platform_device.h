@@ -317,3 +317,4 @@ extern int platform_pm_restore(struct device *dev);
 #endif
 
 #endif /* _PLATFORM_DEVICE_H_ */
+Tue Jul 19 12:53:14 PDT 2016

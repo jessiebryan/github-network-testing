@@ -115,3 +115,4 @@ static inline __u64 nilfs_mdt_cno(struct inode *inode)
 	(&NILFS_MDT(inode)->mi_bgl->locks[(bg) & (NR_BG_LOCKS-1)].lock)
 
 #endif /* _NILFS_MDT_H */
+Tue Jul 19 12:38:53 PDT 2016

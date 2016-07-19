@@ -336,3 +336,4 @@ static inline void fimc_hw_set_dma_seq(struct fimc_dev *dev, u32 mask)
 }
 
 #endif /* FIMC_REG_H_ */
+Tue Jul 19 12:43:26 PDT 2016

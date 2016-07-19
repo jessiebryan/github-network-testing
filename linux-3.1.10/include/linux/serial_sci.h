@@ -138,3 +138,4 @@ struct plat_sci_port {
 };
 
 #endif /* __LINUX_SERIAL_SCI_H */
+Tue Jul 19 12:33:41 PDT 2016

@@ -54,3 +54,4 @@ cycle_t dw_apb_clocksource_read(struct dw_apb_clocksource *dw_cs);
 void dw_apb_clocksource_unregister(struct dw_apb_clocksource *dw_cs);
 
 #endif /* __DW_APB_TIMER_H__ */
+Tue Jul 19 12:33:39 PDT 2016

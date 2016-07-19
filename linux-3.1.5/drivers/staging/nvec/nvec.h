@@ -108,3 +108,4 @@ extern int nvec_kbd_init(struct nvec_chip *nvec);
 #define I2C_SL_DELAY_COUNT	0x3c
 
 #endif
+Tue Jul 19 12:36:26 PDT 2016

@@ -51,3 +51,4 @@ struct tps62360_regulator_platform_data {
 };
 
 #endif /* __LINUX_REGULATOR_TPS62360_H */
+Tue Jul 19 12:48:04 PDT 2016

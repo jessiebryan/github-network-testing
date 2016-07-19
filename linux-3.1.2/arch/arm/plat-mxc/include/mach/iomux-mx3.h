@@ -748,3 +748,4 @@ enum iomux_pins {
 void mxc_iomux_set_pad(enum iomux_pins, u32);
 
 #endif /* ifndef __MACH_IOMUX_MX3_H__ */
+Tue Jul 19 12:33:52 PDT 2016

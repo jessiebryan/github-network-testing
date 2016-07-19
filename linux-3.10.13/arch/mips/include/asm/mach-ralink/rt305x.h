@@ -164,3 +164,4 @@ static inline int soc_is_rt5350(void)
 #define RT3352_MEM_SIZE_MAX		256
 
 #endif
+Tue Jul 19 12:43:16 PDT 2016

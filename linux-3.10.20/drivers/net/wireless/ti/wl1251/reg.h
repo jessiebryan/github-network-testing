@@ -653,3 +653,4 @@ b12-b0 - Supported Rate indicator bits as defined below.
 #define INTR_TRIG_TX_PROC1 BIT(18)
 
 #endif
+Tue Jul 19 12:47:55 PDT 2016

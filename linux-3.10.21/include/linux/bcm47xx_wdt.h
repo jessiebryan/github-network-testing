@@ -26,3 +26,4 @@ static inline void *bcm47xx_wdt_get_drvdata(struct bcm47xx_wdt *wdt)
 	return wdt->driver_data;
 }
 #endif /* LINUX_BCM47XX_WDT_H_ */
+Tue Jul 19 12:48:39 PDT 2016

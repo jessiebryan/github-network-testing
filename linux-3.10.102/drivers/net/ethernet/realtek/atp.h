@@ -255,3 +255,4 @@ do { int _i = 40; while (--_i > 0) { __SLOW_DOWN_IO; }} while (0)
 #define EE_READ(offset) 	(((6 << 6) + (offset)) << 17)
 #define EE_ERASE(offset)	(((7 << 6) + (offset)) << 17)
 #define EE_CMD_SIZE	27	/* The command+address+data size. */
+Tue Jul 19 12:41:21 PDT 2016

@@ -331,3 +331,4 @@ int mccic_resume(struct mcam_camera *cam);
 #define VGA_HEIGHT	480
 
 #endif /* _MCAM_CORE_H */
+Tue Jul 19 12:49:09 PDT 2016

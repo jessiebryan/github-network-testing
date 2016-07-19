@@ -6,3 +6,4 @@
 #define RTC_DEF_CAPABILITIES	0UL
 
 #endif /* __ASM_SH_CPU_SH2_RTC_H */
+Tue Jul 19 12:52:56 PDT 2016

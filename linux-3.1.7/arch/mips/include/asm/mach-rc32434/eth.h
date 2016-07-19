@@ -218,3 +218,4 @@ struct eth_regs {
 #define ETH_TX_CC		0x001E0000
 
 #endif  /* __ASM_RC32434_ETH_H */
+Tue Jul 19 12:36:46 PDT 2016

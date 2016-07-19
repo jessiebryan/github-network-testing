@@ -79,3 +79,4 @@ static inline unsigned long pwm_tdiv_div_bits(unsigned int div)
 		return ilog2(div);
 }
 #endif /* __ASM_PLAT_PWM_CLOCK_H */
+Tue Jul 19 12:46:19 PDT 2016

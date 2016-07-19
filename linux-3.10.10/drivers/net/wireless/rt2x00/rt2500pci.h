@@ -1235,3 +1235,4 @@
 	clamp_t(char, __txpower, MIN_TXPOWER, MAX_TXPOWER)
 
 #endif /* RT2500PCI_H */
+Tue Jul 19 12:39:26 PDT 2016

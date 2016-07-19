@@ -1660,3 +1660,4 @@ static inline void iwl_free_pages(struct iwl_priv *priv, unsigned long page)
 	free_pages(page, priv->hw_params.rx_page_order);
 }
 #endif				/* __iwl_dev_h__ */
+Tue Jul 19 12:37:33 PDT 2016

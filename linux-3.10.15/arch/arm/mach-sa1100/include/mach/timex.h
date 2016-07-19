@@ -10,3 +10,4 @@
  * SA1100 timer
  */
 #define CLOCK_TICK_RATE		3686400
+Tue Jul 19 12:44:27 PDT 2016

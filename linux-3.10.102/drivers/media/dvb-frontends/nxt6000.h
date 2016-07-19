@@ -46,3 +46,4 @@ static inline struct dvb_frontend* nxt6000_attach(const struct nxt6000_config* c
 #endif // CONFIG_DVB_NXT6000
 
 #endif // NXT6000_H
+Tue Jul 19 12:41:19 PDT 2016

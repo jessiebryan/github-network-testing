@@ -317,3 +317,4 @@ struct iwl_bt_coex_prot_env_cmd {
 } __packed;
 
 #endif /* __fw_api_bt_coex_h__ */
+Tue Jul 19 12:46:37 PDT 2016

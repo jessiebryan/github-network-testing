@@ -289,3 +289,4 @@
 #define INT_ENP_RXDF_			((u32)BIT(11))
 
 #endif /* _SMSC95XX_H */
+Tue Jul 19 12:41:21 PDT 2016

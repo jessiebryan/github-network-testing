@@ -93,3 +93,4 @@ void amplc_dio200_common_detach(struct comedi_device *dev);
 void amplc_dio200_set_enhance(struct comedi_device *dev, unsigned char val);
 
 #endif
+Tue Jul 19 12:42:52 PDT 2016

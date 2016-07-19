@@ -759,3 +759,4 @@ void radeon_crtc_handle_flip(struct radeon_device *rdev, int crtc_id);
 
 int radeon_align_pitch(struct radeon_device *rdev, int width, int bpp, bool tiled);
 #endif
+Tue Jul 19 12:41:18 PDT 2016

@@ -46,3 +46,4 @@ extern void nuc93x_map_io(struct map_desc *mach_desc, int mach_size);
 extern void nuc93x_board_init(struct platform_device **device, int size);
 extern struct platform_device nuc93x_serial_device;
 
+Tue Jul 19 12:33:50 PDT 2016

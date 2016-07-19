@@ -26,3 +26,4 @@ int retu_write(struct retu_dev *, u8, u16);
 #define TAHVO_STAT_VBUS		(1 << TAHVO_INT_VBUS)
 
 #endif /* __LINUX_MFD_RETU_H */
+Tue Jul 19 12:53:52 PDT 2016

@@ -95,3 +95,4 @@ void amba_release_regions(struct amba_device *);
 #define amba_part(d)	AMBA_PART_BITS((d)->periphid)
 
 #endif
+Tue Jul 19 12:38:18 PDT 2016

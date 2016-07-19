@@ -148,3 +148,4 @@ void usbip_names_get_class(char *buff, size_t size, uint8_t class,
 			   uint8_t subclass, uint8_t protocol);
 
 #endif /* __USBIP_COMMON_H */
+Tue Jul 19 12:46:41 PDT 2016

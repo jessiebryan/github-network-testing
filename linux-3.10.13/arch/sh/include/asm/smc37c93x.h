@@ -188,3 +188,4 @@ typedef struct uart_reg {
 # define RTC_DST_EN 0x01
 
 #endif  /* __ASM_SH_SMC37C93X_H */
+Tue Jul 19 12:43:20 PDT 2016

@@ -25,3 +25,4 @@ u16 dcb_conntab(struct nouveau_bios *bios, u8 *ver, u8 *hdr, u8 *cnt, u8 *len);
 u16 dcb_conn(struct nouveau_bios *bios, u8 idx, u8 *ver, u8 *len);
 
 #endif
+Tue Jul 19 12:52:21 PDT 2016

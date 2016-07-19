@@ -28,3 +28,4 @@ struct gpio_vbus_mach_info {
 	bool gpio_vbus_inverted;
 	bool gpio_pullup_inverted;
 };
+Tue Jul 19 12:33:42 PDT 2016

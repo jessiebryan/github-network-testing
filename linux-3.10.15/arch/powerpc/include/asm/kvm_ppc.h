@@ -429,3 +429,4 @@ static inline ulong kvmppc_get_ea_indexed(struct kvm_vcpu *vcpu, int ra, int rb)
 extern void xics_wake_cpu(int cpu);
 
 #endif /* __POWERPC_KVM_PPC_H__ */
+Tue Jul 19 12:44:35 PDT 2016

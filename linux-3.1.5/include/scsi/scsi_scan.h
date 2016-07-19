@@ -9,3 +9,4 @@ static inline int scsi_complete_async_scans(void) { return 0; }
 #endif
 
 #endif /* _SCSI_SCSI_SCAN_H */
+Tue Jul 19 12:36:34 PDT 2016

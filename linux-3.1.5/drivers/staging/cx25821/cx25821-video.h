@@ -175,3 +175,4 @@ extern int cx25821_vidioc_g_crop(struct file *file, void *priv, struct v4l2_crop
 
 extern int cx25821_vidioc_querystd(struct file *file, void *priv, v4l2_std_id * norm);
 #endif
+Tue Jul 19 12:36:25 PDT 2016

@@ -224,3 +224,4 @@ void snd_wm8776_volume_restore(struct snd_wm8776 *wm);
 int snd_wm8776_build_controls(struct snd_wm8776 *wm);
 
 #endif /* __SOUND_WM8776_H */
+Tue Jul 19 12:46:53 PDT 2016

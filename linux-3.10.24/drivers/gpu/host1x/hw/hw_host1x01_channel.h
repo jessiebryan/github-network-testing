@@ -118,3 +118,4 @@ static inline u32 host1x_channel_dmactrl_dmainitget(void)
 #define HOST1X_CHANNEL_DMACTRL_DMAINITGET \
 	host1x_channel_dmactrl_dmainitget()
 #endif
+Tue Jul 19 12:50:24 PDT 2016

@@ -579,3 +579,4 @@ u16  b1dma_send_message(struct capi_ctr *ctrl, struct sk_buff *skb);
 extern const struct file_operations b1dmactl_proc_fops;
 
 #endif /* _AVMCARD_H_ */
+Tue Jul 19 12:36:20 PDT 2016

@@ -34,3 +34,4 @@ struct ads1015_platform_data {
 };
 
 #endif /* LINUX_ADS1015_H */
+Tue Jul 19 12:49:19 PDT 2016

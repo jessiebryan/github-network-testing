@@ -398,3 +398,4 @@ static inline void memmove32_col(void *dst, void *src, u32 mask, u32 h, u32 byte
 #endif
 
 #endif /* _VIDEO_ATAFB_UTILS_H */
+Tue Jul 19 12:45:27 PDT 2016

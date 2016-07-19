@@ -31,3 +31,4 @@ int mxm_wmi_call_mxmx(int adapter);
 bool mxm_wmi_supported(void);
 
 #endif
+Tue Jul 19 12:50:38 PDT 2016

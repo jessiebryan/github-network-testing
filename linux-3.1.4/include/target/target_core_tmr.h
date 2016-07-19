@@ -33,3 +33,4 @@ extern int core_tmr_lun_reset(struct se_device *, struct se_tmr_req *,
 				struct list_head *, struct se_cmd *);
 
 #endif /* TARGET_CORE_TMR_H */
+Tue Jul 19 12:36:00 PDT 2016

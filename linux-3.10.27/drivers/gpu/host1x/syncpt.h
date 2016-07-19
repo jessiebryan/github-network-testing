@@ -163,3 +163,4 @@ struct host1x_syncpt *host1x_syncpt_request(struct device *dev,
 void host1x_syncpt_free(struct host1x_syncpt *sp);
 
 #endif
+Tue Jul 19 12:52:21 PDT 2016

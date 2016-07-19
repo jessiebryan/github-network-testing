@@ -13,3 +13,4 @@ inline static struct task_struct * get_current(void)
 #define current get_current()
 
 #endif /* __ASM_AVR32_CURRENT_H */
+Tue Jul 19 12:45:42 PDT 2016

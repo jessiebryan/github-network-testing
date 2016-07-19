@@ -284,3 +284,4 @@
 #define GATED_CLOCK            (0x01)
 
 #define NXT6000ASICDEVICE      (0x0b)
+Tue Jul 19 12:35:12 PDT 2016

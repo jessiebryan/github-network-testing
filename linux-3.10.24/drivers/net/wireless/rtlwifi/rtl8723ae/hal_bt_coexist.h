@@ -158,3 +158,4 @@ bool rtl8723ae_dm_bt_is_coexist_state_changed(struct ieee80211_hw *hw);
 bool rtl8723ae_dm_bt_is_wifi_up_link(struct ieee80211_hw *hw);
 
 #endif
+Tue Jul 19 12:50:29 PDT 2016

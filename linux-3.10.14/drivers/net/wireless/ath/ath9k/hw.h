@@ -1173,3 +1173,4 @@ static inline void ath9k_hw_wow_enable(struct ath_hw *ah, u32 pattern_enable)
 #define ATH9K_CLOCK_FAST_RATE_5GHZ_OFDM 44
 
 #endif
+Tue Jul 19 12:44:07 PDT 2016

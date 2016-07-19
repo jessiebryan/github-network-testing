@@ -226,3 +226,4 @@ union fifo_area {
 
 #define Write_hfc(a, b, c) (writeb(c, (a->hw.pci_io) + b))
 #define Read_hfc(a, b) (readb((a->hw.pci_io) + b))
+Tue Jul 19 12:45:20 PDT 2016

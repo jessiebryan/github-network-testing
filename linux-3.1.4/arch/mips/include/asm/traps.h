@@ -26,3 +26,4 @@ extern void (*board_ejtag_handler_setup)(void);
 extern void (*board_bind_eic_interrupt)(int irq, int regset);
 
 #endif /* _ASM_TRAPS_H */
+Tue Jul 19 12:35:39 PDT 2016

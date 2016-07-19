@@ -40,3 +40,4 @@ struct i2c_adapter *viafb_find_i2c_adapter(enum viafb_i2c_adap which);
 extern int viafb_i2c_init(void);
 extern void viafb_i2c_exit(void);
 #endif /* __VIA_I2C_H__ */
+Tue Jul 19 12:41:33 PDT 2016

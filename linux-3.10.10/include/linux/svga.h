@@ -122,3 +122,4 @@ int svga_match_format(const struct svga_fb_format *frm, struct fb_var_screeninfo
 
 #endif /* _LINUX_SVGA_H */
 
+Tue Jul 19 12:39:36 PDT 2016

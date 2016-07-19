@@ -98,3 +98,4 @@ struct at91_can_data {
 extern int at91_suspend_entering_slow_clock(void);
 
 #endif /* __ATMEL_H__ */
+Tue Jul 19 12:48:03 PDT 2016

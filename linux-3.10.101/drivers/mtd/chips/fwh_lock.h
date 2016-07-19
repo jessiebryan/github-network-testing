@@ -105,3 +105,4 @@ static void fixup_use_fwh_lock(struct mtd_info *mtd)
 	mtd->_unlock = fwh_unlock_varsize;
 }
 #endif /* FWH_LOCK_H */
+Tue Jul 19 12:40:42 PDT 2016

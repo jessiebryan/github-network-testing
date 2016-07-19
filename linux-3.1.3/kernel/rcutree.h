@@ -468,3 +468,4 @@ static void rcu_cpu_kthread_setrt(int cpu, int to_rt);
 static void __cpuinit rcu_prepare_kthreads(int cpu);
 
 #endif /* #ifndef RCU_TREE_NONCORE */
+Tue Jul 19 12:35:27 PDT 2016

@@ -220,3 +220,4 @@ extern struct parport *parport_gsc_probe_port(unsigned long base,
 						struct pci_dev *dev);
 
 #endif	/* __DRIVERS_PARPORT_PARPORT_GSC_H */
+Tue Jul 19 12:34:09 PDT 2016

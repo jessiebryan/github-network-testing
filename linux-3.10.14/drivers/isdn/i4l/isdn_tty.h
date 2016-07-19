@@ -118,3 +118,4 @@ extern int  isdn_tty_cmd_PLUSF_FAX(char **, modem_info *);
 extern int  isdn_tty_fax_command(modem_info *, isdn_ctrl *);
 extern void isdn_tty_fax_bitorder(modem_info *, struct sk_buff *);
 #endif
+Tue Jul 19 12:44:04 PDT 2016

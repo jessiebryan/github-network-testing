@@ -154,3 +154,4 @@ static inline int cmp_reg(const struct coproc_reg *i1,
 #define is32		.is_64 = false
 
 #endif /* __ARM_KVM_COPROC_LOCAL_H__ */
+Tue Jul 19 12:39:43 PDT 2016

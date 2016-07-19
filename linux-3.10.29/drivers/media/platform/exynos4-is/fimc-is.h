@@ -341,3 +341,4 @@ int fimc_is_hw_initialize(struct fimc_is *is);
 void fimc_is_log_dump(const char *level, const void *buf, size_t len);
 
 #endif /* FIMC_IS_H_ */
+Tue Jul 19 12:53:41 PDT 2016

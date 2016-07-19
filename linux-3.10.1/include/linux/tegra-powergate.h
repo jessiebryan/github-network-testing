@@ -47,3 +47,4 @@ int tegra_powergate_remove_clamping(int id);
 int tegra_powergate_sequence_power_up(int id, struct clk *clk);
 
 #endif /* _MACH_TEGRA_POWERGATE_H_ */
+Tue Jul 19 12:38:58 PDT 2016

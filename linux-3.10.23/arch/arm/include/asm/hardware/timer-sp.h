@@ -21,3 +21,4 @@ static inline void sp804_clockevents_init(void __iomem *base, unsigned int irq, 
 	__sp804_clockevents_init(base, irq, NULL, name);
 
 }
+Tue Jul 19 12:49:29 PDT 2016

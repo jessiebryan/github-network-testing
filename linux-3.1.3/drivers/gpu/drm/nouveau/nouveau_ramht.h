@@ -53,3 +53,4 @@ extern struct nouveau_gpuobj *
 nouveau_ramht_find(struct nouveau_channel *chan, u32 handle);
 
 #endif
+Tue Jul 19 12:35:11 PDT 2016

@@ -135,3 +135,4 @@ static const char* generic_NCR5380_info(struct Scsi_Host *);
 #endif /* ndef ASM */
 #endif /* GENERIC_NCR5380_H */
 
+Tue Jul 19 12:47:56 PDT 2016

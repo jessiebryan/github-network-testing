@@ -60,3 +60,4 @@ s3c2416_get_pll(unsigned int pllval, unsigned int baseclk)
 
 	return (unsigned int)fvco;
 }
+Tue Jul 19 12:33:52 PDT 2016

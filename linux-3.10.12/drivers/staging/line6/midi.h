@@ -70,3 +70,4 @@ extern void line6_midi_receive(struct usb_line6 *line6, unsigned char *data,
 			       int length);
 
 #endif
+Tue Jul 19 12:42:53 PDT 2016

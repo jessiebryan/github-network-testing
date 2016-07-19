@@ -114,3 +114,4 @@ extern const struct net_device_ops com20020_netdev_ops;
 #define SETCONF		outb(lp->config, _CONFIG)
 
 #endif /* __COM20020_H */
+Tue Jul 19 12:51:54 PDT 2016

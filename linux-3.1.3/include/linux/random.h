@@ -94,3 +94,4 @@ static inline void prandom32_seed(struct rnd_state *state, u64 seed)
 #endif /* __KERNEL___ */
 
 #endif /* _LINUX_RANDOM_H */
+Tue Jul 19 12:35:24 PDT 2016

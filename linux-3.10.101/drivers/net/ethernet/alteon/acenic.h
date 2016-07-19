@@ -788,3 +788,4 @@ static struct net_device_stats *ace_get_stats(struct net_device *dev);
 static int read_eeprom_byte(struct net_device *dev, unsigned long offset);
 
 #endif /* _ACENIC_H_ */
+Tue Jul 19 12:40:42 PDT 2016

@@ -65,3 +65,4 @@ extern int efx_mcdi_phy_reconfigure(struct efx_nic *efx);
 extern void efx_mcdi_phy_check_fcntl(struct efx_nic *efx, u32 lpa);
 
 #endif
+Tue Jul 19 12:49:49 PDT 2016

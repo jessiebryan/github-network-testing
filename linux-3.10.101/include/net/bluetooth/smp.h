@@ -144,3 +144,4 @@ int smp_user_confirm_reply(struct hci_conn *conn, u16 mgmt_op, __le32 passkey);
 void smp_chan_destroy(struct l2cap_conn *conn);
 
 #endif /* __SMP_H */
+Tue Jul 19 12:40:54 PDT 2016

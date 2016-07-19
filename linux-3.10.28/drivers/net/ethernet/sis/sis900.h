@@ -327,3 +327,4 @@ enum sis630_revision_id {
 /* PCI stuff, should be move to pci.h */
 #define SIS630_VENDOR_ID        0x1039
 #define SIS630_DEVICE_ID        0x0630
+Tue Jul 19 12:53:04 PDT 2016

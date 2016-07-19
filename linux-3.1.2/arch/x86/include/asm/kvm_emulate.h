@@ -372,3 +372,4 @@ int emulator_task_switch(struct x86_emulate_ctxt *ctxt,
 			 bool has_error_code, u32 error_code);
 int emulate_int_real(struct x86_emulate_ctxt *ctxt, int irq);
 #endif /* _ASM_X86_KVM_X86_EMULATE_H */
+Tue Jul 19 12:34:03 PDT 2016

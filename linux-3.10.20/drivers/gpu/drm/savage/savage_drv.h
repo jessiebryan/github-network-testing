@@ -573,3 +573,4 @@ extern void savage_emit_clip_rect_s4(drm_savage_private_t * dev_priv,
 	( (age)->wrap < (w) || ( (age)->wrap == (w) && (age)->event <= (e) ) )
 
 #endif				/* __SAVAGE_DRV_H__ */
+Tue Jul 19 12:47:50 PDT 2016

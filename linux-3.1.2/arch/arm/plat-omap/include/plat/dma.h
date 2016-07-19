@@ -536,3 +536,4 @@ static inline int omap_lcd_dma_running(void)
 #endif
 
 #endif /* __ASM_ARCH_DMA_H */
+Tue Jul 19 12:33:52 PDT 2016

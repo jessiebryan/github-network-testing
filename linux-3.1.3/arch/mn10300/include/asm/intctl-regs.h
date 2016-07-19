@@ -69,3 +69,4 @@ extern void mn10300_set_lateack_irq_type(int irq);
 #endif /* __KERNEL__ */
 
 #endif /* _ASM_INTCTL_REGS_H */
+Tue Jul 19 12:34:56 PDT 2016

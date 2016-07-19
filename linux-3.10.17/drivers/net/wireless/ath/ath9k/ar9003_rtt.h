@@ -27,3 +27,4 @@ void ar9003_hw_rtt_clear_hist(struct ath_hw *ah);
 bool ar9003_hw_rtt_restore(struct ath_hw *ah, struct ath9k_channel *chan);
 
 #endif
+Tue Jul 19 12:45:59 PDT 2016

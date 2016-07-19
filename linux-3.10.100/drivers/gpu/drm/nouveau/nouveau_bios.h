@@ -177,3 +177,4 @@ int call_lvds_script(struct drm_device *, struct dcb_output *, int head,
 			    enum LVDS_script, int pxclk);
 
 #endif
+Tue Jul 19 12:40:00 PDT 2016

@@ -31,3 +31,4 @@ int xen_pcibk_config_quirk_release(struct pci_dev *dev);
 int xen_pcibk_field_is_dup(struct pci_dev *dev, unsigned int reg);
 
 #endif
+Tue Jul 19 12:51:13 PDT 2016

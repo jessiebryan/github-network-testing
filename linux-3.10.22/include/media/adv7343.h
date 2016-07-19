@@ -73,3 +73,4 @@ struct adv7343_platform_data {
 };
 
 #endif				/* End of #ifndef ADV7343_H */
+Tue Jul 19 12:49:23 PDT 2016

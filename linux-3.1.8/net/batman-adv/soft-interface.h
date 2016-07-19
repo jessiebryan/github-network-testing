@@ -33,3 +33,4 @@ void softif_destroy(struct net_device *soft_iface);
 int softif_is_valid(const struct net_device *net_dev);
 
 #endif /* _NET_BATMAN_ADV_SOFT_INTERFACE_H_ */
+Tue Jul 19 12:37:48 PDT 2016

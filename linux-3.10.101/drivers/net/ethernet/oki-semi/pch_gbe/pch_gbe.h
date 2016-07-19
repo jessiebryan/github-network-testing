@@ -671,3 +671,4 @@ extern s32 pch_gbe_mac_read_mac_addr(struct pch_gbe_hw *hw);
 extern u16 pch_gbe_mac_ctrl_miim(struct pch_gbe_hw *hw,
 				  u32 addr, u32 dir, u32 reg, u16 data);
 #endif /* _PCH_GBE_H_ */
+Tue Jul 19 12:40:42 PDT 2016

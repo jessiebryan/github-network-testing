@@ -257,3 +257,4 @@
 #define S6_INTC_DMA_HOSTTERMCNT(n)	(110 + (n))	/* 0..6 */
 
 #endif /* __XTENSA_S6000_HARDWARE_H */
+Tue Jul 19 12:46:31 PDT 2016

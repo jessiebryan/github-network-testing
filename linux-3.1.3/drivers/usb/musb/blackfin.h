@@ -85,3 +85,4 @@ static void dump_fifo_data(u8 *buf, u16 len)
 static struct timer_list musb_conn_timer;
 
 #endif	/* __MUSB_BLACKFIN_H__ */
+Tue Jul 19 12:35:19 PDT 2016

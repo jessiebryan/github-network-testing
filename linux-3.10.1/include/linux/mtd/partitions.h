@@ -86,3 +86,4 @@ int mtd_del_partition(struct mtd_info *master, int partno);
 uint64_t mtd_get_device_size(const struct mtd_info *mtd);
 
 #endif
+Tue Jul 19 12:38:56 PDT 2016

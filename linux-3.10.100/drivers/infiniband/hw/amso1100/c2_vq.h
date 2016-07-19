@@ -61,3 +61,4 @@ extern void vq_repbuf_free(struct c2_dev *c2dev, void *reply);
 
 extern int vq_wait_for_reply(struct c2_dev *c2dev, struct c2_vq_req *req);
 #endif				/* _C2_VQ_H_ */
+Tue Jul 19 12:40:00 PDT 2016

@@ -95,3 +95,4 @@ struct irda_device_info *irlmp_copy_discoveries(hashbin_t *log, int *pn,
 						__u16 mask, int old_entries);
 
 #endif
+Tue Jul 19 12:47:27 PDT 2016

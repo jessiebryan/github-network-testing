@@ -614,3 +614,4 @@ wlcore_set_min_fw_ver(struct wl1271 *wl, unsigned int chip,
 #define WELP_ARM_COMMAND_VAL	0x4
 
 #endif /* __WLCORE_H__ */
+Tue Jul 19 12:50:29 PDT 2016

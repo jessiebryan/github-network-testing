@@ -85,3 +85,4 @@ static INLINE void SetExtendedMboxWindowInfo(u16 Manfid, struct hif_device_mbox_
 #define SDIO_IRQ_MODE_ASYNC_4BIT_IRQ   (1 << 0)    /* mode to enable special 4-bit interrupt assertion without clock*/ 
                         
 #endif /*HIF_SDIO_COMMON_H_*/
+Tue Jul 19 12:37:35 PDT 2016

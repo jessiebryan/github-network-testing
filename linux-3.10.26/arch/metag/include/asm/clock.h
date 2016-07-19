@@ -49,3 +49,4 @@ static inline unsigned long get_coreclock(void)
 }
 
 #endif /* _METAG_CLOCK_H_ */
+Tue Jul 19 12:51:33 PDT 2016

@@ -31,3 +31,4 @@ extern void sunserial_console_termios(struct console *,
 				      struct device_node *);
 
 #endif /* !(_SERIAL_SUN_H) */
+Tue Jul 19 12:36:27 PDT 2016

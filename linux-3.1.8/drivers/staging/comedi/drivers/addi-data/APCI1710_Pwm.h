@@ -74,3 +74,4 @@ int i_APCI1710_InsnReadGetPWMStatus(struct comedi_device *dev, struct comedi_sub
 int i_APCI1710_InsnBitsReadPWMInterrupt(struct comedi_device *dev,
 					struct comedi_subdevice *s,
 					struct comedi_insn *insn, unsigned int *data);
+Tue Jul 19 12:37:35 PDT 2016

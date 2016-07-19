@@ -43,3 +43,4 @@ int crisv32_pinmux_dealloc_fixed(enum fixed_function function);
 void crisv32_pinmux_dump(void);
 
 #endif
+Tue Jul 19 12:45:08 PDT 2016

@@ -50,3 +50,4 @@ void lmcEventLog(u32 EventNum, u32 arg2, u32 arg3);
 void lmc_trace(struct net_device *dev, char *msg);
 
 #endif
+Tue Jul 19 12:42:50 PDT 2016

@@ -517,3 +517,4 @@ extern int wimax_rfkill(struct wimax_dev *, enum wimax_rf_state);
 extern int wimax_reset(struct wimax_dev *);
 
 #endif /* #ifndef __NET__WIMAX_H__ */
+Tue Jul 19 12:48:06 PDT 2016

@@ -47,3 +47,4 @@ struct ad9389b_edid_detect {
 };
 
 #endif
+Tue Jul 19 12:46:10 PDT 2016

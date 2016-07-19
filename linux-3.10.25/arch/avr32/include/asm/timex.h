@@ -37,3 +37,4 @@ static inline cycles_t get_cycles (void)
 #define ARCH_HAS_READ_CURRENT_TIMER
 
 #endif /* __ASM_AVR32_TIMEX_H */
+Tue Jul 19 12:50:50 PDT 2016

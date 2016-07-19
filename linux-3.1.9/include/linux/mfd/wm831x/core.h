@@ -417,3 +417,4 @@ void wm831x_irq_exit(struct wm831x *wm831x);
 void wm831x_auxadc_init(struct wm831x *wm831x);
 
 #endif
+Tue Jul 19 12:38:20 PDT 2016

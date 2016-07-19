@@ -12,3 +12,4 @@ static inline int license_is_gpl_compatible(const char *license)
 }
 
 #endif
+Tue Jul 19 12:33:40 PDT 2016

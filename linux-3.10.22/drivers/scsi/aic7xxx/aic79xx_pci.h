@@ -70,3 +70,4 @@
 #define ID_AHA_39320D_B_HP		0x801C900500AC0E11ull
 
 #endif /* _AIC79XX_PCI_H_ */
+Tue Jul 19 12:49:12 PDT 2016

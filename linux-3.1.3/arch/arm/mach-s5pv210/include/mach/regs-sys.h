@@ -17,3 +17,4 @@
 /* compatibility defines for s3c-hsotg driver */
 #define S3C64XX_OTHERS		S5PV210_USB_PHY_CON
 #define S3C64XX_OTHERS_USBMASK	S5PV210_USB_PHY0_EN
+Tue Jul 19 12:34:43 PDT 2016

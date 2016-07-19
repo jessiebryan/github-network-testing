@@ -204,3 +204,4 @@ struct dw_mci_drv_data {
 	int		(*parse_dt)(struct dw_mci *host);
 };
 #endif /* _DW_MMC_H_ */
+Tue Jul 19 12:40:02 PDT 2016

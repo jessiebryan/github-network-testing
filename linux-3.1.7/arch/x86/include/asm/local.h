@@ -196,3 +196,4 @@ static inline long local_sub_return(long i, local_t *l)
 #define __local_sub(i, l)	local_sub((i), (l))
 
 #endif /* _ASM_X86_LOCAL_H */
+Tue Jul 19 12:36:51 PDT 2016

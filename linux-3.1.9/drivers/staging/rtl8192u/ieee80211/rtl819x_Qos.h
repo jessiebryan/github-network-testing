@@ -580,3 +580,4 @@ typedef struct _BSS_QOS{
 #define IsACValid(ac)			((ac<=7 )?true:false )
 
 #endif // #ifndef __INC_QOS_TYPE_H
+Tue Jul 19 12:38:14 PDT 2016

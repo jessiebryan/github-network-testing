@@ -25,3 +25,4 @@ struct spi_imx_master {
 #define MXC_SPI_CS(no)	((no) - 32)
 
 #endif /* __MACH_SPI_H_*/
+Tue Jul 19 12:49:21 PDT 2016

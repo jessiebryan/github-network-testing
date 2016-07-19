@@ -562,3 +562,4 @@ static inline __u32 scsi_to_u32(__u8 *ptr)
 }
 
 #endif /* _SCSI_SCSI_H */
+Tue Jul 19 12:33:43 PDT 2016

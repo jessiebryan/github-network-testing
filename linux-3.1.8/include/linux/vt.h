@@ -111,3 +111,4 @@ static inline int vt_kmsg_redirect(int new)
 #define vt_get_kmsg_redirect() vt_kmsg_redirect(-1)
 
 #endif /* _LINUX_VT_H */
+Tue Jul 19 12:37:45 PDT 2016

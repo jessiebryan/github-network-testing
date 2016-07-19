@@ -36,3 +36,4 @@
 #define IMS332_REG_COLOR_PALETTE        0x100	/* color palette, 256 entries */
 #define IMS332_REG_CURSOR_COLOR_PALETTE	0x0a1	/* cursor color palette, */
 						/* 3 entries             */
+Tue Jul 19 12:44:21 PDT 2016

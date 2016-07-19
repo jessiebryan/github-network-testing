@@ -1075,3 +1075,4 @@
 #define MX6SL_PAD_WDOG_B__GPIO3_IO18               0x2a0 0x5a8 0x000 0x5 0x0
 
 #endif /* __DTS_IMX6SL_PINFUNC_H */
+Tue Jul 19 12:51:25 PDT 2016

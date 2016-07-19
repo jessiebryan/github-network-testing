@@ -69,3 +69,4 @@ static inline int fs_uart_get_id(struct fs_uart_platform_info *fpi)
 }
 
 #endif
+Tue Jul 19 12:43:35 PDT 2016

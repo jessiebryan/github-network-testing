@@ -1439,3 +1439,4 @@ bool ieee80211_set_channel_type(struct ieee80211_local *local,
 #endif
 
 #endif /* IEEE80211_I_H */
+Tue Jul 19 12:36:01 PDT 2016

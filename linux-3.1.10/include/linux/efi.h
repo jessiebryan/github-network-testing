@@ -474,3 +474,4 @@ void unregister_efivars(struct efivars *efivars);
 #endif /* CONFIG_EFI_VARS */
 
 #endif /* _LINUX_EFI_H */
+Tue Jul 19 12:33:39 PDT 2016

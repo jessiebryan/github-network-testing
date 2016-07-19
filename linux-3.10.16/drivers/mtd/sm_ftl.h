@@ -92,3 +92,4 @@ static int sm_erase_block(struct sm_ftl *ftl, int zone_num, uint16_t block,
 static void sm_mark_block_bad(struct sm_ftl *ftl, int zone_num, int block);
 
 static int sm_recheck_media(struct sm_ftl *ftl);
+Tue Jul 19 12:45:22 PDT 2016

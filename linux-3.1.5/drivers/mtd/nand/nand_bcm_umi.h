@@ -335,3 +335,4 @@ static inline void nand_bcm_umi_bch_write_oobEcc(uint32_t pageSize,
 #endif
 
 #endif /* NAND_BCM_UMI_H */
+Tue Jul 19 12:36:22 PDT 2016

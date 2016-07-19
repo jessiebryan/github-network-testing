@@ -27,3 +27,4 @@ int brcmf_btcoex_set_mode(struct brcmf_cfg80211_vif *vif,
 			  enum brcmf_btcoex_mode mode, u16 duration);
 
 #endif /* WL_BTCOEX_H_ */
+Tue Jul 19 12:38:47 PDT 2016

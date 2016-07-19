@@ -106,3 +106,4 @@ void ircomm_flow_request(struct ircomm_cb *self, LOCAL_FLOW flow);
 #define ircomm_is_connected(self) (self->state == IRCOMM_CONN)
 
 #endif
+Tue Jul 19 12:46:49 PDT 2016

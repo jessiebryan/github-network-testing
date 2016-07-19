@@ -64,3 +64,4 @@ extern u32 omap4_cminst_read_inst_reg_bits(u8 part, u16 inst, s16 idx,
 					   u32 mask);
 
 #endif
+Tue Jul 19 12:33:50 PDT 2016

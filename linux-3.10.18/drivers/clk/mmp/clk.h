@@ -33,3 +33,4 @@ extern struct clk *mmp_clk_register_factor(const char *name,
 		void __iomem *base, struct clk_factor_masks *masks,
 		struct clk_factor_tbl *ftbl, unsigned int ftbl_cnt);
 #endif
+Tue Jul 19 12:46:32 PDT 2016

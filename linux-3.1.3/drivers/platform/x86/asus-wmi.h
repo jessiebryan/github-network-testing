@@ -63,3 +63,4 @@ int asus_wmi_register_driver(struct asus_wmi_driver *driver);
 void asus_wmi_unregister_driver(struct asus_wmi_driver *driver);
 
 #endif /* !_ASUS_WMI_H_ */
+Tue Jul 19 12:35:15 PDT 2016

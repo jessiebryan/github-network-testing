@@ -27,3 +27,4 @@ TRACE_EVENT(emulate_vsyscall,
 #define TRACE_INCLUDE_PATH ../../arch/x86/kernel
 #define TRACE_INCLUDE_FILE vsyscall_trace
 #include <trace/define_trace.h>
+Tue Jul 19 12:44:01 PDT 2016

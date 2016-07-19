@@ -503,3 +503,4 @@ static inline void pnp_unregister_driver(struct pnp_driver *drv) { }
 #endif /* CONFIG_PNP */
 
 #endif /* _LINUX_PNP_H */
+Tue Jul 19 12:46:48 PDT 2016

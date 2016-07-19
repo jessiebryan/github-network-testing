@@ -346,3 +346,4 @@ static inline unsigned int m5mols_get_ctrl_mode(struct v4l2_ctrl *ctrl)
 }
 
 #endif	/* M5MOLS_H */
+Tue Jul 19 12:46:34 PDT 2016

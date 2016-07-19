@@ -1282,3 +1282,4 @@ int		ahc_acquire_seeprom(struct ahc_softc *ahc,
 				    struct seeprom_descriptor *sd);
 void		ahc_release_seeprom(struct seeprom_descriptor *sd);
 #endif /* _AIC7XXX_H_ */
+Tue Jul 19 12:48:34 PDT 2016

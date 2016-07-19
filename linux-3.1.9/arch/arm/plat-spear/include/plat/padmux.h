@@ -90,3 +90,4 @@ struct pmx_driver {
 int pmx_register(struct pmx_driver *driver);
 
 #endif /* __PLAT_PADMUX_H */
+Tue Jul 19 12:37:55 PDT 2016

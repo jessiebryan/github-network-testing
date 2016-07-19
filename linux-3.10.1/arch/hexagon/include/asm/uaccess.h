@@ -114,3 +114,4 @@ static inline long hexagon_strncpy_from_user(char *dst, const char __user *src,
 }
 
 #endif
+Tue Jul 19 12:38:32 PDT 2016

@@ -114,3 +114,4 @@ void usbhs_dcp_control_transfer_done(struct usbhs_pipe *pipe);
 void usbhs_dcp_dir_for_host(struct usbhs_pipe *pipe, int dir_out);
 
 #endif /* RENESAS_USB_PIPE_H */
+Tue Jul 19 12:42:55 PDT 2016

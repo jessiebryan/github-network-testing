@@ -126,3 +126,4 @@ void caif_enroll_dev(struct net_device *dev, struct caif_dev_common *caifdev,
 				struct packet_type *, struct net_device *));
 
 #endif /* CAIF_DEV_H_ */
+Tue Jul 19 12:52:37 PDT 2016

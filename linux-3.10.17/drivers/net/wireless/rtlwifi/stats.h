@@ -44,3 +44,4 @@ void rtl_process_phyinfo(struct ieee80211_hw *hw, u8 *buffer,
 	struct rtl_stats *pstatus);
 
 #endif
+Tue Jul 19 12:46:00 PDT 2016

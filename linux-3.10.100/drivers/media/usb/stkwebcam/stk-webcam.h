@@ -138,3 +138,4 @@ int stk_sensor_wakeup(struct stk_camera *dev);
 int stk_sensor_set_brightness(struct stk_camera *dev, int br);
 
 #endif
+Tue Jul 19 12:40:02 PDT 2016

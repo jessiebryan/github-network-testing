@@ -46,3 +46,4 @@ struct lp5521_platform_data {
 };
 
 #endif /* __LINUX_LP5521_H */
+Tue Jul 19 12:36:31 PDT 2016

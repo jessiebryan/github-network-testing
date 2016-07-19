@@ -57,3 +57,4 @@ int vmci_resource_put(struct vmci_resource *resource);
 struct vmci_handle vmci_resource_handle(struct vmci_resource *resource);
 
 #endif /* _VMCI_RESOURCE_H_ */
+Tue Jul 19 12:51:46 PDT 2016

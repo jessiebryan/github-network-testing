@@ -324,3 +324,4 @@ static inline int extcon_unregister_interest(struct extcon_specific_cable_nb
 }
 #endif /* CONFIG_EXTCON */
 #endif /* __LINUX_EXTCON_H__ */
+Tue Jul 19 12:44:54 PDT 2016

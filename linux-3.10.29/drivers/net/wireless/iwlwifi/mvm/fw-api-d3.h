@@ -331,3 +331,4 @@ struct iwl_wowlan_remote_wake_config {
 /* TODO: NetDetect API */
 
 #endif /* __fw_api_d3_h__ */
+Tue Jul 19 12:53:43 PDT 2016

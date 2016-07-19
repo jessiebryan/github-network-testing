@@ -67,3 +67,4 @@ int dcb_outp_foreach(struct nouveau_bios *, void *data, int (*exec)
 		     (struct nouveau_bios *, void *, int index, u16 entry));
 
 #endif
+Tue Jul 19 12:44:42 PDT 2016

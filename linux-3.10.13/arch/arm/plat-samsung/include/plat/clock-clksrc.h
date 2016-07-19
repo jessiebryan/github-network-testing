@@ -81,3 +81,4 @@ extern void s3c_set_clksrc(struct clksrc_clk *clk, bool announce);
  * Initialise and register the array of clocks described by @srcs.
  */
 extern void s3c_register_clksrc(struct clksrc_clk *srcs, int size);
+Tue Jul 19 12:43:10 PDT 2016

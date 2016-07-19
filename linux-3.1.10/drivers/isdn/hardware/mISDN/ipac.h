@@ -403,3 +403,4 @@ extern int mISDNisac_init(struct isac_hw *, void *);
 extern irqreturn_t mISDNisac_irq(struct isac_hw *, u8);
 extern u32 mISDNipac_init(struct ipac_hw *, void *);
 extern irqreturn_t mISDNipac_irq(struct ipac_hw *, int);
+Tue Jul 19 12:33:29 PDT 2016

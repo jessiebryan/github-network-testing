@@ -98,3 +98,4 @@ struct vnic_fc_config {
 #define VFCF_FIP_CAPABLE	0x4	/* firmware can handle FIP */
 
 #endif /* _VNIC_SCSI_H_ */
+Tue Jul 19 12:34:10 PDT 2016

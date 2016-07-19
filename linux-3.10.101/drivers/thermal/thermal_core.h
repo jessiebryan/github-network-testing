@@ -78,3 +78,4 @@ static inline void thermal_gov_user_space_unregister(void) {}
 #endif /* CONFIG_THERMAL_GOV_USER_SPACE */
 
 #endif /* __THERMAL_CORE_H__ */
+Tue Jul 19 12:40:47 PDT 2016

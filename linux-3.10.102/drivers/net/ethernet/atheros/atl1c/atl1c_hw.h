@@ -1022,3 +1022,4 @@ void atl1c_post_phy_linkchg(struct atl1c_hw *hw, u16 link_speed);
 #define EEE_ANEG_100M                   0x2
 
 #endif /*_ATL1C_HW_H_*/
+Tue Jul 19 12:41:20 PDT 2016

@@ -89,3 +89,4 @@ static inline void stac(void) { }
 #endif /* __ASSEMBLY__ */
 
 #endif /* _ASM_X86_SMAP_H */
+Tue Jul 19 12:43:22 PDT 2016

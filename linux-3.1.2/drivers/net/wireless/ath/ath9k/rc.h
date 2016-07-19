@@ -242,3 +242,4 @@ static inline void ath_rate_control_unregister(void)
 #endif
 
 #endif /* RC_H */
+Tue Jul 19 12:34:09 PDT 2016

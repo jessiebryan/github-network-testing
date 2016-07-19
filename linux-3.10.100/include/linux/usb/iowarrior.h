@@ -40,3 +40,4 @@ struct iowarrior_info {
 #define IOW_GETINFO _IOR(CODEMERCS_MAGIC_NUMBER, 3, struct iowarrior_info)
 
 #endif /* __LINUX_USB_IOWARRIOR_H */
+Tue Jul 19 12:40:15 PDT 2016

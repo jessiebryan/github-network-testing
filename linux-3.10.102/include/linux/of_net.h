@@ -24,3 +24,4 @@ static inline const void *of_get_mac_address(struct device_node *np)
 #endif
 
 #endif /* __LINUX_OF_NET_H */
+Tue Jul 19 12:41:31 PDT 2016

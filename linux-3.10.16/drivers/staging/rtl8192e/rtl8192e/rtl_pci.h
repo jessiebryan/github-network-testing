@@ -101,3 +101,4 @@ struct net_device;
 bool rtl8192_pci_findadapter(struct pci_dev *pdev, struct net_device *dev);
 
 #endif
+Tue Jul 19 12:45:26 PDT 2016

@@ -22,3 +22,4 @@ struct bq24022_mach_info {
 	int gpio_iset2;
 	struct regulator_init_data *init_data;
 };
+Tue Jul 19 12:35:24 PDT 2016

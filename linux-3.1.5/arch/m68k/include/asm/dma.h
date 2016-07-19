@@ -489,3 +489,4 @@ extern void free_dma(unsigned int dmanr);	/* release it again */
 #define isa_dma_bridge_buggy    (0)
 
 #endif /* _M68K_DMA_H */
+Tue Jul 19 12:36:10 PDT 2016

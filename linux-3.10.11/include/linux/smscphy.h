@@ -28,3 +28,4 @@
 #define MII_LAN83C185_MODE_ALL       0xE0 /* All capable mode */
 
 #endif /* __LINUX_SMSCPHY_H__ */
+Tue Jul 19 12:42:21 PDT 2016

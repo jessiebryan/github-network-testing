@@ -182,3 +182,4 @@ struct stmpe_variant_info {
 #define STMPE24XX_SYSCON_ENABLE_ROT		(1 << 0)
 
 #endif
+Tue Jul 19 12:37:31 PDT 2016

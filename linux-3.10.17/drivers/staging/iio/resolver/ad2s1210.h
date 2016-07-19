@@ -15,3 +15,4 @@ struct ad2s1210_platform_data {
 	unsigned res[2];
 	bool gpioin;
 };
+Tue Jul 19 12:46:02 PDT 2016

@@ -25,3 +25,4 @@ int io_reserve_memtype(resource_size_t start, resource_size_t end,
 void io_free_memtype(resource_size_t start, resource_size_t end);
 
 #endif /* _ASM_X86_PAT_H */
+Tue Jul 19 12:43:22 PDT 2016

@@ -946,3 +946,4 @@ extern void chn_cb_negotiate(void *);
 extern struct hyperv_service_callback hv_cb_utils[];
 
 #endif /* _HYPERV_H */
+Tue Jul 19 12:36:25 PDT 2016

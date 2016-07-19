@@ -43,3 +43,4 @@ void osd_sec_sign_data(void *data_integ, struct bio *bio, const u8 *cap_key);
 void osd_set_caps(struct osd_cdb *cdb, const void *caps);
 
 #endif /* ndef __OSD_SEC_H__ */
+Tue Jul 19 12:47:28 PDT 2016

@@ -49,3 +49,4 @@
 #define SHA_PTSR_TXTEN		(1 << 8)
 
 #endif /* __ATMEL_SHA_REGS_H__ */
+Tue Jul 19 12:42:45 PDT 2016

@@ -2420,3 +2420,4 @@ struct mac_iveiv_entry {
 #define EIRP_MAX_TX_POWER_LIMIT	0x50
 
 #endif /* RT2800_H */
+Tue Jul 19 12:35:15 PDT 2016

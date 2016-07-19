@@ -264,3 +264,4 @@ extern int platform_pm_restore_noirq(struct device *dev);
 #endif
 
 #endif /* _PLATFORM_DEVICE_H_ */
+Tue Jul 19 12:35:24 PDT 2016

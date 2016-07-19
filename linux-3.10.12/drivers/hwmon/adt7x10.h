@@ -35,3 +35,4 @@ extern const struct dev_pm_ops adt7x10_dev_pm_ops;
 #endif
 
 #endif
+Tue Jul 19 12:42:46 PDT 2016

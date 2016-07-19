@@ -67,3 +67,4 @@
 #define MICROCAM_PAL                             66
 
 extern const int usbvision_device_data_size;
+Tue Jul 19 12:51:45 PDT 2016

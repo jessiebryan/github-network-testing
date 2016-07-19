@@ -59,3 +59,4 @@ static inline struct dvb_frontend* cx24110_attach(const struct cx24110_config* c
 #endif // CONFIG_DVB_CX24110
 
 #endif // CX24110_H
+Tue Jul 19 12:48:29 PDT 2016

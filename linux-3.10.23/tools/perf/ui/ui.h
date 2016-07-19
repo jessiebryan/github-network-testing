@@ -37,3 +37,4 @@ static inline void perf_gtk__exit(bool wait_for_ok __maybe_unused) {}
 void ui__refresh_dimensions(bool force);
 
 #endif /* _PERF_UI_H_ */
+Tue Jul 19 12:50:06 PDT 2016

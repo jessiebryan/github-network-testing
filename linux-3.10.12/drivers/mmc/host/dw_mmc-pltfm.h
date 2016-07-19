@@ -18,3 +18,4 @@ extern int dw_mci_pltfm_remove(struct platform_device *pdev);
 extern const struct dev_pm_ops dw_mci_pltfm_pmops;
 
 #endif /* _DW_MMC_PLTFM_H_ */
+Tue Jul 19 12:42:49 PDT 2016

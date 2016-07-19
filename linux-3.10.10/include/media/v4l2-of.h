@@ -109,3 +109,4 @@ static inline struct device_node *v4l2_of_get_remote_port(
 #endif /* CONFIG_OF */
 
 #endif /* _V4L2_OF_H */
+Tue Jul 19 12:39:36 PDT 2016

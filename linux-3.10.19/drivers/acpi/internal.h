@@ -160,3 +160,4 @@ int acpi_create_platform_device(struct acpi_device *adev,
 				const struct acpi_device_id *id);
 
 #endif /* _ACPI_INTERNAL_H_ */
+Tue Jul 19 12:47:11 PDT 2016

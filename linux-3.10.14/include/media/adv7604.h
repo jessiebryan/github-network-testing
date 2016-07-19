@@ -150,3 +150,4 @@ enum adv7604_mode {
 #define ADV7604_FMT_CHANGE	2
 
 #endif
+Tue Jul 19 12:44:18 PDT 2016

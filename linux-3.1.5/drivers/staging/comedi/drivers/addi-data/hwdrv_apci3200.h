@@ -189,3 +189,4 @@ int i_APCI3200_Read1AnalogInputChannel(struct comedi_device *dev,
 				       struct comedi_subdevice *s, struct comedi_insn *insn,
 				       unsigned int *data);
 int i_APCI3200_ReadCJCCalGain(struct comedi_device *dev, unsigned int *data);
+Tue Jul 19 12:36:25 PDT 2016

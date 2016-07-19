@@ -41,3 +41,4 @@ void usb6fire_comm_abort(struct sfire_chip *chip);
 void usb6fire_comm_destroy(struct sfire_chip *chip);
 #endif /* USB6FIRE_COMM_H */
 
+Tue Jul 19 12:51:24 PDT 2016

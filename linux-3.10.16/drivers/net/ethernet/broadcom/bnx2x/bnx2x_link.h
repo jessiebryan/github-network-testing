@@ -549,3 +549,4 @@ void bnx2x_period_func(struct link_params *params, struct link_vars *vars);
 int bnx2x_check_half_open_conn(struct link_params *params,
 			       struct link_vars *vars, u8 notify);
 #endif /* BNX2X_LINK_H */
+Tue Jul 19 12:45:22 PDT 2016

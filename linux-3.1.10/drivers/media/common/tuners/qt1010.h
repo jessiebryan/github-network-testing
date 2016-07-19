@@ -51,3 +51,4 @@ static inline struct dvb_frontend *qt1010_attach(struct dvb_frontend *fe,
 #endif // CONFIG_MEDIA_TUNER_QT1010
 
 #endif
+Tue Jul 19 12:33:29 PDT 2016

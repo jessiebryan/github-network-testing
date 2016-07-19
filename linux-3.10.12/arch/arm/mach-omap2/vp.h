@@ -133,3 +133,4 @@ int omap_vp_update_errorgain(struct voltagedomain *voltdm,
 			     unsigned long target_volt);
 
 #endif
+Tue Jul 19 12:42:30 PDT 2016

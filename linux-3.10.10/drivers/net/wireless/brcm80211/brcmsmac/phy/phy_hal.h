@@ -297,3 +297,4 @@ extern s8 wlc_phy_get_tx_power_offset_by_mcs(struct brcms_phy_pub *ppi,
 					     u8 mcs_offset);
 extern s8 wlc_phy_get_tx_power_offset(struct brcms_phy_pub *ppi, u8 tbl_offset);
 #endif                          /* _BRCM_PHY_HAL_H_ */
+Tue Jul 19 12:39:25 PDT 2016

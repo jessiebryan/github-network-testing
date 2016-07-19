@@ -37,3 +37,4 @@ extern const u32 r6xx_default_size, r7xx_default_size;
 
 __pure uint32_t int2float(uint32_t x);
 #endif
+Tue Jul 19 12:52:21 PDT 2016

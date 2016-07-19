@@ -67,3 +67,4 @@ typedef enum {
 } IGNORE_CASE_BOOL;
 
 #endif /* _LINUX_NTFS_TYPES_H */
+Tue Jul 19 12:48:38 PDT 2016

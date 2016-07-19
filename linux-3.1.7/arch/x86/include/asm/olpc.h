@@ -149,3 +149,4 @@ extern int olpc_ec_cmd(unsigned char cmd, unsigned char *inbuf, size_t inlen,
 #define OLPC_GPIO_ECSCI		27
 
 #endif /* _ASM_X86_OLPC_H */
+Tue Jul 19 12:36:52 PDT 2016

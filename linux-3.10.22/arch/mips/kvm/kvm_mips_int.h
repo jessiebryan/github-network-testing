@@ -47,3 +47,4 @@ int kvm_mips_irq_deliver_cb(struct kvm_vcpu *vcpu, unsigned int priority,
 int kvm_mips_irq_clear_cb(struct kvm_vcpu *vcpu, unsigned int priority,
 			  uint32_t cause);
 void kvm_mips_deliver_interrupts(struct kvm_vcpu *vcpu, uint32_t cause);
+Tue Jul 19 12:48:59 PDT 2016

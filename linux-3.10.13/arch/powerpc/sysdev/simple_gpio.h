@@ -10,3 +10,4 @@ static inline void simple_gpiochip_init(const char *compatible) {}
 #endif /* CONFIG_SIMPLE_GPIO */
 
 #endif /* __SYSDEV_SIMPLE_GPIO_H */
+Tue Jul 19 12:43:19 PDT 2016

@@ -1198,3 +1198,4 @@ enum ethtool_reset_flags {
 #define ETH_RESET_SHARED_SHIFT	16
 
 #endif /* _LINUX_ETHTOOL_H */
+Tue Jul 19 12:37:41 PDT 2016

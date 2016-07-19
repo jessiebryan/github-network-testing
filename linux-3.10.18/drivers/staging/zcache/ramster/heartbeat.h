@@ -85,3 +85,4 @@ int r2hb_global_heartbeat_active(void);
 void r2hb_manual_set_node_heartbeating(int);
 
 #endif /* R2CLUSTER_HEARTBEAT_H */
+Tue Jul 19 12:46:41 PDT 2016

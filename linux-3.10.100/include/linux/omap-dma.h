@@ -386,3 +386,4 @@ static inline int omap_lcd_dma_running(void)
 #endif
 
 #endif /* __LINUX_OMAP_DMA_H */
+Tue Jul 19 12:40:13 PDT 2016

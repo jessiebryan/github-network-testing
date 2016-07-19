@@ -28,3 +28,4 @@ static inline void synchronise_count_slave(int cpu)
 #endif
 
 #endif /* __ASM_R4K_TYPES_H */
+Tue Jul 19 12:50:55 PDT 2016

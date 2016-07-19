@@ -54,3 +54,4 @@ struct tvp7002_config {
 	u8 sog_polarity;
 };
 #endif
+Tue Jul 19 12:34:32 PDT 2016

@@ -325,3 +325,4 @@ extern struct wlan_pwr_cfg rtl8188e_leave_lps_flow
 #define Rtl8188E_NIC_LPS_LEAVE_FLOW	rtl8188e_leave_lps_flow
 
 #endif
+Tue Jul 19 12:44:47 PDT 2016

@@ -108,3 +108,4 @@
 #define IIO_CONST_ATTR_OUT_WAVETYPES_AVAILABLE(_channel, _output, _modes)\
 	IIO_CONST_ATTR(							\
 	out_altvoltage##_channel##_out##_output##_wavetype_available, _modes);
+Tue Jul 19 12:45:26 PDT 2016

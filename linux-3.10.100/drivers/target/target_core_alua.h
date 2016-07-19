@@ -135,3 +135,4 @@ extern int core_setup_alua(struct se_device *);
 extern sense_reason_t target_alua_state_check(struct se_cmd *cmd);
 
 #endif /* TARGET_CORE_ALUA_H */
+Tue Jul 19 12:40:08 PDT 2016

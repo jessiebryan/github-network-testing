@@ -269,3 +269,4 @@ int i_APCI1710_ReadFrequencyMeasurement(struct comedi_device *dev,
 					unsigned char b_ModulNbr,
 					unsigned char *pb_Status, unsigned char *pb_UDStatus,
 					unsigned int *pul_ReadValue);
+Tue Jul 19 12:35:51 PDT 2016

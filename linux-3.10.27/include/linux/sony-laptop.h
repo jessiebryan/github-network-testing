@@ -32,3 +32,4 @@ int sony_pic_camera_command(int command, u8 value);
 #endif	/* __KERNEL__ */
 
 #endif /* _SONYLAPTOP_H_ */
+Tue Jul 19 12:52:36 PDT 2016

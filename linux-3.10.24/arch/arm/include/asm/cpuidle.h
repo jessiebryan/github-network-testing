@@ -27,3 +27,4 @@ static inline int arm_cpuidle_simple_enter(struct cpuidle_device *dev,
 #define ARM_CPUIDLE_WFI_STATE ARM_CPUIDLE_WFI_STATE_PWR(UINT_MAX)
 
 #endif
+Tue Jul 19 12:50:07 PDT 2016

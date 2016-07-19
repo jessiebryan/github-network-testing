@@ -189,3 +189,4 @@ do_func(Elf_Ehdr *ehdr, char const *const fname, table_sort_t custom_sort)
 	/* We sorted it, clear the flag. */
 	w(0, sort_done_location);
 }
+Tue Jul 19 12:40:58 PDT 2016

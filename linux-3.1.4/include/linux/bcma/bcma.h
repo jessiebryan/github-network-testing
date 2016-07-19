@@ -269,3 +269,4 @@ extern void bcma_core_pll_ctl(struct bcma_device *core, u32 req, u32 status,
 extern u32 bcma_core_dma_translation(struct bcma_device *core);
 
 #endif /* LINUX_BCMA_H_ */
+Tue Jul 19 12:35:55 PDT 2016

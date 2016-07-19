@@ -75,3 +75,4 @@
  * RR = Reserved for the hardware ID
  */
 #define SUSBCR_MSC_GetHWVersion			0x0002
+Tue Jul 19 12:52:30 PDT 2016

@@ -10,3 +10,4 @@ MEMCPY_FN(memcpy_c,
 MEMCPY_FN(memcpy_c_e,
 	"x86-64-movsb",
 	"movsb-based memcpy() in arch/x86/lib/memcpy_64.S")
+Tue Jul 19 12:39:04 PDT 2016

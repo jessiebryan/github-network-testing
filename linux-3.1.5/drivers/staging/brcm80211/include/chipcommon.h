@@ -279,3 +279,4 @@ typedef volatile struct {
 #define PMU_MAX_TRANSITION_DLY	15000
 
 #endif				/* _SBCHIPC_H */
+Tue Jul 19 12:36:25 PDT 2016

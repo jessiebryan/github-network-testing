@@ -31,3 +31,4 @@ void ibm440spe_fixup_clocks(unsigned int sys_clk, unsigned int ser_clk,
 			    unsigned int tmr_clk);
 
 #endif /* _POWERPC_BOOT_4XX_H_ */
+Tue Jul 19 12:41:11 PDT 2016

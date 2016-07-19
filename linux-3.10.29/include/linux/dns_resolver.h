@@ -32,3 +32,4 @@ extern int dns_query(const char *type, const char *name, size_t namelen,
 #endif /* KERNEL */
 
 #endif /* _LINUX_DNS_RESOLVER_H */
+Tue Jul 19 12:53:51 PDT 2016

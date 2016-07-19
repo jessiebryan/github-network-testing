@@ -360,3 +360,4 @@ static inline int suspend_nvs_register(unsigned long a, unsigned long b)
 #endif
 
 #endif	/*_LINUX_ACPI_H*/
+Tue Jul 19 12:37:40 PDT 2016

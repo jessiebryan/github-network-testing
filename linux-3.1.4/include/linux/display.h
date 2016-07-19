@@ -59,3 +59,4 @@ extern int probe_edid(struct display_device *dev, void *devdata);
 #define to_display_device(obj) container_of(obj, struct display_device, class_dev)
 
 #endif
+Tue Jul 19 12:35:56 PDT 2016

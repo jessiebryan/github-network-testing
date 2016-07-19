@@ -56,3 +56,4 @@
 #define NJ_DMA_RXSIZE		128  /* 2 * 64 */
 #define NJ_DMA_TXSIZE		128  /* 2 * 64 */
 
+Tue Jul 19 12:33:29 PDT 2016

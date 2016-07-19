@@ -10,3 +10,4 @@ int snd_usb_add_audio_stream(struct snd_usb_audio *chip,
 
 #endif /* __USBAUDIO_STREAM_H */
 
+Tue Jul 19 12:50:06 PDT 2016

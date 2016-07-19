@@ -69,3 +69,4 @@ struct lp8755_platform_data {
 	struct regulator_init_data *buck_data[LP8755_BUCK_MAX];
 };
 #endif
+Tue Jul 19 12:46:47 PDT 2016

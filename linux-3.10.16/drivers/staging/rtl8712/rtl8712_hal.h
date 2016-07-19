@@ -148,3 +148,4 @@ uint	 rtl8712_hal_init(struct _adapter *padapter);
 int rtl871x_load_fw(struct _adapter *padapter);
 
 #endif
+Tue Jul 19 12:45:26 PDT 2016

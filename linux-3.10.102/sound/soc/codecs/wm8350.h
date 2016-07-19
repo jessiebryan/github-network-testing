@@ -27,3 +27,4 @@ int wm8350_mic_jack_detect(struct snd_soc_codec *codec,
 			   int detect_report, int short_report);
 
 #endif
+Tue Jul 19 12:41:39 PDT 2016

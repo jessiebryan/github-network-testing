@@ -150,3 +150,4 @@ static inline bool fimc_md_is_isp_available(struct device_node *node)
 #endif /* CONFIG_OF */
 
 #endif
+Tue Jul 19 12:52:23 PDT 2016

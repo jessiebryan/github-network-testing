@@ -39,3 +39,4 @@ static inline void *dereference_function_descriptor(void *ptr)
 
 #endif /* __KERNEL__ */
 #endif	/* _ASM_POWERPC_SECTIONS_H */
+Tue Jul 19 12:36:48 PDT 2016

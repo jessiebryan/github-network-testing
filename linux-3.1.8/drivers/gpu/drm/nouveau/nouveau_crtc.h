@@ -95,3 +95,4 @@ struct nouveau_connector *
 nouveau_crtc_connector_get(struct nouveau_crtc *crtc);
 
 #endif /* __NOUVEAU_CRTC_H__ */
+Tue Jul 19 12:37:29 PDT 2016

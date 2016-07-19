@@ -27,3 +27,4 @@ extern void s3c6410_init_clocks(int xtal);
 #define s3c6410_map_io NULL
 #define s3c6410_init NULL
 #endif
+Tue Jul 19 12:34:43 PDT 2016

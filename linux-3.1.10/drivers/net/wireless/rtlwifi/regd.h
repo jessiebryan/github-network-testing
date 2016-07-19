@@ -59,3 +59,4 @@ int rtl_regd_init(struct ieee80211_hw *hw,
 				       struct regulatory_request *request));
 int rtl_reg_notifier(struct wiphy *wiphy, struct regulatory_request *request);
 #endif
+Tue Jul 19 12:33:32 PDT 2016

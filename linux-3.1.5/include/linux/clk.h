@@ -156,3 +156,4 @@ int clk_add_alias(const char *alias, const char *alias_dev_name, char *id,
 			struct device *dev);
 
 #endif
+Tue Jul 19 12:36:30 PDT 2016

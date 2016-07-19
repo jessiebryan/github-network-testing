@@ -179,3 +179,4 @@ struct bfin_eppi3_regs {
 #define EPPI_CTL2_FS1FINEN              0x00000002    /* HSYNC Finish Enable */
 #endif
 #endif
+Tue Jul 19 12:49:32 PDT 2016

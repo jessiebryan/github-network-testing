@@ -147,3 +147,4 @@ static inline bool is_ISA_range(u64 s, u64 e)
 #endif /* __KERNEL__ */
 
 #endif /* _ASM_X86_E820_H */
+Tue Jul 19 12:33:26 PDT 2016

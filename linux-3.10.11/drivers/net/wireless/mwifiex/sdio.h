@@ -326,3 +326,4 @@ static inline int mwifiex_sdio_event_complete(struct mwifiex_adapter *adapter,
 }
 
 #endif /* _MWIFIEX_SDIO_H */
+Tue Jul 19 12:42:08 PDT 2016

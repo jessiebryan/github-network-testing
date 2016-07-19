@@ -348,3 +348,4 @@ static inline int parisc_requires_coherency(void)
 #endif /* __ASSEMBLY__ */
 
 #endif /* __ASM_PARISC_PROCESSOR_H */
+Tue Jul 19 12:42:39 PDT 2016

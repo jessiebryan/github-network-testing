@@ -222,3 +222,4 @@ struct wl1271_cmd_sched_scan_stop {
 
 
 #endif /* __WL1271_SCAN_H__ */
+Tue Jul 19 12:38:12 PDT 2016

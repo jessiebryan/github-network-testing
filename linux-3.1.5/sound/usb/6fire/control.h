@@ -52,3 +52,4 @@ void usb6fire_control_abort(struct sfire_chip *chip);
 void usb6fire_control_destroy(struct sfire_chip *chip);
 #endif /* USB6FIRE_CONTROL_H */
 
+Tue Jul 19 12:36:36 PDT 2016

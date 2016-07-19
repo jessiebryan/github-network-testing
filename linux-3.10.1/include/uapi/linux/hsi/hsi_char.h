@@ -61,3 +61,4 @@ struct hsc_tx_config {
 };
 
 #endif /* __HSI_CHAR_H */
+Tue Jul 19 12:39:01 PDT 2016

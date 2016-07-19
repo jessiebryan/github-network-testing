@@ -20,3 +20,4 @@ int coda_cache_check(struct inode *inode, int mask);
 void coda_flag_inode_children(struct inode *inode, int flag);
 
 #endif /* _CFSNC_HEADER_ */
+Tue Jul 19 12:51:13 PDT 2016

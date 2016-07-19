@@ -416,3 +416,4 @@ static struct usb_device_id hfcsusb_idtab[] = {
 MODULE_DEVICE_TABLE(usb, hfcsusb_idtab);
 
 #endif	/* __HFCSUSB_H__ */
+Tue Jul 19 12:33:29 PDT 2016

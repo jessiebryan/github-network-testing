@@ -28,3 +28,4 @@ static void arch_reset(char mode, const char *cmd)
 }
 
 #endif /* __ASM_ARCH_IRQ_H */
+Tue Jul 19 12:36:06 PDT 2016

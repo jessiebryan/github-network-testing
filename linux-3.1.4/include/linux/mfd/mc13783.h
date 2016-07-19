@@ -200,3 +200,4 @@ int mc13783_adc_do_conversion(struct mc13783 *mc13783, unsigned int mode,
 #define MC13783_NUM_IRQ		MC13XXX_NUM_IRQ
 
 #endif /* ifndef __LINUX_MFD_MC13783_H */
+Tue Jul 19 12:35:57 PDT 2016

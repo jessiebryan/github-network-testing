@@ -72,3 +72,4 @@ struct s3c2410fb_mach_info {
 extern void __init s3c24xx_fb_set_platdata(struct s3c2410fb_mach_info *);
 
 #endif /* __ASM_ARM_FB_H */
+Tue Jul 19 12:33:51 PDT 2016

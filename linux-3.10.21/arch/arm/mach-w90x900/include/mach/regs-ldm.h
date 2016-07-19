@@ -251,3 +251,4 @@ enum LCM_DEV_CTRL_DE_POL {
 #define REG_LCM_HC_COLOR3		(0x88)
 
 #endif /* __ASM_ARM_W90X900_REGS_LDM_H */
+Tue Jul 19 12:48:14 PDT 2016

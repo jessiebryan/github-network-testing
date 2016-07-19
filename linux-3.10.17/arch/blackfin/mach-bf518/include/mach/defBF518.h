@@ -65,3 +65,4 @@
 #define                       ASL  0x40       /* Auxiliary snapshot interrupt status */
 
 #endif /* _DEF_BF518_H */
+Tue Jul 19 12:45:43 PDT 2016

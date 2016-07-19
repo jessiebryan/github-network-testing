@@ -70,3 +70,4 @@ static inline const struct of_device_id *of_match_device(
 #endif /* CONFIG_OF_DEVICE */
 
 #endif /* _LINUX_OF_DEVICE_H */
+Tue Jul 19 12:51:17 PDT 2016

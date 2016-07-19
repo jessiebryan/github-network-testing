@@ -392,3 +392,4 @@ void cper_print_bits(const char *prefix, unsigned int bits,
 		     const char *strs[], unsigned int strs_size);
 
 #endif
+Tue Jul 19 12:48:01 PDT 2016

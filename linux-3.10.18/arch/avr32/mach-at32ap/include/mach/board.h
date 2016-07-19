@@ -113,3 +113,4 @@ struct platform_device *
 at32_add_device_nand(unsigned int id, struct atmel_nand_data *data);
 
 #endif /* __ASM_ARCH_BOARD_H */
+Tue Jul 19 12:46:19 PDT 2016

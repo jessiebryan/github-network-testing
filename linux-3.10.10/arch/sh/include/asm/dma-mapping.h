@@ -98,3 +98,4 @@ extern void dma_generic_free_coherent(struct device *dev, size_t size,
 				      struct dma_attrs *attrs);
 
 #endif /* __ASM_SH_DMA_MAPPING_H */
+Tue Jul 19 12:39:16 PDT 2016

@@ -779,3 +779,4 @@ extern void		SiS_SiS30xBLOff(struct SiS_Private *SiS_Pr);
 #endif
 
 
+Tue Jul 19 12:37:01 PDT 2016

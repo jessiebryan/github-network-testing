@@ -686,3 +686,4 @@ void set_work_bit_irqsave(struct s5p_mfc_ctx *ctx);
 #define IS_MFCV6(dev)		(dev->variant->version >= 0x60 ? 1 : 0)
 
 #endif /* S5P_MFC_COMMON_H_ */
+Tue Jul 19 12:46:34 PDT 2016

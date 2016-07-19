@@ -22,3 +22,4 @@
 #define PINCTRL_STATE_DEFAULT "default"
 #define PINCTRL_STATE_IDLE "idle"
 #define PINCTRL_STATE_SLEEP "sleep"
+Tue Jul 19 12:42:20 PDT 2016

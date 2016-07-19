@@ -34,3 +34,4 @@ struct gpio_fan_platform_data {
 };
 
 #endif /* __LINUX_GPIO_FAN_H */
+Tue Jul 19 12:48:02 PDT 2016

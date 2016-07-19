@@ -399,3 +399,4 @@ static inline struct zoran *to_zoran(struct v4l2_device *v4l2_dev)
 #define btaor(dat,mask,adr) btwrite((dat) | ((mask) & btread(adr)), adr)
 
 #endif
+Tue Jul 19 12:35:47 PDT 2016

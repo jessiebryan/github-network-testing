@@ -216,3 +216,4 @@ static inline u8 iwl_fw_valid_rx_ant(const struct iwl_fw *fw)
 }
 
 #endif  /* __iwl_fw_h__ */
+Tue Jul 19 12:44:07 PDT 2016

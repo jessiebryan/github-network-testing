@@ -320,3 +320,4 @@ struct ewrk3_ioctl {
 #define EWRK3_GET_CMR   	0x10 /* Get the CMR Register contents */
 #define EWRK3_CLR_TX_CUT_THRU  	0x11 /* Clear the TX cut through mode */
 #define EWRK3_SET_TX_CUT_THRU	0x12 /* Set the TX cut through mode */
+Tue Jul 19 12:36:56 PDT 2016

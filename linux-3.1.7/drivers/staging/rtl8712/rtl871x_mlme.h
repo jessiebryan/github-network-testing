@@ -206,3 +206,4 @@ unsigned int r8712_add_ht_addt_info(struct _adapter *padapter, u8 *in_ie,
 int r8712_is_same_ibss(struct _adapter *adapter, struct wlan_network *pnetwork);
 
 #endif /*__RTL871X_MLME_H_*/
+Tue Jul 19 12:36:59 PDT 2016

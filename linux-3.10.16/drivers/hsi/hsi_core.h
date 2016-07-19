@@ -33,3 +33,4 @@ struct hsi_cl_info {
 extern struct list_head hsi_board_list;
 
 #endif /* __LINUX_HSI_CORE_H__ */
+Tue Jul 19 12:45:19 PDT 2016

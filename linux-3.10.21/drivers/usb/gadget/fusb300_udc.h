@@ -676,3 +676,4 @@ struct fusb300 {
 #define to_fusb300(g)		(container_of((g), struct fusb300, gadget))
 
 #endif
+Tue Jul 19 12:48:36 PDT 2016

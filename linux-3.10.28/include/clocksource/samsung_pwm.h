@@ -34,3 +34,4 @@ void samsung_pwm_clocksource_init(void __iomem *base,
 		unsigned int *irqs, struct samsung_pwm_variant *variant);
 
 #endif /* __CLOCKSOURCE_SAMSUNG_PWM_H */
+Tue Jul 19 12:53:11 PDT 2016

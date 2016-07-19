@@ -1524,3 +1524,4 @@ static inline int radeon_acpi_init(struct radeon_device *rdev) { return 0; }
 #include "radeon_object.h"
 
 #endif
+Tue Jul 19 12:37:29 PDT 2016

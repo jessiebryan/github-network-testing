@@ -26,3 +26,4 @@ static inline void s3c_nand_setname(char *name)
 }
 
 #endif /* __ASM_ARCH_NAND_CORE_H */
+Tue Jul 19 12:36:41 PDT 2016

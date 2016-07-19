@@ -477,3 +477,4 @@ static inline bool iwl_is_rfkill_set(struct iwl_trans *trans)
 }
 
 #endif /* __iwl_trans_int_pcie_h__ */
+Tue Jul 19 12:43:28 PDT 2016

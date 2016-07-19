@@ -35,3 +35,4 @@ void rtl8723ae_deinit_sw_vars(struct ieee80211_hw *hw);
 void rtl8723ae_init_var_map(struct ieee80211_hw *hw);
 
 #endif
+Tue Jul 19 12:46:38 PDT 2016

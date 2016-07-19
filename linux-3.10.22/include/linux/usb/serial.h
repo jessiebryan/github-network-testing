@@ -413,3 +413,4 @@ module_exit(usb_serial_module_exit);
 
 #endif /* __LINUX_USB_SERIAL_H */
 
+Tue Jul 19 12:49:22 PDT 2016

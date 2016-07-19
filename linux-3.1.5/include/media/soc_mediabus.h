@@ -84,3 +84,4 @@ int soc_mbus_samples_per_pixel(const struct soc_mbus_pixelfmt *mf,
 			unsigned int *numerator, unsigned int *denominator);
 
 #endif
+Tue Jul 19 12:36:33 PDT 2016

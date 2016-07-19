@@ -167,3 +167,4 @@ int rtl_usb_suspend(struct usb_interface *pusb_intf, pm_message_t message);
 int rtl_usb_resume(struct usb_interface *pusb_intf);
 
 #endif
+Tue Jul 19 12:42:09 PDT 2016

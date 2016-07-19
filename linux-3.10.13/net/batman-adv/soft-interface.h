@@ -30,3 +30,4 @@ int batadv_softif_is_valid(const struct net_device *net_dev);
 extern struct rtnl_link_ops batadv_link_ops;
 
 #endif /* _NET_BATMAN_ADV_SOFT_INTERFACE_H_ */
+Tue Jul 19 12:43:43 PDT 2016

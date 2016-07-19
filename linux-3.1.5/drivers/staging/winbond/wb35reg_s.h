@@ -238,3 +238,4 @@ u32 hal_get_bss_pk_cnt(struct hw_data *hw_data);
 #define hal_ibss_disconnect(_A)		(hal_stop_sync_bss(_A))
 
 #endif
+Tue Jul 19 12:36:27 PDT 2016

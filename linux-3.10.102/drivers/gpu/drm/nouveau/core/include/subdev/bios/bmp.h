@@ -37,3 +37,4 @@ bmp_ddr_seq_table(struct nouveau_bios *bios)
 }
 
 #endif
+Tue Jul 19 12:41:17 PDT 2016

@@ -40,3 +40,4 @@ extern void netup_get_card_info(struct i2c_adapter *i2c_adap,
 				struct netup_card_info *cinfo);
 
 #endif
+Tue Jul 19 12:47:14 PDT 2016

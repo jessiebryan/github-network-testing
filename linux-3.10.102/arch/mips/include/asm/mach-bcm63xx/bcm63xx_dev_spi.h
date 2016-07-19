@@ -83,3 +83,4 @@ static inline unsigned long bcm63xx_spireg(enum bcm63xx_regs_spi reg)
 }
 
 #endif /* BCM63XX_DEV_SPI_H */
+Tue Jul 19 12:41:09 PDT 2016

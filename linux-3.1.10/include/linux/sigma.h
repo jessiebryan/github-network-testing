@@ -53,3 +53,4 @@ static inline u32 sigma_action_len(struct sigma_action *sa)
 extern int process_sigma_firmware(struct i2c_client *client, const char *name);
 
 #endif
+Tue Jul 19 12:33:41 PDT 2016

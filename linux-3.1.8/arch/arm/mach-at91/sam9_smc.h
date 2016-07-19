@@ -31,3 +31,4 @@ struct sam9_smc_config {
 };
 
 extern void __init sam9_smc_configure(int cs, struct sam9_smc_config* config);
+Tue Jul 19 12:37:12 PDT 2016

@@ -96,3 +96,4 @@ void b43legacy_radio_set_tx_iq(struct b43legacy_wldev *dev);
 u16 b43legacy_radio_calibrationvalue(struct b43legacy_wldev *dev);
 
 #endif /* B43legacy_RADIO_H_ */
+Tue Jul 19 12:44:07 PDT 2016

@@ -58,3 +58,4 @@ static inline void comedi_pci_disable(struct pci_dev *pdev)
 }
 
 #endif
+Tue Jul 19 12:34:11 PDT 2016

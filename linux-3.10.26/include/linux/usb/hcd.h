@@ -670,3 +670,4 @@ extern unsigned long usb_hcds_loaded;
 #endif /* __KERNEL__ */
 
 #endif /* __USB_CORE_HCD_H */
+Tue Jul 19 12:51:58 PDT 2016

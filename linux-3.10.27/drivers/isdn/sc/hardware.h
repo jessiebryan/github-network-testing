@@ -108,3 +108,4 @@
 #define IS_VALID_CHANNEL(y, x)	((x > 0) && (x <= sc_adapter[y]->channels))
 
 #endif
+Tue Jul 19 12:52:22 PDT 2016

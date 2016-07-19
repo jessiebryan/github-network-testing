@@ -78,3 +78,4 @@ static inline int is_kdump_kernel(void) { return 0; }
 
 extern unsigned long saved_max_pfn;
 #endif /* LINUX_CRASHDUMP_H */
+Tue Jul 19 12:46:45 PDT 2016

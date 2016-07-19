@@ -22,3 +22,4 @@ struct wiznet_platform_data {
 #define W5300_BUS_DIRECT_SIZE	(0x0400 << CONFIG_WIZNET_BUS_SHIFT)
 
 #endif /* PLATFORM_DATA_WIZNET_H */
+Tue Jul 19 12:38:57 PDT 2016

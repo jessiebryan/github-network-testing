@@ -503,3 +503,4 @@ typedef struct	psc_smb {
 #define PSC_SMBTMR_SET_CH(x)	(((x) & 0x1f) << 0)
 
 #endif /* _AU1000_PSC_H_ */
+Tue Jul 19 12:35:38 PDT 2016

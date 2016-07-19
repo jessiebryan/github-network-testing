@@ -30,3 +30,4 @@ int sch56xx_read_virtual_reg12(u16 addr, u16 msb_reg, u16 lsn_reg,
 struct sch56xx_watchdog_data *sch56xx_watchdog_register(struct device *parent,
 	u16 addr, u32 revision, struct mutex *io_lock, int check_enabled);
 void sch56xx_watchdog_unregister(struct sch56xx_watchdog_data *data);
+Tue Jul 19 12:46:33 PDT 2016

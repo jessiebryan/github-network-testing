@@ -105,3 +105,4 @@ void caif_client_register_refcnt(struct cflayer *adapt_layer,
 void caif_free_client(struct cflayer *adap_layer);
 
 #endif /* CAIF_DEV_H_ */
+Tue Jul 19 12:35:25 PDT 2016

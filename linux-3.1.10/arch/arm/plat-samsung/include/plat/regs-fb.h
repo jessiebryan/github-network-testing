@@ -384,3 +384,4 @@
 #define WPALCON_W0PAL_16BPP_A555		(0x5 << 0)
 #define WPALCON_W0PAL_16BPP_565			(0x6 << 0)
 
+Tue Jul 19 12:33:16 PDT 2016

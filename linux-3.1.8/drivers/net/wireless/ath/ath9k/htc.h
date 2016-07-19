@@ -595,3 +595,4 @@ static inline int ath9k_htc_init_debug(struct ath_hw *ah) { return 0; };
 #endif /* CONFIG_ATH9K_HTC_DEBUGFS */
 
 #endif /* HTC_H */
+Tue Jul 19 12:37:32 PDT 2016

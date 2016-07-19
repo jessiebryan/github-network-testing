@@ -349,3 +349,4 @@ struct imx_udc_struct {
 #endif /* DEBUG */
 
 #endif /* __LINUX_USB_GADGET_IMX_H */
+Tue Jul 19 12:41:25 PDT 2016

@@ -217,3 +217,4 @@ int ad_dpot_probe(struct device *dev, struct ad_dpot_bus_data *bdata, const stru
 int ad_dpot_remove(struct device *dev);
 
 #endif
+Tue Jul 19 12:35:48 PDT 2016

@@ -17,3 +17,4 @@ struct bq27000_platform_data {
 };
 
 #endif
+Tue Jul 19 12:51:57 PDT 2016

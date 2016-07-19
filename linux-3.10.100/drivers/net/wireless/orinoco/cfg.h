@@ -13,3 +13,4 @@ void orinoco_wiphy_init(struct wiphy *wiphy);
 int orinoco_wiphy_register(struct wiphy *wiphy);
 
 #endif /* ORINOCO_CFG_H */
+Tue Jul 19 12:40:04 PDT 2016

@@ -44,3 +44,4 @@ int clk_register_clkdev(struct clk *, const char *, const char *, ...);
 int clk_register_clkdevs(struct clk *, struct clk_lookup *, size_t);
 
 #endif
+Tue Jul 19 12:44:14 PDT 2016

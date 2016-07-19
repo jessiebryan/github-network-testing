@@ -345,3 +345,4 @@
 #define P_CNT_CDG	(P_DEFINED | P_IDENT(GPIO_PG12) | P_FUNCT(3))
 
 #endif				/* _MACH_PORTMUX_H_ */
+Tue Jul 19 12:38:30 PDT 2016

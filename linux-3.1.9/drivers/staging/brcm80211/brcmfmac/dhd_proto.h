@@ -73,3 +73,4 @@ extern int brcmf_proto_cdc_set_ioctl(struct brcmf_pub *drvr, int ifidx,
 				     uint cmd, void *buf, uint len);
 
 #endif				/* _BRCMF_PROTO_H_ */
+Tue Jul 19 12:38:13 PDT 2016

@@ -381,3 +381,4 @@ static inline void zssync(struct uart_pmac_port *port)
 #define ZS_IS_EXTCLK(UP)		((UP)->flags & PMACZILOG_FLAG_IS_EXTCLK)
 
 #endif /* __PMAC_ZILOG_H__ */
+Tue Jul 19 12:53:09 PDT 2016

@@ -35,3 +35,4 @@ void ivtv_stop_all_captures(struct ivtv *itv);
 int ivtv_passthrough_mode(struct ivtv *itv, int enable);
 
 #endif
+Tue Jul 19 12:36:55 PDT 2016

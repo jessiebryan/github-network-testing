@@ -71,3 +71,4 @@ int i_APCI1710_GetTimerProgressStatus(struct comedi_device *dev,
 int i_APCI1710_WriteTimerValue(struct comedi_device *dev,
 			       unsigned char b_ModulNbr, unsigned char b_TimerNbr,
 			       unsigned int ul_WriteValue);
+Tue Jul 19 12:36:58 PDT 2016

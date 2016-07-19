@@ -320,3 +320,4 @@ wlan_pwr_cfg rtl8723A_leave_lps_flow[RTL8723A_TRANS_LPS_TO_ACT_STPS
 #define Rtl8723_NIC_LPS_LEAVE_FLOW	rtl8723A_leave_lps_flow
 
 #endif
+Tue Jul 19 12:43:29 PDT 2016

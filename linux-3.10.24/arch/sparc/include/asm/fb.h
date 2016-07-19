@@ -31,3 +31,4 @@ static inline int fb_is_primary_device(struct fb_info *info)
 }
 
 #endif /* _SPARC_FB_H_ */
+Tue Jul 19 12:50:20 PDT 2016

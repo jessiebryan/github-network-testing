@@ -644,3 +644,4 @@ extern void bcma_pmu_spuravoid_pllupdate(struct bcma_drv_cc *cc, int spuravoid);
 extern u32 bcma_pmu_get_bus_clock(struct bcma_drv_cc *cc);
 
 #endif /* LINUX_BCMA_DRIVER_CC_H_ */
+Tue Jul 19 12:49:56 PDT 2016

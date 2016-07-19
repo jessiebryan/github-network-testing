@@ -21,3 +21,4 @@
 #define SIRFSOC_UART1_TXFIFO_EMPTY			(1 << 6)
 
 #endif
+Tue Jul 19 12:34:43 PDT 2016

@@ -13,3 +13,4 @@ extern int iTCO_vendor_check_noreboot_on(void);
 #define iTCO_vendor_check_noreboot_on()			1
 				/* 1=check noreboot; 0=don't check */
 #endif
+Tue Jul 19 12:38:16 PDT 2016

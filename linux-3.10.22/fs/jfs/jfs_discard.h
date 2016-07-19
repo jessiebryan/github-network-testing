@@ -24,3 +24,4 @@ extern void jfs_issue_discard(struct inode *ip, u64 blkno, u64 nblocks);
 extern int jfs_ioc_trim(struct inode *ip, struct fstrim_range *range);
 
 #endif /* _H_JFS_DISCARD */
+Tue Jul 19 12:49:16 PDT 2016

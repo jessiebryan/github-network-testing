@@ -353,3 +353,4 @@ static inline long strnlen_user(const char __user *str, long len)
 #define strlen_user(str) strnlen_user(str, TASK_SIZE-1)
 
 #endif /* __ASM_OPENRISC_UACCESS_H */
+Tue Jul 19 12:36:13 PDT 2016

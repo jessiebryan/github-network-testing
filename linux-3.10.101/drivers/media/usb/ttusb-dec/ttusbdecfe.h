@@ -36,3 +36,4 @@ extern struct dvb_frontend* ttusbdecfe_dvbs_attach(const struct ttusbdecfe_confi
 extern struct dvb_frontend* ttusbdecfe_dvbt_attach(const struct ttusbdecfe_config* config);
 
 #endif // TTUSBDECFE_H
+Tue Jul 19 12:40:41 PDT 2016

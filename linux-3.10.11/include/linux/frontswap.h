@@ -105,3 +105,4 @@ static inline void frontswap_init(unsigned type, unsigned long *map)
 }
 
 #endif /* _LINUX_FRONTSWAP_H */
+Tue Jul 19 12:42:18 PDT 2016

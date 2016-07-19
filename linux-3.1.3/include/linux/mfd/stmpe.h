@@ -208,3 +208,4 @@ struct stmpe_platform_data {
 #define STMPE_NR_IRQS		STMPE_INT_GPIO(STMPE_NR_GPIOS)
 
 #endif
+Tue Jul 19 12:35:23 PDT 2016

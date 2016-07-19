@@ -21,3 +21,4 @@ static inline int adfs_checkbblk(unsigned char *ptr)
 	return (result & 0xff) != ptr[511];
 }
 #endif
+Tue Jul 19 12:44:53 PDT 2016

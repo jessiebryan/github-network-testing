@@ -356,3 +356,4 @@ static inline void write_fp(struct gxfb_par *par, int reg, uint32_t val)
 #define MSR_GX_GLD_MSR_CONFIG_FP	(1 << 3)
 
 #endif
+Tue Jul 19 12:34:21 PDT 2016

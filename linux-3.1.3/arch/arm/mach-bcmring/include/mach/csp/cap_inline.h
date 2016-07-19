@@ -407,3 +407,4 @@ static inline CAP_LCD_RES_T cap_getMaxLcdRes(void)
 }
 
 #endif
+Tue Jul 19 12:34:41 PDT 2016

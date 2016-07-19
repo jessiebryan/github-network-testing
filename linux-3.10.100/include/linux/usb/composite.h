@@ -519,3 +519,4 @@ void usb_remove_function(struct usb_configuration *c, struct usb_function *f);
 	dev_info(&(d)->gadget->dev , fmt , ## args)
 
 #endif	/* __LINUX_USB_COMPOSITE_H */
+Tue Jul 19 12:40:15 PDT 2016

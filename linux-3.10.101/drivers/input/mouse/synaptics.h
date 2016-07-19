@@ -198,3 +198,4 @@ void synaptics_reset(struct psmouse *psmouse);
 bool synaptics_supported(void);
 
 #endif /* _SYNAPTICS_H */
+Tue Jul 19 12:40:39 PDT 2016

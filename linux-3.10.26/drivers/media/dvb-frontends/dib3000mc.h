@@ -84,3 +84,4 @@ extern int dib3000mc_pid_parse(struct dvb_frontend *fe, int onoff);
 extern void dib3000mc_set_config(struct dvb_frontend *, struct dib3000mc_config *);
 
 #endif
+Tue Jul 19 12:51:44 PDT 2016

@@ -36,3 +36,4 @@ struct lm3642_platform_data {
 };
 
 #endif /* __LINUX_LM3642_H */
+Tue Jul 19 12:51:18 PDT 2016

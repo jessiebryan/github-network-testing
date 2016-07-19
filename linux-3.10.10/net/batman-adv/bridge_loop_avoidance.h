@@ -104,3 +104,4 @@ static inline void batadv_bla_free(struct batadv_priv *bat_priv)
 #endif /* ifdef CONFIG_BATMAN_ADV_BLA */
 
 #endif /* ifndef _NET_BATMAN_ADV_BLA_H_ */
+Tue Jul 19 12:39:40 PDT 2016

@@ -306,3 +306,4 @@ void snd_msndmix_setup(struct snd_msnd *chip);
 int __devinit snd_msndmix_new(struct snd_card *card);
 int snd_msndmix_force_recsrc(struct snd_msnd *chip, int recsrc);
 #endif /* __MSND_H */
+Tue Jul 19 12:38:24 PDT 2016

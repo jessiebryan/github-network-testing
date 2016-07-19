@@ -66,3 +66,4 @@ struct usb_wwan_port_private {
 };
 
 #endif /* __LINUX_USB_USB_WWAN */
+Tue Jul 19 12:51:12 PDT 2016

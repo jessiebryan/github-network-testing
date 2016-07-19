@@ -55,3 +55,4 @@ extern u32 rtl8192de_agctab_5garray[AGCTAB_5G_ARRAYLENGTH];
 extern u32 rtl8192de_agctab_2garray[AGCTAB_2G_ARRAYLENGTH];
 
 #endif
+Tue Jul 19 12:45:24 PDT 2016

@@ -50,3 +50,4 @@ void dm365_init_spi0(unsigned chipselect_mask,
 
 void dm365_set_vpfe_config(struct vpfe_config *cfg);
 #endif /* __ASM_ARCH_DM365_H */
+Tue Jul 19 12:36:38 PDT 2016

@@ -80,3 +80,4 @@ extern void pxa3xx_set_i2c_power_info(struct i2c_pxa_platform_data *info);
 #endif
 
 #endif
+Tue Jul 19 12:35:56 PDT 2016

@@ -69,3 +69,4 @@
 #define RATE_MAX					255
 
 #endif /* _MAC_Structure_H_ */
+Tue Jul 19 12:37:00 PDT 2016

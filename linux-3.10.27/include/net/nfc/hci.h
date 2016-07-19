@@ -258,3 +258,4 @@ int nfc_hci_target_discovered(struct nfc_hci_dev *hdev, u8 gate);
 u32 nfc_hci_sak_to_protocol(u8 sak);
 
 #endif /* __NET_HCI_H */
+Tue Jul 19 12:52:38 PDT 2016

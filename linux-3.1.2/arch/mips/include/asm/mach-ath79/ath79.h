@@ -94,3 +94,4 @@ void ath79_device_reset_set(u32 mask);
 void ath79_device_reset_clear(u32 mask);
 
 #endif /* __ASM_MACH_ATH79_H */
+Tue Jul 19 12:33:57 PDT 2016

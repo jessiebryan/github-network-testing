@@ -242,3 +242,4 @@ extern int s5p_register_gpioint_bank(int chain_irq, int start, int nr_groups);
 #endif
 
 #endif /* __PLAT_GPIO_CFG_H */
+Tue Jul 19 12:35:33 PDT 2016

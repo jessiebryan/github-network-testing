@@ -391,3 +391,4 @@ static inline void snd_opl3_clear_patches(struct snd_opl3 *opl3) {}
 #endif
 
 #endif /* __SOUND_OPL3_H */
+Tue Jul 19 12:37:08 PDT 2016

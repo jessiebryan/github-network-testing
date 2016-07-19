@@ -198,3 +198,4 @@ void __init spear320_init(struct pmx_mode *pmx_mode, struct pmx_dev **pmx_devs,
 #endif /* CONFIG_MACH_SPEAR320 */
 
 #endif /* __MACH_GENERIC_H */
+Tue Jul 19 12:34:43 PDT 2016

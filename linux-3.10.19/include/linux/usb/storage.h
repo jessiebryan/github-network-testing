@@ -84,3 +84,4 @@ struct bulk_cs_wrap {
 #define US_BULK_GET_MAX_LUN     0xfe
 
 #endif
+Tue Jul 19 12:47:27 PDT 2016

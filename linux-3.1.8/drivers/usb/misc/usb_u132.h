@@ -99,3 +99,4 @@ int usb_ftdi_elan_read_pcimem(struct platform_device *pdev, int mem_offset,
 			      u8 width, u32 *data);
 int usb_ftdi_elan_write_pcimem(struct platform_device *pdev, int mem_offset,
 			       u8 width, u32 data);
+Tue Jul 19 12:37:37 PDT 2016

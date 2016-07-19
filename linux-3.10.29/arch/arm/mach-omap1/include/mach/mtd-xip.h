@@ -59,3 +59,4 @@ static inline unsigned long xip_omap_mpu_timer_read(int nr)
 #define xip_cpu_idle()  asm volatile ("mcr p15, 0, %0, c7, c0, 4" :: "r" (1))
 
 #endif /* __ARCH_OMAP_MTD_XIP_H__ */
+Tue Jul 19 12:53:23 PDT 2016

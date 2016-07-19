@@ -233,3 +233,4 @@ struct acpi_pld_info {
 #define ACPI_PLD_SET_HORIZ_OFFSET(dword,value)  ACPI_SET_BITS (dword, 16, ACPI_16BIT_MASK, value)	/* Offset 128+16=144, Len 16 */
 
 #endif				/* ACBUFFER_H */
+Tue Jul 19 12:45:29 PDT 2016

@@ -163,3 +163,4 @@ extern ssize_t sysdev_store_int(struct sys_device *,
 		_SYSDEV_INT_ATTR(_name, _mode, _var);
 
 #endif /* _SYSDEV_H_ */
+Tue Jul 19 12:35:24 PDT 2016

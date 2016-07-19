@@ -57,3 +57,4 @@ void __init pxa_set_ffuart_info(void *info);
 void __init pxa_set_btuart_info(void *info);
 void __init pxa_set_stuart_info(void *info);
 void __init pxa_set_hwuart_info(void *info);
+Tue Jul 19 12:34:43 PDT 2016

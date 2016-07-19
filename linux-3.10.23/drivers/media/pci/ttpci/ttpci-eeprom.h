@@ -32,3 +32,4 @@ extern int ttpci_eeprom_decode_mac(u8 *decodedMAC, u8 *encodedMAC);
 extern int ttpci_eeprom_parse_mac(struct i2c_adapter *adapter, u8 *propsed_mac);
 
 #endif
+Tue Jul 19 12:49:47 PDT 2016

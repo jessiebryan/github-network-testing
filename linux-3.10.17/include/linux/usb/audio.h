@@ -42,3 +42,4 @@ struct usb_audio_control_selector {
 };
 
 #endif /* __LINUX_USB_AUDIO_H */
+Tue Jul 19 12:46:09 PDT 2016

@@ -30,3 +30,4 @@ struct ab8500_gpadc *ab8500_gpadc_get(char *name);
 int ab8500_gpadc_convert(struct ab8500_gpadc *gpadc, u8 input);
 
 #endif /* _AB8500_GPADC_H */
+Tue Jul 19 12:33:40 PDT 2016

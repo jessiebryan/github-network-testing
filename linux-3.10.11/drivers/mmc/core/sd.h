@@ -15,3 +15,4 @@ int mmc_sd_switch_hs(struct mmc_card *card);
 void mmc_sd_go_highspeed(struct mmc_card *card);
 
 #endif
+Tue Jul 19 12:42:06 PDT 2016

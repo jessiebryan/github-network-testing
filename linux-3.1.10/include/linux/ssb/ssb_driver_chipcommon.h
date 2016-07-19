@@ -663,3 +663,4 @@ void ssb_pmu_set_ldo_voltage(struct ssb_chipcommon *cc,
 void ssb_pmu_set_ldo_paref(struct ssb_chipcommon *cc, bool on);
 
 #endif /* LINUX_SSB_CHIPCO_H_ */
+Tue Jul 19 12:33:41 PDT 2016

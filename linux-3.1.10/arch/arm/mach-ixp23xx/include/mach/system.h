@@ -31,3 +31,4 @@ static inline void arch_reset(char mode, const char *cmd)
 	/* Use on-chip reset capability */
 	*IXP23XX_RESET0 |= IXP23XX_RST_ALL;
 }
+Tue Jul 19 12:33:13 PDT 2016

@@ -357,3 +357,4 @@ int exynos_mipi_dsi_register_lcd_device(struct mipi_dsim_lcd_device
 int exynos_mipi_dsi_register_lcd_driver(struct mipi_dsim_lcd_driver
 						*lcd_drv);
 #endif /* _EXYNOS_MIPI_DSIM_H */
+Tue Jul 19 12:47:30 PDT 2016

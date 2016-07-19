@@ -117,3 +117,4 @@ void* xbv_to_patch(card_t *card, fwreadfn_t readfn, const void *fw_buf, const xb
                    u32 *size);
 
 #endif /* __XBV_H__ */
+Tue Jul 19 12:46:01 PDT 2016

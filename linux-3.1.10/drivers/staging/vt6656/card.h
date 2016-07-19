@@ -87,3 +87,4 @@ BOOL CARDbChannelSwitch(void *pDeviceHandler,
 			BYTE byCount);
 
 #endif /* __CARD_H__ */
+Tue Jul 19 12:33:35 PDT 2016

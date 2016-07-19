@@ -309,3 +309,4 @@ struct sisusb_command {
 #define SISUSB_GET_CONFIG	_IOR(0xF3,0x3F,struct sisusb_info)
 
 #endif /* SISUSB_H */
+Tue Jul 19 12:35:18 PDT 2016

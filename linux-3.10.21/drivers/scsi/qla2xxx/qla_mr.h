@@ -508,3 +508,4 @@ struct mr_data_fx00 {
 #define QLAFX00_RESET_INTERVAL		120	/* number of seconds */
 #define QLAFX00_MAX_RESET_INTERVAL	600	/* number of seconds */
 #endif
+Tue Jul 19 12:48:34 PDT 2016

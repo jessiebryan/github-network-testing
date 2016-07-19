@@ -240,3 +240,4 @@ s32 e1000_get_cable_length_82577(struct e1000_hw *hw);
 #define IFE_PMC_AUTO_MDIX		0x0080	/* 1=enable auto, 0=disable */
 
 #endif
+Tue Jul 19 12:53:42 PDT 2016

@@ -161,3 +161,4 @@ static inline int of_get_gpio(struct device_node *np, int index)
 }
 
 #endif /* __LINUX_OF_GPIO_H */
+Tue Jul 19 12:38:57 PDT 2016

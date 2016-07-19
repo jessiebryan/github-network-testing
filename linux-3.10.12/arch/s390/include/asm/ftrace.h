@@ -24,3 +24,4 @@ static inline unsigned long ftrace_call_adjust(unsigned long addr)
 #endif
 
 #endif /* _ASM_S390_FTRACE_H */
+Tue Jul 19 12:42:40 PDT 2016

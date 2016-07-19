@@ -143,3 +143,4 @@ struct brcmu_d11inf {
 extern void brcmu_d11_attach(struct brcmu_d11inf *d11inf);
 
 #endif	/* _BRCMU_CHANNELS_H_ */
+Tue Jul 19 12:43:28 PDT 2016

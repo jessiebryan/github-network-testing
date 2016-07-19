@@ -303,3 +303,4 @@ static inline void set_driver_byte(struct scsi_cmnd *cmd, char status)
 }
 
 #endif /* _SCSI_SCSI_CMND_H */
+Tue Jul 19 12:36:00 PDT 2016

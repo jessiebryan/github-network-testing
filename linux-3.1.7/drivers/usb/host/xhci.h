@@ -1598,3 +1598,4 @@ struct xhci_slot_ctx *xhci_get_slot_ctx(struct xhci_hcd *xhci, struct xhci_conta
 struct xhci_ep_ctx *xhci_get_ep_ctx(struct xhci_hcd *xhci, struct xhci_container_ctx *ctx, unsigned int ep_index);
 
 #endif /* __LINUX_XHCI_HCD_H */
+Tue Jul 19 12:37:01 PDT 2016

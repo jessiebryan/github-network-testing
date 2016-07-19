@@ -997,3 +997,4 @@ struct usb_set_sel_req {
 #define USB_SELF_POWER_VBUS_MAX_DRAW		100
 
 #endif /* _UAPI__LINUX_USB_CH9_H */
+Tue Jul 19 12:51:22 PDT 2016

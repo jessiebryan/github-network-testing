@@ -187,3 +187,4 @@ extern void *text_poke_smp(void *addr, const void *opcode, size_t len);
 extern void text_poke_smp_batch(struct text_poke_param *params, int n);
 
 #endif /* _ASM_X86_ALTERNATIVE_H */
+Tue Jul 19 12:33:26 PDT 2016

@@ -19,3 +19,4 @@ int of_setprop(const void *phandle, const char *name, const void *buf,
 void of_console_init(void);
 
 #endif /* _PPC_BOOT_OF_H_ */
+Tue Jul 19 12:40:32 PDT 2016

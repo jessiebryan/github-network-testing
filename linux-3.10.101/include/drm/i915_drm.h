@@ -35,3 +35,4 @@ extern bool i915_gpu_lower(void);
 extern bool i915_gpu_busy(void);
 extern bool i915_gpu_turbo_disable(void);
 #endif				/* _I915_DRM_H_ */
+Tue Jul 19 12:40:49 PDT 2016

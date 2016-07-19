@@ -37,3 +37,4 @@ struct mci_platform_data {
 };
 
 #endif /* __LINUX_ATMEL_MCI_H */
+Tue Jul 19 12:46:06 PDT 2016

@@ -6,3 +6,4 @@
  */
 
 #define QLA4XXX_DRIVER_VERSION	"5.02.00-k7"
+Tue Jul 19 12:38:13 PDT 2016

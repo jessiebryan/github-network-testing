@@ -389,3 +389,4 @@ int cx18_av_g_sliced_fmt(struct v4l2_subdev *sd, struct v4l2_sliced_vbi_format *
 int cx18_av_s_sliced_fmt(struct v4l2_subdev *sd, struct v4l2_sliced_vbi_format *fmt);
 
 #endif
+Tue Jul 19 12:53:41 PDT 2016

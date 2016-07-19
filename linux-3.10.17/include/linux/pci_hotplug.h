@@ -201,3 +201,4 @@ static inline int pci_get_hp_params(struct pci_dev *dev,
 void pci_configure_slot(struct pci_dev *dev);
 #endif
 
+Tue Jul 19 12:46:08 PDT 2016

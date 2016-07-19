@@ -197,3 +197,4 @@ static inline void per_cpu_scan_finalize(int min_cpus, int reserve_cpus)
 #endif /*__KERNEL__*/
 
 #endif /*_ASM_ACPI_H*/
+Tue Jul 19 12:37:18 PDT 2016

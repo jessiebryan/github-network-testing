@@ -15,3 +15,4 @@
 void ath79_register_wmac(u8 *cal_data);
 
 #endif /* _ATH79_DEV_WMAC_H */
+Tue Jul 19 12:48:19 PDT 2016

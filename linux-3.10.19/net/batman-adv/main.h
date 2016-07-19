@@ -310,3 +310,4 @@ static inline uint64_t batadv_sum_counter(struct batadv_priv *bat_priv,
 #define BATADV_SKB_CB(__skb)       ((struct batadv_skb_cb *)&((__skb)->cb[0]))
 
 #endif /* _NET_BATMAN_ADV_MAIN_H_ */
+Tue Jul 19 12:47:30 PDT 2016

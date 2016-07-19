@@ -141,3 +141,4 @@ TRACE_EVENT(hda_unsol_event,
 #undef TRACE_INCLUDE_PATH
 #define TRACE_INCLUDE_PATH .
 #include <trace/define_trace.h>
+Tue Jul 19 12:50:44 PDT 2016

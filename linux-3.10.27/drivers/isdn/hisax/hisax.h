@@ -1350,3 +1350,4 @@ static inline struct pci_dev *hisax_find_pci_device(unsigned int vendor,
 }
 
 #endif
+Tue Jul 19 12:52:22 PDT 2016

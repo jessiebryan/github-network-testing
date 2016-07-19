@@ -80,3 +80,4 @@ extern int	isdnhdlc_encode(struct isdnhdlc_vars *hdlc, const u8 *src,
 			u16 slen, int *count, u8 *dst, int dsize);
 
 #endif /* __ISDNHDLC_H__ */
+Tue Jul 19 12:37:42 PDT 2016

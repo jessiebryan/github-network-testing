@@ -171,3 +171,4 @@ extern void brcms_c_rateset_mcs_build(struct brcms_rateset *rateset,
 extern void brcms_c_rateset_bw_mcs_filter(struct brcms_rateset *rateset, u8 bw);
 
 #endif				/* _BRCM_RATE_H_ */
+Tue Jul 19 12:38:13 PDT 2016

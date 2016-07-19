@@ -194,3 +194,4 @@ static inline void *umc_get_drvdata(struct umc_dev *umc_dev)
 int umc_controller_reset(struct umc_dev *umc);
 
 #endif /* #ifndef _LINUX_UWB_UMC_H_ */
+Tue Jul 19 12:35:59 PDT 2016

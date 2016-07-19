@@ -411,3 +411,4 @@ static inline int hsi_stop_tx(struct hsi_client *cl)
 	return hsi_get_port(cl)->stop_tx(cl);
 }
 #endif /* __LINUX_HSI_H__ */
+Tue Jul 19 12:38:55 PDT 2016

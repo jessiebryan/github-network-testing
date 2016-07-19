@@ -40,3 +40,4 @@ static inline struct dvb_frontend *a8293_attach(struct dvb_frontend *fe,
 #endif
 
 #endif /* A8293_H */
+Tue Jul 19 12:45:57 PDT 2016

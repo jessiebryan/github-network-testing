@@ -206,3 +206,4 @@ union _FP_UNION_Q
 #endif /* not _FP_W_TYPE_SIZE < 64 */
 
 #endif /* __MATH_EMU_QUAD_H__ */
+Tue Jul 19 12:46:10 PDT 2016

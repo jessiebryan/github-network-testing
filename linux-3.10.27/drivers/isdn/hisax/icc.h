@@ -70,3 +70,4 @@ extern void initicc(struct IsdnCardState *cs);
 extern void icc_interrupt(struct IsdnCardState *cs, u_char val);
 extern void clear_pending_icc_ints(struct IsdnCardState *cs);
 extern void setup_icc(struct IsdnCardState *);
+Tue Jul 19 12:52:22 PDT 2016

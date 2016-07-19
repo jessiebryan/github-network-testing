@@ -42,3 +42,4 @@ int bit_get_packet(void *priv, unsigned long *seq_bits,
 int bit_packet_count(const unsigned long *seq_bits);
 
 #endif /* _NET_BATMAN_ADV_BITARRAY_H_ */
+Tue Jul 19 12:34:38 PDT 2016

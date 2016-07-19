@@ -1074,3 +1074,4 @@ int fdt_del_node(void *fdt, int nodeoffset);
 const char *fdt_strerror(int errval);
 
 #endif /* _LIBFDT_H */
+Tue Jul 19 12:36:01 PDT 2016

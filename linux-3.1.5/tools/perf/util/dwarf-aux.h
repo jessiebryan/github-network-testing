@@ -109,3 +109,4 @@ extern int die_get_typename(Dwarf_Die *vr_die, char *buf, int len);
 /* Get the name and type of given variable DIE, stored as "type\tname" */
 extern int die_get_varname(Dwarf_Die *vr_die, char *buf, int len);
 #endif
+Tue Jul 19 12:36:36 PDT 2016

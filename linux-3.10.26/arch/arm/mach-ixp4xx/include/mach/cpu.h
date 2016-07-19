@@ -56,3 +56,4 @@ static inline void ixp4xx_write_feature_bits(u32 value)
 }
 
 #endif  /* _ASM_ARCH_CPU_H */
+Tue Jul 19 12:51:27 PDT 2016

@@ -305,3 +305,4 @@ struct sn9c102_sensor {
 #define SN9C102_V4L2_CID_BRIGHT_LEVEL (V4L2_CID_PRIVATE_BASE + 6)
 
 #endif /* _SN9C102_SENSOR_H_ */
+Tue Jul 19 12:40:02 PDT 2016

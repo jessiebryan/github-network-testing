@@ -28,3 +28,4 @@ struct nfc_mei_phy *nfc_mei_phy_alloc(struct mei_cl_device *device);
 void nfc_mei_phy_free(struct nfc_mei_phy *phy);
 
 #endif /* __LOCAL_MEI_PHY_H_ */
+Tue Jul 19 12:49:50 PDT 2016

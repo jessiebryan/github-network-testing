@@ -177,3 +177,4 @@ void vpfe_ipipe_cleanup(struct vpfe_ipipe_device *ipipe,
 void vpfe_ipipe_enable(struct vpfe_device *vpfe_dev, int en);
 
 #endif		/* _DAVINCI_VPFE_DM365_IPIPE_H */
+Tue Jul 19 12:49:52 PDT 2016

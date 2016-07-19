@@ -44,3 +44,4 @@ int exynos_mipi_dsi_fifo_clear(struct mipi_dsim_device *dsim,
 				unsigned int val);
 
 #endif /* _EXYNOS_MIPI_DSI_COMMON_H */
+Tue Jul 19 12:42:55 PDT 2016

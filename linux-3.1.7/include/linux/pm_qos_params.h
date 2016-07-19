@@ -36,3 +36,4 @@ int pm_qos_remove_notifier(int pm_qos_class, struct notifier_block *notifier);
 int pm_qos_request_active(struct pm_qos_request_list *req);
 
 #endif
+Tue Jul 19 12:37:06 PDT 2016

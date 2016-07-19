@@ -24,3 +24,4 @@ int aa_setprocattr_changeprofile(char *fqname, bool onexec, int test);
 int aa_setprocattr_permipc(char *fqname);
 
 #endif /* __AA_PROCATTR_H */
+Tue Jul 19 12:37:09 PDT 2016

@@ -37,3 +37,4 @@ int wl1271_init_ap_rates(struct wl1271 *wl);
 int wl1271_ap_init_templates(struct wl1271 *wl);
 
 #endif
+Tue Jul 19 12:35:15 PDT 2016

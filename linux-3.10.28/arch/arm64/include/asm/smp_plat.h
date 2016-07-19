@@ -28,3 +28,4 @@ extern u64 __cpu_logical_map[NR_CPUS];
 #define cpu_logical_map(cpu)    __cpu_logical_map[cpu]
 
 #endif /* __ASM_SMP_PLAT_H */
+Tue Jul 19 12:52:46 PDT 2016

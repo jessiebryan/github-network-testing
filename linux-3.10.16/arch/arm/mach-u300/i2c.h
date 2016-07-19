@@ -21,3 +21,4 @@ static inline void __init u300_i2c_register_board_devices(void)
 #endif
 
 #endif
+Tue Jul 19 12:45:06 PDT 2016

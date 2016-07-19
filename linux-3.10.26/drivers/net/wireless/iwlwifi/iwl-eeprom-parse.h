@@ -136,3 +136,4 @@ void iwl_init_ht_hw_capab(const struct iwl_cfg *cfg,
 			  enum ieee80211_band band);
 
 #endif /* __iwl_eeprom_parse_h__ */
+Tue Jul 19 12:51:47 PDT 2016

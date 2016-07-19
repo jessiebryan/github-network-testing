@@ -181,3 +181,4 @@ static inline unsigned long rolx(unsigned long word, unsigned int shift, unsigne
 }
 
 #endif /* FB_DRAW_H */
+Tue Jul 19 12:34:21 PDT 2016

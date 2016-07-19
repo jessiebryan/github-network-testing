@@ -22,3 +22,4 @@ void michael_mic(const u8 *key, struct ieee80211_hdr *hdr,
 		 const u8 *data, size_t data_len, u8 *mic);
 
 #endif /* MICHAEL_H */
+Tue Jul 19 12:35:27 PDT 2016

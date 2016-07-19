@@ -3401,3 +3401,4 @@ struct tg3 {
 	((tp)->pci_chip_rev_id >> 8)
 
 #endif /* !(_T3_H) */
+Tue Jul 19 12:40:42 PDT 2016

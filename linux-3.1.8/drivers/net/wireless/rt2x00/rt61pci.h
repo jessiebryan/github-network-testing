@@ -1499,3 +1499,4 @@ struct hw_pairwise_ta_entry {
 	clamp_t(char, __txpower, MIN_TXPOWER, MAX_TXPOWER)
 
 #endif /* RT61PCI_H */
+Tue Jul 19 12:37:33 PDT 2016

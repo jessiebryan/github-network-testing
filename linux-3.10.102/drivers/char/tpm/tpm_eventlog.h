@@ -84,3 +84,4 @@ static inline void tpm_bios_log_teardown(struct dentry **dir)
 #endif
 
 #endif
+Tue Jul 19 12:41:17 PDT 2016

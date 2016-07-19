@@ -56,3 +56,4 @@ int
 nouveau_connector_bpp(struct drm_connector *);
 
 #endif /* __NOUVEAU_CONNECTOR_H__ */
+Tue Jul 19 12:34:05 PDT 2016

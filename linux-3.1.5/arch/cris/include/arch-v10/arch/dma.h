@@ -72,3 +72,4 @@ int cris_request_dma(unsigned int dmanr, const char * device_id,
                      unsigned options, enum dma_owner owner);
 
 void cris_free_dma(unsigned int dmanr, const char * device_id);
+Tue Jul 19 12:36:08 PDT 2016

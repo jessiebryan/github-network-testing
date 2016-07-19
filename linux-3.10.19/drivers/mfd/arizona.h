@@ -38,3 +38,4 @@ int arizona_irq_init(struct arizona *arizona);
 int arizona_irq_exit(struct arizona *arizona);
 
 #endif
+Tue Jul 19 12:47:15 PDT 2016

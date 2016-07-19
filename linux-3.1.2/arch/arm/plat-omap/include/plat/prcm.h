@@ -35,3 +35,4 @@ int omap2_cm_wait_idlest(void __iomem *reg, u32 mask, u8 idlest,
 
 
 
+Tue Jul 19 12:33:52 PDT 2016

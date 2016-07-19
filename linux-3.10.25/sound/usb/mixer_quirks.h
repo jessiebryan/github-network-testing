@@ -11,3 +11,4 @@ void snd_usb_mixer_rc_memory_change(struct usb_mixer_interface *mixer,
 
 #endif /* SND_USB_MIXER_QUIRKS_H */
 
+Tue Jul 19 12:51:25 PDT 2016

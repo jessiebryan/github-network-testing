@@ -7,3 +7,4 @@ int nva3_pll_calc(struct nouveau_clock *, struct nvbios_pll *, u32 freq,
 		  int *N, int *fN, int *M, int *P);
 
 #endif
+Tue Jul 19 12:41:17 PDT 2016

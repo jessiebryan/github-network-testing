@@ -39,3 +39,4 @@ void snd_ac97_proc_done(struct snd_ac97 * ac97);
 #define snd_ac97_proc_init(ac97_t) do { } while (0)
 #define snd_ac97_proc_done(ac97_t) do { } while (0)
 #endif
+Tue Jul 19 12:35:27 PDT 2016

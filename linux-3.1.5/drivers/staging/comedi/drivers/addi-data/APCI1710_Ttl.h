@@ -42,3 +42,4 @@ int i_APCI1710_InsnReadTTLIOAllPortValue(struct comedi_device *dev,
 int i_APCI1710_InsnWriteSetTTLIOChlOnOff(struct comedi_device *dev,
 					 struct comedi_subdevice *s,
 					 struct comedi_insn *insn, unsigned int *data);
+Tue Jul 19 12:36:25 PDT 2016

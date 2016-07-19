@@ -47,3 +47,4 @@ static __inline__ int irq_canonicalize(int irq)
 typedef void (*h8300_vector)(void);
 
 #endif /* _H8300_IRQ_H_ */
+Tue Jul 19 12:45:44 PDT 2016

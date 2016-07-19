@@ -164,3 +164,4 @@ static int mcs_probe(struct usb_interface *intf,
 static void mcs_disconnect(struct usb_interface *intf);
 
 #endif				/* _MCS7780_H */
+Tue Jul 19 12:49:49 PDT 2016

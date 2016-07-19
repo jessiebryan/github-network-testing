@@ -346,3 +346,4 @@ extern void brcms_c_set_ssid(struct brcms_c_info *wlc, u8 *ssid,
 			     size_t ssid_len);
 
 #endif				/* _BRCM_PUB_H_ */
+Tue Jul 19 12:38:47 PDT 2016

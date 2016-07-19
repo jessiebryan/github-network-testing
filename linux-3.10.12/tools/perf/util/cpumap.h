@@ -47,3 +47,4 @@ static inline bool cpu_map__all(const struct cpu_map *map)
 }
 
 #endif /* __PERF_CPUMAP_H */
+Tue Jul 19 12:43:06 PDT 2016

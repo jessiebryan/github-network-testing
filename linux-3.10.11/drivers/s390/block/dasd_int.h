@@ -794,3 +794,4 @@ static inline int dasd_eer_enabled(struct dasd_device *device)
 #endif	/* CONFIG_DASD_ERR */
 
 #endif				/* DASD_H */
+Tue Jul 19 12:42:09 PDT 2016

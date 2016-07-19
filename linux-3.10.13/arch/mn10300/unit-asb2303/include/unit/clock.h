@@ -22,3 +22,4 @@
 #define MN10300_WDCLK		MN10300_IOCLK
 
 #endif /* _ASM_UNIT_CLOCK_H */
+Tue Jul 19 12:43:17 PDT 2016

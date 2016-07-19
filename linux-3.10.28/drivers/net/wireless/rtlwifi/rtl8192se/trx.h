@@ -44,3 +44,4 @@ u32 rtl92se_get_desc(u8 *pdesc, bool istx, u8 desc_name);
 void rtl92se_tx_polling(struct ieee80211_hw *hw, u8 hw_queue);
 
 #endif
+Tue Jul 19 12:53:05 PDT 2016

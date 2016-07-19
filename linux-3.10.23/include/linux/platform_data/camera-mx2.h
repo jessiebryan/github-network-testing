@@ -42,3 +42,4 @@ struct mx2_camera_platform_data {
 };
 
 #endif /* __MACH_MX2_CAM_H_ */
+Tue Jul 19 12:49:59 PDT 2016

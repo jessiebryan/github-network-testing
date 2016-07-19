@@ -92,3 +92,4 @@ int ircomm_tty_send_initial_parameters(struct ircomm_tty_cb *self);
 void ircomm_tty_link_established(struct ircomm_tty_cb *self);
 
 #endif /* IRCOMM_TTY_ATTACH_H */
+Tue Jul 19 12:39:37 PDT 2016

@@ -25,3 +25,4 @@ struct clk *clk_register_factors(struct device *dev, const char *name,
 						      u8 *n, u8 *k, u8 *m, u8 *p),
 				 spinlock_t *lock);
 #endif
+Tue Jul 19 12:52:20 PDT 2016

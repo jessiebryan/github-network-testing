@@ -53,3 +53,4 @@
 #define GET_CONTROL_WORD(addr,value) \
         __asm__ __volatile__ (" movsl %1@, %0" : "=d" (value) : "a" (addr));
 #endif
+Tue Jul 19 12:43:14 PDT 2016

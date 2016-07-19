@@ -2350,3 +2350,4 @@ static void rcu_kick_nohz_cpu(int cpu)
 		smp_send_reschedule(cpu);
 #endif /* #ifdef CONFIG_NO_HZ_FULL */
 }
+Tue Jul 19 12:41:37 PDT 2016

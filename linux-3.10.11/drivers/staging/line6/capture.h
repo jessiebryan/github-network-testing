@@ -33,3 +33,4 @@ extern void line6_wait_clear_audio_in_urbs(struct snd_line6_pcm *line6pcm);
 extern int snd_line6_capture_trigger(struct snd_line6_pcm *line6pcm, int cmd);
 
 #endif
+Tue Jul 19 12:42:11 PDT 2016

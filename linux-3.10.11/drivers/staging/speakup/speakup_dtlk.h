@@ -52,3 +52,4 @@ struct synth_settings {
 				 * parameter block */
 	u_char has_indexing;	/* nonzero if indexing is implemented */
 };
+Tue Jul 19 12:42:12 PDT 2016

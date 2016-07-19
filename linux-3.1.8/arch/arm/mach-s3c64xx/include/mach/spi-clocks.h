@@ -16,3 +16,4 @@
 #define S3C64XX_SPI_SRCCLK_48M		2
 
 #endif /* __S3C64XX_PLAT_SPI_CLKS_H */
+Tue Jul 19 12:37:14 PDT 2016

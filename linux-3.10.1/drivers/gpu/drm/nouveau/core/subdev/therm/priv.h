@@ -148,3 +148,4 @@ int nouveau_fantog_create(struct nouveau_therm *, struct dcb_gpio_func *);
 int nouveau_fannil_create(struct nouveau_therm *);
 
 #endif
+Tue Jul 19 12:38:43 PDT 2016

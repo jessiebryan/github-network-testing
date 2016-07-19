@@ -153,3 +153,4 @@ static inline void unregister_hotplug_dock_device(acpi_handle handle)
 #endif
 
 #endif /*__ACPI_DRIVERS_H__*/
+Tue Jul 19 12:46:05 PDT 2016

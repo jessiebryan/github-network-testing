@@ -3110,3 +3110,4 @@ struct e1000_host_command_info {
 #define AUTONEG_ADVERTISE_10_ALL        0x0003	/* 10Mbps Full & Half speeds */
 
 #endif /* _E1000_HW_H_ */
+Tue Jul 19 12:51:07 PDT 2016

@@ -13,3 +13,4 @@ static inline void __iomem *acpi_os_ioremap(acpi_physical_address phys,
 void __iomem *acpi_os_get_iomem(acpi_physical_address phys, unsigned int size);
 
 #endif
+Tue Jul 19 12:36:29 PDT 2016

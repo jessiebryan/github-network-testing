@@ -90,3 +90,4 @@ static inline void irq_domain_generate_simple(const struct of_device_id *match,
 #endif /* CONFIG_IRQ_DOMAIN && CONFIG_OF_IRQ */
 
 #endif /* _LINUX_IRQDOMAIN_H */
+Tue Jul 19 12:34:25 PDT 2016

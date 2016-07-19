@@ -50,3 +50,4 @@ struct gpio_extcon_platform_data {
 };
 
 #endif /* __EXTCON_GPIO_H__ */
+Tue Jul 19 12:51:15 PDT 2016

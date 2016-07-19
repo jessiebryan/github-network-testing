@@ -176,3 +176,4 @@ void sort_entry__setup_elide(struct sort_entry *self, struct strlist *list,
 			     const char *list_name, FILE *fp);
 
 #endif	/* __PERF_SORT_H */
+Tue Jul 19 12:40:20 PDT 2016

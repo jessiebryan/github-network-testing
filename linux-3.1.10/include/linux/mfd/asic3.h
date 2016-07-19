@@ -311,3 +311,4 @@ extern void asic3_write_register(struct asic3 *asic, unsigned int reg, u32 val);
 extern u32 asic3_read_register(struct asic3 *asic, unsigned int reg);
 
 #endif /* __ASIC3_H__ */
+Tue Jul 19 12:33:40 PDT 2016

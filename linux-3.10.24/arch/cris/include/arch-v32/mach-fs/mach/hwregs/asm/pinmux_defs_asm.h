@@ -630,3 +630,4 @@
 #define regk_pinmux_rw_usb_phy_default            0x00000000
 #define regk_pinmux_yes                           0x00000001
 #endif /* __pinmux_defs_asm_h */
+Tue Jul 19 12:50:12 PDT 2016

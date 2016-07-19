@@ -225,3 +225,4 @@ extern int bcma_core_pci_pcibios_map_irq(const struct pci_dev *dev);
 extern int bcma_core_pci_plat_dev_init(struct pci_dev *dev);
 
 #endif /* LINUX_BCMA_DRIVER_PCI_H_ */
+Tue Jul 19 12:41:28 PDT 2016

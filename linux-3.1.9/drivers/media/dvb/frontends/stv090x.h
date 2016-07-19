@@ -132,3 +132,4 @@ static inline int stv090x_set_gpio(struct dvb_frontend *fe, u8 gpio,
 #endif /* CONFIG_DVB_STV090x */
 
 #endif /* __STV090x_H */
+Tue Jul 19 12:38:09 PDT 2016

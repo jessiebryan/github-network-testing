@@ -111,3 +111,4 @@ extern struct nlm_soc_info nlm_nodes[NLM_NR_NODES];
 extern int nlm_cpu_ready[];
 #endif
 #endif /* _NETLOGIC_COMMON_H_ */
+Tue Jul 19 12:43:16 PDT 2016

@@ -80,3 +80,4 @@ int regmap_update_bits(struct regmap *map, unsigned int reg,
 		       unsigned int mask, unsigned int val);
 
 #endif
+Tue Jul 19 12:38:21 PDT 2016

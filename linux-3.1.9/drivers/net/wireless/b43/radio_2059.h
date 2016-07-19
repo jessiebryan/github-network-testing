@@ -52,3 +52,4 @@ const struct b43_phy_ht_channeltab_e_radio2059
 *b43_phy_ht_get_channeltab_e_r2059(struct b43_wldev *dev, u16 freq);
 
 #endif /* B43_RADIO_2059_H_ */
+Tue Jul 19 12:38:11 PDT 2016

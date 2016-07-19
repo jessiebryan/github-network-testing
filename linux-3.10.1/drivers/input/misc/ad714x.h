@@ -53,3 +53,4 @@ struct ad714x_chip *ad714x_probe(struct device *dev, u16 bus_type, int irq,
 void ad714x_remove(struct ad714x_chip *ad714x);
 
 #endif
+Tue Jul 19 12:38:43 PDT 2016

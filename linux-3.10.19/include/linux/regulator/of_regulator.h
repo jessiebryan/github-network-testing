@@ -38,3 +38,4 @@ static inline int of_regulator_match(struct device *dev,
 #endif /* CONFIG_OF */
 
 #endif /* __LINUX_OF_REG_H */
+Tue Jul 19 12:47:26 PDT 2016

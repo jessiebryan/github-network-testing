@@ -71,3 +71,4 @@ static struct xor_block_template xor_block_niagara = {
 	   sun4v_chip_type == SUN4V_CHIP_NIAGARA5)) ? \
 	 &xor_block_niagara : \
 	 &xor_block_VIS)
+Tue Jul 19 12:51:00 PDT 2016

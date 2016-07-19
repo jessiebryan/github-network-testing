@@ -35,3 +35,4 @@ int comedi_find_subdevice_by_type(struct comedi_device *dev, int type,
 int comedi_get_n_channels(struct comedi_device *dev, unsigned int subdevice);
 
 #endif
+Tue Jul 19 12:40:06 PDT 2016

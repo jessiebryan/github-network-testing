@@ -23,3 +23,4 @@ extern int scm_call(u32 svc_id, u32 cmd_id, const void *cmd_buf, size_t cmd_len,
 extern u32 scm_get_version(void);
 
 #endif
+Tue Jul 19 12:41:42 PDT 2016

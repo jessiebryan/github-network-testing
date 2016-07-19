@@ -27,3 +27,4 @@ void twl6040_hs_jack_detect(struct snd_soc_codec *codec,
 int twl6040_get_clk_id(struct snd_soc_codec *codec);
 
 #endif /* End of __TWL6040_H__ */
+Tue Jul 19 12:36:36 PDT 2016

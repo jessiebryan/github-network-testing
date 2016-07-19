@@ -27,3 +27,4 @@
 int mwifiex_register_cfg80211(struct mwifiex_adapter *);
 
 #endif
+Tue Jul 19 12:49:11 PDT 2016

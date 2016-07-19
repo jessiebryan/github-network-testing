@@ -144,3 +144,4 @@ void omap3isp_resizer_resume(struct isp_res_device *isp_res);
 int omap3isp_resizer_busy(struct isp_res_device *isp_res);
 
 #endif	/* OMAP3_ISP_RESIZER_H */
+Tue Jul 19 12:45:57 PDT 2016

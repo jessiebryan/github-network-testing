@@ -46,3 +46,4 @@ extern MFT_REF ntfs_lookup_inode_by_name(ntfs_inode *dir_ni,
 		const ntfschar *uname, const int uname_len, ntfs_name **res);
 
 #endif /* _LINUX_NTFS_FS_DIR_H */
+Tue Jul 19 12:37:39 PDT 2016

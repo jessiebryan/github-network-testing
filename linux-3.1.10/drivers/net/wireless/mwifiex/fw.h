@@ -1196,3 +1196,4 @@ struct mwifiex_opt_sleep_confirm {
 	__le16 resp_ctrl;
 } __packed;
 #endif /* !_MWIFIEX_FW_H_ */
+Tue Jul 19 12:33:32 PDT 2016

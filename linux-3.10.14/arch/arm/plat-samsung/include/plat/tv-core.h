@@ -42,3 +42,4 @@ static inline void s5p_sdo_setname(char *name)
 }
 
 #endif /* __SAMSUNG_PLAT_TV_H */
+Tue Jul 19 12:43:49 PDT 2016

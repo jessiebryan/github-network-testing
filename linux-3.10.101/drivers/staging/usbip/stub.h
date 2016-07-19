@@ -110,3 +110,4 @@ void stub_complete(struct urb *urb);
 int stub_tx_loop(void *data);
 
 #endif /* __USBIP_STUB_H */
+Tue Jul 19 12:40:46 PDT 2016

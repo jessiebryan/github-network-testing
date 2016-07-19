@@ -387,3 +387,4 @@ int snd_ymfpci_mixer(struct snd_ymfpci *chip, int rear_switch);
 int snd_ymfpci_timer(struct snd_ymfpci *chip, int device);
 
 #endif /* __SOUND_YMFPCI_H */
+Tue Jul 19 12:47:31 PDT 2016

@@ -19,3 +19,4 @@ int pl080_get_signal(const struct pl08x_channel_data *cd);
 void pl080_put_signal(const struct pl08x_channel_data *cd, int signal);
 
 #endif /* __PLAT_PL080_H */
+Tue Jul 19 12:50:49 PDT 2016

@@ -39,3 +39,4 @@ extern const struct drm_crtc_funcs mdfld_intel_crtc_funcs;
 extern void mdfld_output_setup(struct drm_device *dev);
 
 #endif
+Tue Jul 19 12:37:35 PDT 2016

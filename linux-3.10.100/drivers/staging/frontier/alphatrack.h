@@ -74,3 +74,4 @@ enum LightID {
 #define BUTTONMASK_AUTO         0x00000100
 
 /* #define BUTTONMASK_FOOTSWITCH FIXME */
+Tue Jul 19 12:40:06 PDT 2016

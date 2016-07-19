@@ -83,3 +83,4 @@
 	(SOLO_JPEG_EXT_ADDR(__solo) + SOLO_JPEG_EXT_SIZE(__solo))
 
 #endif /* __SOLO6X10_OFFSETS_H */
+Tue Jul 19 12:39:28 PDT 2016

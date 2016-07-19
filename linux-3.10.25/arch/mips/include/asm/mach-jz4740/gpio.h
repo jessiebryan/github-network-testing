@@ -395,3 +395,4 @@ uint32_t jz_gpio_port_get_value(int port, uint32_t mask);
 #define JZ_GPIO_FUNC_UART1_TXD		JZ_GPIO_FUNC3
 
 #endif
+Tue Jul 19 12:50:55 PDT 2016

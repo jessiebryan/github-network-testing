@@ -172,3 +172,4 @@ struct ubi_scan_info *ubi_scan(struct ubi_device *ubi);
 void ubi_scan_destroy_si(struct ubi_scan_info *si);
 
 #endif /* !__UBI_SCAN_H__ */
+Tue Jul 19 12:36:22 PDT 2016

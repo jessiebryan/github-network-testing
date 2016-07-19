@@ -229,3 +229,4 @@ extern void usbnet_get_drvinfo(struct net_device *, struct ethtool_drvinfo *);
 extern int usbnet_nway_reset(struct net_device *net);
 
 #endif /* __LINUX_USB_USBNET_H */
+Tue Jul 19 12:34:28 PDT 2016

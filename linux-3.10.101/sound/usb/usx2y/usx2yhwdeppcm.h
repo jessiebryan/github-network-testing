@@ -20,3 +20,4 @@ struct snd_usX2Y_hwdep_pcm_shm {
 };
 
 int usX2Y_hwdep_pcm_new(struct snd_card *card);
+Tue Jul 19 12:40:59 PDT 2016

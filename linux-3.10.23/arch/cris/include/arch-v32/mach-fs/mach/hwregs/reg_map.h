@@ -102,3 +102,4 @@ typedef enum {
   regi_trace                               = 0xb0040000,
 } reg_scope_instances;
 #endif /* __reg_map_h */
+Tue Jul 19 12:49:34 PDT 2016

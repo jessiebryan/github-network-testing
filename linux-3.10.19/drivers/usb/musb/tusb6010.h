@@ -230,3 +230,4 @@ extern u8 tusb_get_revision(struct musb *musb);
 #define TUSB_REV_31	0x31
 
 #endif /* __TUSB6010_H__ */
+Tue Jul 19 12:47:20 PDT 2016

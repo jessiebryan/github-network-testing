@@ -18,3 +18,4 @@ struct clk_interface {
 extern struct clk_interface clk_functions;
 
 #endif /* __ASM_POWERPC_CLK_INTERFACE_H */
+Tue Jul 19 12:47:44 PDT 2016

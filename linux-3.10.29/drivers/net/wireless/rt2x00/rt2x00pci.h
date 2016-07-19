@@ -49,3 +49,4 @@ int rt2x00pci_resume(struct pci_dev *pci_dev);
 #endif /* CONFIG_PM */
 
 #endif /* RT2X00PCI_H */
+Tue Jul 19 12:53:44 PDT 2016

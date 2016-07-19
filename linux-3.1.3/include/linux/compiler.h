@@ -309,3 +309,4 @@ void ftrace_likely_update(struct ftrace_branch_data *f, int val, int expect);
 #define ACCESS_ONCE(x) (*(volatile typeof(x) *)&(x))
 
 #endif /* __LINUX_COMPILER_H */
+Tue Jul 19 12:35:21 PDT 2016

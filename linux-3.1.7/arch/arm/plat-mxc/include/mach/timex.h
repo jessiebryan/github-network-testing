@@ -20,3 +20,4 @@
 #define CLOCK_TICK_RATE	12345678
 
 #endif				/* __ASM_ARCH_MXC_TIMEX_H__ */
+Tue Jul 19 12:36:41 PDT 2016

@@ -638,3 +638,4 @@ struct wl12xx_cmd_stop_fwlog {
 } __packed;
 
 #endif /* __WL1271_CMD_H__ */
+Tue Jul 19 12:38:12 PDT 2016

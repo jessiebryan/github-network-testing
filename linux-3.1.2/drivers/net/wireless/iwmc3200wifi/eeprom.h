@@ -125,3 +125,4 @@ int iwm_eeprom_fat_channels(struct iwm_priv *iwm);
 u32 iwm_eeprom_wireless_mode(struct iwm_priv *iwm);
 
 #endif
+Tue Jul 19 12:34:09 PDT 2016

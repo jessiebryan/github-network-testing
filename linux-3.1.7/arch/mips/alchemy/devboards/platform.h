@@ -19,3 +19,4 @@ int __init db1x_register_norflash(unsigned long size, int width,
 				  int swapped);
 
 #endif
+Tue Jul 19 12:36:45 PDT 2016

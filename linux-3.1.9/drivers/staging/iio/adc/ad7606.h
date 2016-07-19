@@ -113,3 +113,4 @@ int ad7606_scan_from_ring(struct iio_dev *indio_dev, unsigned ch);
 int ad7606_register_ring_funcs_and_init(struct iio_dev *indio_dev);
 void ad7606_ring_cleanup(struct iio_dev *indio_dev);
 #endif /* IIO_ADC_AD7606_H_ */
+Tue Jul 19 12:38:14 PDT 2016

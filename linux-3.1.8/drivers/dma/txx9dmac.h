@@ -306,3 +306,4 @@ static inline void txx9dmac_desc_set_nosimple(struct txx9dmac_dev *ddev,
 #endif /* TXX9_DMA_USE_SIMPLE_CHAIN */
 
 #endif /* TXX9DMAC_H */
+Tue Jul 19 12:37:29 PDT 2016

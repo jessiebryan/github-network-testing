@@ -130,3 +130,4 @@ extern int pci_olpc_init(void);
 #define OLPC_GPIO_ECSCI		27
 
 #endif /* _ASM_X86_OLPC_H */
+Tue Jul 19 12:44:01 PDT 2016

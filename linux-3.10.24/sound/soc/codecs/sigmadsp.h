@@ -19,3 +19,4 @@ extern int process_sigma_firmware_regmap(struct device *dev,
 		struct regmap *regmap, const char *name);
 
 #endif
+Tue Jul 19 12:50:45 PDT 2016

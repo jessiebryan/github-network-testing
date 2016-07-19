@@ -65,3 +65,4 @@ int usbip_vhci_attach_device(uint8_t port, int sockfd, uint8_t busnum,
 int usbip_vhci_detach_device(uint8_t port);
 
 #endif /* __VHCI_DRIVER_H */
+Tue Jul 19 12:41:25 PDT 2016

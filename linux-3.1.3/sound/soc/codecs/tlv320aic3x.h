@@ -259,3 +259,4 @@ int aic3x_headset_detected(struct snd_soc_codec *codec);
 int aic3x_button_pressed(struct snd_soc_codec *codec);
 
 #endif /* _AIC3X_H */
+Tue Jul 19 12:35:28 PDT 2016

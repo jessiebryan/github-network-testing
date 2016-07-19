@@ -22,3 +22,4 @@ struct drm_encoder *exynos_drm_best_encoder(struct drm_connector *connector);
 void exynos_drm_display_power(struct drm_connector *connector, int mode);
 
 #endif
+Tue Jul 19 12:39:59 PDT 2016

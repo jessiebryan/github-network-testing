@@ -17,3 +17,4 @@ static __always_inline __init void *dmi_alloc(unsigned len)
 #define dmi_iounmap early_iounmap
 
 #endif /* _ASM_X86_DMI_H */
+Tue Jul 19 12:52:19 PDT 2016

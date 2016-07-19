@@ -75,3 +75,4 @@ int bgpio_init(struct bgpio_chip *bgc, struct device *dev,
 #define BGPIOF_BIG_ENDIAN_BYTE_ORDER	BIT(3)
 
 #endif /* __BASIC_MMIO_GPIO_H */
+Tue Jul 19 12:46:06 PDT 2016

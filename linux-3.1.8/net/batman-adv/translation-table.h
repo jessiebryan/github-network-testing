@@ -64,3 +64,4 @@ void send_roam_adv(struct bat_priv *bat_priv, uint8_t *client,
 void tt_commit_changes(struct bat_priv *bat_priv);
 
 #endif /* _NET_BATMAN_ADV_TRANSLATION_TABLE_H_ */
+Tue Jul 19 12:37:48 PDT 2016

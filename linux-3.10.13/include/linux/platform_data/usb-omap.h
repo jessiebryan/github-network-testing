@@ -86,3 +86,4 @@ enum musb_interface {
 	MUSB_INTERFACE_ULPI,
 	MUSB_INTERFACE_UTMI
 };
+Tue Jul 19 12:43:38 PDT 2016

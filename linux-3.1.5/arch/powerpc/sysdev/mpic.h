@@ -41,3 +41,4 @@ extern int mpic_set_affinity(struct irq_data *d,
 extern void mpic_reset_core(int cpu);
 
 #endif /* _POWERPC_SYSDEV_MPIC_H */
+Tue Jul 19 12:36:15 PDT 2016

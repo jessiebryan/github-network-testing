@@ -76,3 +76,4 @@ static inline void arch_spin_unlock(arch_spinlock_t *lock)
 		do { cpu_relax(); } while (arch_spin_is_locked(lock))
 
 #endif /* __LINUX_SPINLOCK_UP_H */
+Tue Jul 19 12:35:24 PDT 2016

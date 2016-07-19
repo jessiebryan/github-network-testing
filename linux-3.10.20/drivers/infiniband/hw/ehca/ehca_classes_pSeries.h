@@ -206,3 +206,4 @@ struct hcp_modify_qp_control_block {
 #define MQPCB_MASK_SHARED_RQ_HNDL               EHCA_BMASK_IBM(51, 51)
 
 #endif /* __EHCA_CLASSES_PSERIES_H__ */
+Tue Jul 19 12:47:51 PDT 2016

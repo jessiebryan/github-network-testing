@@ -228,3 +228,4 @@ extern void mdfldWaitForPipeDisable(struct drm_device *dev, int pipe);
 extern void mdfldWaitForPipeEnable(struct drm_device *dev, int pipe);
 
 #endif				/* __INTEL_DRV_H__ */
+Tue Jul 19 12:36:25 PDT 2016

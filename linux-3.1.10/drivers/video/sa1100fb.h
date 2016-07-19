@@ -144,3 +144,4 @@ struct sa1100fb_info {
 #define MIN_XRES	64
 #define MIN_YRES	64
 
+Tue Jul 19 12:33:36 PDT 2016

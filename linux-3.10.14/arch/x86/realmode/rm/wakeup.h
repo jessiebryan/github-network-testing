@@ -40,3 +40,4 @@ extern struct wakeup_header wakeup_header;
 #define WAKEUP_BEHAVIOR_RESTORE_EFER		2
 
 #endif /* ARCH_X86_KERNEL_ACPI_RM_WAKEUP_H */
+Tue Jul 19 12:44:02 PDT 2016

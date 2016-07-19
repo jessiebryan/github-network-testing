@@ -87,3 +87,4 @@ int o2hb_get_all_regions(char *region_uuids, u8 numregions);
 int o2hb_global_heartbeat_active(void);
 
 #endif /* O2CLUSTER_HEARTBEAT_H */
+Tue Jul 19 12:49:55 PDT 2016

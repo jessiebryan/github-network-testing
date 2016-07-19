@@ -50,3 +50,4 @@ extern int cpu_check_affinity(struct irq_data *d, const struct cpumask *dest);
 extern struct tasklet_struct power_tasklet;
 
 #endif	/* _ASM_PARISC_IRQ_H */
+Tue Jul 19 12:43:56 PDT 2016

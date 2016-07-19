@@ -49,3 +49,4 @@ extern int s3c2443_clkcon_enable_s(struct clk *clk, int enable);
 extern struct clksrc_clk clk_epllref;
 extern struct clksrc_clk clk_esysclk;
 extern struct clksrc_clk clk_msysclk;
+Tue Jul 19 12:34:44 PDT 2016

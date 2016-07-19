@@ -384,3 +384,4 @@ static inline int uart_handle_break(struct uart_port *port)
 					 !((cflag) & CLOCAL))
 
 #endif /* LINUX_SERIAL_CORE_H */
+Tue Jul 19 12:39:35 PDT 2016

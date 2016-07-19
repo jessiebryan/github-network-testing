@@ -378,3 +378,4 @@ extern void gelic_net_get_drvinfo(struct net_device *netdev,
 extern void gelic_net_poll_controller(struct net_device *netdev);
 
 #endif /* _GELIC_NET_H */
+Tue Jul 19 12:35:14 PDT 2016

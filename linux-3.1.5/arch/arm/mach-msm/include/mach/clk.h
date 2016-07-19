@@ -38,3 +38,4 @@ int clk_reset(struct clk *clk, enum clk_reset_action action);
 int clk_set_flags(struct clk *clk, unsigned long flags);
 
 #endif
+Tue Jul 19 12:36:04 PDT 2016

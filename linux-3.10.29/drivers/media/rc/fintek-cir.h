@@ -243,3 +243,4 @@ struct fintek_dev {
 #define CIR_TX_CONTROL_TX_START	0x80
 #define CIR_TX_CONTROL_TX_END	0x40
 
+Tue Jul 19 12:53:41 PDT 2016

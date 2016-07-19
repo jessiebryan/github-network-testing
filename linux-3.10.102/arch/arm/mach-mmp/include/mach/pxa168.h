@@ -132,3 +132,4 @@ static inline int pxa168_add_eth(struct pxa168_eth_platform_data *data)
 	return pxa_register_device(&pxa168_device_eth, data, sizeof(*data));
 }
 #endif /* __ASM_MACH_PXA168_H */
+Tue Jul 19 12:41:02 PDT 2016

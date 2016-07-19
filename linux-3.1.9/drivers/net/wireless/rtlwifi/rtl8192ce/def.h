@@ -372,3 +372,4 @@ static inline int _rtl92c_rate_mapping(struct ieee80211_hw *hw, bool isHT,
 }
 
 #endif
+Tue Jul 19 12:38:12 PDT 2016

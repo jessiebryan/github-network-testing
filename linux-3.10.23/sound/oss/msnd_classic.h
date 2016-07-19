@@ -183,3 +183,4 @@
 #define LONGNAME		"MultiSound (Classic/Monterey/Tahiti)"
 
 #endif /* __MSND_CLASSIC_H */
+Tue Jul 19 12:50:05 PDT 2016

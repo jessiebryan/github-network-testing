@@ -232,3 +232,4 @@ void asix_get_drvinfo(struct net_device *net, struct ethtool_drvinfo *info);
 int asix_set_mac_address(struct net_device *net, void *p);
 
 #endif /* _ASIX_H */
+Tue Jul 19 12:53:04 PDT 2016

@@ -831,3 +831,4 @@
 	.private_value = SOC_SINGLE_VALUE(reg, shift, max, invert) }
 
 #endif /* _WM8991_H */
+Tue Jul 19 12:42:27 PDT 2016

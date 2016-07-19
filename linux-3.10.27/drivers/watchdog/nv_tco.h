@@ -62,3 +62,4 @@
  */
 #define MCP51_SMI_EN(base)	((base) - 0x40 + 0x04)
 #  define MCP51_SMI_EN_TCO	((1 << 4) | (1 << 5))
+Tue Jul 19 12:52:31 PDT 2016

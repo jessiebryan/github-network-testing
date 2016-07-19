@@ -73,3 +73,4 @@ static inline void snd_ivtv_unlock(struct snd_ivtv_card *itvsc)
 
 #define IVTV_ALSA_INFO(fmt, args...) \
 	pr_info("%s-alsa: " fmt, v4l2_dev->name , ## args)
+Tue Jul 19 12:43:26 PDT 2016

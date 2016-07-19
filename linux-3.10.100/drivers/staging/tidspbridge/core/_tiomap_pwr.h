@@ -83,3 +83,4 @@ int handle_constraints_set(struct bridge_dev_context *dev_context,
 void dsp_clk_wakeup_event_ctrl(u32 clock_id, bool enable);
 
 #endif /* _TIOMAP_PWR_ */
+Tue Jul 19 12:40:07 PDT 2016

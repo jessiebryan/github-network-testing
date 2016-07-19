@@ -4,3 +4,4 @@ extern unsigned char XGIInitNew(struct xgi_hw_device_info *HwDeviceExtension);
 extern struct XGI21_LVDSCapStruct  XGI21_LCDCapList[13];
 #endif
 
+Tue Jul 19 12:34:17 PDT 2016

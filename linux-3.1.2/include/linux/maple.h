@@ -103,3 +103,4 @@ void maple_clear_dev(struct maple_device *mdev);
 #define maple_set_drvdata(d,p)		dev_set_drvdata(&(d)->dev, (p))
 
 #endif				/* __LINUX_MAPLE_H */
+Tue Jul 19 12:34:25 PDT 2016

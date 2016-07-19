@@ -36,3 +36,4 @@
 #define MICREL_PHY_50MHZ_CLK	0x00000001
 
 #endif /* _MICREL_PHY_H */
+Tue Jul 19 12:42:19 PDT 2016

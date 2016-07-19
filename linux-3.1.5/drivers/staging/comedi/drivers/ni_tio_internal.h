@@ -782,3 +782,4 @@ int ni_tio_set_gate_src(struct ni_gpct *counter, unsigned gate_index,
 			unsigned int gate_source);
 
 #endif /* _COMEDI_NI_TIO_INTERNAL_H */
+Tue Jul 19 12:36:25 PDT 2016

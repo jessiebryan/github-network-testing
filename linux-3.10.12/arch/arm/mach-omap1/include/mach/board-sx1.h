@@ -50,3 +50,4 @@ extern void sx1_mmc_init(void);
 extern void sx1_mmc_slot_cover_handler(void *arg, int state);
 
 #endif /* __ASM_ARCH_SX1_I2C_CHIPS_H */
+Tue Jul 19 12:42:30 PDT 2016

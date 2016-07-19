@@ -145,3 +145,4 @@ of_find_backlight_by_node(struct device_node *node)
 #endif
 
 #endif
+Tue Jul 19 12:50:35 PDT 2016

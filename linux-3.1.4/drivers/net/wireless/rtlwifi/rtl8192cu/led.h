@@ -35,3 +35,4 @@ void rtl92cu_sw_led_off(struct ieee80211_hw *hw, struct rtl_led *pled);
 void rtl92cu_led_control(struct ieee80211_hw *hw, enum led_ctl_mode ledaction);
 
 #endif
+Tue Jul 19 12:35:49 PDT 2016

@@ -20,3 +20,4 @@ struct twofish_ctx {
 int twofish_setkey(struct crypto_tfm *tfm, const u8 *key, unsigned int key_len);
 
 #endif
+Tue Jul 19 12:37:40 PDT 2016

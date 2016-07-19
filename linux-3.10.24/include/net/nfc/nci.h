@@ -391,3 +391,4 @@ struct nci_rf_deactivate_ntf {
 } __packed;
 
 #endif /* __NCI_H */
+Tue Jul 19 12:50:40 PDT 2016

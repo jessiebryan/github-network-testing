@@ -123,3 +123,4 @@ static inline bool efi_is_native(void)
 #endif /* CONFIG_EFI */
 
 #endif /* _ASM_X86_EFI_H */
+Tue Jul 19 12:44:01 PDT 2016

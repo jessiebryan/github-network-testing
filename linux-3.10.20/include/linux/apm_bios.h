@@ -99,3 +99,4 @@ extern struct apm_info	apm_info;
 #define APM_DEVICE_BALL		((apm_info.connection_version > 0x0100) ? \
 				 APM_DEVICE_ALL : APM_DEVICE_OLD_ALL)
 #endif	/* LINUX_APM_H */
+Tue Jul 19 12:48:01 PDT 2016

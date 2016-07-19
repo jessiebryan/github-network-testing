@@ -206,3 +206,4 @@ unsigned long __rounddown_pow_of_two(unsigned long n)
 #define order_base_2(n) ilog2(roundup_pow_of_two(n))
 
 #endif /* _LINUX_LOG2_H */
+Tue Jul 19 12:38:19 PDT 2016

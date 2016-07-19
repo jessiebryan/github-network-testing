@@ -53,3 +53,4 @@ static inline unsigned int ssb_mips_irq(struct ssb_device *dev)
 #endif /* CONFIG_SSB_DRIVER_MIPS */
 
 #endif /* LINUX_SSB_MIPSCORE_H_ */
+Tue Jul 19 12:40:53 PDT 2016

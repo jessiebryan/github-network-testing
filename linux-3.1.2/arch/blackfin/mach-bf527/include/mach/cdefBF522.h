@@ -1093,3 +1093,4 @@
 #define bfin_write_NFC_DATA_RD(val)		bfin_write16(NFC_DATA_RD, val)
 
 #endif /* _CDEF_BF522_H */
+Tue Jul 19 12:33:53 PDT 2016

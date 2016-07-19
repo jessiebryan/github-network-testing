@@ -733,3 +733,4 @@ static inline int gru_get_tri(void *vaddr)
 	return ((unsigned long)vaddr & (GRU_GSEG_PAGESIZE - 1)) - GRU_DS_BASE;
 }
 #endif		/* __GRU_INSTRUCTIONS_H__ */
+Tue Jul 19 12:36:22 PDT 2016

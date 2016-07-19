@@ -39,3 +39,4 @@
 
 /* Reads a 16 bits word. */
 u32 eprom_read(struct r8192_priv *priv, u32 addr);
+Tue Jul 19 12:36:26 PDT 2016

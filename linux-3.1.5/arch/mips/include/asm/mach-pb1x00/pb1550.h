@@ -71,3 +71,4 @@
 #define NAND_STADDR	0x12000FFF /* physical address 0x20000000 */
 
 #endif /* __ASM_PB1550_H */
+Tue Jul 19 12:36:12 PDT 2016

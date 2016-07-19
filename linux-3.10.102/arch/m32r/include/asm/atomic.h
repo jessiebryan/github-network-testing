@@ -315,3 +315,4 @@ static __inline__ void atomic_set_mask(unsigned long  mask, atomic_t *addr)
 #define smp_mb__after_atomic_inc()	barrier()
 
 #endif	/* _ASM_M32R_ATOMIC_H */
+Tue Jul 19 12:41:07 PDT 2016

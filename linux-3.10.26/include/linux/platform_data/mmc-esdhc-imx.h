@@ -42,3 +42,4 @@ struct esdhc_platform_data {
 	int max_bus_width;
 };
 #endif /* __ASM_ARCH_IMX_ESDHC_H */
+Tue Jul 19 12:51:57 PDT 2016

@@ -754,3 +754,4 @@ extern u32 omap4_prm_rmw_inst_reg_bits(u32 mask, u32 bits, s16 inst, s16 idx);
 # endif
 
 #endif
+Tue Jul 19 12:37:52 PDT 2016

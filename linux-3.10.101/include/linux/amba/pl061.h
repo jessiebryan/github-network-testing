@@ -14,3 +14,4 @@ struct pl061_platform_data {
 	u8		directions;	/* startup directions, 1: out, 0: in */
 	u8		values;		/* startup values */
 };
+Tue Jul 19 12:40:50 PDT 2016

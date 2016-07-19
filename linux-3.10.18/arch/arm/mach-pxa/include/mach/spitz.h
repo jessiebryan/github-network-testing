@@ -187,3 +187,4 @@
  */
 extern struct platform_device spitzssp_device;
 extern struct sharpsl_charger_machinfo spitz_pm_machinfo;
+Tue Jul 19 12:46:18 PDT 2016

@@ -249,3 +249,4 @@ static inline int vga_client_register(struct pci_dev *pdev, void *cookie,
 #endif
 
 #endif /* LINUX_VGA_H */
+Tue Jul 19 12:45:33 PDT 2016

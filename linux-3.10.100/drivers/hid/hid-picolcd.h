@@ -307,3 +307,4 @@ static inline void picolcd_exit_cir(struct picolcd_data *data)
 int picolcd_reset(struct hid_device *hdev);
 struct picolcd_pending *picolcd_send_and_wait(struct hid_device *hdev,
 			int report_id, const u8 *raw_data, int size);
+Tue Jul 19 12:40:00 PDT 2016

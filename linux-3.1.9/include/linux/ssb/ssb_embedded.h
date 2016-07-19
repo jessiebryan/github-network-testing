@@ -16,3 +16,4 @@ u32 ssb_gpio_intmask(struct ssb_bus *bus, u32 mask, u32 value);
 u32 ssb_gpio_polarity(struct ssb_bus *bus, u32 mask, u32 value);
 
 #endif /* LINUX_SSB_EMBEDDED_H_ */
+Tue Jul 19 12:38:21 PDT 2016

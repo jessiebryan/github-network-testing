@@ -254,3 +254,4 @@ otg_unregister_notifier(struct otg_transceiver *otg, struct notifier_block *nb)
 extern int usb_bus_start_enum(struct usb_bus *bus, unsigned port_num);
 
 #endif /* __LINUX_USB_OTG_H */
+Tue Jul 19 12:35:59 PDT 2016

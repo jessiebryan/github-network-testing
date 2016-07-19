@@ -62,3 +62,4 @@ static inline struct dvb_frontend *ix2505v_attach(struct dvb_frontend *fe,
 #endif
 
 #endif /* DVB_IX2505V_H */
+Tue Jul 19 12:43:25 PDT 2016

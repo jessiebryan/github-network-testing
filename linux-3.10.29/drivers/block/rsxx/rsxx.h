@@ -45,3 +45,4 @@ struct rsxx_reg_access {
 #define RSXX_SETREG _IOWR(RSXX_IOC_MAGIC, 0x21, struct rsxx_reg_access)
 
 #endif /* __RSXX_H_ */
+Tue Jul 19 12:53:38 PDT 2016

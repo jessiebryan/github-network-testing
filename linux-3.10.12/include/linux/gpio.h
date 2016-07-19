@@ -237,3 +237,4 @@ int devm_gpio_request_one(struct device *dev, unsigned gpio,
 void devm_gpio_free(struct device *dev, unsigned int gpio);
 
 #endif /* __LINUX_GPIO_H */
+Tue Jul 19 12:42:58 PDT 2016

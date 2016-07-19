@@ -75,3 +75,4 @@ static inline void __arch_decomp_setup(unsigned long arch_id)
 #define arch_decomp_wdog()
 
 #endif /* __MACH_MXS_UNCOMPRESS_H__ */
+Tue Jul 19 12:36:05 PDT 2016

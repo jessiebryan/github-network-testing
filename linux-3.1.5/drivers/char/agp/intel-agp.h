@@ -239,3 +239,4 @@ int intel_gmch_probe(struct pci_dev *pdev,
 			       struct agp_bridge_data *bridge);
 void intel_gmch_remove(struct pci_dev *pdev);
 #endif
+Tue Jul 19 12:36:19 PDT 2016

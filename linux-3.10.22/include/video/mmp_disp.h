@@ -350,3 +350,4 @@ struct mmp_mach_panel_info {
 	const char *plat_path_name;
 };
 #endif	/* _MMP_DISP_H_ */
+Tue Jul 19 12:49:26 PDT 2016

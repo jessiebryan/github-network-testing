@@ -71,3 +71,4 @@ static inline int intel_scu_notifier_post(unsigned long v, void *p)
 #define		SCU_DOWN		2
 
 #endif
+Tue Jul 19 12:41:15 PDT 2016

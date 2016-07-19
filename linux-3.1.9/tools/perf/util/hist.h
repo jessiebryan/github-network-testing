@@ -115,3 +115,4 @@ int perf_evlist__tui_browse_hists(struct perf_evlist *evlist, const char *help);
 unsigned int hists__sort_list_width(struct hists *self);
 
 #endif	/* __PERF_HIST_H */
+Tue Jul 19 12:38:25 PDT 2016

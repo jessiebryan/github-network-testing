@@ -14,3 +14,4 @@ void lacie_v2_register_i2c_devices(void);
 void lacie_v2_hdd_power_init(int hdd_num);
 
 #endif
+Tue Jul 19 12:50:08 PDT 2016

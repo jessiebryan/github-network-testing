@@ -16,3 +16,4 @@ int platform_resource_setup_memory(struct platform_device *pdev,
 void plat_early_device_setup(void);
 
 #endif /* __ASM_SH_DEVICE_H */
+Tue Jul 19 12:46:28 PDT 2016

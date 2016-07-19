@@ -98,3 +98,4 @@ static inline struct timespec ntfs2utc(const sle64 time)
 }
 
 #endif /* _LINUX_NTFS_TIME_H */
+Tue Jul 19 12:35:20 PDT 2016

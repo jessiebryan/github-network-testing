@@ -111,3 +111,4 @@ int altera_swap_dr(struct altera_state *astate, u32 count,
 				u8 *out_data, u32 out_index);
 void altera_free_buffers(struct altera_state *astate);
 #endif /* ALTERA_JTAG_H */
+Tue Jul 19 12:46:35 PDT 2016

@@ -195,3 +195,4 @@
 #define BAST_IDE_CS	S3C2410_CS5
 
 #endif /* __MACH_S3C24XX_BAST_H */
+Tue Jul 19 12:52:45 PDT 2016

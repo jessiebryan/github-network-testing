@@ -70,3 +70,4 @@ struct a3000_scsiregs {
 #define ISTR_FE_FLG		(1<<0)
 
 #endif /* A3000_H */
+Tue Jul 19 12:43:29 PDT 2016

@@ -334,3 +334,4 @@ void solo_set_motion_threshold(struct solo_dev *solo_dev, u8 ch, u16 val);
 int solo_osd_print(struct solo_enc_dev *solo_enc);
 
 #endif /* __SOLO6X10_H */
+Tue Jul 19 12:36:26 PDT 2016

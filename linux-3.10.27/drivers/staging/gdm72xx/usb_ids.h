@@ -80,3 +80,4 @@ static const struct usb_device_id id_table[] = {
 };
 
 #endif /* __USB_IDS_H__ */
+Tue Jul 19 12:52:28 PDT 2016

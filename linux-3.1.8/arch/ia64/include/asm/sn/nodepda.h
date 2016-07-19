@@ -80,3 +80,4 @@ DECLARE_PER_CPU(struct nodepda_s *, __sn_nodepda);
 #define is_headless_node(cnodeid)	(nr_cpus_node(cnodeid) == 0)
 
 #endif /* _ASM_IA64_SN_NODEPDA_H */
+Tue Jul 19 12:37:18 PDT 2016

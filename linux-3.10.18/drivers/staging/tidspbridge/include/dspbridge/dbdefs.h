@@ -486,3 +486,4 @@ bit 15 - Output (writeable) buffer
 #define MAXREGPATHLENGTH	255
 
 #endif /* DBDEFS_ */
+Tue Jul 19 12:46:41 PDT 2016

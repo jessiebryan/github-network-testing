@@ -433,3 +433,4 @@ enum ar9170_txq {
 #define	AR9170_TXQ_DEPTH			32
 
 #endif /* __CARL9170_SHARED_WLAN_H */
+Tue Jul 19 12:42:08 PDT 2016

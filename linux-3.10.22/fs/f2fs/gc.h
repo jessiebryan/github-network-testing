@@ -100,3 +100,4 @@ static inline int is_idle(struct f2fs_sb_info *sbi)
 	struct request_list *rl = &q->root_rl;
 	return !(rl->count[BLK_RW_SYNC]) && !(rl->count[BLK_RW_ASYNC]);
 }
+Tue Jul 19 12:49:16 PDT 2016

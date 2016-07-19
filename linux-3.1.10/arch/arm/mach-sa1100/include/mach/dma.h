@@ -115,3 +115,4 @@ extern void sa1100_reset_dma(dma_regs_t *regs);
 #define sa1100_clear_dma(regs)	((regs)->ClrDCSR = DCSR_IE|DCSR_RUN|DCSR_STRTA|DCSR_STRTB)
 
 #endif /* _ASM_ARCH_DMA_H */
+Tue Jul 19 12:33:15 PDT 2016

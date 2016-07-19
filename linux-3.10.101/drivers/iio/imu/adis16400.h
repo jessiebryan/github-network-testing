@@ -212,3 +212,4 @@ irqreturn_t adis16400_trigger_handler(int irq, void *p);
 #endif /* CONFIG_IIO_BUFFER */
 
 #endif /* SPI_ADIS16400_H_ */
+Tue Jul 19 12:40:39 PDT 2016

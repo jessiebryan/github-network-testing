@@ -79,3 +79,4 @@
 #define		AT91_SPI_DLYBCT		(0xff << 24)		/* Delay between Consecutive Transfers */
 
 #endif
+Tue Jul 19 12:37:50 PDT 2016

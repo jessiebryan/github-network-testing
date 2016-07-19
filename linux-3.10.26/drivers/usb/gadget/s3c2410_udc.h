@@ -98,3 +98,4 @@ struct s3c2410_udc {
 #define to_s3c2410(g)	(container_of((g), struct s3c2410_udc, gadget))
 
 #endif
+Tue Jul 19 12:51:51 PDT 2016

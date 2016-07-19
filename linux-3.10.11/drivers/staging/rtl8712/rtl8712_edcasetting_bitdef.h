@@ -75,3 +75,4 @@
 #define	_LRL_SHT		0
 
 #endif /* __RTL8712_EDCASETTING_BITDEF_H__*/
+Tue Jul 19 12:42:11 PDT 2016

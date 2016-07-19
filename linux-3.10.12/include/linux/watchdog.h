@@ -143,3 +143,4 @@ extern int watchdog_register_device(struct watchdog_device *);
 extern void watchdog_unregister_device(struct watchdog_device *);
 
 #endif  /* ifndef _LINUX_WATCHDOG_H */
+Tue Jul 19 12:43:01 PDT 2016

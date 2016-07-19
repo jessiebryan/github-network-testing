@@ -63,3 +63,4 @@ struct timer {
 #define RC32434_RCOMP_MSK		0x0000ffff
 
 #endif	/* __ASM_RC32434_TIMER_H */
+Tue Jul 19 12:39:13 PDT 2016

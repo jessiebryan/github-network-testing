@@ -99,3 +99,4 @@ TRACE_EVENT(brcmf_hexdump,
 #endif /* CONFIG_BRCM_TRACING */
 
 #endif /* BRCMF_TRACEPOINT_H_ */
+Tue Jul 19 12:45:23 PDT 2016

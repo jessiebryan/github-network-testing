@@ -26,3 +26,4 @@
 #define AIC7XXX_H_VERSION  "5.2.0"
 
 #endif /* _aic7xxx_h */
+Tue Jul 19 12:40:44 PDT 2016

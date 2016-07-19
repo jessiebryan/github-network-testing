@@ -118,3 +118,4 @@ static inline struct thread_info *current_thread_info(void)
 #define _TIF_DBGWORK_MASK	(_TIF_WORK_MASK & ~(1 << TIF_BREAKPOINT))
 
 #endif /* __ASM_AVR32_THREAD_INFO_H */
+Tue Jul 19 12:36:41 PDT 2016

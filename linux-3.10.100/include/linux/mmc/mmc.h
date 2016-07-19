@@ -419,3 +419,4 @@ struct _mmc_csd {
 #define MMC_SWITCH_MODE_WRITE_BYTE	0x03	/* Set target to value */
 
 #endif /* LINUX_MMC_MMC_H */
+Tue Jul 19 12:40:13 PDT 2016

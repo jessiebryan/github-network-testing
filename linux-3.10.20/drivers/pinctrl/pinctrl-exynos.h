@@ -97,3 +97,4 @@ struct exynos_muxed_weint_data {
 	unsigned int nr_banks;
 	struct samsung_pin_bank *banks[];
 };
+Tue Jul 19 12:47:55 PDT 2016

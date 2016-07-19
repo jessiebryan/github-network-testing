@@ -7,3 +7,4 @@ int reset_airo_card(struct net_device *dev);
 void stop_airo_card(struct net_device *dev, int freeres);
 
 #endif  /*  _AIRO_H_  */
+Tue Jul 19 12:53:43 PDT 2016

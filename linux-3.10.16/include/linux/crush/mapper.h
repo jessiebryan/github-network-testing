@@ -17,3 +17,4 @@ extern int crush_do_rule(const struct crush_map *map,
 			 const __u32 *weights);
 
 #endif
+Tue Jul 19 12:45:30 PDT 2016

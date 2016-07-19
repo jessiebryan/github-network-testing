@@ -15,3 +15,4 @@ extern __u32 crush_hash32_5(int type, __u32 a, __u32 b, __u32 c, __u32 d,
 			    __u32 e);
 
 #endif
+Tue Jul 19 12:49:57 PDT 2016

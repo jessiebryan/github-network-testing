@@ -57,3 +57,4 @@ extern int tc6393xb_lcd_set_power(struct platform_device *fb, bool on);
 #define	TC6393XB_NR_IRQS	8
 
 #endif
+Tue Jul 19 12:40:51 PDT 2016

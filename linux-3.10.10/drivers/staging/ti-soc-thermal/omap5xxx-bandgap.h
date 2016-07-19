@@ -198,3 +198,4 @@
 #define OMAP5430_CORE_T_COLD				795
 
 #endif /* __OMAP5XXX_BANDGAP_H */
+Tue Jul 19 12:39:29 PDT 2016

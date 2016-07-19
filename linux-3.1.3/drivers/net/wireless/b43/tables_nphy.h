@@ -207,3 +207,4 @@ extern const struct nphy_rf_control_override_rev3
 	tbl_rf_control_override_rev3[];
 
 #endif /* B43_TABLES_NPHY_H_ */
+Tue Jul 19 12:35:14 PDT 2016

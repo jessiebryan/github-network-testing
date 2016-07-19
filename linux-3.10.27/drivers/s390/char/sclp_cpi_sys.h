@@ -12,3 +12,4 @@ int sclp_cpi_set_data(const char *system, const char *sysplex,
 		      const char *type, u64 level);
 
 #endif	 /* __SCLP_CPI_SYS_H__ */
+Tue Jul 19 12:52:27 PDT 2016

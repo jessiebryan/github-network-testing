@@ -114,3 +114,4 @@ int ath9k_hif_usb_init(void);
 void ath9k_hif_usb_exit(void);
 
 #endif /* HTC_USB_H */
+Tue Jul 19 12:40:43 PDT 2016

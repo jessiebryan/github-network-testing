@@ -193,3 +193,4 @@ static inline unsigned int cpuid_edx(unsigned int op) { return 0; };
 #endif /* defined(__i386__) || defined(__x86_64__) */
 
 #endif /* __CPUPOWERUTILS_HELPERS__ */
+Tue Jul 19 12:53:21 PDT 2016

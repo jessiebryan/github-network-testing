@@ -1144,3 +1144,4 @@ void fc_set_rport_loss_tmo(struct fc_rport *, u32 timeout);
 struct fc_host_statistics *fc_get_host_stats(struct Scsi_Host *);
 
 #endif /* _LIBFC_H_ */
+Tue Jul 19 12:50:41 PDT 2016

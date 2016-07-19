@@ -110,3 +110,4 @@ extern int it8152_pci_setup(int nr, struct pci_sys_data *sys);
 extern struct pci_bus *it8152_pci_scan_bus(int nr, struct pci_sys_data *sys);
 
 #endif /* __ASM_HARDWARE_IT8152_H */
+Tue Jul 19 12:35:29 PDT 2016

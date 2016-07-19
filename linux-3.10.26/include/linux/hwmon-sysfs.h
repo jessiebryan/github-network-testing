@@ -55,3 +55,4 @@ struct sensor_device_attribute_2 sensor_dev_attr_##_name		\
 	= SENSOR_ATTR_2(_name, _mode, _show, _store, _nr, _index)
 
 #endif /* _LINUX_HWMON_SYSFS_H */
+Tue Jul 19 12:51:55 PDT 2016

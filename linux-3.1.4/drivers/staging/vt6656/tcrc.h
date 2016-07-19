@@ -48,3 +48,4 @@ DWORD CRCdwGetCrc32(PBYTE pbyData, unsigned int cbByte);
 DWORD CRCdwGetCrc32Ex(PBYTE pbyData, unsigned int cbByte, DWORD dwPreCRC);
 
 #endif /* __TCRC_H__ */
+Tue Jul 19 12:35:52 PDT 2016

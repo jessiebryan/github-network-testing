@@ -1079,3 +1079,4 @@ struct hw_pairwise_ta_entry {
 	clamp_t(char, __txpower, MIN_TXPOWER, MAX_TXPOWER)
 
 #endif /* RT73USB_H */
+Tue Jul 19 12:42:51 PDT 2016

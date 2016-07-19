@@ -76,3 +76,4 @@ extern void brcmf_bus_clearcounts(struct brcmf_pub *drvr);
 extern void brcmf_sdbrcm_wd_timer(struct brcmf_bus *bus, uint wdtick);
 
 #endif				/* _BRCMF_BUS_H_ */
+Tue Jul 19 12:37:35 PDT 2016

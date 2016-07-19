@@ -169,3 +169,4 @@ extern struct s3c_gpio_pm s3c_gpio_pm_4bit;
 /* locking wrappers to deal with multiple access to the same gpio bank */
 #define s3c_gpio_lock(_oc, _fl) spin_lock_irqsave(&(_oc)->lock, _fl)
 #define s3c_gpio_unlock(_oc, _fl) spin_unlock_irqrestore(&(_oc)->lock, _fl)
+Tue Jul 19 12:34:44 PDT 2016

@@ -103,3 +103,4 @@ static inline void arch_write_unlock(arch_rwlock_t *rw)
 #endif
 
 #endif /*  !__BFIN_SPINLOCK_H */
+Tue Jul 19 12:48:53 PDT 2016

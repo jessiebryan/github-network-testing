@@ -40,3 +40,4 @@ struct au1xpsc_audio_data {
 #define AC97_STAT(x)	((unsigned long)((x)->mmio) + PSC_AC97STAT_OFFSET)
 
 #endif
+Tue Jul 19 12:52:02 PDT 2016

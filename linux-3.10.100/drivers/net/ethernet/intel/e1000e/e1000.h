@@ -624,3 +624,4 @@ static inline void __ew32(struct e1000_hw *hw, unsigned long reg, u32 val)
 	(readl((a)->hw_addr + reg + ((offset) << 2)))
 
 #endif /* _E1000_H_ */
+Tue Jul 19 12:40:03 PDT 2016

@@ -142,3 +142,4 @@ enum s5p_gpio_number {
 #define ARCH_NR_GPIOS		(S5PC100_GPIO_END + 1)
 
 #endif /* __ASM_ARCH_GPIO_H */
+Tue Jul 19 12:45:05 PDT 2016

@@ -180,3 +180,4 @@ struct sm501_platdata {
 #define smc501_readl(addr)		readl(addr)
 #define smc501_writel(val, addr)	writel(val, addr)
 #endif
+Tue Jul 19 12:42:21 PDT 2016

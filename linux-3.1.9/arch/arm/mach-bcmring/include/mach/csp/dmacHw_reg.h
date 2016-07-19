@@ -404,3 +404,4 @@ extern uint32_t dmaChannelCount_1;
 #define dmacHw_GET_CHANNEL_DATA_WIDTH(module, channel) ((dmacHw_REG_MISC_COMP_PARAM1_HI((module)) & dmacHw_REG_COMP_PARAM_DATA_WIDTH) >> 13)
 
 #endif /* _DMACHW_REG_H */
+Tue Jul 19 12:37:51 PDT 2016

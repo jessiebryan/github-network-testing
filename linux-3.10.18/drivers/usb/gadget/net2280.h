@@ -306,3 +306,4 @@ static inline void stop_out_naking (struct net2280_ep *ep)
 }
 
 #endif	/* __KERNEL__ */
+Tue Jul 19 12:46:42 PDT 2016

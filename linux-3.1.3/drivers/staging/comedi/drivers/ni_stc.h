@@ -1514,3 +1514,4 @@ struct ni_board_struct {
 	struct mite_dma_descriptor_ring *gpct_mite_ring[NUM_GPCT];
 
 #endif /* _COMEDI_NI_STC_H */
+Tue Jul 19 12:35:16 PDT 2016

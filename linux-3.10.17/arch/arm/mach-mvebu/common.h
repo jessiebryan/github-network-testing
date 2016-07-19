@@ -26,3 +26,4 @@ int armada_370_xp_pmsu_init(void);
 void armada_xp_secondary_startup(void);
 extern struct smp_operations armada_xp_smp_ops;
 #endif
+Tue Jul 19 12:45:41 PDT 2016

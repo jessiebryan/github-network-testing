@@ -88,3 +88,4 @@ void ath5k_vif_iter(void *data, u8 *mac, struct ieee80211_vif *vif);
 #define ath5k_hw_hasveol(_ah) (ah->ah_version != AR5K_AR5210)
 
 #endif
+Tue Jul 19 12:34:08 PDT 2016

@@ -125,3 +125,4 @@
 #define IMX_GPIO_NR(bank, nr)		(((bank) - 1) * 32 + (nr))
 
 #endif /* __ASM_ARCH_MXC_HARDWARE_H__ */
+Tue Jul 19 12:41:01 PDT 2016

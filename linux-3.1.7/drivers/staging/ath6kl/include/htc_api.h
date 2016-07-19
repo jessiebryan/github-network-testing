@@ -573,3 +573,4 @@ int HTCWaitForPendingRecv(HTC_HANDLE   HTCHandle,
 #endif
 
 #endif /* _HTC_API_H_ */
+Tue Jul 19 12:36:58 PDT 2016

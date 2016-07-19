@@ -176,3 +176,4 @@ static inline void ath9k_mci_set_txpower(struct ath_softc *sc, bool setchannel,
 #endif /* CONFIG_ATH9K_BTCOEX_SUPPORT */
 
 #endif /* MCI_H*/
+Tue Jul 19 12:44:47 PDT 2016

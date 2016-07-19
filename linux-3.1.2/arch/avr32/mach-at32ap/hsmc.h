@@ -125,3 +125,4 @@
 	__raw_writel((value), (port)->regs + HSMC_##reg)
 
 #endif /* __ASM_AVR32_HSMC_H__ */
+Tue Jul 19 12:33:53 PDT 2016

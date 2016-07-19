@@ -100,3 +100,4 @@ static inline bool userns_may_setgroups(const struct user_namespace *ns)
 void update_mnt_policy(struct user_namespace *userns);
 
 #endif /* _LINUX_USER_H */
+Tue Jul 19 12:40:15 PDT 2016

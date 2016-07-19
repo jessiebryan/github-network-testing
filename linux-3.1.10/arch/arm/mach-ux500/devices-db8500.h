@@ -99,3 +99,4 @@ db8500_add_ssp(const char *name, resource_size_t base, int irq,
 	dbx500_add_uart("uart2", U8500_UART2_BASE, IRQ_DB8500_UART2, pdata)
 
 #endif
+Tue Jul 19 12:33:15 PDT 2016

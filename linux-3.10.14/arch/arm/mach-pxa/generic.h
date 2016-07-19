@@ -57,3 +57,4 @@ void __init pxa_set_stuart_info(void *info);
 void __init pxa_set_hwuart_info(void *info);
 
 void pxa_restart(char, const char *);
+Tue Jul 19 12:43:48 PDT 2016

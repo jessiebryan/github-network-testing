@@ -18,3 +18,4 @@ struct display_timings *of_get_display_timings(struct device_node *np);
 int of_display_timings_exist(struct device_node *np);
 
 #endif
+Tue Jul 19 12:47:30 PDT 2016

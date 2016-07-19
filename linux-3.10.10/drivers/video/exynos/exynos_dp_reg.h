@@ -364,3 +364,4 @@
 #define VIDEO_MODE_MASTER_MODE			(0x0 << 0)
 
 #endif /* _EXYNOS_DP_REG_H */
+Tue Jul 19 12:39:30 PDT 2016

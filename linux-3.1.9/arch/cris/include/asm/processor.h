@@ -73,3 +73,4 @@ static inline void release_thread(struct task_struct *dead_task)
 #define cpu_relax()     barrier()
 
 #endif /* __ASM_CRIS_PROCESSOR_H */
+Tue Jul 19 12:37:56 PDT 2016

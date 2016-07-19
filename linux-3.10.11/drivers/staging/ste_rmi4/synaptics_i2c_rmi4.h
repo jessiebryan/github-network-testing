@@ -44,3 +44,4 @@ struct synaptics_rmi4_platform_data {
 };
 
 #endif
+Tue Jul 19 12:42:12 PDT 2016

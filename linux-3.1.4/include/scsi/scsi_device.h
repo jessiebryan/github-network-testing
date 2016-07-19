@@ -476,3 +476,4 @@ static inline int scsi_device_protection(struct scsi_device *sdev)
 #define SCSI_DEVICE_MODALIAS_FMT "scsi:t-0x%02x"
 
 #endif /* _SCSI_SCSI_DEVICE_H */
+Tue Jul 19 12:36:00 PDT 2016

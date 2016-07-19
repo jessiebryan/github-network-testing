@@ -45,3 +45,4 @@ static inline void st_accel_deallocate_ring(struct iio_dev *indio_dev)
 #endif /* CONFIG_IIO_BUFFER */
 
 #endif /* ST_ACCEL_H */
+Tue Jul 19 12:49:46 PDT 2016

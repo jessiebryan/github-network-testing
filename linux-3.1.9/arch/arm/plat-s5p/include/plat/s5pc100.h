@@ -31,3 +31,4 @@ extern void s5pc100_init_clocks(int xtal);
 #define s5pc100_map_io NULL
 #define s5pc100_init NULL
 #endif
+Tue Jul 19 12:37:55 PDT 2016

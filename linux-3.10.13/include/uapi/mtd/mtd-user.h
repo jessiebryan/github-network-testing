@@ -32,3 +32,4 @@ typedef struct nand_oobinfo nand_oobinfo_t;
 typedef struct nand_ecclayout_user nand_ecclayout_t;
 
 #endif /* __MTD_USER_H__ */
+Tue Jul 19 12:43:42 PDT 2016

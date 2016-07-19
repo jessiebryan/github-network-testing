@@ -355,3 +355,4 @@ static inline unsigned int jpeg_compressed_size(void __iomem *regs)
 }
 
 #endif /* JPEG_HW_H_ */
+Tue Jul 19 12:40:41 PDT 2016

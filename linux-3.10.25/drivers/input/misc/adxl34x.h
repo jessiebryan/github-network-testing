@@ -28,3 +28,4 @@ struct adxl34x *adxl34x_probe(struct device *dev, int irq,
 int adxl34x_remove(struct adxl34x *ac);
 
 #endif
+Tue Jul 19 12:51:04 PDT 2016

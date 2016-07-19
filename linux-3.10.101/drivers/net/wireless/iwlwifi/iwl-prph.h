@@ -265,3 +265,4 @@ static inline unsigned int SCD_QUEUE_STATUS_BITS(unsigned int chnl)
 #define OSC_CLK_FORCE_CONTROL		(0x8)
 
 #endif				/* __iwl_prph_h__ */
+Tue Jul 19 12:40:43 PDT 2016

@@ -34,3 +34,4 @@ static inline void CMOS_WRITE(unsigned char data, unsigned long addr)
 #endif
 
 #endif /* __ASM_MACH_LOONGSON_MC146818RTC_H */
+Tue Jul 19 12:43:55 PDT 2016

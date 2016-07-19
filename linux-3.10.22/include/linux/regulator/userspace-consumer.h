@@ -23,3 +23,4 @@ struct regulator_userspace_consumer_data {
 };
 
 #endif /* __REGULATOR_PLATFORM_CONSUMER_H_ */
+Tue Jul 19 12:49:22 PDT 2016

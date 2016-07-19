@@ -853,3 +853,4 @@ static struct xor_block_template xor_block_alpha_prefetch = {
    faster in the cold cache case.  */
 #define XOR_SELECT_TEMPLATE(FASTEST) \
 	(implver() == IMPLVER_EV6 ? &xor_block_alpha_prefetch : FASTEST)
+Tue Jul 19 12:36:37 PDT 2016

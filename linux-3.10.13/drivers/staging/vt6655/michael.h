@@ -54,3 +54,4 @@ void MIC_vGetMIC(unsigned long *pdwL, unsigned long *pdwR);
 #define ROR32(A, n) ROL32((A), 32-(n))
 
 #endif //__MICHAEL_H__
+Tue Jul 19 12:43:32 PDT 2016

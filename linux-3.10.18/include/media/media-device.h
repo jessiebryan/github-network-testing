@@ -94,3 +94,4 @@ void media_device_unregister_entity(struct media_entity *entity);
 	list_for_each_entry(entity, &(mdev)->entities, list)
 
 #endif
+Tue Jul 19 12:46:49 PDT 2016

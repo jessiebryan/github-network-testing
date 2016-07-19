@@ -1570,3 +1570,4 @@ struct au1k_irda_platform_data {
 #define PCI_TIMEOUT_TO(x)	((x) & 0xff)	/* target ready timeout */
 
 #endif
+Tue Jul 19 12:51:34 PDT 2016

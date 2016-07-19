@@ -335,3 +335,4 @@ protected:
 	QSplitter* split1;
 	QSplitter* split2;
 };
+Tue Jul 19 12:48:47 PDT 2016

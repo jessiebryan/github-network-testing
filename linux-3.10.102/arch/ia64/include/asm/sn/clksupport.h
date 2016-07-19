@@ -26,3 +26,4 @@ extern unsigned long sn_rtc_cycles_per_second;
 #define rtc_time()		(*RTC_COUNTER_ADDR)
 
 #endif /* _ASM_IA64_SN_CLKSUPPORT_H */
+Tue Jul 19 12:41:07 PDT 2016

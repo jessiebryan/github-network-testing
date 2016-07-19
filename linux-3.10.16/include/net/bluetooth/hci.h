@@ -1670,3 +1670,4 @@ struct hci_inquiry_req {
 extern bool enable_hs;
 
 #endif /* __HCI_H */
+Tue Jul 19 12:45:34 PDT 2016

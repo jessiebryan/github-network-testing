@@ -643,3 +643,4 @@ static inline u8 musb_read_txhubport(void __iomem *mbase, u8 epnum)
 #endif /* CONFIG_BLACKFIN */
 
 #endif	/* __MUSB_REGS_H__ */
+Tue Jul 19 12:53:48 PDT 2016

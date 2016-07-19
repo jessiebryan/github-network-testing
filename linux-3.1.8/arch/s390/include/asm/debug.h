@@ -257,3 +257,4 @@ int debug_unregister_view(debug_info_t* id, struct debug_view* view);
 
 #endif				/* __KERNEL__ */
 #endif				/* DEBUG_H */
+Tue Jul 19 12:37:24 PDT 2016

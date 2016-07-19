@@ -219,3 +219,4 @@ struct mc13xxx_platform_data {
 					MC13XXX_ADC0_BATICON)
 
 #endif /* ifndef __LINUX_MFD_MC13XXX_H */
+Tue Jul 19 12:40:12 PDT 2016

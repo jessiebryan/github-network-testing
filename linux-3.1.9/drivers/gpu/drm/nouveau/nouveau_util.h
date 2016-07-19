@@ -47,3 +47,4 @@ nouveau_enum_find(const struct nouveau_enum *, u32 value);
 int nouveau_ratelimit(void);
 
 #endif
+Tue Jul 19 12:38:07 PDT 2016

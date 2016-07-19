@@ -1906,3 +1906,4 @@ int snd_emu10k1_fx8010_unregister_irq_handler(struct snd_emu10k1 *emu,
 					      struct snd_emu10k1_fx8010_irq *irq);
 
 #endif	/* __SOUND_EMU10K1_H */
+Tue Jul 19 12:40:16 PDT 2016

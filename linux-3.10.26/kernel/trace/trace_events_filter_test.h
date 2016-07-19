@@ -48,3 +48,4 @@ TRACE_EVENT(ftrace_test_filter,
 
 /* This part must be outside protection */
 #include <trace/define_trace.h>
+Tue Jul 19 12:52:01 PDT 2016

@@ -98,3 +98,4 @@ int ToLegalChannel(
 	u8 channel
 );
 #endif // #ifndef __INC_DOT11D_H
+Tue Jul 19 12:44:49 PDT 2016

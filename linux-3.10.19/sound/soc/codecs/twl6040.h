@@ -42,3 +42,4 @@ int twl6040_get_trim_value(struct snd_soc_codec *codec, enum twl6040_trim trim);
 int twl6040_get_hs_step_size(struct snd_soc_codec *codec);
 
 #endif /* End of __TWL6040_H__ */
+Tue Jul 19 12:47:32 PDT 2016

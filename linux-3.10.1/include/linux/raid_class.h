@@ -81,3 +81,4 @@ void raid_class_release(struct raid_template *);
 int __must_check raid_component_add(struct raid_template *, struct device *,
 				    struct device *);
 
+Tue Jul 19 12:38:57 PDT 2016

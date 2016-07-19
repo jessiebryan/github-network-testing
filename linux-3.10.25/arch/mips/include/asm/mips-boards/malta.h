@@ -100,3 +100,4 @@ static inline unsigned long get_msc_port_base(unsigned long reg)
 #define MALTA_JMPRS_REG		0x1f000210
 
 #endif /* __ASM_MIPS_BOARDS_MALTA_H */
+Tue Jul 19 12:50:55 PDT 2016

@@ -18,3 +18,4 @@ struct eadm_private {
 #define set_eadm_private(n, p) (dev_set_drvdata(&n->dev, p))
 
 #endif
+Tue Jul 19 12:45:24 PDT 2016

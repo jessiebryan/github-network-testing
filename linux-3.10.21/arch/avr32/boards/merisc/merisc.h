@@ -16,3 +16,4 @@ const char *merisc_model(void);
 extern struct class merisc_class;
 
 #endif /* __ARCH_AVR32_BOARDS_MERISC_MERISC_H */
+Tue Jul 19 12:48:15 PDT 2016

@@ -41,3 +41,4 @@ static inline bool arch_irqs_disabled(void)
 }
 
 #endif /* _H8300_IRQFLAGS_H */
+Tue Jul 19 12:50:12 PDT 2016

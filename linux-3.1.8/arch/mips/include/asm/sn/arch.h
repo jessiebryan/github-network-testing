@@ -62,3 +62,4 @@ extern cnodeid_t cpuid_to_compact_node[MAXCPUS];
 #define CPUID_TO_COMPACT_NODEID(cpu)	(cpuid_to_compact_node[(cpu)])
 
 #endif /* _ASM_SN_ARCH_H */
+Tue Jul 19 12:37:21 PDT 2016

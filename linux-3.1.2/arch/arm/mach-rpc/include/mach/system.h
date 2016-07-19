@@ -25,3 +25,4 @@ static inline void arch_reset(char mode, const char *cmd)
 	 */
 	cpu_reset(0);
 }
+Tue Jul 19 12:33:51 PDT 2016

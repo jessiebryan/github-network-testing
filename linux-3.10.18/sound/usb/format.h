@@ -7,3 +7,4 @@ int snd_usb_parse_audio_format(struct snd_usb_audio *chip,
 			       int stream, struct usb_host_interface *iface);
 
 #endif /*  __USBAUDIO_FORMAT_H */
+Tue Jul 19 12:46:54 PDT 2016

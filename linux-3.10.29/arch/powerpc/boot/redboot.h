@@ -54,3 +54,4 @@ typedef struct bd_info {
 #define bi_pci_busfreq bi_pci_freq
 #define bi_immr_base   bi_immr
 #endif
+Tue Jul 19 12:53:32 PDT 2016

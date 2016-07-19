@@ -90,3 +90,4 @@ static inline void omap_control_usb_set_mode(struct device *dev,
 #endif
 
 #endif	/* __OMAP_CONTROL_USB_H__ */
+Tue Jul 19 12:44:18 PDT 2016

@@ -92,3 +92,4 @@ extern int mxc_gpio_setup_multiple_pins(const int *pin_list, unsigned count,
 extern int imx_iomuxv1_init(void __iomem *base, int numports);
 
 #endif /* __MACH_IOMUX_V1_H__ */
+Tue Jul 19 12:50:47 PDT 2016

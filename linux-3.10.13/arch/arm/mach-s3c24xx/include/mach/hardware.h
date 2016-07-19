@@ -34,3 +34,4 @@ extern int s3c2440_set_dsc(unsigned int pin, unsigned int value);
 #define CONFIG_NO_MULTIWORD_IO
 
 #endif /* __ASM_ARCH_HARDWARE_H */
+Tue Jul 19 12:43:09 PDT 2016

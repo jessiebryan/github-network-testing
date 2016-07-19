@@ -845,3 +845,4 @@
 	clamp_t(char, __txpower, MIN_TXPOWER, MAX_TXPOWER)
 
 #endif /* RT2500USB_H */
+Tue Jul 19 12:33:32 PDT 2016

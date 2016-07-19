@@ -687,3 +687,4 @@ int v4l2_ctrl_subdev_subscribe_event(struct v4l2_subdev *sd, struct v4l2_fh *fh,
 int v4l2_ctrl_subdev_log_status(struct v4l2_subdev *sd);
 
 #endif
+Tue Jul 19 12:43:40 PDT 2016

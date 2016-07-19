@@ -87,3 +87,4 @@ struct pinmux_ops {
 #endif /* CONFIG_PINMUX */
 
 #endif /* __LINUX_PINCTRL_PINMUX_H */
+Tue Jul 19 12:52:35 PDT 2016

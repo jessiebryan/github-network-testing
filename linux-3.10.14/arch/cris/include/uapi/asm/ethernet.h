@@ -19,3 +19,4 @@
 #define SET_ETH_DISABLE_LEDS    SIOCDEVPRIVATE+7        /* Disable net LEDs */
 #define SET_ETH_AUTONEG         SIOCDEVPRIVATE+8
 #endif /* _CRIS_ETHERNET_H */
+Tue Jul 19 12:43:51 PDT 2016

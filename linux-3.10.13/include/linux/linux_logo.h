@@ -59,3 +59,4 @@ static inline void fb_append_extra_logo(const struct linux_logo *logo,
 #endif
 
 #endif /* _LINUX_LINUX_LOGO_H */
+Tue Jul 19 12:43:36 PDT 2016

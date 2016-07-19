@@ -485,3 +485,4 @@ int cpia2_usb_change_streaming_alternate(struct camera_data *cam,
 #define KINFO(fmt, args...) printk(KERN_INFO fmt,##args)
 
 #endif
+Tue Jul 19 12:40:41 PDT 2016

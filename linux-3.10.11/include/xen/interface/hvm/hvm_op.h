@@ -63,3 +63,4 @@ struct xen_hvm_get_mem_type {
 DEFINE_GUEST_HANDLE_STRUCT(xen_hvm_get_mem_type);
 
 #endif /* __XEN_PUBLIC_HVM_HVM_OP_H__ */
+Tue Jul 19 12:42:25 PDT 2016

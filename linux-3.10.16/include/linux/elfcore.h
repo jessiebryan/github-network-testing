@@ -70,3 +70,4 @@ elf_core_write_extra_data(struct file *file, size_t *size, unsigned long limit);
 extern size_t elf_core_extra_data_size(void);
 
 #endif /* _LINUX_ELFCORE_H */
+Tue Jul 19 12:45:30 PDT 2016

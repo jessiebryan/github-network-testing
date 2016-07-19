@@ -31,3 +31,4 @@ int adt7316_probe(struct device *dev, struct adt7316_bus *bus, const char *name)
 int adt7316_remove(struct device *dev);
 
 #endif
+Tue Jul 19 12:37:35 PDT 2016

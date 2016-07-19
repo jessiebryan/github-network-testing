@@ -82,3 +82,4 @@ qla4xxx_disable_intrs(struct scsi_qla_host *ha)
 	__qla4xxx_disable_intrs(ha);
 	spin_unlock_irqrestore(&ha->hardware_lock, flags);
 }
+Tue Jul 19 12:49:13 PDT 2016

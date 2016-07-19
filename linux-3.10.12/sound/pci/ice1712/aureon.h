@@ -63,3 +63,4 @@ extern struct snd_ice1712_card_info  snd_vt1724_aureon_cards[];
 #define PRODIGY_HP_SEL		(1 << 5)
 
 #endif /* __SOUND_AUREON_H */
+Tue Jul 19 12:43:06 PDT 2016

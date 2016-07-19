@@ -20,3 +20,4 @@ struct ds1307_platform_data {
 };
 
 #endif /* _LINUX_DS1307_H */
+Tue Jul 19 12:47:26 PDT 2016

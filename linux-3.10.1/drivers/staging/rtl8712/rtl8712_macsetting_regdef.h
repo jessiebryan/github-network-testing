@@ -33,3 +33,4 @@
 
 #endif /*__RTL8712_MACSETTING_REGDEF_H__*/
 
+Tue Jul 19 12:38:50 PDT 2016

@@ -62,3 +62,4 @@ static inline void init_hypervisor_platform(void) { }
 static inline bool hypervisor_x2apic_available(void) { return false; }
 #endif /* CONFIG_HYPERVISOR_GUEST */
 #endif /* _ASM_X86_HYPERVISOR_H */
+Tue Jul 19 12:45:17 PDT 2016

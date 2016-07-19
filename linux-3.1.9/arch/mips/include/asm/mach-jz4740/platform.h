@@ -35,3 +35,4 @@ extern struct platform_device jz4740_wdt_device;
 void jz4740_serial_device_register(void);
 
 #endif
+Tue Jul 19 12:37:59 PDT 2016

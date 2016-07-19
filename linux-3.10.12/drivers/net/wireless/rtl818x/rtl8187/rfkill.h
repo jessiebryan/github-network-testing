@@ -6,3 +6,4 @@ void rtl8187_rfkill_poll(struct ieee80211_hw *hw);
 void rtl8187_rfkill_exit(struct ieee80211_hw *hw);
 
 #endif /* RTL8187_RFKILL_H */
+Tue Jul 19 12:42:51 PDT 2016

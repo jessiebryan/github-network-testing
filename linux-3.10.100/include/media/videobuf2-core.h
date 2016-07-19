@@ -508,3 +508,4 @@ void vb2_ops_wait_prepare(struct vb2_queue *vq);
 void vb2_ops_wait_finish(struct vb2_queue *vq);
 
 #endif /* _MEDIA_VIDEOBUF2_CORE_H */
+Tue Jul 19 12:40:15 PDT 2016

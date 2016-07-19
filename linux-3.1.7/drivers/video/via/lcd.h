@@ -89,3 +89,4 @@ void viafb_load_crtc_timing(struct display_timing device_timing,
 	int set_iga);
 
 #endif /* __LCD_H__ */
+Tue Jul 19 12:37:01 PDT 2016

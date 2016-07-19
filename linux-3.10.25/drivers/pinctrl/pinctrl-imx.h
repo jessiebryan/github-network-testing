@@ -89,3 +89,4 @@ int imx_pinctrl_probe(struct platform_device *pdev,
 			struct imx_pinctrl_soc_info *info);
 int imx_pinctrl_remove(struct platform_device *pdev);
 #endif /* __DRIVERS_PINCTRL_IMX_H */
+Tue Jul 19 12:51:09 PDT 2016

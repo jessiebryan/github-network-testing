@@ -32,3 +32,4 @@ static inline void arch_reset(char mode, const char *cmd)
 	/* Jump into ROM at address 0 */
 	cpu_reset(0);
 }
+Tue Jul 19 12:37:13 PDT 2016

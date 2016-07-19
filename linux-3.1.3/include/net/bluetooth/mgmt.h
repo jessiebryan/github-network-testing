@@ -301,3 +301,4 @@ struct mgmt_ev_remote_name {
 } __packed;
 
 #define MGMT_EV_DISCOVERING		0x0014
+Tue Jul 19 12:35:25 PDT 2016

@@ -25,3 +25,4 @@ extern int __init pxa27x_set_pwrmode(unsigned int mode);
 #define pxa27x_handle_irq	ichp_handle_irq
 
 #endif /* __MACH_PXA27x_H */
+Tue Jul 19 12:33:51 PDT 2016

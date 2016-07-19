@@ -473,3 +473,4 @@ struct pcilst_struct *ptr_select_and_alloc_pci_card(unsigned short vendor_id,
 	return card;
 }
 #endif
+Tue Jul 19 12:36:58 PDT 2016

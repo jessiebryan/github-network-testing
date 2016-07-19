@@ -19,3 +19,4 @@
 
 extern int mid_chip_setup(struct drm_device *dev);
 
+Tue Jul 19 12:39:59 PDT 2016

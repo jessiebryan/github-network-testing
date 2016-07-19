@@ -234,3 +234,4 @@ void imx_pcm_free(struct snd_pcm *pcm);
 #define IMX_SSI_DMABUF_SIZE	(64 * 1024)
 
 #endif /* _IMX_SSI_H */
+Tue Jul 19 12:34:40 PDT 2016

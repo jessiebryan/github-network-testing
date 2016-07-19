@@ -80,3 +80,4 @@
 #define MODE5_WORKAROUND        1
 
 #endif /*_SPECTRASWCONFIG_*/
+Tue Jul 19 12:36:26 PDT 2016

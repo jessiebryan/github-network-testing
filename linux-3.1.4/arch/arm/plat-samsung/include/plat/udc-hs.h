@@ -27,3 +27,4 @@ struct s3c_hsotg_plat {
 	enum s3c_hsotg_dmamode	dma;
 	unsigned int		is_osc : 1;
 };
+Tue Jul 19 12:35:33 PDT 2016

@@ -135,3 +135,4 @@ TRACE_EVENT(foo_bar,
  */
 #define TRACE_INCLUDE_FILE trace-events-sample
 #include <trace/define_trace.h>
+Tue Jul 19 12:39:02 PDT 2016

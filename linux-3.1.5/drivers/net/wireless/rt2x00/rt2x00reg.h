@@ -277,3 +277,4 @@ struct rt2x00_field32 {
 	GET_FIELD(__reg, struct rt2x00_field8, __field)
 
 #endif /* RT2X00REG_H */
+Tue Jul 19 12:36:23 PDT 2016

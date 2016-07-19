@@ -914,3 +914,4 @@ static inline int iwl_is_any_associated(struct iwl_priv *priv)
 }
 
 #endif				/* __iwl_dev_h__ */
+Tue Jul 19 12:41:22 PDT 2016

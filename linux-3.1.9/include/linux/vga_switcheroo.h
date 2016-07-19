@@ -57,3 +57,4 @@ static inline void vga_switcheroo_unregister_handler(void) {}
 static inline int vga_switcheroo_process_delayed_switch(void) { return 0; }
 
 #endif
+Tue Jul 19 12:38:22 PDT 2016

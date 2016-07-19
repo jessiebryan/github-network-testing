@@ -381,3 +381,4 @@ static inline struct clk *of_clk_get_by_name(struct device_node *np,
 #endif
 
 #endif
+Tue Jul 19 12:48:01 PDT 2016

@@ -635,3 +635,4 @@
 #define WATCHDOG_TIME(sec)			(sec&0xff)
 
 #endif /* __SOLO6X10_REGISTERS_H */
+Tue Jul 19 12:38:14 PDT 2016

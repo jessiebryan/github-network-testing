@@ -231,3 +231,4 @@
 #define AR913X_GPIO_COUNT		22
 
 #endif /* __ASM_MACH_AR71XX_REGS_H */
+Tue Jul 19 12:34:55 PDT 2016

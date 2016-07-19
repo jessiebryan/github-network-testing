@@ -143,3 +143,4 @@ struct cfhsi {
 extern struct platform_driver cfhsi_driver;
 
 #endif		/* CAIF_HSI_H_ */
+Tue Jul 19 12:34:33 PDT 2016

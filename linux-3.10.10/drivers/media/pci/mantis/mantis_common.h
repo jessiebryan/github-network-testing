@@ -177,3 +177,4 @@ struct mantis_pci {
 #define MANTIS_HIF_STATUS	(mantis->gpio_status)
 
 #endif /* __MANTIS_COMMON_H */
+Tue Jul 19 12:39:23 PDT 2016

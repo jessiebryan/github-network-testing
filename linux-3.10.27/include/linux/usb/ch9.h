@@ -53,3 +53,4 @@ extern const char *usb_speed_string(enum usb_device_speed speed);
 extern const char *usb_state_string(enum usb_device_state state);
 
 #endif /* __LINUX_USB_CH9_H */
+Tue Jul 19 12:52:36 PDT 2016

@@ -542,3 +542,4 @@ void wl1271_rx_filter_flatten_fields(struct wl12xx_rx_filter *filter,
 #define WL12XX_HW_BLOCK_SIZE	256
 
 #endif /* __WLCORE_I_H__ */
+Tue Jul 19 12:53:44 PDT 2016

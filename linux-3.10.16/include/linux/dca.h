@@ -79,3 +79,4 @@ int dca_sysfs_add_req(struct dca_provider *dca, struct device *dev, int slot);
 void dca_sysfs_remove_req(struct dca_provider *dca, int slot);
 
 #endif /* DCA_H */
+Tue Jul 19 12:45:30 PDT 2016

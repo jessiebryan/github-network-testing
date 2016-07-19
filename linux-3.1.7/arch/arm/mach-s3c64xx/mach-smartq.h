@@ -18,3 +18,4 @@ extern void __init smartq_map_io(void);
 extern void __init smartq_machine_init(void);
 
 #endif /* __MACH_SMARTQ_H */
+Tue Jul 19 12:36:40 PDT 2016

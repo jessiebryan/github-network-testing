@@ -127,3 +127,4 @@ extern int w1_ds2780_io(struct device *dev, char *buf, int addr, size_t count,
 extern int w1_ds2780_eeprom_cmd(struct device *dev, int addr, int cmd);
 
 #endif /* !_W1_DS2780_H */
+Tue Jul 19 12:44:51 PDT 2016

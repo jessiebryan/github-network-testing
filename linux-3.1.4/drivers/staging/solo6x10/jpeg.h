@@ -103,3 +103,4 @@ static unsigned char jpeg_header[] = {
 #define SOF0_START	575
 
 #endif /* __SOLO6X10_JPEG_H */
+Tue Jul 19 12:35:52 PDT 2016

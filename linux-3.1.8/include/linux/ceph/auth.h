@@ -90,3 +90,4 @@ extern int ceph_build_auth(struct ceph_auth_client *ac,
 extern int ceph_auth_is_authenticated(struct ceph_auth_client *ac);
 
 #endif
+Tue Jul 19 12:37:41 PDT 2016

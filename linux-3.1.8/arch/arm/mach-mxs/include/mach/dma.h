@@ -26,3 +26,4 @@ static inline int mxs_dma_is_apbx(struct dma_chan *chan)
 }
 
 #endif /* __MACH_MXS_DMA_H__ */
+Tue Jul 19 12:37:13 PDT 2016

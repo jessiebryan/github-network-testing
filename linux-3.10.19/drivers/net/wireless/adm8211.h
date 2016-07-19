@@ -600,3 +600,4 @@ static const struct ieee80211_chan_range cranges[] = {
 };
 
 #endif /* ADM8211_H */
+Tue Jul 19 12:47:16 PDT 2016

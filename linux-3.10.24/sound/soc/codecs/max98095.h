@@ -319,3 +319,4 @@ extern int max98095_jack_detect(struct snd_soc_codec *codec,
 	struct snd_soc_jack *hp_jack, struct snd_soc_jack *mic_jack);
 
 #endif
+Tue Jul 19 12:50:45 PDT 2016

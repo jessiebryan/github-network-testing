@@ -49,3 +49,4 @@
 #define APMU_PXA168_SD1_WAKE_CLR	(1 << 0)
 
 #endif /* __ASM_MACH_REGS_APMU_H */
+Tue Jul 19 12:33:50 PDT 2016

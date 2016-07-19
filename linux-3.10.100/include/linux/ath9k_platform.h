@@ -37,3 +37,4 @@ struct ath9k_platform_data {
 };
 
 #endif /* _LINUX_ATH9K_PLATFORM_H */
+Tue Jul 19 12:40:11 PDT 2016

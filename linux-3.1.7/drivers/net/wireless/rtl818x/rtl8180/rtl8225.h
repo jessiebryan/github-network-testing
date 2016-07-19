@@ -21,3 +21,4 @@ static inline void rtl8225_write_phy_cck(struct ieee80211_hw *dev,
 }
 
 #endif /* RTL8180_RTL8225_H */
+Tue Jul 19 12:36:57 PDT 2016

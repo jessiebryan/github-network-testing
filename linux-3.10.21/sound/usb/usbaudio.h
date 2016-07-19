@@ -105,3 +105,4 @@ struct snd_usb_audio_quirk {
 #define combine_quad(s)    (combine_triple(s) | ((unsigned int)(s)[3] << 24))
 
 #endif /* __USBAUDIO_H */
+Tue Jul 19 12:48:48 PDT 2016

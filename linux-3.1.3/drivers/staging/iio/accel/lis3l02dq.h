@@ -229,3 +229,4 @@ static inline void lis3l02dq_unconfigure_ring(struct iio_dev *indio_dev)
 }
 #endif /* CONFIG_IIO_RING_BUFFER */
 #endif /* SPI_LIS3L02DQ_H_ */
+Tue Jul 19 12:35:17 PDT 2016

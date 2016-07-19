@@ -101,3 +101,4 @@
 #define ENVCTRL_ALL_FANS_BAD 			0xFF
 
 #endif /* !(_SPARC64_ENVCTRL_H) */
+Tue Jul 19 12:39:18 PDT 2016

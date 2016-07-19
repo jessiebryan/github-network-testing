@@ -35,3 +35,4 @@ int gw_is_target(struct bat_priv *bat_priv, struct sk_buff *skb,
 		 struct orig_node *old_gw);
 
 #endif /* _NET_BATMAN_ADV_GATEWAY_CLIENT_H_ */
+Tue Jul 19 12:37:48 PDT 2016

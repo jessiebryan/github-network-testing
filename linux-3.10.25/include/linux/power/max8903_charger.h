@@ -55,3 +55,4 @@ struct max8903_pdata {
 };
 
 #endif /* __MAX8903_CHARGER_H__ */
+Tue Jul 19 12:51:18 PDT 2016

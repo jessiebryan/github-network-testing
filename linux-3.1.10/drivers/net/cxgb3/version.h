@@ -42,3 +42,4 @@
 #define FW_VERSION_MINOR 10
 #define FW_VERSION_MICRO 0
 #endif				/* __CHELSIO_VERSION_H */
+Tue Jul 19 12:33:31 PDT 2016

@@ -25,3 +25,4 @@ struct ov9650_platform_data {
 	int gpio_reset;
 };
 #endif /* OV9650_H_ */
+Tue Jul 19 12:46:49 PDT 2016

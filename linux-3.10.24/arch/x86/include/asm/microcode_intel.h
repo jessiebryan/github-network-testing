@@ -83,3 +83,4 @@ static inline int save_mc_for_early(u8 *mc)
 #endif
 
 #endif /* _ASM_X86_MICROCODE_INTEL_H */
+Tue Jul 19 12:50:22 PDT 2016

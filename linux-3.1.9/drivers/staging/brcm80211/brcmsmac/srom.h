@@ -32,3 +32,4 @@ extern int srom_read(struct si_pub *sih, uint bus, void *curmap,
 extern int srom_parsecis(u8 **pcis, uint ciscnt,
 			 char **vars, uint *count);
 #endif				/* _BRCM_SROM_H_ */
+Tue Jul 19 12:38:13 PDT 2016

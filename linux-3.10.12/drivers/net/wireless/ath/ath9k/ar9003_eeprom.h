@@ -343,3 +343,4 @@ unsigned int ar9003_get_paprd_scale_factor(struct ath_hw *ah,
 void ar9003_hw_internal_regulator_apply(struct ath_hw *ah);
 
 #endif
+Tue Jul 19 12:42:50 PDT 2016

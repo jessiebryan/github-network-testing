@@ -18,3 +18,4 @@ struct as5011_platform_data {
 };
 
 #endif /* _AS5011_H */
+Tue Jul 19 12:36:30 PDT 2016

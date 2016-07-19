@@ -24,3 +24,4 @@ static inline u32 s3c24xx_ostimer_pending(void)
 #define TICK_MAX	(0xffffffff)
 
 #endif /* __ASM_ARCH_TICK_H */
+Tue Jul 19 12:35:32 PDT 2016

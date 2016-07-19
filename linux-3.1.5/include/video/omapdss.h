@@ -633,3 +633,4 @@ int omap_rfbi_configure(struct omap_dss_device *dssdev, int pixel_size,
 		int data_lines);
 
 #endif
+Tue Jul 19 12:36:35 PDT 2016

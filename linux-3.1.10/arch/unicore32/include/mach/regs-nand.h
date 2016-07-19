@@ -77,3 +77,4 @@
 #define NAND_CMD_CMD_READID		FIELD(0x9, 4, 4)
 #define NAND_CMD_CMD_RESET		FIELD(0xf, 4, 4)
 
+Tue Jul 19 12:33:26 PDT 2016

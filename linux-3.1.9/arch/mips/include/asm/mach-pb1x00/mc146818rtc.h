@@ -32,3 +32,4 @@ static inline void CMOS_WRITE(unsigned char data, unsigned long offset)
 #define RTC_ALWAYS_BCD	1
 
 #endif /* __ASM_MACH_AU1XX_MC146818RTC_H */
+Tue Jul 19 12:38:00 PDT 2016

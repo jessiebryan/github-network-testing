@@ -164,3 +164,4 @@ extern struct snd_ice1712_card_info snd_ice1712_delta_cards[];
 #define ICE1712_VX442_CODEC_CHIP_B	0x40	/* select chip B */
 
 #endif /* __SOUND_DELTA_H */
+Tue Jul 19 12:52:41 PDT 2016

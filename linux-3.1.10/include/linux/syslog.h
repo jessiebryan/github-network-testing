@@ -50,3 +50,4 @@
 int do_syslog(int type, char __user *buf, int count, bool from_file);
 
 #endif /* _LINUX_SYSLOG_H */
+Tue Jul 19 12:33:42 PDT 2016

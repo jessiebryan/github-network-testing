@@ -15,3 +15,4 @@ int __devinit smp_a2_kick_cpu(int nr);
 void opb_pic_init(void);
 
 #endif /*  __WSP_H */
+Tue Jul 19 12:37:23 PDT 2016

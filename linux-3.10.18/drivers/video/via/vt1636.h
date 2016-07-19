@@ -42,3 +42,4 @@ void viafb_vt1636_patch_skew_on_vt3364(
 	struct lvds_chip_information *plvds_chip_info);
 
 #endif
+Tue Jul 19 12:46:42 PDT 2016

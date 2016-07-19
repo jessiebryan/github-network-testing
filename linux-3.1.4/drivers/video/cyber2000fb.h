@@ -495,3 +495,4 @@ int cyber2000fb_attach(struct cyberpro_info *info, int idx);
 void cyber2000fb_detach(int idx);
 void cyber2000fb_enable_extregs(struct cfb_info *cfb);
 void cyber2000fb_disable_extregs(struct cfb_info *cfb);
+Tue Jul 19 12:35:53 PDT 2016

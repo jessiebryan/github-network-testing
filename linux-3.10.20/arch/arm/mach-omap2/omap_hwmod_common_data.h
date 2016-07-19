@@ -175,3 +175,4 @@ extern struct omap_hwmod_class omap2xxx_mcspi_class;
 extern struct omap_dss_dispc_dev_attr omap2_3_dss_dispc_dev_attr;
 
 #endif
+Tue Jul 19 12:47:35 PDT 2016

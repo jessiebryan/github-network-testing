@@ -300,3 +300,4 @@ extern int register_mscandev(struct net_device *dev, int mscan_clksrc);
 extern void unregister_mscandev(struct net_device *dev);
 
 #endif /* __MSCAN_H__ */
+Tue Jul 19 12:33:30 PDT 2016

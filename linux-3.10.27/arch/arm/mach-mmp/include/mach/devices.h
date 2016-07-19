@@ -54,3 +54,4 @@ extern int pxa_usb_phy_init(void __iomem *phy_reg);
 extern void pxa_usb_phy_deinit(void __iomem *phy_reg);
 
 #endif /* __MACH_DEVICE_H */
+Tue Jul 19 12:52:05 PDT 2016

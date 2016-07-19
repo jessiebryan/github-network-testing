@@ -24,3 +24,4 @@ extern int __init get_hw_config_num_irq(void);
 void __cpuinit arc_local_timer_setup(unsigned int cpu);
 
 #endif
+Tue Jul 19 12:50:46 PDT 2016

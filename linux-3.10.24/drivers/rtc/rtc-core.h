@@ -68,3 +68,4 @@ static inline void rtc_sysfs_del_device(struct rtc_device *rtc)
 }
 
 #endif
+Tue Jul 19 12:50:29 PDT 2016

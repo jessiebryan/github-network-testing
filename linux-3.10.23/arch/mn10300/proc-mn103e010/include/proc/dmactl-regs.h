@@ -100,3 +100,4 @@ struct mn10300_dmactl_regs {
 #endif /* __KERNEL__ */
 
 #endif /* _ASM_PROC_DMACTL_REGS_H */
+Tue Jul 19 12:49:39 PDT 2016

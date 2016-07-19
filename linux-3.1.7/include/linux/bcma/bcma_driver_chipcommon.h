@@ -294,3 +294,4 @@ u32 bcma_chipco_gpio_polarity(struct bcma_drv_cc *cc, u32 mask, u32 value);
 extern void bcma_pmu_init(struct bcma_drv_cc *cc);
 
 #endif /* LINUX_BCMA_DRIVER_CC_H_ */
+Tue Jul 19 12:37:03 PDT 2016

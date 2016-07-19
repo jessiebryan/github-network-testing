@@ -57,3 +57,4 @@ static inline unsigned int bcma_core_irq(struct bcma_device *core)
 extern u32 bcma_cpu_clock(struct bcma_drv_mips *mcore);
 
 #endif /* LINUX_BCMA_DRIVER_MIPS_H_ */
+Tue Jul 19 12:48:01 PDT 2016

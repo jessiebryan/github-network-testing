@@ -132,3 +132,4 @@ extern void clear_pending_jade_ints(struct IsdnCardState *cs);
 extern void initjade(struct IsdnCardState *cs);
 
 #endif	/* __JADE_H__ */
+Tue Jul 19 12:45:56 PDT 2016

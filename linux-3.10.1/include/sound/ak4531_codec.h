@@ -83,3 +83,4 @@ void snd_ak4531_resume(struct snd_ak4531 *ak4531);
 #endif
 
 #endif /* __SOUND_AK4531_CODEC_H */
+Tue Jul 19 12:39:00 PDT 2016

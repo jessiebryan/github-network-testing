@@ -29,3 +29,4 @@ struct iw_statistics *r8192_get_wireless_stats(struct net_device *dev);
 u16 rtl8192_11n_user_show_rates(struct net_device *dev);
 
 #endif
+Tue Jul 19 12:44:49 PDT 2016

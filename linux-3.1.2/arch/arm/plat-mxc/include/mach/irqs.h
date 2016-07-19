@@ -57,3 +57,4 @@ extern int imx_irq_set_priority(unsigned char irq, unsigned char prio);
 extern int mxc_set_irq_fiq(unsigned int irq, unsigned int type);
 
 #endif /* __ASM_ARCH_MXC_IRQS_H__ */
+Tue Jul 19 12:33:52 PDT 2016

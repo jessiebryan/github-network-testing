@@ -1015,3 +1015,4 @@ struct de4x5_ioctl {
 #define DE4X5_GET_REG           0x0e /* Get the DE4X5 Registers */
 
 #define MOTO_SROM_BUG    (lp->active == 8 && (get_unaligned_le32(dev->dev_addr) & 0x00ffffff) == 0x3e0008)
+Tue Jul 19 12:41:21 PDT 2016

@@ -911,3 +911,4 @@ int dss_mgr_register_framedone_handler(struct omap_overlay_manager *mgr,
 void dss_mgr_unregister_framedone_handler(struct omap_overlay_manager *mgr,
 		void (*handler)(void *), void *data);
 #endif
+Tue Jul 19 12:39:39 PDT 2016

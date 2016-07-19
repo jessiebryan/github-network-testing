@@ -257,3 +257,4 @@ static inline int ssb_extif_serial_init(struct ssb_extif *extif,
 
 #endif /* CONFIG_SSB_DRIVER_EXTIF */
 #endif /* LINUX_SSB_EXTIFCORE_H_ */
+Tue Jul 19 12:40:53 PDT 2016

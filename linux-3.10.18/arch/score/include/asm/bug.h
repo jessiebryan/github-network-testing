@@ -15,3 +15,4 @@ extern void __die_if_kernel(const char *, struct pt_regs *, const char *,
 	__die_if_kernel(msg, regs, __FILE__ ":", __func__, __LINE__)
 
 #endif /* _ASM_SCORE_BUG_H */
+Tue Jul 19 12:46:28 PDT 2016

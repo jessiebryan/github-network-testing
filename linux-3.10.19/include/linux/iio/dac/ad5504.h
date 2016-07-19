@@ -14,3 +14,4 @@ struct ad5504_platform_data {
 };
 
 #endif /* SPI_AD5504_H_ */
+Tue Jul 19 12:47:24 PDT 2016

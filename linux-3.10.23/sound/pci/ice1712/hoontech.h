@@ -75,3 +75,4 @@ extern struct snd_ice1712_card_info snd_ice1712_hoontech_cards[];
 #define ICE1712_STDSP24_SERIAL_CLOCK	0x30	/* ak4524 clock */
 
 #endif /* __SOUND_HOONTECH_H */
+Tue Jul 19 12:50:05 PDT 2016

@@ -15,3 +15,4 @@
 #define AT93C_WDATA_SHIFT_200	2
 #define AT93C_CS_M_200		(1 << 0)
 #define AT93C_CLK_M_200		(1 << 1)
+Tue Jul 19 12:34:55 PDT 2016

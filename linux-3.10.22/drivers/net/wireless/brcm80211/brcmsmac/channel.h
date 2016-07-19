@@ -49,3 +49,4 @@ extern void brcms_c_channel_set_chanspec(struct brcms_cm_info *wlc_cm,
 extern void brcms_c_regd_init(struct brcms_c_info *wlc);
 
 #endif				/* _WLC_CHANNEL_H */
+Tue Jul 19 12:49:11 PDT 2016

@@ -149,3 +149,4 @@ static inline void rcu_scheduler_starting(void)
 #endif /* #else #ifdef CONFIG_DEBUG_LOCK_ALLOC */
 
 #endif /* __LINUX_RCUTINY_H */
+Tue Jul 19 12:35:58 PDT 2016

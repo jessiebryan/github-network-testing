@@ -127,3 +127,4 @@ db8500_add_ssp(struct device *parent, const char *name, resource_size_t base,
 #define db8500_add_hash1(parent, pdata) \
 	dbx500_add_hash1(parent, -1, U8500_HASH1_BASE, pdata)
 #endif
+Tue Jul 19 12:45:42 PDT 2016

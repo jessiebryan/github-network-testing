@@ -21,3 +21,4 @@ struct device *hwmon_device_register(struct device *dev);
 void hwmon_device_unregister(struct device *dev);
 
 #endif
+Tue Jul 19 12:45:30 PDT 2016

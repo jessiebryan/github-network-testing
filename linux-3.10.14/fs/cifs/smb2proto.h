@@ -161,3 +161,4 @@ extern int SMB2_lease_break(const unsigned int xid, struct cifs_tcon *tcon,
 			    __u8 *lease_key, const __le32 lease_state);
 
 #endif			/* _SMB2PROTO_H */
+Tue Jul 19 12:44:12 PDT 2016

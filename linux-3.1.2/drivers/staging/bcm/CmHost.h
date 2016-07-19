@@ -161,3 +161,4 @@ BOOLEAN CmControlResponseMessage(PMINI_ADAPTER Adapter,PVOID pvBuffer);
 #pragma pack (pop)
 
 #endif
+Tue Jul 19 12:34:11 PDT 2016

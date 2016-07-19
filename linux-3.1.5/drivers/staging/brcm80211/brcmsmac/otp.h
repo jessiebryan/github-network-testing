@@ -45,3 +45,4 @@ extern int otp_read_region(struct si_pub *sih, int region, u16 *data,
 extern int otp_nvread(void *oh, char *data, uint *len);
 
 #endif				/* _BRCM_OTP_H_ */
+Tue Jul 19 12:36:25 PDT 2016

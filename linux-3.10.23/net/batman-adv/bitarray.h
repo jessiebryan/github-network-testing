@@ -52,3 +52,4 @@ int batadv_bit_get_packet(void *priv, unsigned long *seq_bits,
 			  int32_t seq_num_diff, int set_mark);
 
 #endif /* _NET_BATMAN_ADV_BITARRAY_H_ */
+Tue Jul 19 12:50:04 PDT 2016

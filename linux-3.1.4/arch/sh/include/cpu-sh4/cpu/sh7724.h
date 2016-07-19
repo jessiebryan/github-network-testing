@@ -316,3 +316,4 @@ extern struct clk sh7724_fsimcka_clk;
 extern struct clk sh7724_fsimckb_clk;
 
 #endif /* __ASM_SH7724_H__ */
+Tue Jul 19 12:35:42 PDT 2016

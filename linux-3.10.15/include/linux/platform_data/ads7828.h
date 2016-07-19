@@ -27,3 +27,4 @@ struct ads7828_platform_data {
 };
 
 #endif /* _PDATA_ADS7828_H */
+Tue Jul 19 12:44:56 PDT 2016

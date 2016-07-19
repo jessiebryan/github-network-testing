@@ -149,3 +149,4 @@ void rtl_8723e_bt_wifi_media_status_notify(struct ieee80211_hw *hw,
 void rtl8723ae_bt_coex_off_before_lps(struct ieee80211_hw *hw);
 
 #endif
+Tue Jul 19 12:44:47 PDT 2016

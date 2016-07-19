@@ -441,3 +441,4 @@ struct net2280_ep_regs {	/* [11.9] */
 } __attribute__ ((packed));
 
 #endif /* __LINUX_USB_NET2280_H */
+Tue Jul 19 12:40:15 PDT 2016

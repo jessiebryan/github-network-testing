@@ -21,3 +21,4 @@ extern struct platform_device ux500_ske_keypad_device;
 void dma40_u8500ed_fixup(void);
 
 #endif
+Tue Jul 19 12:36:06 PDT 2016

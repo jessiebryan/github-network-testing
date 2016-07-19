@@ -259,3 +259,4 @@ u8 b43legacy_kidx_to_raw(struct b43legacy_wldev *dev, u8 firmware_kidx)
 }
 
 #endif /* B43legacy_XMIT_H_ */
+Tue Jul 19 12:35:14 PDT 2016

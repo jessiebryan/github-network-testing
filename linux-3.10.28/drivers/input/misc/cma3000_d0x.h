@@ -40,3 +40,4 @@ void cma3000_suspend(struct cma3000_accl_data *);
 void cma3000_resume(struct cma3000_accl_data *);
 
 #endif
+Tue Jul 19 12:53:01 PDT 2016

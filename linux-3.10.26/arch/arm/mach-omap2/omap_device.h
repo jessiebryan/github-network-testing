@@ -111,3 +111,4 @@ void omap_device_disable_idle_on_suspend(struct platform_device *pdev)
 }
 
 #endif
+Tue Jul 19 12:51:27 PDT 2016

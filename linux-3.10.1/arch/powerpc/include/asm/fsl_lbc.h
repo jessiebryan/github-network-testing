@@ -304,3 +304,4 @@ extern int fsl_upm_run_pattern(struct fsl_upm *upm, void __iomem *io_base,
 extern struct fsl_lbc_ctrl *fsl_lbc_ctrl_dev;
 
 #endif /* __ASM_FSL_LBC_H */
+Tue Jul 19 12:38:37 PDT 2016

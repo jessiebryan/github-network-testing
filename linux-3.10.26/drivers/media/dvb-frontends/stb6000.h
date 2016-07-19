@@ -49,3 +49,4 @@ static inline struct dvb_frontend *stb6000_attach(struct dvb_frontend *fe,
 #endif /* CONFIG_DVB_STB6000 */
 
 #endif /* __DVB_STB6000_H__ */
+Tue Jul 19 12:51:44 PDT 2016

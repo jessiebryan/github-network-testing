@@ -59,3 +59,4 @@ int nouveau_parent_sclass(struct nouveau_object *, u16 handle,
 			  struct nouveau_oclass **poclass);
 
 #endif
+Tue Jul 19 12:42:46 PDT 2016

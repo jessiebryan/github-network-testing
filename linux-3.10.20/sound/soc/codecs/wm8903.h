@@ -1223,3 +1223,4 @@ extern int wm8903_mic_detect(struct snd_soc_codec *codec,
 #define WM8903_PGA_BIAS_WIDTH                        3  /* PGA_BIAS - [6:4] */
 
 #endif
+Tue Jul 19 12:48:10 PDT 2016

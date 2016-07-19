@@ -21,3 +21,4 @@ int lm_device_register(struct lm_device *dev);
 
 #define lm_get_drvdata(lm)	dev_get_drvdata(&(lm)->dev)
 #define lm_set_drvdata(lm,d)	dev_set_drvdata(&(lm)->dev, d)
+Tue Jul 19 12:49:30 PDT 2016

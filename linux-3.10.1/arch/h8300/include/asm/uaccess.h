@@ -161,3 +161,4 @@ clear_user(void *to, unsigned long n)
 #define __clear_user	clear_user
 
 #endif /* _H8300_UACCESS_H */
+Tue Jul 19 12:38:31 PDT 2016

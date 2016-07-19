@@ -186,3 +186,4 @@ static const unsigned char start_s5k83a[][4] = {
 	{BRIDGE, M5602_XB_SEN_CLK_CTRL, 0xb0, 0x00},
 };
 #endif
+Tue Jul 19 12:45:22 PDT 2016

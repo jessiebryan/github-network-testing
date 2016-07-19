@@ -244,3 +244,4 @@ struct rtl28xxu_reg_val {
 #define IR_RES_MASK_T_LEN  0xFD19
 
 #endif
+Tue Jul 19 12:50:27 PDT 2016

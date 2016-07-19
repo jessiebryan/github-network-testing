@@ -22,3 +22,4 @@ void attach_ms_sound(struct address_info * hw_config, struct resource *ports, st
 
 int probe_ms_sound(struct address_info *hw_config, struct resource *ports);
 void unload_ms_sound(struct address_info *hw_info);
+Tue Jul 19 12:41:38 PDT 2016

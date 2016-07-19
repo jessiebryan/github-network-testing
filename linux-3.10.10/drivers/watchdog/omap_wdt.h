@@ -52,3 +52,4 @@
 #define GET_WLDR_VAL(secs)	(0xffffffff - ((secs) * (32768/(1<<PTV))) + 1)
 
 #endif				/* _OMAP_WATCHDOG_H */
+Tue Jul 19 12:39:30 PDT 2016

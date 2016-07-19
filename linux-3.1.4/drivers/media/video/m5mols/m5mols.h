@@ -295,3 +295,4 @@ int m5mols_update_fw(struct v4l2_subdev *sd,
 		     int (*set_power)(struct m5mols_info *, bool));
 
 #endif	/* M5MOLS_H */
+Tue Jul 19 12:35:47 PDT 2016

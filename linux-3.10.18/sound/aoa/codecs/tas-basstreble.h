@@ -132,3 +132,4 @@ static inline u8 tas3004_bass(int idx)
 		result += tas3004_bass_diff_to_treble[idx-50];
 	return result;
 }
+Tue Jul 19 12:46:53 PDT 2016

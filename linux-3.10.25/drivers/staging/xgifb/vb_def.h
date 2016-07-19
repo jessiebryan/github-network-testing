@@ -263,3 +263,4 @@ extern const unsigned char XGI340_CR6B[][4];
 extern const unsigned char XGI340_AGPReg[];
 
 #endif
+Tue Jul 19 12:51:12 PDT 2016

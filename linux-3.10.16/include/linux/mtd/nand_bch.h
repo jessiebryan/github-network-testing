@@ -70,3 +70,4 @@ static inline void nand_bch_free(struct nand_bch_control *nbc) {}
 #endif /* CONFIG_MTD_NAND_ECC_BCH */
 
 #endif /* __MTD_NAND_BCH_H__ */
+Tue Jul 19 12:45:32 PDT 2016

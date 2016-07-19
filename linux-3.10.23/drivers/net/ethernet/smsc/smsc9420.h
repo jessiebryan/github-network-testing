@@ -274,3 +274,4 @@
 #define E2P_DATA_EEPROM_DATA_		(0x000000FF)
 
 #endif /* _SMSC9420_H */
+Tue Jul 19 12:49:49 PDT 2016

@@ -369,3 +369,4 @@ struct orc_nvram {
 #define NCC_RESET_TIME  0x0A    /* SCSI RESET recovering time     */
 #define NTC_DEFAULT     (NTC_1GIGA | NTC_NO_WIDESYNC | NTC_DISC_ENABLE)
 
+Tue Jul 19 12:48:34 PDT 2016

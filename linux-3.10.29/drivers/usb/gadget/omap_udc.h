@@ -204,3 +204,4 @@ struct omap_udc {
 #define	HMC_1610	(omap_readl(OTG_SYSCON_2) & 0x3f)
 #define	HMC		(cpu_is_omap15xx() ? HMC_1510 : HMC_1610)
 
+Tue Jul 19 12:53:47 PDT 2016

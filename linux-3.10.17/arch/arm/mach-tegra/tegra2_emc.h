@@ -22,3 +22,4 @@ int tegra_emc_set_rate(unsigned long rate);
 long tegra_emc_round_rate(unsigned long rate);
 
 #endif
+Tue Jul 19 12:45:42 PDT 2016

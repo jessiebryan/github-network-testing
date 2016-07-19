@@ -594,3 +594,4 @@ int iio_str_to_fixpoint(const char *str, int fract_mult, int *integer,
 #define IIO_M_S_2_TO_G(ms2) (((ms2) * 100000ULL + 980665ULL / 2) / 980665ULL)
 
 #endif /* _INDUSTRIAL_IO_H_ */
+Tue Jul 19 12:40:51 PDT 2016

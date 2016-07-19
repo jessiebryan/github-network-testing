@@ -105,3 +105,4 @@ static inline int davinci_pm_init(void) { return 0; }
 #define SRAM_SIZE	SZ_128K
 
 #endif /* __ARCH_ARM_MACH_DAVINCI_COMMON_H */
+Tue Jul 19 12:52:05 PDT 2016

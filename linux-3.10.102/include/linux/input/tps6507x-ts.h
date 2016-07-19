@@ -22,3 +22,4 @@ struct touchscreen_init_data {
 };
 
 #endif /*  __LINUX_I2C_TPS6507X_TS_H */
+Tue Jul 19 12:41:29 PDT 2016

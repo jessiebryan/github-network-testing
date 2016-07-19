@@ -320,3 +320,4 @@ struct ipu_client_platformdata {
 };
 
 #endif /* __DRM_IPU_H__ */
+Tue Jul 19 12:44:49 PDT 2016

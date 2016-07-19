@@ -34,3 +34,4 @@ void clkdev_add_table(struct clk_lookup *, size_t);
 int clk_add_alias(const char *, const char *, char *, struct device *);
 
 #endif
+Tue Jul 19 12:35:21 PDT 2016

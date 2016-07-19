@@ -441,3 +441,4 @@ bool cayman_gpu_is_lockup(struct radeon_device *rdev);
 int cayman_asic_reset(struct radeon_device *rdev);
 
 #endif
+Tue Jul 19 12:36:53 PDT 2016

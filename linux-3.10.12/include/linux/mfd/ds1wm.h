@@ -11,3 +11,4 @@ struct ds1wm_driver_data {
 	/* a reset pulse/presence detect sequence.*/
 	unsigned int reset_recover_delay;
 };
+Tue Jul 19 12:42:59 PDT 2016

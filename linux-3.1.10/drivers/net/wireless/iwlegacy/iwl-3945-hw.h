@@ -289,3 +289,4 @@ static inline __le16 iwl3945_hw_set_rate_n_flags(u8 rate, u16 flags)
 	return cpu_to_le16((u16)rate|flags);
 }
 #endif
+Tue Jul 19 12:33:31 PDT 2016

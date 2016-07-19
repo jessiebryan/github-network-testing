@@ -20,3 +20,4 @@ void ath79_register_spi(struct ath79_spi_platform_data *pdata,
 			 unsigned n);
 
 #endif /* _ATH79_DEV_SPI_H */
+Tue Jul 19 12:48:19 PDT 2016

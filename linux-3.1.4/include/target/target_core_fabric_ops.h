@@ -96,3 +96,4 @@ struct target_core_fabric_ops {
 				struct config_group *, const char *);
 	void (*fabric_drop_nodeacl)(struct se_node_acl *);
 };
+Tue Jul 19 12:36:00 PDT 2016

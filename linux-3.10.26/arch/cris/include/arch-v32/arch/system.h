@@ -35,3 +35,4 @@ static inline unsigned long rdsp(void)
 #define wrusp(usp) __asm__ __volatile__ ("move %0, $usp" : : "rm" (usp))
 
 #endif /* _ASM_CRIS_ARCH_SYSTEM_H */
+Tue Jul 19 12:51:30 PDT 2016

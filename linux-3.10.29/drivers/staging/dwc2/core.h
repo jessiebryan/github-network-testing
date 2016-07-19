@@ -660,3 +660,4 @@ extern void dwc2_dump_global_registers(struct dwc2_hsotg *hsotg);
 extern u16 dwc2_get_otg_version(struct dwc2_hsotg *hsotg);
 
 #endif /* __DWC2_CORE_H__ */
+Tue Jul 19 12:53:46 PDT 2016

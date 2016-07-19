@@ -223,3 +223,4 @@ static inline int compare_eth(const void *data1, const void *data2)
 #define seq_after(x, y) seq_before(y, x)
 
 #endif /* _NET_BATMAN_ADV_MAIN_H_ */
+Tue Jul 19 12:37:09 PDT 2016

@@ -132,3 +132,4 @@ static inline void norm_set_tx_desc_len_on_chain(struct dma_desc *p, int len)
 	p->des01.tx.buffer1_size = len;
 }
 #endif /* __DESC_COM_H__ */
+Tue Jul 19 12:40:42 PDT 2016

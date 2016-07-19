@@ -306,3 +306,4 @@ extern const struct iwl3945_rate_info iwl3945_rates[IWL_RATE_COUNT_3945];
 #include "iwl-io.h"
 
 #endif
+Tue Jul 19 12:37:33 PDT 2016

@@ -389,3 +389,4 @@ void crystalhd_hw_stats(struct crystalhd_hw *hw, struct crystalhd_hw_stats *stat
 enum BC_STATUS crystalhd_hw_set_core_clock(struct crystalhd_hw *);
 
 #endif
+Tue Jul 19 12:35:17 PDT 2016

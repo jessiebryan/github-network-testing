@@ -74,3 +74,4 @@ void ams_delta_latch2_write(u16 mask, u16 value);
 #endif /* CONFIG_MACH_AMS_DELTA */
 
 #endif /* __ASM_ARCH_OMAP_AMS_DELTA_H */
+Tue Jul 19 12:33:16 PDT 2016

@@ -112,3 +112,4 @@ extern struct omap_hwmod_class omap2xxx_mailbox_hwmod_class;
 extern struct omap_hwmod_class omap2xxx_mcspi_class;
 
 #endif
+Tue Jul 19 12:36:39 PDT 2016

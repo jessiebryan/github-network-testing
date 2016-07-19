@@ -295,3 +295,4 @@ struct ixgbe_adv_tx_context_desc {
 #define IXGBE_ERR_RESET_FAILED                  -2
 
 #endif /* _IXGBEVF_DEFINES_H_ */
+Tue Jul 19 12:35:14 PDT 2016

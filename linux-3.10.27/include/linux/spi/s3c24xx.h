@@ -24,3 +24,4 @@ struct s3c2410_spi_info {
 };
 
 #endif /* __LINUX_SPI_S3C24XX_H */
+Tue Jul 19 12:52:36 PDT 2016

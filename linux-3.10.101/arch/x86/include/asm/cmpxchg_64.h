@@ -23,3 +23,4 @@ static inline void set_64bit(volatile u64 *ptr, u64 val)
 #define system_has_cmpxchg_double() cpu_has_cx16
 
 #endif /* _ASM_X86_CMPXCHG_64_H */
+Tue Jul 19 12:40:36 PDT 2016

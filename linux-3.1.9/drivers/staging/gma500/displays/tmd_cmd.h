@@ -32,3 +32,4 @@ extern void tmd_cmd_init(struct drm_device *dev, struct panel_funcs *p_funcs);
 extern struct drm_display_mode *tmd_cmd_get_config_mode(struct drm_device *dev);
 
 #endif
+Tue Jul 19 12:38:14 PDT 2016

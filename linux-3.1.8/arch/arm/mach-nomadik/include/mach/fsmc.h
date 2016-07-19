@@ -27,3 +27,4 @@
 #define FSMC_PECCR(x)   (NOMADIK_FSMC_VA + ((2 + x) << 5) + 0x14)
 
 #endif /* __ASM_ARCH_FSMC_H */
+Tue Jul 19 12:37:13 PDT 2016

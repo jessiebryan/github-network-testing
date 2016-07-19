@@ -1592,3 +1592,4 @@ static inline u32 ath5k_hw_bitswap(u32 val, unsigned int bits)
 }
 
 #endif
+Tue Jul 19 12:33:31 PDT 2016

@@ -432,3 +432,4 @@ static inline struct tty_driver *tty_driver_kref_get(struct tty_driver *d)
 #define SERIAL_TYPE_NORMAL	1
 
 #endif /* #ifdef _LINUX_TTY_DRIVER_H */
+Tue Jul 19 12:48:05 PDT 2016

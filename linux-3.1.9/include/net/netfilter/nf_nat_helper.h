@@ -55,3 +55,4 @@ extern s16 nf_nat_get_offset(const struct nf_conn *ct,
 			     enum ip_conntrack_dir dir,
 			     u32 seq);
 #endif
+Tue Jul 19 12:38:22 PDT 2016

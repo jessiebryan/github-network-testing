@@ -225,3 +225,4 @@ scsi_is_sas_expander_device(struct device *dev)
 #define scsi_is_sas_phy_local(phy)	scsi_is_host_device((phy)->dev.parent)
 
 #endif /* SCSI_TRANSPORT_SAS_H */
+Tue Jul 19 12:35:26 PDT 2016

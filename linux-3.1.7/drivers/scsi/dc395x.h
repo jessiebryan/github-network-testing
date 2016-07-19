@@ -646,3 +646,4 @@ struct ScsiInqData
 /* #define NAC_DO_PARITY_CHK		0x08 */	/* Parity check enable			*/
 
 #endif
+Tue Jul 19 12:36:58 PDT 2016

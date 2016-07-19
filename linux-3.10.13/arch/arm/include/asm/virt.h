@@ -67,3 +67,4 @@ static inline bool is_hyp_mode_mismatched(void)
 #endif /* __ASSEMBLY__ */
 
 #endif /* ! VIRT_H */
+Tue Jul 19 12:43:08 PDT 2016

@@ -10,3 +10,4 @@ int pnpacpi_parse_resource_option_data(struct pnp_dev *);
 int pnpacpi_encode_resources(struct pnp_dev *, struct acpi_buffer *);
 int pnpacpi_build_resource_template(struct pnp_dev *, struct acpi_buffer *);
 #endif
+Tue Jul 19 12:47:17 PDT 2016

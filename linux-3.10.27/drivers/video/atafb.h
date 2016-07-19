@@ -34,3 +34,4 @@ void atafb_iplan2p8_linefill(struct fb_info *info, u_long next_line,
 			     const u8 *data, u32 bgcolor, u32 fgcolor);
 
 #endif /* _VIDEO_ATAFB_H */
+Tue Jul 19 12:52:30 PDT 2016

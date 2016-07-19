@@ -319,3 +319,4 @@ static inline void ntfs_commit_inode(struct inode *vi)
 #endif /* NTFS_RW */
 
 #endif /* _LINUX_NTFS_INODE_H */
+Tue Jul 19 12:36:28 PDT 2016

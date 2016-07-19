@@ -178,3 +178,4 @@ struct pci_dev;
 int jmr3927_pci_map_irq(const struct pci_dev *dev, u8 slot, u8 pin);
 
 #endif /* __ASM_TXX9_JMR3927_H */
+Tue Jul 19 12:34:56 PDT 2016

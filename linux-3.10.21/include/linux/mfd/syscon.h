@@ -24,3 +24,4 @@ extern struct regmap *syscon_regmap_lookup_by_phandle(
 					struct device_node *np,
 					const char *property);
 #endif /* __LINUX_MFD_SYSCON_H__ */
+Tue Jul 19 12:48:41 PDT 2016

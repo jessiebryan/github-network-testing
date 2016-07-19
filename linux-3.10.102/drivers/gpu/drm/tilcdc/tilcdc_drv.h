@@ -148,3 +148,4 @@ int tilcdc_crtc_mode_valid(struct drm_crtc *crtc, struct drm_display_mode *mode)
 int tilcdc_crtc_max_width(struct drm_crtc *crtc);
 
 #endif /* __TILCDC_DRV_H__ */
+Tue Jul 19 12:41:18 PDT 2016

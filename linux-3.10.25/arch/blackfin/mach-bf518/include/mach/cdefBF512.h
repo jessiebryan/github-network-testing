@@ -1041,3 +1041,4 @@
 #define bfin_write_SECURE_STATUS(val)		bfin_write16(SECURE_STATUS, val)
 
 #endif /* _CDEF_BF512_H */
+Tue Jul 19 12:50:50 PDT 2016

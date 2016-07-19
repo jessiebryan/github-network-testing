@@ -251,3 +251,4 @@
 #define HSIC_USB_CLK_PMU		0x1
 
 #endif /* __ASM_ARCH_PXA_U2O_H */
+Tue Jul 19 12:47:34 PDT 2016

@@ -12,3 +12,4 @@
 #define SCRATCHPAD_UNUSED2	0x38 /* Reserved for OBP		    */
 
 #endif /* !(_SPARC64_SCRATCHPAD_H) */
+Tue Jul 19 12:36:17 PDT 2016

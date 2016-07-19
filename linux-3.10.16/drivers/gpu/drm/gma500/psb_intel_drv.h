@@ -296,3 +296,4 @@ extern void cdv_intel_attach_force_audio_property(struct drm_connector *connecto
 extern void cdv_intel_attach_broadcast_rgb_property(struct drm_connector *connector);
 
 #endif				/* __INTEL_DRV_H__ */
+Tue Jul 19 12:45:19 PDT 2016

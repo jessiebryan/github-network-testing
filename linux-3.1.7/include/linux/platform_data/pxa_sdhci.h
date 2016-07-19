@@ -58,3 +58,4 @@ struct sdhci_pxa {
 	u8	power_mode;
 };
 #endif /* _PXA_SDHCI_H_ */
+Tue Jul 19 12:37:06 PDT 2016

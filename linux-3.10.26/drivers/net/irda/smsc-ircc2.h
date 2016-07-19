@@ -191,3 +191,4 @@
 /* Maximum wait for ATC transceiver programming to finish */
 #define SMSC_IRCC2_ATC_PROGRAMMING_TIMEOUT_JIFFIES 1
 #endif /* SMSC_IRCC2_H */
+Tue Jul 19 12:51:47 PDT 2016

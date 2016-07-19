@@ -103,3 +103,4 @@ void DOT11D_ScanComplete(struct rtllib_device *dev);
 int ToLegalChannel(struct rtllib_device *dev, u8 channel);
 
 #endif
+Tue Jul 19 12:42:11 PDT 2016

@@ -383,3 +383,4 @@ extern int usb_string_ids_n(struct usb_composite_dev *c, unsigned n);
 	dev_info(&(d)->gadget->dev , fmt , ## args)
 
 #endif	/* __LINUX_USB_COMPOSITE_H */
+Tue Jul 19 12:37:07 PDT 2016

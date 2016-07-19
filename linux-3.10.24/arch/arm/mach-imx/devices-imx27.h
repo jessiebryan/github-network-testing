@@ -87,3 +87,4 @@ extern const struct imx_spi_imx_data imx27_cspi_data[];
 extern const struct imx_pata_imx_data imx27_pata_imx_data;
 #define imx27_add_pata_imx() \
 	imx_add_pata_imx(&imx27_pata_imx_data)
+Tue Jul 19 12:50:08 PDT 2016

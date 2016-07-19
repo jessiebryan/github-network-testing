@@ -186,3 +186,4 @@ struct adv7393_std_info {
 #define ADV7393_GAIN_DEF	(0)
 
 #endif
+Tue Jul 19 12:47:52 PDT 2016

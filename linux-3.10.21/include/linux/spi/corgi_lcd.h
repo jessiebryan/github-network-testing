@@ -18,3 +18,4 @@ struct corgi_lcd_platform_data {
 };
 
 #endif /* __LINUX_SPI_CORGI_LCD_H */
+Tue Jul 19 12:48:42 PDT 2016

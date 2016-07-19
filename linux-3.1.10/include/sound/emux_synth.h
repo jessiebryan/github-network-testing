@@ -242,3 +242,4 @@ void snd_emux_lock_voice(struct snd_emux *emu, int voice);
 void snd_emux_unlock_voice(struct snd_emux *emu, int voice);
 
 #endif /* __SOUND_EMUX_SYNTH_H */
+Tue Jul 19 12:33:43 PDT 2016

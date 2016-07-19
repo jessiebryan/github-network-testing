@@ -333,3 +333,4 @@ static inline u16 ar9003_mci_get_max_txpower(struct ath_hw *ah, u8 ctlmode)
 #endif /* CONFIG_ATH9K_BTCOEX_SUPPORT */
 
 #endif
+Tue Jul 19 12:48:32 PDT 2016

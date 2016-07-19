@@ -19,3 +19,4 @@ extern int line6_init_audio(struct usb_line6 *);
 extern int line6_register_audio(struct usb_line6 *);
 
 #endif
+Tue Jul 19 12:37:36 PDT 2016

@@ -20,3 +20,4 @@
 #define AX88796_BUS_INFO	"CS1#+0x200"		/* bus info for ethtool */
 
 #endif /* _ASM_AX88796_H */
+Tue Jul 19 12:52:09 PDT 2016

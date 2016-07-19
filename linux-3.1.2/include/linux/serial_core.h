@@ -615,3 +615,4 @@ uart_insert_char(struct uart_port *port, unsigned int status,
 #endif
 
 #endif /* LINUX_SERIAL_CORE_H */
+Tue Jul 19 12:34:27 PDT 2016

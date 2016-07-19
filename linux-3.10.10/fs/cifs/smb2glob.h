@@ -56,3 +56,4 @@
 #define SMB2_HMACSHA256_SIZE (32)
 
 #endif	/* _SMB2_GLOB_H */
+Tue Jul 19 12:39:30 PDT 2016

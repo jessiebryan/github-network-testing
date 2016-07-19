@@ -53,3 +53,4 @@ typedef u16 CsrPrim;
 #define CSR_ENV_PRIM                        ((u16) (0x00FF | CSR_SYNERGY_EVENT_CLASS_MISC_BASE))
 
 #endif /* CSR_PRIM_DEFS_H__ */
+Tue Jul 19 12:48:35 PDT 2016

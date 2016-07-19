@@ -404,3 +404,4 @@ struct fsl_otg_config {
 void fsl_otg_add_timer(void *timer);
 void fsl_otg_del_timer(void *timer);
 void fsl_otg_pulse_vbus(void);
+Tue Jul 19 12:36:27 PDT 2016

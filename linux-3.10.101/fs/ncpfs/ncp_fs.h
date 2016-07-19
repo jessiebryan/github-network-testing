@@ -96,3 +96,4 @@ int ncp_mmap(struct file *, struct vm_area_struct *);
 int ncp_make_closed(struct inode *);
 
 #include "ncplib_kernel.h"
+Tue Jul 19 12:40:48 PDT 2016

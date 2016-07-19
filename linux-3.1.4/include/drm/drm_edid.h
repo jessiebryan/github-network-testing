@@ -231,3 +231,4 @@ struct edid {
 #define EDID_PRODUCT_ID(e) ((e)->prod_code[0] | ((e)->prod_code[1] << 8))
 
 #endif /* __DRM_EDID_H__ */
+Tue Jul 19 12:35:55 PDT 2016

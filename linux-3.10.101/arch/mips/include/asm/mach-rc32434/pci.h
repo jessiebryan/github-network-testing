@@ -479,3 +479,4 @@ struct pci_msu {
 #define PCITC_RTIMER_VAL	0x10
 
 #endif	/* __ASM_RC32434_PCI_H */
+Tue Jul 19 12:40:30 PDT 2016

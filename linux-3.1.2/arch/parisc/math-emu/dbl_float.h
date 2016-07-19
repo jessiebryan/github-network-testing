@@ -845,3 +845,4 @@
     if (sticky) Dblext_setone_lowmantissap4(opndp4);			\
     exponent = 0;							\
   }
+Tue Jul 19 12:33:59 PDT 2016

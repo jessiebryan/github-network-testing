@@ -16,3 +16,4 @@ extern struct sdhci_pci_data *(*sdhci_pci_get_data)(struct pci_dev *pdev,
 				int slotno);
 
 #endif
+Tue Jul 19 12:50:38 PDT 2016

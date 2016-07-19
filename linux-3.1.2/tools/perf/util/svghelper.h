@@ -26,3 +26,4 @@ extern void svg_close(void);
 extern int svg_page_width;
 
 #endif /* __PERF_SVGHELPER_H */
+Tue Jul 19 12:34:40 PDT 2016

@@ -259,3 +259,4 @@ int ms_transfer_data(struct rts51x_chip *chip, u8 trans_mode, u8 tpc,
 #endif
 
 #endif /* __RTS51X_MS_H */
+Tue Jul 19 12:53:08 PDT 2016

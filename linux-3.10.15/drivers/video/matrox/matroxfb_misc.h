@@ -19,3 +19,4 @@ void matroxfb_vgaHWrestore(struct matrox_fb_info *minfo);
 void matroxfb_read_pins(struct matrox_fb_info *minfo);
 
 #endif	/* __MATROXFB_MISC_H__ */
+Tue Jul 19 12:44:51 PDT 2016

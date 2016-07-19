@@ -35,3 +35,4 @@ void soc_device_unregister(struct soc_device *soc_dev);
 struct device *soc_device_to_device(struct soc_device *soc);
 
 #endif /* __SOC_BUS_H */
+Tue Jul 19 12:46:09 PDT 2016

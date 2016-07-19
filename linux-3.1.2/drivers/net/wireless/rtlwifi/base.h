@@ -141,3 +141,4 @@ void rtl_recognize_peer(struct ieee80211_hw *hw, u8 *data, unsigned int len);
 u8 rtl_tid_to_ac(struct ieee80211_hw *hw, u8 tid);
 extern struct attribute_group rtl_attribute_group;
 #endif
+Tue Jul 19 12:34:09 PDT 2016

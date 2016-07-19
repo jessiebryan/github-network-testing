@@ -56,3 +56,4 @@ struct max77693_platform_data {
 	struct max77693_muic_platform_data *muic_data;
 };
 #endif	/* __LINUX_MFD_MAX77693_H */
+Tue Jul 19 12:52:34 PDT 2016

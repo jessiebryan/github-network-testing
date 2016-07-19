@@ -24,3 +24,4 @@ int sh_pfc_register(const char *name,
 		    struct resource *resource, u32 num_resources);
 
 #endif /* __ARCH_SH_CPU_PFC_H__ */
+Tue Jul 19 12:45:51 PDT 2016

@@ -329,3 +329,4 @@
 		(((v) << 0) & BM_CLKCTRL_VERSION_STEP)
 
 #endif /* __REGS_CLKCTRL_MX23_H__ */
+Tue Jul 19 12:37:52 PDT 2016

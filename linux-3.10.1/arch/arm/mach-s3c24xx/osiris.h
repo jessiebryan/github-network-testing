@@ -51,3 +51,4 @@
 #define OSIRIS_PA_IDREG		(OSIRIS_PA_CPLD + (7<<23))
 
 #endif /* __MACH_S3C24XX_OSIRIS_H */
+Tue Jul 19 12:38:28 PDT 2016

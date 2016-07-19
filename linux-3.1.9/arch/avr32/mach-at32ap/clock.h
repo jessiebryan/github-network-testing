@@ -33,3 +33,4 @@ struct clk {
 
 unsigned long pba_clk_get_rate(struct clk *clk);
 void pba_clk_mode(struct clk *clk, int enabled);
+Tue Jul 19 12:37:55 PDT 2016

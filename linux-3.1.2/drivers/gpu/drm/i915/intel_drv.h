@@ -378,3 +378,4 @@ extern void intel_fb_restore_mode(struct drm_device *dev);
 
 extern void intel_init_clock_gating(struct drm_device *dev);
 #endif /* __INTEL_DRV_H__ */
+Tue Jul 19 12:34:05 PDT 2016

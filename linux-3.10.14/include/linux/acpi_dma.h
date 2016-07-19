@@ -118,3 +118,4 @@ static inline struct dma_chan *acpi_dma_request_slave_chan_by_name(
 #define acpi_dma_request_slave_channel	acpi_dma_request_slave_chan_by_index
 
 #endif /* __LINUX_ACPI_DMA_H */
+Tue Jul 19 12:44:14 PDT 2016

@@ -25,3 +25,4 @@ static __always_inline void boot_init_stack_canary(void)
 }
 
 #endif /* __ASM_SH_STACKPROTECTOR_H */
+Tue Jul 19 12:52:56 PDT 2016

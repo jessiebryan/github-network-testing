@@ -1556,3 +1556,4 @@ static inline void ide_set_drivedata(ide_drive_t *drive, void *data)
 	for ((i) = 0; ((port) = (host)->ports[i]) || (i) < MAX_HOST_PORTS; (i)++)
 
 #endif /* _IDE_H */
+Tue Jul 19 12:42:58 PDT 2016

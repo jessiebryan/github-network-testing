@@ -152,3 +152,4 @@ int sh_clk_div6_reparent_register(struct clk *clks, int nr);
 #define CLKDEV_ICK_ID(_cid, _did, _clk) { .con_id = _cid, .dev_id = _did, .clk = _clk }
 
 #endif /* __SH_CLOCK_H */
+Tue Jul 19 12:37:44 PDT 2016

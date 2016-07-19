@@ -292,3 +292,4 @@ void c67x00_ll_release(struct c67x00_device *dev);
 int c67x00_ll_reset(struct c67x00_device *dev);
 
 #endif				/* _USB_C67X00_H */
+Tue Jul 19 12:47:20 PDT 2016

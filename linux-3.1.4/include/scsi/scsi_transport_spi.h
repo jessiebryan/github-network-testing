@@ -159,3 +159,4 @@ int spi_populate_ppr_msg(unsigned char *msg, int period, int offset, int width,
 		int options);
 
 #endif /* SCSI_TRANSPORT_SPI_H */
+Tue Jul 19 12:36:00 PDT 2016

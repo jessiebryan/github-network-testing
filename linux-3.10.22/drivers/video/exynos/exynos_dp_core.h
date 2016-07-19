@@ -208,3 +208,4 @@ void exynos_dp_disable_scrambling(struct exynos_dp_device *dp);
 #define DPCD_SET_POWER_STATE_D4			(0x2 << 0)
 
 #endif /* _EXYNOS_DP_CORE_H */
+Tue Jul 19 12:49:15 PDT 2016

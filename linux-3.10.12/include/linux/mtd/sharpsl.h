@@ -18,3 +18,4 @@ struct sharpsl_nand_platform_data {
 	struct mtd_partition	*partitions;
 	unsigned int		nr_partitions;
 };
+Tue Jul 19 12:42:59 PDT 2016

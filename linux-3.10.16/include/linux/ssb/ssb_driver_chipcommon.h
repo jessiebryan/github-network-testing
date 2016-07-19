@@ -671,3 +671,4 @@ void ssb_pmu_set_ldo_paref(struct ssb_chipcommon *cc, bool on);
 void ssb_pmu_spuravoid_pllupdate(struct ssb_chipcommon *cc, int spuravoid);
 
 #endif /* LINUX_SSB_CHIPCO_H_ */
+Tue Jul 19 12:45:33 PDT 2016

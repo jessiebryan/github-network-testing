@@ -25,3 +25,4 @@ struct tegra_emc_table {
 int tegra_emc_set_rate(unsigned long rate);
 long tegra_emc_round_rate(unsigned long rate);
 void tegra_init_emc(const struct tegra_emc_table *table, int table_size);
+Tue Jul 19 12:36:40 PDT 2016

@@ -37,3 +37,4 @@ static inline u16 scr_readw(volatile const u16 *addr)
 #define VGA_MAP_MEM(x,s)	((unsigned long) ioremap(x, s))
 
 #endif
+Tue Jul 19 12:51:00 PDT 2016

@@ -182,3 +182,4 @@ int usbip_net_set_keepalive(int sockfd);
 int usbip_net_tcp_connect(char *hostname, char *port);
 
 #endif /* __USBIP_NETWORK_H */
+Tue Jul 19 12:44:50 PDT 2016

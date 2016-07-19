@@ -338,3 +338,4 @@ int wl18xx_acx_set_peer_cap(struct wl1271 *wl,
 			    u32 rate_set, u8 hlid);
 
 #endif /* __WL18XX_ACX_H__ */
+Tue Jul 19 12:49:50 PDT 2016

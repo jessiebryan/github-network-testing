@@ -36,3 +36,4 @@ u32 CRCdwGetCrc32(u8 * pbyData, unsigned int cbByte);
 u32 CRCdwGetCrc32Ex(u8 * pbyData, unsigned int cbByte, u32 dwPreCRC);
 
 #endif /* __TCRC_H__ */
+Tue Jul 19 12:46:41 PDT 2016

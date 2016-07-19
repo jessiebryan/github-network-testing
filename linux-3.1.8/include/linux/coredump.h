@@ -13,3 +13,4 @@ extern int dump_write(struct file *file, const void *addr, int nr);
 extern int dump_seek(struct file *file, loff_t off);
 
 #endif /* _LINUX_COREDUMP_H */
+Tue Jul 19 12:37:41 PDT 2016

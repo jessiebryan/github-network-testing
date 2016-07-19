@@ -75,3 +75,4 @@ int wl18xx_wait_for_event(struct wl1271 *wl, enum wlcore_wait_event event,
 int wl18xx_process_mailbox_events(struct wl1271 *wl);
 
 #endif
+Tue Jul 19 12:46:00 PDT 2016

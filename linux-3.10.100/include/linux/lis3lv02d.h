@@ -125,3 +125,4 @@ struct lis3lv02d_platform_data {
 };
 
 #endif /* __LIS3LV02D_H_ */
+Tue Jul 19 12:40:12 PDT 2016

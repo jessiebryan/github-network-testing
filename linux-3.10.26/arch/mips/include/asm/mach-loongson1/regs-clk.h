@@ -32,3 +32,4 @@
 #define DIV_DDR_WIDTH			5
 
 #endif /* __ASM_MACH_LOONGSON1_REGS_CLK_H */
+Tue Jul 19 12:51:34 PDT 2016

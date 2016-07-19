@@ -176,3 +176,4 @@ void rtl92d_phy_reload_iqk_setting(struct ieee80211_hw *hw, u8 channel);
 void rtl92d_phy_iq_calibrate(struct ieee80211_hw *hw);
 
 #endif
+Tue Jul 19 12:44:47 PDT 2016

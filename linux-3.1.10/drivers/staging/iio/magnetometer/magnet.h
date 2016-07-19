@@ -29,3 +29,4 @@
 
 #define IIO_DEV_ATTR_MAGN_Z(_show, _addr)				\
 	IIO_DEVICE_ATTR(magn_z_raw, S_IRUGO, _show, NULL, _addr)
+Tue Jul 19 12:33:34 PDT 2016

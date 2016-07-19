@@ -11,3 +11,4 @@ extern void __cmx2xx_pci_resume(void);
 #define cmx2xx_pci_suspend(x) do {} while (0)
 #define cmx2xx_pci_resume(x) do {} while (0)
 #endif
+Tue Jul 19 12:38:28 PDT 2016

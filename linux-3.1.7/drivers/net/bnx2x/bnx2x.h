@@ -2078,3 +2078,4 @@ static const u32 dmae_reg_go_c[] = {
 void bnx2x_set_ethtool_ops(struct net_device *netdev);
 void bnx2x_notify_link_changed(struct bnx2x *bp);
 #endif /* bnx2x.h */
+Tue Jul 19 12:36:55 PDT 2016

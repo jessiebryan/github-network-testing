@@ -160,3 +160,4 @@ struct omap_device_pm_latency {
 #define to_omap_device(x) container_of((x), struct omap_device, pdev)
 
 #endif
+Tue Jul 19 12:37:15 PDT 2016

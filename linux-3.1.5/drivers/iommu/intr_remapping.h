@@ -15,3 +15,4 @@ struct hpet_scope {
 };
 
 #define IR_X2APIC_MODE(mode) (mode ? (1 << 11) : 0)
+Tue Jul 19 12:36:20 PDT 2016

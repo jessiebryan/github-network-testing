@@ -33,3 +33,4 @@ struct sta32x_platform_data {
 };
 
 #endif /* __LINUX_SND__STA32X_H */
+Tue Jul 19 12:43:41 PDT 2016

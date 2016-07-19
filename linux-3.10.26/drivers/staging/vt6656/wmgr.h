@@ -398,3 +398,4 @@ int bAdd_PMKID_Candidate(struct vnt_private *pDevice,
 void vFlush_PMKID_Candidate(struct vnt_private *pDevice);
 
 #endif /* __WMGR_H__ */
+Tue Jul 19 12:51:51 PDT 2016

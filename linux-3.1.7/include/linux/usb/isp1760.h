@@ -16,3 +16,4 @@ struct isp1760_platform_data {
 };
 
 #endif /* __LINUX_USB_ISP1760_H */
+Tue Jul 19 12:37:07 PDT 2016

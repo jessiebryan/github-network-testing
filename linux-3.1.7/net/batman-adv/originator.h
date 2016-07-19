@@ -93,3 +93,4 @@ static inline struct orig_node *orig_hash_find(struct bat_priv *bat_priv,
 }
 
 #endif /* _NET_BATMAN_ADV_ORIGINATOR_H_ */
+Tue Jul 19 12:37:09 PDT 2016

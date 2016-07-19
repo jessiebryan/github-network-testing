@@ -410,3 +410,4 @@ extern int omap3_ctrl_save_padconf(void);
 
 #endif /* __ARCH_ARM_MACH_OMAP2_CONTROL_H */
 
+Tue Jul 19 12:35:31 PDT 2016

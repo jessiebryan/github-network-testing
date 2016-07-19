@@ -95,3 +95,4 @@
 #define P_DEFAULT_BOOT_SPI_CS P_SPI0_SSEL2
 
 #endif /* _MACH_PORTMUX_H_ */
+Tue Jul 19 12:42:32 PDT 2016

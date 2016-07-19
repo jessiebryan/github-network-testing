@@ -43,3 +43,4 @@ void snd_emu8000_ops_setup(struct snd_emu8000 *emu);
 int snd_emu8000_pcm_new(struct snd_card *card, struct snd_emu8000 *emu, int index);
 
 #endif	/* __EMU8000_LOCAL_H */
+Tue Jul 19 12:47:31 PDT 2016

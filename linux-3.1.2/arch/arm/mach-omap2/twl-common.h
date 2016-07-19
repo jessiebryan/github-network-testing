@@ -57,3 +57,4 @@ void omap4_pmic_get_config(struct twl4030_platform_data *pmic_data,
 			   u32 pdata_flags, u32 regulators_flags);
 
 #endif /* __OMAP_PMIC_COMMON__ */
+Tue Jul 19 12:33:50 PDT 2016

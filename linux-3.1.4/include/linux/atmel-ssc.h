@@ -310,3 +310,4 @@ void ssc_free(struct ssc_device *ssc);
 #define ssc_writel(base, reg, value)	__raw_writel((value), base + SSC_##reg)
 
 #endif /* __INCLUDE_ATMEL_SSC_H */
+Tue Jul 19 12:35:55 PDT 2016

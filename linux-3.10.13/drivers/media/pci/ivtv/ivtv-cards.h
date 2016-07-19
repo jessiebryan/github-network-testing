@@ -307,3 +307,4 @@ int ivtv_get_audio_output(struct ivtv *itv, u16 index, struct v4l2_audioout *out
 const struct ivtv_card *ivtv_get_card(u16 index);
 
 #endif
+Tue Jul 19 12:43:26 PDT 2016

@@ -9,3 +9,4 @@ u32 mpc885_get_clock(u32 crystal);
 int mpc885_fixup_clocks(u32 crystal);
 
 #endif
+Tue Jul 19 12:38:36 PDT 2016

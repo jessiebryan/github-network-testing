@@ -78,3 +78,4 @@ iwl_parse_nvm_data(struct device *dev, const struct iwl_cfg *cfg,
 		   const __le16 *nvm_calib);
 
 #endif /* __iwl_nvm_parse_h__ */
+Tue Jul 19 12:53:43 PDT 2016

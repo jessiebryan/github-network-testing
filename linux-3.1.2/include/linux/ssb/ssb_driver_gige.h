@@ -177,3 +177,4 @@ static inline bool ssb_gige_must_flush_posted_writes(struct pci_dev *pdev)
 
 #endif /* CONFIG_SSB_DRIVER_GIGE */
 #endif /* LINUX_SSB_DRIVER_GIGE_H_ */
+Tue Jul 19 12:34:27 PDT 2016

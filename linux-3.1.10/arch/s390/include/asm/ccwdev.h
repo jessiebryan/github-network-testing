@@ -225,3 +225,4 @@ extern int _ccw_device_get_subchannel_number(struct ccw_device *);
 
 extern void *ccw_device_get_chp_desc(struct ccw_device *, int);
 #endif /* _S390_CCWDEV_H_ */
+Tue Jul 19 12:33:24 PDT 2016

@@ -113,3 +113,4 @@ struct bfin_rotary_platform_data {
 #define DPRESCALE	0xf		/* Load Counter Register */
 
 #endif
+Tue Jul 19 12:35:33 PDT 2016

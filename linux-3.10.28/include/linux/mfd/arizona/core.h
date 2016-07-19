@@ -121,3 +121,4 @@ int wm5102_patch(struct arizona *arizona);
 int wm5110_patch(struct arizona *arizona);
 
 #endif
+Tue Jul 19 12:53:13 PDT 2016

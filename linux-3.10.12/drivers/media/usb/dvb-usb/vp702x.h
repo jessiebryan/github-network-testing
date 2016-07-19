@@ -111,3 +111,4 @@ extern int vp702x_usb_inout_op(struct dvb_usb_device *d, u8 *o, int olen, u8 *i,
 extern int vp702x_usb_in_op(struct dvb_usb_device *d, u8 req, u16 value, u16 index, u8 *b, int blen);
 
 #endif
+Tue Jul 19 12:42:48 PDT 2016

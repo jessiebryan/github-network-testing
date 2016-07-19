@@ -236,3 +236,4 @@ extern struct parport *parport_pc_probe_port(unsigned long base,
 extern void parport_pc_unregister_port(struct parport *p);
 
 #endif
+Tue Jul 19 12:49:21 PDT 2016

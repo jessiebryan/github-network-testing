@@ -145,3 +145,4 @@ extern void drm_helper_hpd_irq_event(struct drm_device *dev);
 extern void drm_kms_helper_poll_disable(struct drm_device *dev);
 extern void drm_kms_helper_poll_enable(struct drm_device *dev);
 #endif
+Tue Jul 19 12:36:29 PDT 2016

@@ -140,3 +140,4 @@ int nfc_data_exchange(struct nfc_dev *dev, u32 target_idx, struct sk_buff *skb,
 		      data_exchange_cb_t cb, void *cb_context);
 
 #endif /* __LOCAL_NFC_H */
+Tue Jul 19 12:50:05 PDT 2016

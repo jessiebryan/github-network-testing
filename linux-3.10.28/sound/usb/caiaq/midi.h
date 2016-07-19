@@ -7,3 +7,4 @@ void snd_usb_caiaq_midi_handle_input(struct snd_usb_caiaqdev *cdev,
 void snd_usb_caiaq_midi_output_done(struct urb *urb);
 
 #endif /* CAIAQ_MIDI_H */
+Tue Jul 19 12:53:21 PDT 2016

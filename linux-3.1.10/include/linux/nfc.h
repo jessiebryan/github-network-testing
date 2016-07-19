@@ -124,3 +124,4 @@ struct sockaddr_nfc {
 #define NFC_SOCKPROTO_MAX	1
 
 #endif /*__LINUX_NFC_H */
+Tue Jul 19 12:33:41 PDT 2016

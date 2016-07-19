@@ -60,3 +60,4 @@ int mei_other_client_is_connecting(struct mei_device *dev, struct mei_cl *cl);
 int mei_connect(struct mei_device *dev, struct mei_cl *cl);
 
 #endif /* _MEI_INTERFACE_H_ */
+Tue Jul 19 12:36:59 PDT 2016

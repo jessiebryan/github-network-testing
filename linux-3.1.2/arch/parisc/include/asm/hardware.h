@@ -125,3 +125,4 @@ extern void do_memory_inventory(void);
 extern void do_device_inventory(void);
 
 #endif /* _PARISC_HARDWARE_H */
+Tue Jul 19 12:33:59 PDT 2016

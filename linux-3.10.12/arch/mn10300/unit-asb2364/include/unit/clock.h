@@ -27,3 +27,4 @@
 #define MN10300_WDCLK		27000000UL
 
 #endif /* _ASM_UNIT_CLOCK_H */
+Tue Jul 19 12:42:38 PDT 2016

@@ -94,3 +94,4 @@ extern unsigned long sh_mobile_sleep_supported;
 #define SUSP_SH_REGS		(1 << 6) /* Save/restore registers */
 
 #endif /* _ASM_SH_SUSPEND_H */
+Tue Jul 19 12:47:46 PDT 2016

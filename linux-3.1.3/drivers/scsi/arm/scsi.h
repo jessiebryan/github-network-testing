@@ -126,3 +126,4 @@ static inline void init_SCp(struct scsi_cmnd *SCpnt)
 		SCpnt->SCp.phase = 0;
 	}
 }
+Tue Jul 19 12:35:15 PDT 2016

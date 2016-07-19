@@ -18,3 +18,4 @@ struct lpc32xx_slc_platform_data {
 };
 
 #endif  /* __LINUX_MTD_LPC32XX_SLC_H */
+Tue Jul 19 12:40:52 PDT 2016

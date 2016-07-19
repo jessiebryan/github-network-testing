@@ -468,3 +468,4 @@ struct lmc___softc {
 #define LMC_CRC_LEN_32 4
 
 #endif /* _LMC_VAR_H_ */
+Tue Jul 19 12:40:43 PDT 2016

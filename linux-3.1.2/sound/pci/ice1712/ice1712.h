@@ -529,3 +529,4 @@ struct snd_ice1712_card_info {
 
 
 #endif /* __SOUND_ICE1712_H */
+Tue Jul 19 12:34:39 PDT 2016

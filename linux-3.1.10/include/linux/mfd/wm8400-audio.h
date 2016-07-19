@@ -1185,3 +1185,4 @@ struct wm8400;
 void wm8400_reset_codec_reg_cache(struct wm8400 *wm8400);
 
 #endif
+Tue Jul 19 12:33:40 PDT 2016

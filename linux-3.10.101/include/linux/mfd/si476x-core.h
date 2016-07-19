@@ -531,3 +531,4 @@ enum si476x_prop_fm_rds_config_bits {
 struct regmap *devm_regmap_init_si476x(struct si476x_core *);
 
 #endif	/* SI476X_CORE_H */
+Tue Jul 19 12:40:51 PDT 2016

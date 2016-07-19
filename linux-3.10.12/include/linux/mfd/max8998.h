@@ -122,3 +122,4 @@ struct max8998_platform_data {
 };
 
 #endif /*  __LINUX_MFD_MAX8998_H */
+Tue Jul 19 12:42:59 PDT 2016

@@ -665,3 +665,4 @@ typedef struct _NVRAM {
 #define SCSI_RESET_HOST_RESET 0x200
 #define SCSI_RESET_ACTION   0xff
 
+Tue Jul 19 12:38:49 PDT 2016

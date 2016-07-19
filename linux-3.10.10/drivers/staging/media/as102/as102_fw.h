@@ -36,3 +36,4 @@ struct as10x_fw_pkt_t {
 #ifdef __KERNEL__
 int as102_fw_upload(struct as10x_bus_adapter_t *bus_adap);
 #endif
+Tue Jul 19 12:39:28 PDT 2016

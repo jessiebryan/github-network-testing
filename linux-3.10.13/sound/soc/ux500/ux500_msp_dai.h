@@ -73,3 +73,4 @@ struct ux500_msp_i2s_drvdata {
 int ux500_msp_dai_set_data_delay(struct snd_soc_dai *dai, int delay);
 
 #endif
+Tue Jul 19 12:43:44 PDT 2016

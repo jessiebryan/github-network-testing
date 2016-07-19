@@ -102,3 +102,4 @@ extern int lm3533_write(struct lm3533 *lm3533, u8 reg, u8 val);
 extern int lm3533_update(struct lm3533 *lm3533, u8 reg, u8 val, u8 mask);
 
 #endif	/* __LINUX_MFD_LM3533_H */
+Tue Jul 19 12:40:12 PDT 2016

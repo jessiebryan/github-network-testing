@@ -89,3 +89,4 @@ int mxs_pinctrl_probe(struct platform_device *pdev,
 int mxs_pinctrl_remove(struct platform_device *pdev);
 
 #endif /* __PINCTRL_MXS_H */
+Tue Jul 19 12:51:48 PDT 2016

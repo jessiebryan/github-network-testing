@@ -7,3 +7,4 @@
 
 unsigned int cpufreq_get_measured_perf(struct cpufreq_policy *policy,
 					unsigned int cpu);
+Tue Jul 19 12:50:23 PDT 2016

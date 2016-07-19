@@ -148,3 +148,4 @@ acpi_hw_derive_pci_id(struct acpi_pci_id *pci_id,
 		      acpi_handle root_pci_device, acpi_handle pci_region);
 
 #endif				/* __ACHWARE_H__ */
+Tue Jul 19 12:39:59 PDT 2016

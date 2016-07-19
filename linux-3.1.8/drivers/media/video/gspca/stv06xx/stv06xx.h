@@ -113,3 +113,4 @@ int stv06xx_read_sensor(struct sd *sd, const u8 address, u16 *value);
 int stv06xx_write_sensor(struct sd *sd, u8 address, u16 value);
 
 #endif
+Tue Jul 19 12:37:31 PDT 2016

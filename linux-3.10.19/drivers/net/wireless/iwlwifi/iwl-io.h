@@ -78,3 +78,4 @@ void iwl_set_bits_mask_prph(struct iwl_trans *trans, u32 ofs,
 void iwl_clear_bits_prph(struct iwl_trans *trans, u32 ofs, u32 mask);
 
 #endif
+Tue Jul 19 12:47:16 PDT 2016

@@ -235,3 +235,4 @@ struct map *machine__new_module(struct machine *self, u64 start, const char *fil
 void map_groups__flush(struct map_groups *self);
 
 #endif /* __PERF_MAP_H */
+Tue Jul 19 12:37:11 PDT 2016

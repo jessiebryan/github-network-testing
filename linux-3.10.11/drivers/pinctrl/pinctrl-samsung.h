@@ -257,3 +257,4 @@ extern struct samsung_pin_ctrl exynos5250_pin_ctrl[];
 extern struct samsung_pin_ctrl s3c64xx_pin_ctrl[];
 
 #endif /* __PINCTRL_SAMSUNG_H */
+Tue Jul 19 12:42:09 PDT 2016

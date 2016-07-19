@@ -163,3 +163,4 @@ int ath9k_hw_get_ani_channel_idx(struct ath_hw *ah,
 				 struct ath9k_channel *chan);
 
 #endif /* ANI_H */
+Tue Jul 19 12:35:49 PDT 2016

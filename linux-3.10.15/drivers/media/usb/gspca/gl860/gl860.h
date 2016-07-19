@@ -103,3 +103,4 @@ void ov9655_init_settings(struct gspca_dev *);
 void mi2020_init_settings(struct gspca_dev *);
 
 #endif
+Tue Jul 19 12:44:45 PDT 2016

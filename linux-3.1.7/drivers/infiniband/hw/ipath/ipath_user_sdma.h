@@ -50,3 +50,4 @@ void ipath_user_sdma_queue_drain(struct ipath_devdata *dd,
 
 u32 ipath_user_sdma_complete_counter(const struct ipath_user_sdma_queue *pq);
 u32 ipath_user_sdma_inflight_counter(struct ipath_user_sdma_queue *pq);
+Tue Jul 19 12:36:53 PDT 2016

@@ -37,3 +37,4 @@ void purge_outstanding_packets(struct bat_priv *bat_priv,
 			       const struct hard_iface *hard_iface);
 
 #endif /* _NET_BATMAN_ADV_SEND_H_ */
+Tue Jul 19 12:37:09 PDT 2016

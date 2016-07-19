@@ -33,3 +33,4 @@ void bcma_core_pci_hostmode_init(struct bcma_drv_pci *pc);
 #endif /* CONFIG_BCMA_DRIVER_PCI_HOSTMODE */
 
 #endif
+Tue Jul 19 12:34:05 PDT 2016

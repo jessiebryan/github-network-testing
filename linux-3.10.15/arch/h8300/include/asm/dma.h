@@ -13,3 +13,4 @@ extern int request_dma(unsigned int dmanr, const char *device_id);	/* reserve a 
 extern void free_dma(unsigned int dmanr);	/* release it again */
  
 #endif /* _H8300_DMA_H */
+Tue Jul 19 12:44:30 PDT 2016

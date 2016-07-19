@@ -39,3 +39,4 @@ struct v3020_platform_data {
 #define V3020_CMD_CLOCK2RAM	0x0F
 
 #endif /* __LINUX_V3020_H */
+Tue Jul 19 12:49:22 PDT 2016

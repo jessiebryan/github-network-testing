@@ -420,3 +420,4 @@ struct qe_udc {
 #define CPM_USB_EP_SHIFT 5
 
 #endif  /* __FSL_QE_UDC_H */
+Tue Jul 19 12:35:18 PDT 2016

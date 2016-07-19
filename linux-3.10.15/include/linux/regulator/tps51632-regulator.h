@@ -45,3 +45,4 @@ struct tps51632_regulator_platform_data {
 };
 
 #endif /* __LINUX_REGULATOR_TPS51632_H */
+Tue Jul 19 12:44:57 PDT 2016

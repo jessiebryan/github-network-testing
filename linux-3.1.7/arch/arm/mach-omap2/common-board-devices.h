@@ -13,3 +13,4 @@ void omap_ads7846_init(int bus_num, int gpio_pendown, int gpio_debounce,
 void omap_nand_flash_init(int opts, struct mtd_partition *parts, int n_parts);
 
 #endif /* __OMAP_COMMON_BOARD_DEVICES__ */
+Tue Jul 19 12:36:39 PDT 2016

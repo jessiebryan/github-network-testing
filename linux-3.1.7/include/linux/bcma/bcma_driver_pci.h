@@ -89,3 +89,4 @@ extern int bcma_core_pci_irq_ctl(struct bcma_drv_pci *pc,
 				 struct bcma_device *core, bool enable);
 
 #endif /* LINUX_BCMA_DRIVER_PCI_H_ */
+Tue Jul 19 12:37:03 PDT 2016

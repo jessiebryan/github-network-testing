@@ -37,3 +37,4 @@ extern int ks8695_gpio_interrupt(unsigned int pin, unsigned int type);
 extern void ks8695_register_gpios(void);
 
 #endif /* __MACH_KS8659_GPIO_H */
+Tue Jul 19 12:52:05 PDT 2016

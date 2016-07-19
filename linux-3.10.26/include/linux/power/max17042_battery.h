@@ -211,3 +211,4 @@ struct max17042_platform_data {
 };
 
 #endif /* __MAX17042_BATTERY_H_ */
+Tue Jul 19 12:51:57 PDT 2016

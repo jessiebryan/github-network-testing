@@ -127,3 +127,4 @@ static inline void sun4m_pci_init_IRQ(void) {}
 #define   PCI_SYS_STATUS_PCI_SATTELITE_MODE     (1<<7)
 
 #endif /* !(__SPARC_PCIC_H) */
+Tue Jul 19 12:39:17 PDT 2016

@@ -5,3 +5,4 @@
 #define TAS5086_CLK_IDX_SCLK	1
 
 #endif /* _SND_SOC_CODEC_TAS5086_H_ */
+Tue Jul 19 12:50:02 PDT 2016

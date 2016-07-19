@@ -825,3 +825,4 @@
 #define MX51_PAD_GPIO1_9__CCM_CLKO		IOMUX_PAD(0x818, 0x3ec, 4, __NA_, 0, NO_PAD_CTRL)
 
 #endif /* __MACH_IOMUX_MX51_H__ */
+Tue Jul 19 12:48:12 PDT 2016

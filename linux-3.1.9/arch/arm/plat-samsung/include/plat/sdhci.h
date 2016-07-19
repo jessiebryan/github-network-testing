@@ -391,3 +391,4 @@ static inline void exynos4_default_sdhci3(void) { }
 #endif /* CONFIG_EXYNOS4_SETUP_SDHCI */
 
 #endif /* __PLAT_S3C_SDHCI_H */
+Tue Jul 19 12:37:55 PDT 2016

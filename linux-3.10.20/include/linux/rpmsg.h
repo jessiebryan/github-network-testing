@@ -330,3 +330,4 @@ int rpmsg_trysend_offchannel(struct rpmsg_channel *rpdev, u32 src, u32 dst,
 }
 
 #endif /* _LINUX_RPMSG_H */
+Tue Jul 19 12:48:04 PDT 2016

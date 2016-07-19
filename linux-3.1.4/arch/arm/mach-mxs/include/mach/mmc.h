@@ -16,3 +16,4 @@ struct mxs_mmc_platform_data {
 #define SLOTF_8_BIT_CAPABLE	(1 << 1)
 };
 #endif /* __MACH_MXS_MMC_H__ */
+Tue Jul 19 12:35:30 PDT 2016

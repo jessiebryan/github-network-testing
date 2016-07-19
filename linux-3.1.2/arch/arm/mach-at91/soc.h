@@ -57,3 +57,4 @@ static inline int at91_soc_is_enabled(void)
 #if !defined(CONFIG_ARCH_AT91SAM9X5)
 #define at91sam9x5_soc	at91_boot_soc
 #endif
+Tue Jul 19 12:33:49 PDT 2016

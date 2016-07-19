@@ -516,3 +516,4 @@ extern int sta2x11_mfd_get_regs_data(struct platform_device *pdev,
 				     spinlock_t **lock);
 
 #endif /* __STA2X11_MFD_H */
+Tue Jul 19 12:44:16 PDT 2016

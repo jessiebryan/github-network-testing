@@ -94,3 +94,4 @@ extern void arch_send_call_function_ipi_mask(const struct cpumask *mask);
 extern void show_local_irqs(struct seq_file *, int);
 
 #endif /* ifndef __ASM_ARM_SMP_H */
+Tue Jul 19 12:33:12 PDT 2016

@@ -115,3 +115,4 @@ void rtl92c_fill_h2c_cmd(struct ieee80211_hw *hw,
 bool rtl92cu_phy_mac_config(struct ieee80211_hw *hw);
 
 #endif
+Tue Jul 19 12:35:15 PDT 2016

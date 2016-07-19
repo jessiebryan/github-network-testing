@@ -101,3 +101,4 @@ typedef enum {
   regi_vout                                = 0xb0060000
 } reg_scope_instances;
 #endif /* __reg_map_h */
+Tue Jul 19 12:39:09 PDT 2016

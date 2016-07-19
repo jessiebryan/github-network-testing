@@ -23,3 +23,4 @@ struct ux500_musb_board_data {
 void ux500_add_usb(struct device *parent, resource_size_t base,
 		   int irq, int *dma_rx_cfg, int *dma_tx_cfg);
 #endif
+Tue Jul 19 12:51:18 PDT 2016

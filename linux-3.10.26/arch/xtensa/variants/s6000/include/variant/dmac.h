@@ -385,3 +385,4 @@ extern u32 s6dmac_int_sources(u32 dmac, u32 channel);
 extern void s6dmac_release_chan(u32 dmac, int chan);
 
 #endif /* __ASM_XTENSA_S6000_DMAC_H */
+Tue Jul 19 12:51:42 PDT 2016

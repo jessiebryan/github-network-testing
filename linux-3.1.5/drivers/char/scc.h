@@ -611,3 +611,4 @@ static __inline__ unsigned char _SCCread(
 #define SCCmod(reg,and,or)	SCCwrite((reg),(SCCread(reg)&(and))|(or))
 
 #endif /* _SCC_H */
+Tue Jul 19 12:36:19 PDT 2016

@@ -156,3 +156,4 @@ static inline int elantech_init(struct psmouse *psmouse)
 #endif /* CONFIG_MOUSE_PS2_ELANTECH */
 
 #endif
+Tue Jul 19 12:41:18 PDT 2016

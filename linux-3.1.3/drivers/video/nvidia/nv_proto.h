@@ -73,3 +73,4 @@ static inline void nvidia_bl_exit(struct nvidia_par *par) {}
 #endif
 
 #endif				/* __NV_PROTO_H__ */
+Tue Jul 19 12:35:19 PDT 2016

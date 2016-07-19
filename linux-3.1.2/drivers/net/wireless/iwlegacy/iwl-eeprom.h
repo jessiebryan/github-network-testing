@@ -342,3 +342,4 @@ const struct iwl_channel_info *iwl_legacy_get_channel_info(
 		enum ieee80211_band band, u16 channel);
 
 #endif  /* __iwl_legacy_eeprom_h__ */
+Tue Jul 19 12:34:09 PDT 2016

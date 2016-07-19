@@ -86,3 +86,4 @@ extern struct platform_device vt8500_device_pwm;
 extern struct platform_device vt8500_device_pwmbl;
 extern struct platform_device vt8500_device_rtc;
 #endif
+Tue Jul 19 12:34:44 PDT 2016

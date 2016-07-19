@@ -287,3 +287,4 @@ static inline notrace void hard_local_irq_restore(unsigned long flags)
 #define irqs_disabled_hw()	hard_irqs_disabled()
 
 #endif
+Tue Jul 19 12:43:11 PDT 2016

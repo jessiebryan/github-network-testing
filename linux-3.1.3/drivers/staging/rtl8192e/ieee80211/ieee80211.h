@@ -2634,3 +2634,4 @@ void ieee80211_sta_ps_send_null_frame(struct ieee80211_device *ieee, short pwr);
 void ieee80211_sta_ps_send_pspoll_frame(struct ieee80211_device *ieee);
 #define RT_ASOC_RETRY_LIMIT	5
 #endif /* IEEE80211_H */
+Tue Jul 19 12:35:17 PDT 2016

@@ -212,3 +212,4 @@ static inline int at91_soc_is_detected(void)
 #define cpu_is_at32ap7000()	(0)
 
 #endif /* __MACH_CPU_H__ */
+Tue Jul 19 12:33:13 PDT 2016

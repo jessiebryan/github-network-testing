@@ -61,3 +61,4 @@ static inline int uvc_queue_streaming(struct uvc_video_queue *queue)
 
 #endif /* _UVC_QUEUE_H_ */
 
+Tue Jul 19 12:47:20 PDT 2016

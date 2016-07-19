@@ -8,3 +8,4 @@
 extern struct snd_ice1712_card_info  snd_vt1724_qtet_cards[];
 
 #endif	/* __SOUND_QTET_H */
+Tue Jul 19 12:45:02 PDT 2016

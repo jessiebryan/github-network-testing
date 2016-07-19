@@ -53,3 +53,4 @@ int nouveau_bar_alloc(struct nouveau_bar *, struct nouveau_object *,
 void nv84_bar_flush(struct nouveau_bar *);
 
 #endif
+Tue Jul 19 12:39:59 PDT 2016

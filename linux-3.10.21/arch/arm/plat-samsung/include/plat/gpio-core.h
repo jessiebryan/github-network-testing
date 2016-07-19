@@ -140,3 +140,4 @@ extern struct samsung_gpio_pm samsung_gpio_pm_4bit;
 #define samsung_gpio_unlock(_oc, _fl) spin_unlock_irqrestore(&(_oc)->lock, _fl)
 
 #endif /* __PLAT_SAMSUNG_GPIO_CORE_H */
+Tue Jul 19 12:48:15 PDT 2016

@@ -35,3 +35,4 @@ int vis_init(struct bat_priv *bat_priv);
 void vis_quit(struct bat_priv *bat_priv);
 
 #endif /* _NET_BATMAN_ADV_VIS_H_ */
+Tue Jul 19 12:38:24 PDT 2016

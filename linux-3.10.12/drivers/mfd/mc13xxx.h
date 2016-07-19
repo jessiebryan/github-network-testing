@@ -49,3 +49,4 @@ int mc13xxx_common_init(struct mc13xxx *mc13xxx,
 void mc13xxx_common_cleanup(struct mc13xxx *mc13xxx);
 
 #endif /* __DRIVERS_MFD_MC13XXX_H */
+Tue Jul 19 12:42:49 PDT 2016

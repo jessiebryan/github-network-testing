@@ -452,3 +452,4 @@ void fw_iso_resource_manage(struct fw_card *card, int generation,
 extern struct workqueue_struct *fw_workqueue;
 
 #endif /* _LINUX_FIREWIRE_H */
+Tue Jul 19 12:36:30 PDT 2016

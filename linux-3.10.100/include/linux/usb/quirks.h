@@ -37,3 +37,4 @@
 #define USB_QUIRK_NO_LPM			BIT(10)
 
 #endif /* __LINUX_USB_QUIRKS_H */
+Tue Jul 19 12:40:15 PDT 2016

@@ -101,3 +101,4 @@ static inline int matrix_keypad_parse_of_params(struct device *dev,
 #endif /* CONFIG_OF */
 
 #endif /* _MATRIX_KEYPAD_H */
+Tue Jul 19 12:48:40 PDT 2016

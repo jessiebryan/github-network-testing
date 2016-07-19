@@ -235,3 +235,4 @@ void iwm_build_umac_hdr(struct iwm_priv *iwm,
 			struct iwm_umac_fw_cmd_hdr *hdr,
 			struct iwm_umac_cmd *cmd);
 #endif /* _IWM_HAL_H_ */
+Tue Jul 19 12:33:32 PDT 2016

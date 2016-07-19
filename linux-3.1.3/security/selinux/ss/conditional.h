@@ -77,3 +77,4 @@ void cond_compute_av(struct avtab *ctab, struct avtab_key *key, struct av_decisi
 int evaluate_cond_node(struct policydb *p, struct cond_node *node);
 
 #endif /* _CONDITIONAL_H_ */
+Tue Jul 19 12:35:27 PDT 2016

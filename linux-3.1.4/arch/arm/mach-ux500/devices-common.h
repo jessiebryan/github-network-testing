@@ -85,3 +85,4 @@ void dbx500_add_gpios(resource_size_t *base, int num, int irq,
 		      struct nmk_gpio_platform_data *pdata);
 
 #endif
+Tue Jul 19 12:35:32 PDT 2016

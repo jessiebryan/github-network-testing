@@ -375,3 +375,4 @@ static struct au1100fb_panel known_lcd_panels[] =
 #define panel_swap_rgb(panel) (panel->control_base & LCD_CONTROL_CCO)
 
 #endif /* _AU1100LCD_H */
+Tue Jul 19 12:51:12 PDT 2016

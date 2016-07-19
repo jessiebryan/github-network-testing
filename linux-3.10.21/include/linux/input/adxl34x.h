@@ -356,3 +356,4 @@ struct adxl34x_platform_data {
 	u32 ev_codes_orient_3d[6];	/* EV_KEY {+Z, +Y, +X, -X, -Y, -Z} */
 };
 #endif
+Tue Jul 19 12:48:40 PDT 2016

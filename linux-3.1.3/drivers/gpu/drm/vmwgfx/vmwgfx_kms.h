@@ -102,3 +102,4 @@ int vmw_kms_ldu_update_layout(struct vmw_private *dev_priv, unsigned num,
 			      struct drm_vmw_rect *rects);
 
 #endif
+Tue Jul 19 12:35:11 PDT 2016

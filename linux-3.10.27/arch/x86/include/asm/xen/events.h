@@ -20,3 +20,4 @@ static inline int xen_irqs_disabled(struct pt_regs *regs)
 #define xchg_xen_ulong(ptr, val) xchg((ptr), (val))
 
 #endif /* _ASM_X86_XEN_EVENTS_H */
+Tue Jul 19 12:52:19 PDT 2016

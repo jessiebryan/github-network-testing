@@ -40,3 +40,4 @@ VOID Bcm_kill_all_URBs(struct bcm_interface_adapter *psIntfAdapter);
 #define DISABLE_USB_ZERO_LEN_INT 0x0F011878
 
 #endif // __INTERFACE_MISC_H
+Tue Jul 19 12:42:52 PDT 2016

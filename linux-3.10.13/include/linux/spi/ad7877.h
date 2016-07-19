@@ -22,3 +22,4 @@ struct ad7877_platform_data {
 	u8	pen_down_acc_interval;	/* 0 = covert once, 1 = every 0.5 ms,
 					   2 = ever 1 ms,   3 = every 8 ms,*/
 };
+Tue Jul 19 12:43:39 PDT 2016

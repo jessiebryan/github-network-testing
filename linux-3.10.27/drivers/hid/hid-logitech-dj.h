@@ -122,3 +122,4 @@ struct dj_device {
 	(&(dj_dev)->dj_receiver_dev->hdev->dev == (dj_dev)->hdev->dev.parent)
 
 #endif
+Tue Jul 19 12:52:21 PDT 2016

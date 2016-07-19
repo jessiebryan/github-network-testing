@@ -143,3 +143,4 @@ static inline int dmacHw_GetTrWidthInBytes(dmacHw_TRANSACTION_WIDTH_e tw	/*   [ 
 }
 
 #endif /* _DMACHW_PRIV_H */
+Tue Jul 19 12:36:03 PDT 2016

@@ -310,3 +310,4 @@ static inline int wrmsr_safe_regs_on_cpu(unsigned int cpu, u32 regs[8])
 #endif /* __KERNEL__ */
 #endif /* __ASSEMBLY__ */
 #endif /* _ASM_X86_MSR_H */
+Tue Jul 19 12:37:27 PDT 2016

@@ -566,3 +566,4 @@ struct UVC_FRAME_MJPEG(n) {				\
 
 #endif /* __LINUX_USB_VIDEO_H */
 
+Tue Jul 19 12:36:33 PDT 2016

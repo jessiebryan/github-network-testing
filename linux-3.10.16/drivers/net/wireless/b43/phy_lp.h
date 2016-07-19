@@ -910,3 +910,4 @@ struct b43_phy_operations;
 extern const struct b43_phy_operations b43_phyops_lp;
 
 #endif /* LINUX_B43_PHY_LP_H_ */
+Tue Jul 19 12:45:23 PDT 2016

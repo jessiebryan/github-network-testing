@@ -220,3 +220,4 @@ struct iio_const_attr {
 #define IIO_EVENT_CODE_EXTRACT_MODIFIER(mask) ((mask >> 13) & 0x7)
 
 #endif /* _INDUSTRIAL_IO_SYSFS_H_ */
+Tue Jul 19 12:36:59 PDT 2016

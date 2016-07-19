@@ -306,3 +306,4 @@ extern int pdc_pat;     /* arch/parisc/kernel/inventory.c */
 #endif /* __ASSEMBLY__ */
 
 #endif /* ! __PARISC_PATPDC_H */
+Tue Jul 19 12:36:14 PDT 2016

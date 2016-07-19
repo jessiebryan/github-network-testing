@@ -101,3 +101,4 @@ struct bit_displayport_encoder_table_entry {
 } __attribute__ ((packed));
 
 #endif /* __NOUVEAU_ENCODER_H__ */
+Tue Jul 19 12:35:11 PDT 2016

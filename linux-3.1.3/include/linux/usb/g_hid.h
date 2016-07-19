@@ -30,3 +30,4 @@ struct hidg_func_descriptor {
 };
 
 #endif /* __LINUX_USB_G_HID_H */
+Tue Jul 19 12:35:25 PDT 2016

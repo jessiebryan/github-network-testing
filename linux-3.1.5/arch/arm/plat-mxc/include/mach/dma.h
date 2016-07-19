@@ -66,3 +66,4 @@ static inline int imx_dma_is_general_purpose(struct dma_chan *chan)
 }
 
 #endif
+Tue Jul 19 12:36:06 PDT 2016

@@ -24,3 +24,4 @@ struct mod_arch_specific {
 #define MODULE_ARCH_VERMAGIC MODULE_PROC_FAMILY
 
 #endif /* __ASM_AVR32_MODULE_H */
+Tue Jul 19 12:41:04 PDT 2016

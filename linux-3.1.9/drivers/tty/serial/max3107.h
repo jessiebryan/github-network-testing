@@ -439,3 +439,4 @@ extern int max3107_suspend(struct spi_device *spi, pm_message_t state);
 extern int max3107_resume(struct spi_device *spi);
 
 #endif /* _LINUX_SERIAL_MAX3107_H */
+Tue Jul 19 12:38:15 PDT 2016

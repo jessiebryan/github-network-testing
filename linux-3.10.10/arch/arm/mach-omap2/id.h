@@ -20,3 +20,4 @@ struct omap_die_id {
 void omap_get_die_id(struct omap_die_id *odi);
 
 #endif
+Tue Jul 19 12:39:06 PDT 2016

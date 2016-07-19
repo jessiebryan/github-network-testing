@@ -1011,3 +1011,4 @@ int gdth_show_info(struct seq_file *, struct Scsi_Host *);
 int gdth_set_info(struct Scsi_Host *, char *, int);
 
 #endif
+Tue Jul 19 12:44:48 PDT 2016

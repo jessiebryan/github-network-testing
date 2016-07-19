@@ -6,3 +6,4 @@ unsigned int hweight32(unsigned int w);
 unsigned long hweight64(__u64 w);
 
 #endif /* PERF_HWEIGHT_H */
+Tue Jul 19 12:39:04 PDT 2016

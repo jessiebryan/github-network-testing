@@ -293,3 +293,4 @@ void cx2341x_handler_set_busy(struct cx2341x_handler *cxhdl, int busy);
 #define CX2341X_OSD_SET_ALPHA_CONTENT_INDEX 	0x62
 
 #endif /* CX2341X_H */
+Tue Jul 19 12:36:33 PDT 2016

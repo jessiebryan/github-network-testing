@@ -41,3 +41,4 @@ struct s5p_platform_mipi_csis {
 int s5p_csis_phy_enable(struct platform_device *pdev, bool on);
 
 #endif /* PLAT_S5P_MIPI_CSIS_H_ */
+Tue Jul 19 12:36:41 PDT 2016

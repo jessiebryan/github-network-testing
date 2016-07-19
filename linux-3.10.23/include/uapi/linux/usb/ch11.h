@@ -264,3 +264,4 @@ enum hub_led_mode {
 #define HUB_TTTT_32_BITS	0x60
 
 #endif /* __LINUX_CH11_H */
+Tue Jul 19 12:50:04 PDT 2016

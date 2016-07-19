@@ -843,3 +843,4 @@ struct he_vcc
 #define EEPROM_DELAY	400 /* microseconds */
 
 #endif /* _HE_H_ */
+Tue Jul 19 12:52:20 PDT 2016

@@ -50,3 +50,4 @@ static void arch_detect_cpu(void)
 	fifo_max = 15 << S5PV210_UFSTAT_TXSHIFT;
 }
 #endif /* __ASM_ARCH_UNCOMPRESS_H */
+Tue Jul 19 12:46:56 PDT 2016

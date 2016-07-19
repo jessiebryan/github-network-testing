@@ -51,3 +51,4 @@ void rtl_p2p_ps_cmd(struct ieee80211_hw *hw, u8 p2p_ps_state);
 void rtl_p2p_info(struct ieee80211_hw *hw, void *data, unsigned int len);
 
 #endif
+Tue Jul 19 12:38:48 PDT 2016

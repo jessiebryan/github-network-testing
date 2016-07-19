@@ -63,3 +63,4 @@ void secHw_SetMode(secHw_MODE	/* Processor mode */
 void secHw_GetMode(secHw_MODE *);
 
 #endif /* SECHW_H */
+Tue Jul 19 12:33:13 PDT 2016

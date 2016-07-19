@@ -50,3 +50,4 @@ extern void si_pmu_swreg_init(struct si_pub *sih);
 extern u32 si_pmu_measure_alpclk(struct si_pub *sih);
 
 #endif /* _BRCM_PMU_H_ */
+Tue Jul 19 12:34:11 PDT 2016

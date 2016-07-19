@@ -485,3 +485,4 @@ extern int pm860x_page_set_bits(struct i2c_client *, int, unsigned char,
 				unsigned char);
 
 #endif /* __LINUX_MFD_88PM860X_H */
+Tue Jul 19 12:51:16 PDT 2016

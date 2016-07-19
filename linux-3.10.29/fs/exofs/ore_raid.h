@@ -77,3 +77,4 @@ int _ore_add_stripe_unit(struct ore_io_state *ios,  unsigned *cur_pg,
 		struct ore_per_dev_state *per_dev, int cur_len);
 int _ore_read_mirror(struct ore_io_state *ios, unsigned cur_comp);
 int ore_io_execute(struct ore_io_state *ios);
+Tue Jul 19 12:53:49 PDT 2016

@@ -45,3 +45,4 @@ void e1000e_release_nvm(struct e1000_hw *hw);
 #define E1000_STM_OPCODE	0xDB00
 
 #endif
+Tue Jul 19 12:53:42 PDT 2016

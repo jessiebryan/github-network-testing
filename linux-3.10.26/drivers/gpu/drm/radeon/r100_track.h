@@ -95,3 +95,4 @@ int r100_reloc_pitch_offset(struct radeon_cs_parser *p,
 int r100_packet3_load_vbpntr(struct radeon_cs_parser *p,
 			     struct radeon_cs_packet *pkt,
 			     int idx);
+Tue Jul 19 12:51:43 PDT 2016

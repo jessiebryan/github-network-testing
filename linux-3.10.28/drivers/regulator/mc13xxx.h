@@ -111,3 +111,4 @@ extern struct regulator_ops mc13xxx_fixed_regulator_ops;
 	MC13xxx_DEFINE(REGU, _name, _reg, _vsel_reg, _voltages, ops)
 
 #endif
+Tue Jul 19 12:53:06 PDT 2016

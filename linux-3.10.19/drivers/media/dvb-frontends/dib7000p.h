@@ -164,3 +164,4 @@ static inline int dib7000p_set_agc1_min(struct dvb_frontend *fe, u16 v)
 #endif
 
 #endif
+Tue Jul 19 12:47:13 PDT 2016

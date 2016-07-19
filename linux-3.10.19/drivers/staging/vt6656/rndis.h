@@ -147,3 +147,4 @@ typedef struct _CMD_CHANGE_BBTYPE
 #define EXCH_WORD(w) ((u16)((u16)(w)<<8) | (u16)((u16)(w)>>8))
 
 #endif /* _RNDIS_H_ */
+Tue Jul 19 12:47:20 PDT 2016

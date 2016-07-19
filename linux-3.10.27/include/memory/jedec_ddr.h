@@ -173,3 +173,4 @@ extern const struct lpddr2_timings
 extern const struct lpddr2_min_tck lpddr2_jedec_min_tck;
 
 #endif /* __LINUX_JEDEC_DDR_H */
+Tue Jul 19 12:52:37 PDT 2016

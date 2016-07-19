@@ -137,3 +137,4 @@ extern void vc_SAK(struct work_struct *work);
 #define CON_IS_VISIBLE(conp) (*conp->vc_display_fg == conp)
 
 #endif /* _LINUX_CONSOLE_STRUCT_H */
+Tue Jul 19 12:35:21 PDT 2016

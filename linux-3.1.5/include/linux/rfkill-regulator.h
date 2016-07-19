@@ -46,3 +46,4 @@ struct rfkill_regulator_platform_data {
 };
 
 #endif /* __LINUX_RFKILL_REGULATOR_H */
+Tue Jul 19 12:36:32 PDT 2016

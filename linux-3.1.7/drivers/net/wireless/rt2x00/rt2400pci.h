@@ -951,3 +951,4 @@
 	(MAX_TXPOWER - (__CLAMP_TX(__txpower) - MIN_TXPOWER))
 
 #endif /* RT2400PCI_H */
+Tue Jul 19 12:36:57 PDT 2016

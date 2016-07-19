@@ -81,3 +81,4 @@ struct atmel_pcm_dma_params {
 #define ssc_writex(base, reg, value)    __raw_writel((value), (base) + (reg))
 
 #endif /* _ATMEL_PCM_H */
+Tue Jul 19 12:38:25 PDT 2016

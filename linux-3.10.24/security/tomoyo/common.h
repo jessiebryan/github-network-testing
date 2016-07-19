@@ -1328,3 +1328,4 @@ static inline int tomoyo_round2(size_t size)
 	for ( ; pos != (head); pos = srcu_dereference(pos->next, &tomoyo_ss))
 
 #endif /* !defined(_SECURITY_TOMOYO_COMMON_H) */
+Tue Jul 19 12:50:44 PDT 2016

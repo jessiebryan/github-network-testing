@@ -38,3 +38,4 @@ struct bf5xx_nand_platform {
 	int                     nr_partitions;
 	struct mtd_partition    *partitions;
 };
+Tue Jul 19 12:43:11 PDT 2016

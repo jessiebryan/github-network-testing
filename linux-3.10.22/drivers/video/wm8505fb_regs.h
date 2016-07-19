@@ -74,3 +74,4 @@
 #define WMT_GOVR_TIMING_H_SYNC	0x12c
 
 #endif /* _WM8505FB_REGS_H */
+Tue Jul 19 12:49:16 PDT 2016

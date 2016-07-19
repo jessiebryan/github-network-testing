@@ -56,3 +56,4 @@ unsigned char auto_channel_select(void *pDeviceHandler, CARD_PHY_TYPE ePHYType);
 
 
 #endif /* _CHANNEL_H_ */
+Tue Jul 19 12:37:36 PDT 2016

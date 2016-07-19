@@ -47,3 +47,4 @@ extern struct clk utmi_clk;
 		.dev_id = _dev_id,			\
 		.clk = _clk,				\
 	}
+Tue Jul 19 12:52:04 PDT 2016

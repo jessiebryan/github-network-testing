@@ -129,3 +129,4 @@ static inline int DoHifReadWriteScatter(struct hif_device *device, BUS_REQUEST *
 
 #endif // _HIF_INTERNAL_H_
 
+Tue Jul 19 12:33:33 PDT 2016

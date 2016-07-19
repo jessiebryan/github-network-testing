@@ -73,3 +73,4 @@ void ath9k_hw_btcoex_bt_stomp(struct ath_hw *ah,
 			      enum ath_stomp_type stomp_type);
 
 #endif
+Tue Jul 19 12:33:31 PDT 2016

@@ -25,3 +25,4 @@ struct xtensa_cpuinfo {
 #define cpu_logical_map(cpu)	(cpu)
 
 #endif	/* _XTENSA_SMP_H */
+Tue Jul 19 12:47:11 PDT 2016

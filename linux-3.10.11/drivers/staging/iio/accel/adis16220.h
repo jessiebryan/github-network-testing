@@ -138,3 +138,4 @@ struct adis16220_state {
 };
 
 #endif /* SPI_ADIS16220_H_ */
+Tue Jul 19 12:42:11 PDT 2016

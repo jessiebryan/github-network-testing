@@ -186,3 +186,4 @@ enum s5m8767_regulators {
 #define S5M8767_ENCTRL_SHIFT  6
 
 #endif /* __LINUX_MFD_S5M8767_H */
+Tue Jul 19 12:48:41 PDT 2016

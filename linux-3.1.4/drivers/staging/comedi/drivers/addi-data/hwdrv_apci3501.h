@@ -96,3 +96,4 @@ void v_APCI3501_Interrupt(int irq, void *d);
 
 /* Reset functions */
 int i_APCI3501_Reset(struct comedi_device *dev);
+Tue Jul 19 12:35:51 PDT 2016

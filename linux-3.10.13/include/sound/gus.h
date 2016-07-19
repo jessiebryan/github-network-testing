@@ -629,3 +629,4 @@ int snd_gus_dram_read(struct snd_gus_card *gus, char __user *ptr,
 		      unsigned int addr, unsigned int size, int rom);
 
 #endif /* __SOUND_GUS_H */
+Tue Jul 19 12:43:41 PDT 2016

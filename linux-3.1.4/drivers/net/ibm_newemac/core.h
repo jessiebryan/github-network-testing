@@ -460,3 +460,4 @@ struct emac_ethtool_regs_subhdr {
 					 (dev)->rsrc_regs.start + 1)
 
 #endif /* __IBM_NEWEMAC_CORE_H */
+Tue Jul 19 12:35:48 PDT 2016

@@ -17,3 +17,4 @@ struct amba_device name##_device = {		\
 	.irq		= IRQ_##base,		\
 	/* .dma		= DMA_##base,*/		\
 }
+Tue Jul 19 12:36:40 PDT 2016

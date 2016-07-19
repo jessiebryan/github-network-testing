@@ -278,3 +278,4 @@ typedef struct { /* scp */
  *	+0 pcb issue (0x0c and 0xf3 invalid)
  *	+1 - +6 eth hw address
  */
+Tue Jul 19 12:49:49 PDT 2016

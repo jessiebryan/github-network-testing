@@ -160,3 +160,4 @@ enum sec_opmode {
 };
 
 #endif /*  __LINUX_MFD_SEC_CORE_H */
+Tue Jul 19 12:48:03 PDT 2016

@@ -40,3 +40,4 @@ int rt2x00soc_resume(struct platform_device *pdev);
 #endif /* CONFIG_PM */
 
 #endif /* RT2X00SOC_H */
+Tue Jul 19 12:50:29 PDT 2016

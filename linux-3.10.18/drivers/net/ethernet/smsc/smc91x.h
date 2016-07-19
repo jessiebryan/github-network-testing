@@ -1178,3 +1178,4 @@ static const char * chip_ids[ 16 ] =  {
 	} while (0)
 
 #endif  /* _SMC91X_H_ */
+Tue Jul 19 12:46:36 PDT 2016

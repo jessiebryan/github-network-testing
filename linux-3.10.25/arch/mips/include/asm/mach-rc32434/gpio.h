@@ -88,3 +88,4 @@ extern void rb532_gpio_set_istat(int bit, unsigned gpio);
 extern void rb532_gpio_set_func(unsigned gpio);
 
 #endif /* _RC32434_GPIO_H_ */
+Tue Jul 19 12:50:55 PDT 2016

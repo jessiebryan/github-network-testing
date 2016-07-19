@@ -127,3 +127,4 @@ extern int auok190x_common_probe(struct platform_device *pdev,
 extern int auok190x_common_remove(struct platform_device *pdev);
 
 extern const struct dev_pm_ops auok190x_pm;
+Tue Jul 19 12:50:33 PDT 2016

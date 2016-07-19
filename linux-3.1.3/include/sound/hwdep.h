@@ -80,3 +80,4 @@ extern int snd_hwdep_new(struct snd_card *card, char *id, int device,
 			 struct snd_hwdep **rhwdep);
 
 #endif /* __SOUND_HWDEP_H */
+Tue Jul 19 12:35:26 PDT 2016

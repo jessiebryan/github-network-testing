@@ -29,3 +29,4 @@ UNUSUAL_DEV(  0x07b4, 0x010a, 0x0102, 0x0102,
 		USB_SC_SCSI, USB_PR_ALAUDA, init_alauda, 0),
 
 #endif /* defined(CONFIG_USB_STORAGE_ALAUDA) || ... */
+Tue Jul 19 12:45:27 PDT 2016

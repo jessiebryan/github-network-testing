@@ -745,3 +745,4 @@ void rtl92de_tx_fill_cmddesc(struct ieee80211_hw *hw, u8 *pdesc,
 			     struct sk_buff *skb);
 
 #endif
+Tue Jul 19 12:49:12 PDT 2016

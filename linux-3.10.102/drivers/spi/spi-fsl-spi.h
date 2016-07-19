@@ -70,3 +70,4 @@ struct fsl_spi_reg {
 #define	SPIM_NF		0x00000100	/* Not full */
 
 #endif /* __SPI_FSL_SPI_H__ */
+Tue Jul 19 12:41:23 PDT 2016

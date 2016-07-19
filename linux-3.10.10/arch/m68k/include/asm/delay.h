@@ -117,3 +117,4 @@ static inline void __udelay(unsigned long usecs)
 #define ndelay(n) __delay(DIV_ROUND_UP((n) * ((((HZSCALE) >> 11) * (loops_per_jiffy >> 11)) >> 6), 1000));
 
 #endif /* defined(_M68K_DELAY_H) */
+Tue Jul 19 12:39:11 PDT 2016

@@ -1725,3 +1725,4 @@ u16 hpi_format_create(struct hpi_format *p_format, u16 channels, u16 format,
 	u32 sample_rate, u32 bit_rate, u32 attributes);
 
 #endif	 /*_HPI_H_ */
+Tue Jul 19 12:45:38 PDT 2016

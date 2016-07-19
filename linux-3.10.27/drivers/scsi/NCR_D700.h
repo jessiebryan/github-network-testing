@@ -27,3 +27,4 @@
 #define NCR_D700_CLOCK_MHZ	50
 
 #endif
+Tue Jul 19 12:52:27 PDT 2016

@@ -47,3 +47,4 @@ static inline int altera_init(struct altera_config *config,
 #endif /* CONFIG_ALTERA_STAPL */
 
 #endif /* _ALTERA_H_ */
+Tue Jul 19 12:51:19 PDT 2016

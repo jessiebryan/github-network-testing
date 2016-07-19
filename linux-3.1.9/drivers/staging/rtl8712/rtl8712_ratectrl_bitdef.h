@@ -28,3 +28,4 @@
 
 #endif	/*	__RTL8712_RATECTRL_BITDEF_H__*/
 
+Tue Jul 19 12:38:14 PDT 2016

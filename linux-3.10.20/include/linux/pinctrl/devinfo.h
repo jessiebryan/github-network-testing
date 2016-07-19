@@ -43,3 +43,4 @@ static inline int pinctrl_bind_pins(struct device *dev)
 
 #endif /* CONFIG_PINCTRL */
 #endif /* PINCTRL_DEVINFO_H */
+Tue Jul 19 12:48:03 PDT 2016

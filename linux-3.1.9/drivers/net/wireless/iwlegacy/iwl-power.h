@@ -53,3 +53,4 @@ int iwl_legacy_power_update_mode(struct iwl_priv *priv, bool force);
 void iwl_legacy_power_initialize(struct iwl_priv *priv);
 
 #endif  /* __iwl_legacy_power_setting_h__ */
+Tue Jul 19 12:38:11 PDT 2016

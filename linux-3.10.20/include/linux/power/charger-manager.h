@@ -281,3 +281,4 @@ static inline void cm_notify_event(struct power_supply *psy,
 				enum cm_event_types type, char *msg) { }
 #endif
 #endif /* _CHARGER_MANAGER_H */
+Tue Jul 19 12:48:04 PDT 2016

@@ -69,3 +69,4 @@
 #define P_TMRCLK	(P_DEFINED | P_IDENT(GPIO_PF1))
 
 #endif /* _MACH_PORTMUX_H_ */
+Tue Jul 19 12:35:34 PDT 2016

@@ -119,3 +119,4 @@ int snd_emu8000_load_chorus_fx(struct snd_emu8000 *emu, int mode, const void __u
 int snd_emu8000_load_reverb_fx(struct snd_emu8000 *emu, int mode, const void __user *buf, long len);
 
 #endif /* __SOUND_EMU8000_H */
+Tue Jul 19 12:35:26 PDT 2016

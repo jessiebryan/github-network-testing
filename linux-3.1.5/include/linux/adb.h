@@ -101,3 +101,4 @@ int adb_get_infos(int address, int *original_address, int *handler_id);
 #endif /* __KERNEL__ */
 
 #endif /* __ADB_H */
+Tue Jul 19 12:36:29 PDT 2016

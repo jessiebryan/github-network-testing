@@ -140,3 +140,4 @@ extern int snd_wavefront_fx_release (struct snd_hwdep *, struct file *);
 #define LOGNAME "WaveFront: "
 
 #endif  /* __SOUND_SND_WAVEFRONT_H__ */
+Tue Jul 19 12:50:41 PDT 2016

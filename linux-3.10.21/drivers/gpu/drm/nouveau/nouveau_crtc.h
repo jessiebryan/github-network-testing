@@ -85,3 +85,4 @@ static inline struct drm_crtc *to_drm_crtc(struct nouveau_crtc *crtc)
 int nv04_cursor_init(struct nouveau_crtc *);
 
 #endif /* __NOUVEAU_CRTC_H__ */
+Tue Jul 19 12:48:28 PDT 2016

@@ -46,3 +46,4 @@ void thread__find_addr_location(struct thread *self,
 				struct addr_location *al,
 				symbol_filter_t filter);
 #endif	/* __PERF_THREAD_H */
+Tue Jul 19 12:37:11 PDT 2016

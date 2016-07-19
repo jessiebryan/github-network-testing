@@ -92,3 +92,4 @@ static inline void bt455_erase_cursor(struct bt455_regs *regs)
 	wmb();
 	regs->addr_ovly = 0x09;
 }
+Tue Jul 19 12:40:47 PDT 2016

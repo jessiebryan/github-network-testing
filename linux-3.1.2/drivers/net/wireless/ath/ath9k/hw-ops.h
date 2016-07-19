@@ -261,3 +261,4 @@ static inline void ath9k_hw_setup_calibration(struct ath_hw *ah,
 }
 
 #endif /* ATH9K_HW_OPS_H */
+Tue Jul 19 12:34:09 PDT 2016

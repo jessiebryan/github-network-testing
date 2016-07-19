@@ -79,3 +79,4 @@ static inline u32 hash32_ptr(const void *ptr)
 	return (u32)val;
 }
 #endif /* _LINUX_HASH_H */
+Tue Jul 19 12:43:36 PDT 2016

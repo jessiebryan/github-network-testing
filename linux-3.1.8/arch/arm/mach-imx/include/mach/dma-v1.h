@@ -101,3 +101,4 @@ void imx_dma_free(int channel);
 int imx_dma_request_by_prio(const char *name, enum imx_dma_prio prio);
 
 #endif	/* __MACH_DMA_V1_H__ */
+Tue Jul 19 12:37:12 PDT 2016

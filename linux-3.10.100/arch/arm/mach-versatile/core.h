@@ -43,3 +43,4 @@ static AMBA_APB_DEVICE(name, busid, 0, VERSATILE_##base##_BASE, base##_IRQ, plat
 static AMBA_AHB_DEVICE(name, busid, 0, VERSATILE_##base##_BASE, base##_IRQ, plat)
 
 #endif
+Tue Jul 19 12:39:45 PDT 2016

@@ -67,3 +67,4 @@ struct uvc_xu_control_query {
 #define UVCIOC_CTRL_QUERY	_IOWR('u', 0x21, struct uvc_xu_control_query)
 
 #endif
+Tue Jul 19 12:33:42 PDT 2016

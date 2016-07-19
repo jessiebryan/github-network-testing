@@ -52,3 +52,4 @@ extern void omap_register_gpio_switches(const struct omap_gpio_switch *tbl,
 					int count);
 
 #endif
+Tue Jul 19 12:33:52 PDT 2016

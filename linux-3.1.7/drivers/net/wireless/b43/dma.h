@@ -291,3 +291,4 @@ void b43_dma_direct_fifo_rx(struct b43_wldev *dev,
 			    unsigned int engine_index, bool enable);
 
 #endif /* B43_DMA_H_ */
+Tue Jul 19 12:36:56 PDT 2016

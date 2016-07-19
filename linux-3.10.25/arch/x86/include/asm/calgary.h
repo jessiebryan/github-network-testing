@@ -68,3 +68,4 @@ static inline int detect_calgary(void) { return -ENODEV; }
 #endif
 
 #endif /* _ASM_X86_CALGARY_H */
+Tue Jul 19 12:51:01 PDT 2016

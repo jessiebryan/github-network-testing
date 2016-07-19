@@ -281,3 +281,4 @@ int isci_port_perform_hard_reset(struct isci_host *ihost, struct isci_port *ipor
 				 struct isci_phy *iphy);
 int isci_ata_check_ready(struct domain_device *dev);
 #endif /* !defined(_ISCI_PORT_H_) */
+Tue Jul 19 12:51:49 PDT 2016

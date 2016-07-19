@@ -29,3 +29,4 @@ static inline struct clk_lookup_alloc *__clkdev_alloc(size_t size)
 #define __clk_get(clk) ({ 1; })
 
 #endif /* __CLKDEV_H__ */
+Tue Jul 19 12:36:16 PDT 2016

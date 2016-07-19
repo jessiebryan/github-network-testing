@@ -77,3 +77,4 @@ static inline uint32_t secHw_getStatus(void)
 }
 
 #endif /* SECHW_INLINE_H */
+Tue Jul 19 12:34:41 PDT 2016

@@ -60,3 +60,4 @@ struct pmac_machine_location {
 #define IOC_NVRAM_SYNC		_IO('p', 0x43)		/* Sync NVRAM image */
 
 #endif /* _UAPI_ASM_POWERPC_NVRAM_H */
+Tue Jul 19 12:39:54 PDT 2016

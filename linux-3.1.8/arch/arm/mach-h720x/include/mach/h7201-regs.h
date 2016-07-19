@@ -65,3 +65,4 @@
 #define LCD_CTRL_BLE          	0x00800000	/* LCD backlight enable */
 
 #define VGA_PALETTE_BASE	(IO_VIRT + 0x10800)
+Tue Jul 19 12:37:12 PDT 2016

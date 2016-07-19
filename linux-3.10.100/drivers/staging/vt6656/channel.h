@@ -42,3 +42,4 @@ bool    ChannelValid(unsigned int CountryCode, unsigned int ChannelNum);
 void    CHvInitChannelTable(struct vnt_private *pDevice);
 
 #endif  /* _CHANNEL_H_ */
+Tue Jul 19 12:40:07 PDT 2016

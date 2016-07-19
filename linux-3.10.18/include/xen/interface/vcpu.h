@@ -171,3 +171,4 @@ struct vcpu_register_vcpu_info {
 DEFINE_GUEST_HANDLE_STRUCT(vcpu_register_vcpu_info);
 
 #endif /* __XEN_PUBLIC_VCPU_H__ */
+Tue Jul 19 12:46:52 PDT 2016

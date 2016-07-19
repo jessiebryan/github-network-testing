@@ -157,3 +157,4 @@ extern void *s3c_set_platdata(void *pd, size_t pdsize,
 			      struct platform_device *pdev);
 
 #endif /* __PLAT_DEVS_H */
+Tue Jul 19 12:46:19 PDT 2016

@@ -917,3 +917,4 @@ extern const struct spi_device_id *
 spi_get_device_id(const struct spi_device *sdev);
 
 #endif /* __LINUX_SPI_H */
+Tue Jul 19 12:40:53 PDT 2016

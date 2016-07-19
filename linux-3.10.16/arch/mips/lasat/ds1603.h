@@ -29,3 +29,4 @@ void ds1603_init(struct ds_defs *);
 #define TRIMMER_DISABLE_RTC 0
 
 #endif
+Tue Jul 19 12:45:12 PDT 2016

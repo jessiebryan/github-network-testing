@@ -62,3 +62,4 @@ enum iio_modifier {
 #define IIO_VAL_FRACTIONAL_LOG2 11
 
 #endif /* _IIO_TYPES_H_ */
+Tue Jul 19 12:53:12 PDT 2016

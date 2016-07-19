@@ -350,3 +350,4 @@ static inline struct usba_udc *to_usba_udc(struct usb_gadget *gadget)
 #define ep_is_idle(ep)		((ep)->state == EP_STATE_IDLE)
 
 #endif /* __LINUX_USB_GADGET_USBA_UDC_H */
+Tue Jul 19 12:45:27 PDT 2016

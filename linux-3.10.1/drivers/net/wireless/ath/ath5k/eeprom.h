@@ -493,3 +493,4 @@ struct ath5k_eeprom_info {
 	/* Antenna raw switch tables */
 	u32	ee_antenna[AR5K_EEPROM_N_MODES][AR5K_ANT_MAX];
 };
+Tue Jul 19 12:38:47 PDT 2016

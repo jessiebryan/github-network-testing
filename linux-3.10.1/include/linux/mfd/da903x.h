@@ -245,3 +245,4 @@ extern int da903x_update(struct device *dev, int reg, uint8_t val, uint8_t mask)
 extern int da903x_set_bits(struct device *dev, int reg, uint8_t bit_mask);
 extern int da903x_clr_bits(struct device *dev, int reg, uint8_t bit_mask);
 #endif /* __LINUX_PMIC_DA903X_H */
+Tue Jul 19 12:38:56 PDT 2016

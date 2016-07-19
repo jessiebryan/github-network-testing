@@ -145,3 +145,4 @@ void usbip_names_get_product(char *buff, size_t size, uint16_t vendor, uint16_t 
 void usbip_names_get_class(char *buff, size_t size, uint8_t class, uint8_t subclass, uint8_t protocol);
 
 #endif /* __USBIP_COMMON_H */
+Tue Jul 19 12:35:52 PDT 2016

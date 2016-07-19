@@ -141,3 +141,4 @@ static inline u32 host1x_opcode_gather_incr(unsigned offset, unsigned count)
 #define HOST1X_OPCODE_NOP host1x_opcode_nonincr(0, 0)
 
 #endif
+Tue Jul 19 12:44:03 PDT 2016

@@ -160,3 +160,4 @@ enum sc_reg_access_type {
 int register_sst_card(struct intel_sst_card_ops *card);
 void unregister_sst_card(struct intel_sst_card_ops *card);
 #endif /* __INTEL_SST_H__ */
+Tue Jul 19 12:36:59 PDT 2016

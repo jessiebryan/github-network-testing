@@ -20,3 +20,4 @@ extern void nmdk_timer_init(void);
 #endif /* NOMADIK_8815 */
 
 #endif /*  __ASM_ARCH_SETUP_H */
+Tue Jul 19 12:33:50 PDT 2016

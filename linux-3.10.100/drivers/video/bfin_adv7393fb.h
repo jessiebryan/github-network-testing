@@ -319,3 +319,4 @@ static int bfin_adv7393_fb_setcolreg(u_int, u_int, u_int, u_int,
 				     u_int, struct fb_info *info);
 
 #endif
+Tue Jul 19 12:40:08 PDT 2016

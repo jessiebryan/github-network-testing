@@ -48,3 +48,4 @@ unsigned long CRCdwGetCrc32(unsigned char *pbyData, unsigned int cbByte);
 unsigned long CRCdwGetCrc32Ex(unsigned char *pbyData, unsigned int cbByte, unsigned long dwPreCRC);
 
 #endif // __TCRC_H__
+Tue Jul 19 12:46:03 PDT 2016

@@ -7,3 +7,4 @@ void r8a7790_pinmux_init(void);
 void r8a7790_timer_init(void);
 
 #endif /* __ASM_R8A7790_H__ */
+Tue Jul 19 12:45:42 PDT 2016

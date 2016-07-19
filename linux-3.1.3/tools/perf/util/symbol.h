@@ -242,3 +242,4 @@ bool symbol_type__is_a(char symbol_type, enum map_type map_type);
 size_t machine__fprintf_vmlinux_path(struct machine *machine, FILE *fp);
 
 #endif /* __PERF_SYMBOL */
+Tue Jul 19 12:35:28 PDT 2016

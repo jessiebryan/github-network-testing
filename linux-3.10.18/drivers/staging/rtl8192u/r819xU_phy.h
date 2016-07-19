@@ -88,3 +88,4 @@ extern void InitialGain819xUsb(struct net_device *dev,	u8 Operation);
 extern void InitialGainOperateWorkItemCallBack(struct work_struct *work);
 
 #endif
+Tue Jul 19 12:46:40 PDT 2016

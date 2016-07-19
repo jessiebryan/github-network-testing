@@ -1121,3 +1121,4 @@ static inline void chipcHw_vpmHwPhaseAlignTimeoutInterruptClear(void);
 /* ---- Private Constants and Types -------------------------------------- */
 
 #endif /* CHIPC_DEF_H */
+Tue Jul 19 12:35:29 PDT 2016

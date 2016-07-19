@@ -317,3 +317,4 @@
 #define IMX6Q_GPR13_SATA_PHY_1_SLOW		(0x2 << 0)
 
 #endif /* __LINUX_IMX6Q_IOMUXC_GPR_H */
+Tue Jul 19 12:53:52 PDT 2016

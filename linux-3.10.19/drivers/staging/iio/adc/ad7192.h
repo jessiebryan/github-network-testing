@@ -45,3 +45,4 @@ struct ad7192_platform_data {
 };
 
 #endif /* IIO_ADC_AD7192_H_ */
+Tue Jul 19 12:47:18 PDT 2016

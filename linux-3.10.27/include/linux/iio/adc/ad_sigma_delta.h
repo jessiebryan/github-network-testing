@@ -171,3 +171,4 @@ int ad_sd_validate_trigger(struct iio_dev *indio_dev, struct iio_trigger *trig);
 		_storagebits, _shift, "supply", IIO_VOLTAGE)
 
 #endif
+Tue Jul 19 12:52:33 PDT 2016

@@ -362,3 +362,4 @@ drm_dp_max_lane_count(u8 dpcd[DP_RECEIVER_CAP_SIZE])
 }
 
 #endif /* _DRM_DP_HELPER_H_ */
+Tue Jul 19 12:43:35 PDT 2016

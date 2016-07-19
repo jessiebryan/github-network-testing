@@ -256,3 +256,4 @@ extern unsigned long _pcictrl_msc;
 #define MSC01_PCI_SWAP		(MSC01_PCI_REG_BASE + MSC01_PCI_SWAP_OFS)
 
 #endif /* __ASM_MIPS_BOARDS_MSC01_PCI_H */
+Tue Jul 19 12:35:38 PDT 2016

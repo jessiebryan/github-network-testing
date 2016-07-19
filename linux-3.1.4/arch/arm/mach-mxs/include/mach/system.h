@@ -25,3 +25,4 @@ static inline void arch_idle(void)
 void arch_reset(char mode, const char *cmd);
 
 #endif /* __MACH_MXS_SYSTEM_H__ */
+Tue Jul 19 12:35:30 PDT 2016

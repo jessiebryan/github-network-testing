@@ -26,3 +26,4 @@ static inline void arch_reset(char mode, const char *cmd)
  * PSHOLD line on the PMIC to hard reset the system
  */
 extern void (*msm_hw_reset_hook)(void);
+Tue Jul 19 12:33:50 PDT 2016

@@ -8,3 +8,4 @@ struct i2c_rcar_platform_data {
 };
 
 #endif /* __I2C_R_CAR_H__ */
+Tue Jul 19 12:52:33 PDT 2016

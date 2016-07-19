@@ -350,3 +350,4 @@ int wd33c93_write_info(struct Scsi_Host *, char *, int);
 int wd33c93_host_reset (struct scsi_cmnd *);
 
 #endif /* WD33C93_H */
+Tue Jul 19 12:44:49 PDT 2016

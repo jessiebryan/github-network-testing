@@ -31,3 +31,4 @@ int microread_probe(void *phy_id, struct nfc_phy_ops *phy_ops, char *llc_name,
 void microread_remove(struct nfc_hci_dev *hdev);
 
 #endif /* __LOCAL_MICROREAD_H_ */
+Tue Jul 19 12:53:05 PDT 2016

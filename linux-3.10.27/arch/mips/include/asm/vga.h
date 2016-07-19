@@ -45,3 +45,4 @@ static inline u16 scr_readw(volatile const u16 *addr)
 #define VT_BUF_HAVE_MEMMOVEW
 
 #endif /* _ASM_VGA_H */
+Tue Jul 19 12:52:13 PDT 2016

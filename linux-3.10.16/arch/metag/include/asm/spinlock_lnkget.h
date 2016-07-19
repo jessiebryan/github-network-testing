@@ -247,3 +247,4 @@ static inline int arch_read_can_lock(arch_rwlock_t *rw)
 #define arch_write_relax(lock)	cpu_relax()
 
 #endif /* __ASM_SPINLOCK_LNKGET_H */
+Tue Jul 19 12:45:10 PDT 2016

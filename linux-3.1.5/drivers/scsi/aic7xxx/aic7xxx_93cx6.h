@@ -100,3 +100,4 @@ int ahc_write_seeprom(struct seeprom_descriptor *sd, uint16_t *buf,
 int ahc_verify_cksum(struct seeprom_config *sc);
 
 #endif /* _AIC7XXX_93CX6_H_ */
+Tue Jul 19 12:36:24 PDT 2016

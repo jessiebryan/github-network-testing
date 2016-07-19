@@ -24,3 +24,4 @@ extern int uvc_bind_config(struct usb_configuration *c,
 
 #endif /* _F_UVC_H_ */
 
+Tue Jul 19 12:36:27 PDT 2016

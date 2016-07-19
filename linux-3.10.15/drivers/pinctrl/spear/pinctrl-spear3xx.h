@@ -91,3 +91,4 @@ extern struct spear_function spear3xx_uart0_function;
 extern struct spear_pinctrl_machdata spear3xx_machdata;
 
 #endif /* __PINMUX_SPEAR3XX_H__ */
+Tue Jul 19 12:44:48 PDT 2016

@@ -51,3 +51,4 @@ struct da9055_pdata {
 	int *ena_gpio;
 };
 #endif /* __DA9055_PDATA_H */
+Tue Jul 19 12:44:55 PDT 2016

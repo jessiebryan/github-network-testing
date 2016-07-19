@@ -263,3 +263,4 @@ static struct ast_vbios_enhtable res_1920x1080[] = {
 	 (SyncNP | Charx8Dot | LineCompareOff | WideScreenMode), 0xFF, 1, 0x38 },
 };
 #endif
+Tue Jul 19 12:45:55 PDT 2016

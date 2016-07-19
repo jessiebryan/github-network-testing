@@ -54,3 +54,4 @@
 #define SCAN_SIZE_SG32		0x00000008
 
 #endif /* BCMA_SCAN_H_ */
+Tue Jul 19 12:45:55 PDT 2016

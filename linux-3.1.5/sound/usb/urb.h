@@ -19,3 +19,4 @@ int snd_usb_substream_playback_trigger(struct snd_pcm_substream *substream, int 
 int snd_usb_substream_capture_trigger(struct snd_pcm_substream *substream, int cmd);
 
 #endif /* __USBAUDIO_URB_H */
+Tue Jul 19 12:36:36 PDT 2016

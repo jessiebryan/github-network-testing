@@ -58,3 +58,4 @@ struct sh_dmae_device {
 				     struct sh_dmae_device, common)
 
 #endif	/* __DMA_SHDMA_H */
+Tue Jul 19 12:36:53 PDT 2016

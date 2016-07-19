@@ -7021,3 +7021,4 @@ typedef struct _ATOM_PPLIB_Clock_Voltage_Limit_Table
 #pragma pack() // BIOS data must use byte aligment
 
 #endif /* _ATOMBIOS_H */
+Tue Jul 19 12:38:07 PDT 2016

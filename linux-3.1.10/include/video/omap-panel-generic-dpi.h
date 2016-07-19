@@ -35,3 +35,4 @@ struct panel_generic_dpi_data {
 };
 
 #endif /* __OMAP_PANEL_GENERIC_DPI_H */
+Tue Jul 19 12:33:44 PDT 2016

@@ -30,3 +30,4 @@ arch_reset(char mode, const char *cmd)
 	/* we'll take a jump through zero as a poor second */
 	cpu_reset(0);
 }
+Tue Jul 19 12:35:31 PDT 2016

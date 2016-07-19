@@ -91,3 +91,4 @@ int gdm_qos_send_hci_pkt(struct sk_buff *skb, struct net_device *dev);
 void gdm_recv_qos_hci_packet(void *nic_ptr, u8 *buf, int size);
 
 #endif
+Tue Jul 19 12:47:18 PDT 2016

@@ -215,3 +215,4 @@ struct NDIS_PM_PACKET_PATTERN {
 #define NDIS_MAC_OPTION_RESERVED                0x80000000
 
 #endif /* _LINUX_NDIS_H */
+Tue Jul 19 12:36:27 PDT 2016

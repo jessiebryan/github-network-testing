@@ -73,3 +73,4 @@
 #define		AT91_RTC_NVCALALR	(1 <<  3)		/* Non valid Calendar Alarm */
 
 #endif
+Tue Jul 19 12:33:48 PDT 2016

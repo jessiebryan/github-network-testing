@@ -38,3 +38,4 @@
 #define UART_CLKDIV_CLK_STEP_SET(x)              (((x) << UART_CLKDIV_CLK_STEP_LSB) & UART_CLKDIV_CLK_STEP_MASK)
 
 #endif /* _UART_REG_H_ */
+Tue Jul 19 12:38:13 PDT 2016

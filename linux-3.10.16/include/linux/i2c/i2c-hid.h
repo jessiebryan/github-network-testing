@@ -33,3 +33,4 @@ struct i2c_hid_platform_data {
 };
 
 #endif /* __LINUX_I2C_HID_H */
+Tue Jul 19 12:45:30 PDT 2016

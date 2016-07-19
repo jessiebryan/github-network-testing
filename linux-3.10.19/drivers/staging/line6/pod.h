@@ -100,3 +100,4 @@ extern void line6_pod_transmit_parameter(struct usb_line6_pod *pod, int param,
 					 u8 value);
 
 #endif
+Tue Jul 19 12:47:19 PDT 2016

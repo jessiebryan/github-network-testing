@@ -40,3 +40,4 @@ static inline int ocfs2_inode_is_fast_symlink(struct inode *inode)
 
 
 #endif /* OCFS2_SYMLINK_H */
+Tue Jul 19 12:51:13 PDT 2016

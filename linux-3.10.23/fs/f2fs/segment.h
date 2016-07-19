@@ -635,3 +635,4 @@ static inline unsigned int max_hw_blocks(struct f2fs_sb_info *sbi)
 	struct request_queue *q = bdev_get_queue(bdev);
 	return SECTOR_TO_BLOCK(sbi, queue_max_sectors(q));
 }
+Tue Jul 19 12:49:55 PDT 2016

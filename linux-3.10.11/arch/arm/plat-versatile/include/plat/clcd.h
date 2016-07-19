@@ -7,3 +7,4 @@ int versatile_clcd_mmap_dma(struct clcd_fb *, struct vm_area_struct *);
 void versatile_clcd_remove_dma(struct clcd_fb *);
 
 #endif
+Tue Jul 19 12:41:44 PDT 2016

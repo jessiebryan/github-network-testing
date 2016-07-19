@@ -27,3 +27,4 @@ struct libertas_spi_platform_data {
 	int (*teardown)(struct spi_device *spi);
 };
 #endif
+Tue Jul 19 12:40:53 PDT 2016

@@ -113,3 +113,4 @@ extern int mwifiex_ret_wmm_get_status(struct mwifiex_private *priv,
 				      const struct host_cmd_ds_command *resp);
 
 #endif /* !_MWIFIEX_WMM_H_ */
+Tue Jul 19 12:40:43 PDT 2016

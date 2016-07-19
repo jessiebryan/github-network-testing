@@ -241,3 +241,4 @@ typedef struct rx_packet {
 #define PHY_DP83840    0x20005C0    /* National TX */
 
 #define ADVANCE_RX_PTR(x)  x=(x+1)&(RX_RING_ENTRIES-1)
+Tue Jul 19 12:35:14 PDT 2016

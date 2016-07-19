@@ -6,3 +6,4 @@ void nouveau_vga_fini(struct nouveau_drm *);
 void nouveau_vga_lastclose(struct drm_device *dev);
 
 #endif
+Tue Jul 19 12:47:50 PDT 2016

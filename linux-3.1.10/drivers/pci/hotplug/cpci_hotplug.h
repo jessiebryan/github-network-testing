@@ -100,3 +100,4 @@ extern int cpci_configure_slot(struct slot *slot);
 extern int cpci_unconfigure_slot(struct slot *slot);
 
 #endif	/* _CPCI_HOTPLUG_H */
+Tue Jul 19 12:33:32 PDT 2016

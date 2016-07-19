@@ -98,3 +98,4 @@ static inline int ocpi_enable(void) { return 0; }
 extern u32 omap1_get_reset_sources(void);
 
 #endif /* __ARCH_ARM_MACH_OMAP1_COMMON_H */
+Tue Jul 19 12:42:30 PDT 2016

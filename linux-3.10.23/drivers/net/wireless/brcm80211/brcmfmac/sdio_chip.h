@@ -229,3 +229,4 @@ extern bool brcmf_sdio_chip_exit_download(struct brcmf_sdio_dev *sdiodev,
 					  uint nvram_sz);
 
 #endif		/* _BRCMFMAC_SDIO_CHIP_H_ */
+Tue Jul 19 12:49:49 PDT 2016

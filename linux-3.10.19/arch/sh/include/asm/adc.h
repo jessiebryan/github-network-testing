@@ -11,3 +11,4 @@ int adc_single(unsigned int channel);
 
 #endif /* __KERNEL__ */
 #endif /* __ASM_ADC_H */
+Tue Jul 19 12:47:07 PDT 2016

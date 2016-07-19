@@ -31,3 +31,4 @@ extern void s3c2410_init_clocks(int xtal);
 #endif
 
 extern int s3c2410_baseclk_add(void);
+Tue Jul 19 12:35:33 PDT 2016

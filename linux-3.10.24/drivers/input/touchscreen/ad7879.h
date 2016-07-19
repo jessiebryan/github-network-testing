@@ -28,3 +28,4 @@ struct ad7879 *ad7879_probe(struct device *dev, u8 devid, unsigned irq,
 void ad7879_remove(struct ad7879 *);
 
 #endif
+Tue Jul 19 12:50:25 PDT 2016

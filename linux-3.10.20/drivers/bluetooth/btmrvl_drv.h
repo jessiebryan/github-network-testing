@@ -149,3 +149,4 @@ int btmrvl_enable_hs(struct btmrvl_private *priv);
 void btmrvl_debugfs_init(struct hci_dev *hdev);
 void btmrvl_debugfs_remove(struct hci_dev *hdev);
 #endif
+Tue Jul 19 12:47:49 PDT 2016

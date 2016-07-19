@@ -324,3 +324,4 @@ void rtl88e_dm_txpower_track_adjust(struct ieee80211_hw *hw,
 				    u32 *poutwrite_val);
 
 #endif
+Tue Jul 19 12:52:26 PDT 2016

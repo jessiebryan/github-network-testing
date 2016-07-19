@@ -354,3 +354,4 @@ extern s32 brcmf_cfg80211_up(void);	/* dongle up */
 extern s32 brcmf_cfg80211_down(void);	/* dongle down */
 
 #endif				/* _wl_cfg80211_h_ */
+Tue Jul 19 12:37:35 PDT 2016

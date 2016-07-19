@@ -815,3 +815,4 @@ struct ar9170_stream {
 	(((value) & reg) >> reg##_S)
 
 #endif	/* __CARL9170_SHARED_HW_H */
+Tue Jul 19 12:51:07 PDT 2016

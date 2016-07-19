@@ -1074,3 +1074,4 @@ int snd_hda_load_patch(struct hda_bus *bus, const char *patch);
 #endif
 
 #endif /* __SOUND_HDA_CODEC_H */
+Tue Jul 19 12:35:27 PDT 2016

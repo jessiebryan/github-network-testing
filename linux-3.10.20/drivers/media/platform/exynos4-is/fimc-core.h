@@ -729,3 +729,4 @@ static inline struct fimc_vid_buffer *fimc_pending_queue_pop(
 }
 
 #endif /* FIMC_CORE_H_ */
+Tue Jul 19 12:47:52 PDT 2016

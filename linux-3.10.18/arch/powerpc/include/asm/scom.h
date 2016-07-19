@@ -154,3 +154,4 @@ static inline void scom_write(scom_map_t map, u32 reg, u64 value)
 #endif /* __ASSEMBLY__ */
 #endif /* __KERNEL__ */
 #endif /* _ASM_POWERPC_SCOM_H */
+Tue Jul 19 12:46:27 PDT 2016

@@ -87,3 +87,4 @@ static inline void put_user_ns(struct user_namespace *ns)
 void update_mnt_policy(struct user_namespace *userns);
 
 #endif /* _LINUX_USER_H */
+Tue Jul 19 12:38:58 PDT 2016

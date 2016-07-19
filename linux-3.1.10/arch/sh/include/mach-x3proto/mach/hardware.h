@@ -10,3 +10,4 @@ extern struct gpio_chip x3proto_gpio_chip;
 #define NR_BASEBOARD_GPIOS	16
 
 #endif /* __MACH_X3PROTO_HARDWARE_H */
+Tue Jul 19 12:33:25 PDT 2016

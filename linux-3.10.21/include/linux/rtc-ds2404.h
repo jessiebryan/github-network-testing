@@ -18,3 +18,4 @@ struct ds2404_platform_data {
 	unsigned int gpio_dq;
 };
 #endif
+Tue Jul 19 12:48:42 PDT 2016

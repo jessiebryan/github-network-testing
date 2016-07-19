@@ -241,3 +241,4 @@ struct cmd_firmware_vers_s {
 	uint16_t fw_patch;
 };
 #endif /* VENDOR_CMD_H_ */
+Tue Jul 19 12:41:20 PDT 2016

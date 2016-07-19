@@ -1091,3 +1091,4 @@ void dynamic_configure_sdio_aspm(struct rtsx_chip *chip);
 #endif
 
 #endif  /* __REALTEK_RTSX_CARD_H */
+Tue Jul 19 12:33:35 PDT 2016

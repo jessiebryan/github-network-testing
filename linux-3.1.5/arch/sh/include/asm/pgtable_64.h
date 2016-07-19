@@ -318,3 +318,4 @@ static inline pte_t pte_modify(pte_t pte, pgprot_t newprot)
 #define pfn_pmd(pfn, prot)	__pmd(((pfn) << PAGE_SHIFT) | pgprot_val(prot))
 
 #endif /* __ASM_SH_PGTABLE_64_H */
+Tue Jul 19 12:36:16 PDT 2016

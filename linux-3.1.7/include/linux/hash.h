@@ -68,3 +68,4 @@ static inline unsigned long hash_ptr(const void *ptr, unsigned int bits)
 	return hash_long((unsigned long)ptr, bits);
 }
 #endif /* _LINUX_HASH_H */
+Tue Jul 19 12:37:04 PDT 2016

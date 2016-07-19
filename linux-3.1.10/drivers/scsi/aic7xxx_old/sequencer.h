@@ -133,3 +133,4 @@ struct instruction {
 #define	AIC_OP_SHL	0x10
 #define	AIC_OP_SHR	0x20
 #define	AIC_OP_ROR	0x30
+Tue Jul 19 12:33:33 PDT 2016

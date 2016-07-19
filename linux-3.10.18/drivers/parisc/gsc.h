@@ -45,3 +45,4 @@ void gsc_fixup_irqs(struct parisc_device *parent, void *ctrl,
 void gsc_asic_assign_irq(struct gsc_asic *asic, int local_irq, int *irqp);
 
 irqreturn_t gsc_asic_intr(int irq, void *dev);
+Tue Jul 19 12:46:38 PDT 2016

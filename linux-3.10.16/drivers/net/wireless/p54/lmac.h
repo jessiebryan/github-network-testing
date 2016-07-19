@@ -560,3 +560,4 @@ struct p54_rssi_db_entry *p54_rssi_find(struct p54_common *p, const u16 freq);
 u8 *p54_find_ie(struct sk_buff *skb, u8 ie);
 
 #endif /* LMAC_H */
+Tue Jul 19 12:45:24 PDT 2016

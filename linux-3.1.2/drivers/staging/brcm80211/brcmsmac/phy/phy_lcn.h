@@ -119,3 +119,4 @@ struct brcms_phy_lcnphy {
 	s8 lcnphy_tx_power_offset[TXP_NUM_RATES];
 };
 #endif				/* _BRCM_PHY_LCN_H_ */
+Tue Jul 19 12:34:11 PDT 2016

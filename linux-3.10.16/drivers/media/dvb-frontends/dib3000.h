@@ -54,3 +54,4 @@ static inline struct dvb_frontend* dib3000mb_attach(const struct dib3000_config*
 #endif // CONFIG_DVB_DIB3000MB
 
 #endif // DIB3000_H
+Tue Jul 19 12:45:20 PDT 2016

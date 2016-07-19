@@ -1307,3 +1307,4 @@
  * Manufacturer: Crucible Technologies
  */
 #define FTDI_CT_COMET_PID	0x8e08
+Tue Jul 19 12:39:30 PDT 2016

@@ -206,3 +206,4 @@ static inline int handle_vm86_trap(struct kernel_vm86_regs *a, long b, int c)
 #endif /* __KERNEL__ */
 
 #endif /* _ASM_X86_VM86_H */
+Tue Jul 19 12:34:04 PDT 2016

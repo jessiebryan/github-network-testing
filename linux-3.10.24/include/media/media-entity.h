@@ -150,3 +150,4 @@ void media_entity_pipeline_stop(struct media_entity *entity);
 	 (entity)->ops->operation((entity) , ##args) : -ENOIOCTLCMD)
 
 #endif
+Tue Jul 19 12:50:40 PDT 2016

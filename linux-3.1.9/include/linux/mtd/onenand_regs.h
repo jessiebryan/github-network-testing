@@ -221,3 +221,4 @@
 #define ONENAND_OTP_LOCK_OFFSET		(14)
 
 #endif	/* __ONENAND_REG_H */
+Tue Jul 19 12:38:20 PDT 2016

@@ -90,3 +90,4 @@ int mdfld_dsi_read_mcs(struct mdfld_dsi_pkg_sender *sender, u8 cmd,
 		u32 *data, u16 len, bool hs);
 
 #endif
+Tue Jul 19 12:46:32 PDT 2016

@@ -55,3 +55,4 @@ struct s3c24xx_hsudc_platdata {
 extern void __init s3c24xx_hsudc_set_platdata(struct s3c24xx_hsudc_platdata *pd);
 
 #endif /* __ASM_ARM_ARCH_UDC_H */
+Tue Jul 19 12:33:52 PDT 2016

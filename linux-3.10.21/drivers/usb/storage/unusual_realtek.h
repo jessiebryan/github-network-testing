@@ -39,3 +39,4 @@ UNUSUAL_DEV(0x0bda, 0x0159, 0x0000, 0x9999,
 		USB_SC_DEVICE, USB_PR_DEVICE, init_realtek_cr, 0),
 
 #endif  /* defined(CONFIG_USB_STORAGE_REALTEK) || ... */
+Tue Jul 19 12:48:37 PDT 2016

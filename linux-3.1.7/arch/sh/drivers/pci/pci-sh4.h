@@ -187,3 +187,4 @@ static inline unsigned long pci_read_reg(struct pci_channel *chan,
 }
 
 #endif /* __PCI_SH4_H */
+Tue Jul 19 12:36:49 PDT 2016

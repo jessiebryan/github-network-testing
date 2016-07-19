@@ -307,3 +307,4 @@ extern bool ntfs_empty_logfile(struct inode *log_vi);
 #endif /* NTFS_RW */
 
 #endif /* _LINUX_NTFS_LOGFILE_H */
+Tue Jul 19 12:40:09 PDT 2016

@@ -1066,3 +1066,4 @@ int perf_ftrace_event_register(struct ftrace_event_call *call,
 #endif
 
 #endif /* _LINUX_KERNEL_TRACE_H */
+Tue Jul 19 12:45:01 PDT 2016

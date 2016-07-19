@@ -110,3 +110,4 @@ static inline void free_page(unsigned long addr)
 	_min1 < _min2 ? _min1 : _min2; })
 
 #endif /* KERNEL_H */
+Tue Jul 19 12:41:00 PDT 2016

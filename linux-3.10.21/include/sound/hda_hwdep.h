@@ -42,3 +42,4 @@ struct hda_verb_ioctl {
 #define HDA_IOCTL_GET_WCAP		_IOWR('H', 0x12, struct hda_verb_ioctl)
 
 #endif
+Tue Jul 19 12:48:44 PDT 2016

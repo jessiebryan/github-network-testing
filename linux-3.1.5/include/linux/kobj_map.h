@@ -17,3 +17,4 @@ struct kobject *kobj_lookup(struct kobj_map *, dev_t, int *);
 struct kobj_map *kobj_map_init(kobj_probe_t *, struct mutex *);
 
 #endif /* _KOBJ_MAP_H_ */
+Tue Jul 19 12:36:31 PDT 2016

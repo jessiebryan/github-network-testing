@@ -1132,3 +1132,4 @@ int wl1271_acx_set_rx_filter(struct wl1271 *wl, u8 index, bool enable,
 			     struct wl12xx_rx_filter *filter);
 #endif /* CONFIG_PM */
 #endif /* __WL1271_ACX_H__ */
+Tue Jul 19 12:44:08 PDT 2016

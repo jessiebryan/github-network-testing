@@ -26,3 +26,4 @@ struct sh_rtc_platform_info {
 #include <cpu/rtc.h>
 
 #endif /* _ASM_RTC_H */
+Tue Jul 19 12:35:42 PDT 2016

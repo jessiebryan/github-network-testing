@@ -146,3 +146,4 @@ struct amba_device name##_device = {				\
 	module_driver(__amba_drv, amba_driver_register, amba_driver_unregister)
 
 #endif
+Tue Jul 19 12:49:56 PDT 2016

@@ -51,3 +51,4 @@ extern void prom_soc_init(struct ralink_soc_info *soc_info);
 __iomem void *plat_of_remap_node(const char *node);
 
 #endif /* _RALINK_COMMON_H__ */
+Tue Jul 19 12:41:53 PDT 2016

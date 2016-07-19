@@ -58,3 +58,4 @@ static inline size_t sigma_action_size(struct sigma_action *sa, u32 payload_len)
 extern int process_sigma_firmware(struct i2c_client *client, const char *name);
 
 #endif
+Tue Jul 19 12:35:24 PDT 2016

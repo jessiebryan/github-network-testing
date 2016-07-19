@@ -66,3 +66,4 @@ enum adis16204_scan {
 };
 
 #endif /* SPI_ADIS16204_H_ */
+Tue Jul 19 12:45:26 PDT 2016

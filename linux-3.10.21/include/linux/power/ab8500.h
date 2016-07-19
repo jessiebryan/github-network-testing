@@ -14,3 +14,4 @@ extern const struct abx500_res_to_temp ab8500_temp_tbl_b_thermistor[];
 extern const int ab8500_temp_tbl_b_size;
 
 #endif /* PWR_AB8500_H */
+Tue Jul 19 12:48:42 PDT 2016

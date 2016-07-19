@@ -360,3 +360,4 @@ int omap_mux_init(const char *name, u32 flags,
 		  struct omap_board_mux *board_mux,
 		  struct omap_ball *package_balls);
 
+Tue Jul 19 12:40:23 PDT 2016

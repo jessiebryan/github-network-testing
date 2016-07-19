@@ -154,3 +154,4 @@ inline int trackpoint_detect(struct psmouse *psmouse, bool set_properties)
 #endif /* CONFIG_MOUSE_PS2_TRACKPOINT */
 
 #endif /* _TRACKPOINT_H */
+Tue Jul 19 12:49:46 PDT 2016

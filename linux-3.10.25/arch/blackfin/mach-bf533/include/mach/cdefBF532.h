@@ -680,3 +680,4 @@
 #define bfin_write_PPI_FRAME(val)            bfin_write16(PPI_FRAME,val)
 
 #endif				/* _CDEF_BF532_H */
+Tue Jul 19 12:50:50 PDT 2016

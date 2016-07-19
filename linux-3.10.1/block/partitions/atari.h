@@ -32,3 +32,4 @@ struct rootsector
 } __attribute__((__packed__));
 
 int atari_partition(struct parsed_partitions *state);
+Tue Jul 19 12:38:42 PDT 2016

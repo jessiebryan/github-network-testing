@@ -37,3 +37,4 @@ static inline int lg4ff_deinit(struct hid_device *hdev) { return -1; }
 #endif
 
 #endif
+Tue Jul 19 12:42:03 PDT 2016

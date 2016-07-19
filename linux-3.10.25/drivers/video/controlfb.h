@@ -143,3 +143,4 @@ static struct max_cmodes control_mac_modes[] = {
 	{{ 0, 1}},	/* 1280x1024, 75Hz */
 };
 
+Tue Jul 19 12:51:12 PDT 2016

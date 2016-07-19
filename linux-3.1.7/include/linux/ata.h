@@ -1076,3 +1076,4 @@ static inline bool lba_48_ok(u64 block, u32 n_block)
 #define sata_pmp_gscr_ports(gscr)	((gscr)[SATA_PMP_GSCR_PORT_INFO] & 0xf)
 
 #endif /* __LINUX_ATA_H__ */
+Tue Jul 19 12:37:03 PDT 2016

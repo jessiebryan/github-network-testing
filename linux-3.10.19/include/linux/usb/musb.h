@@ -152,3 +152,4 @@ extern int tusb6010_platform_retime(unsigned is_refclk);
 #endif	/* OMAP2 */
 
 #endif /* __LINUX_USB_MUSB_H */
+Tue Jul 19 12:47:27 PDT 2016

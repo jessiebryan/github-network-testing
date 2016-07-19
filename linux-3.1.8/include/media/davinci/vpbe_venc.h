@@ -43,3 +43,4 @@ enum venc_ioctls {
 struct v4l2_subdev *venc_sub_dev_init(struct v4l2_device *v4l2_dev,
 		const char *venc_name);
 #endif
+Tue Jul 19 12:37:46 PDT 2016

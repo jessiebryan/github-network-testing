@@ -44,3 +44,4 @@ int i_APCI1710_InsnWriteDigitalIOChlOnOff(struct comedi_device *dev,
 int i_APCI1710_InsnBitsDigitalIOPortOnOff(struct comedi_device *dev,
 					  struct comedi_subdevice *s,
 					  struct comedi_insn *insn, unsigned int *data);
+Tue Jul 19 12:38:13 PDT 2016

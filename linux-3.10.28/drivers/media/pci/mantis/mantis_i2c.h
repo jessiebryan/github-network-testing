@@ -28,3 +28,4 @@ extern int mantis_i2c_init(struct mantis_pci *mantis);
 extern int mantis_i2c_exit(struct mantis_pci *mantis);
 
 #endif /* __MANTIS_I2C_H */
+Tue Jul 19 12:53:02 PDT 2016

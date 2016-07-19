@@ -119,3 +119,4 @@ static void v_APCI1564_Interrupt(int irq, void *d);
 
 /* RESET */
 int i_APCI1564_Reset(struct comedi_device *dev);
+Tue Jul 19 12:33:34 PDT 2016

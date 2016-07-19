@@ -203,3 +203,4 @@ void nci_req_complete(struct nci_dev *ndev, int result);
 int nci_to_errno(__u8 code);
 
 #endif /* __NCI_CORE_H */
+Tue Jul 19 12:40:16 PDT 2016

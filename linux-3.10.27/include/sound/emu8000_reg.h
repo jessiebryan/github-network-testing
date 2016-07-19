@@ -205,3 +205,4 @@
 	snd_emu8000_poke_dw((emu), EMU8000_DATA0(emu), EMU8000_CMD(5, (chan)), (val))
 
 #endif /* __SOUND_EMU8000_REG_H */
+Tue Jul 19 12:52:38 PDT 2016

@@ -43,3 +43,4 @@ static inline void st_gyro_deallocate_ring(struct iio_dev *indio_dev)
 #endif /* CONFIG_IIO_BUFFER */
 
 #endif /* ST_GYRO_H */
+Tue Jul 19 12:47:51 PDT 2016

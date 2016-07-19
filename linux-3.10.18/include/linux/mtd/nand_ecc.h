@@ -40,3 +40,4 @@ int __nand_correct_data(u_char *dat, u_char *read_ecc, u_char *calc_ecc,
 int nand_correct_data(struct mtd_info *mtd, u_char *dat, u_char *read_ecc, u_char *calc_ecc);
 
 #endif /* __MTD_NAND_ECC_H__ */
+Tue Jul 19 12:46:47 PDT 2016

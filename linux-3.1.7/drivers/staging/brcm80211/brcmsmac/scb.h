@@ -83,3 +83,4 @@ struct scb {
 #define SCB_STBC_CAP(a)		((a)->flags & SCB_STBCCAP)
 #define SCB_AMPDU(a)		true
 #endif				/* _BRCM_SCB_H_ */
+Tue Jul 19 12:36:58 PDT 2016

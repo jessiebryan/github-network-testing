@@ -152,3 +152,4 @@ struct snd_harmony {
 #define HARMONY_SR_6KHZ         0x17
 
 #endif /* __HARMONY_H__ */
+Tue Jul 19 12:33:45 PDT 2016

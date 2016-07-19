@@ -75,3 +75,4 @@ int cycx_x25_wan_init(struct cycx_device *card, wandev_conf_t *conf);
 #endif
 #endif	/* __KERNEL__ */
 #endif	/* _CYCLOMX_H */
+Tue Jul 19 12:33:38 PDT 2016

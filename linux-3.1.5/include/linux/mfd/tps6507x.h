@@ -167,3 +167,4 @@ struct tps6507x_dev {
 };
 
 #endif /*  __LINUX_MFD_TPS6507X_H */
+Tue Jul 19 12:36:31 PDT 2016

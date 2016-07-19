@@ -16,3 +16,4 @@ extern const struct clkops clkops_omap3430es2_dss_usbhost_wait;
 extern const struct clkops clkops_omap3430es2_iclk_dss_usbhost_wait;
 
 #endif
+Tue Jul 19 12:36:05 PDT 2016

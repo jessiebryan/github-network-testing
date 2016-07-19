@@ -75,3 +75,4 @@ static inline bool is_ISA_range(u64 s, u64 e)
 
 #define HIGH_MEMORY	(1024*1024)
 #endif /* _ASM_X86_E820_H */
+Tue Jul 19 12:44:39 PDT 2016

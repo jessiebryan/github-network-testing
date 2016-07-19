@@ -21,3 +21,4 @@ struct ath79_spi_controller_data {
 };
 
 #endif /* _ATH79_SPI_PLATFORM_H */
+Tue Jul 19 12:39:51 PDT 2016

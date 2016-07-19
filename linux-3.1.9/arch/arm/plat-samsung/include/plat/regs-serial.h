@@ -275,3 +275,4 @@ extern struct platform_device *s3c24xx_uart_devs[4];
 
 #endif /* __ASM_ARM_REGS_SERIAL_H */
 
+Tue Jul 19 12:37:55 PDT 2016

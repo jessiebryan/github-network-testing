@@ -42,3 +42,4 @@ int mei_cl_enable_device(struct mei_cl_device *device);
 int mei_cl_disable_device(struct mei_cl_device *device);
 
 #endif /* _LINUX_MEI_CL_BUS_H */
+Tue Jul 19 12:53:13 PDT 2016

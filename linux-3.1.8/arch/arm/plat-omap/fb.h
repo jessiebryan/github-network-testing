@@ -8,3 +8,4 @@ extern unsigned long omapfb_reserve_sram(unsigned long sram_pstart,
 					 unsigned long size_avail);
 
 #endif /* __PLAT_OMAP_FB_H__ */
+Tue Jul 19 12:37:15 PDT 2016

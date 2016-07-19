@@ -98,3 +98,4 @@ extern void sam9_smc_write_mode(int id, int cs, struct sam9_smc_config *config);
 #define			AT91_SMC_PS_32			(3 << 28)
 
 #endif
+Tue Jul 19 12:43:46 PDT 2016

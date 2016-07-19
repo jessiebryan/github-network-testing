@@ -158,3 +158,4 @@ int ct_atc_create(struct snd_card *card, struct pci_dev *pci,
 int ct_atc_create_alsa_devs(struct ct_atc *atc);
 
 #endif /* CTATC_H */
+Tue Jul 19 12:40:20 PDT 2016

@@ -7,3 +7,4 @@ struct edid_info {
 
 
 #endif /* _UAPI__linux_video_edid_h__ */
+Tue Jul 19 12:46:52 PDT 2016

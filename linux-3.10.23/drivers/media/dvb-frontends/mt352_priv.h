@@ -125,3 +125,4 @@ enum mt352_reg_addr {
 #define IF_FREQUENCYx6 217    /* 6 * 36.16666666667MHz */
 
 #endif                          /* _MT352_PRIV_ */
+Tue Jul 19 12:49:47 PDT 2016

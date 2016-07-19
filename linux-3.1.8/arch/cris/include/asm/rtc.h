@@ -105,3 +105,4 @@ struct rtc_time {
 #define RTC_MAX_IOCTL 0x14
 
 #endif /* __RTC_H__ */
+Tue Jul 19 12:37:17 PDT 2016

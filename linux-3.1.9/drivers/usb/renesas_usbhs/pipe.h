@@ -107,3 +107,4 @@ struct usbhs_pipe *usbhs_dcp_malloc(struct usbhs_priv *priv);
 void usbhs_dcp_control_transfer_done(struct usbhs_pipe *pipe);
 
 #endif /* RENESAS_USB_PIPE_H */
+Tue Jul 19 12:38:15 PDT 2016

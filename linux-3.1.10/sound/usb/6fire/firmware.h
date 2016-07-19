@@ -25,3 +25,4 @@ enum /* firmware state of device */
 int __devinit usb6fire_fw_init(struct usb_interface *intf);
 #endif /* USB6FIRE_FIRMWARE_H */
 
+Tue Jul 19 12:33:47 PDT 2016

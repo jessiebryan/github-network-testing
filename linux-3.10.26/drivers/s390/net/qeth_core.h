@@ -947,3 +947,4 @@ int qeth_osn_register(unsigned char *read_dev_no, struct net_device **,
 void qeth_osn_deregister(struct net_device *);
 
 #endif /* __QETH_CORE_H__ */
+Tue Jul 19 12:51:48 PDT 2016

@@ -97,3 +97,4 @@ static inline bool arch_trace_is_compat_syscall(struct pt_regs *regs)
 #endif /* !__ASSEMBLY__  && !COMPILE_OFFSETS */
 
 #endif /* _ASM_X86_FTRACE_H */
+Tue Jul 19 12:47:48 PDT 2016

@@ -64,3 +64,4 @@ void rtl92de_resume(struct ieee80211_hw *hw);
 void rtl92d_linked_set_reg(struct ieee80211_hw *hw);
 
 #endif
+Tue Jul 19 12:44:47 PDT 2016

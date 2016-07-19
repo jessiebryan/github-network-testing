@@ -39,3 +39,4 @@ static inline void arch_reset(char mode, const char *cmd)
 }
 
 #endif /* __PLAT_SYSTEM_H */
+Tue Jul 19 12:36:41 PDT 2016

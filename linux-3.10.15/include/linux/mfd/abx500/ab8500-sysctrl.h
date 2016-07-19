@@ -306,3 +306,4 @@ struct ab8500_sysctrl_platform_data {
 #define AB8500_WD_RESTART_ON_EXPIRE 0x10
 
 #endif /* __AB8500_SYSCTRL_H */
+Tue Jul 19 12:44:55 PDT 2016

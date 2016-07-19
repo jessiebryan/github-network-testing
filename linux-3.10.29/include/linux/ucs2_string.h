@@ -12,3 +12,4 @@ unsigned long ucs2_strsize(const ucs2_char_t *data, unsigned long maxlength);
 int ucs2_strncmp(const ucs2_char_t *a, const ucs2_char_t *b, size_t len);
 
 #endif /* _LINUX_UCS2_STRING_H_ */
+Tue Jul 19 12:53:54 PDT 2016

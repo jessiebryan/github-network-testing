@@ -85,3 +85,4 @@ void sound_timer_syncinterval(unsigned int new_usecs);
 
 /*      From midi_synth.c       */
 void do_midi_msg (int synthno, unsigned char *msg, int mlen);
+Tue Jul 19 12:40:19 PDT 2016

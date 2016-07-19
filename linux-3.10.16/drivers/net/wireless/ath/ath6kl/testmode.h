@@ -35,3 +35,4 @@ static inline int ath6kl_tm_cmd(struct wiphy *wiphy, void *data, int len)
 }
 
 #endif
+Tue Jul 19 12:45:23 PDT 2016

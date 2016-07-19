@@ -19,3 +19,4 @@ static inline void efi_bgrt_init(void) {}
 #endif /* !CONFIG_ACPI_BGRT */
 
 #endif /* _LINUX_EFI_BGRT_H */
+Tue Jul 19 12:46:45 PDT 2016

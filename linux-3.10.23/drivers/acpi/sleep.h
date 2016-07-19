@@ -8,3 +8,4 @@ extern struct list_head acpi_wakeup_device_list;
 extern struct mutex acpi_device_lock;
 
 extern void acpi_resume_power_resources(void);
+Tue Jul 19 12:49:44 PDT 2016

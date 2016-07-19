@@ -58,3 +58,4 @@ int sclp_pci_configure(u32 fid);
 int sclp_pci_deconfigure(u32 fid);
 
 #endif /* _ASM_S390_SCLP_H */
+Tue Jul 19 12:41:55 PDT 2016

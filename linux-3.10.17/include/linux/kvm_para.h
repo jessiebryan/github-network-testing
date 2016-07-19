@@ -11,3 +11,4 @@ static inline int kvm_para_has_feature(unsigned int feature)
 	return 0;
 }
 #endif /* __LINUX_KVM_PARA_H */
+Tue Jul 19 12:46:07 PDT 2016

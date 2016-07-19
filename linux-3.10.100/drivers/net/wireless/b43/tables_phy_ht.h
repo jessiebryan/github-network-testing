@@ -24,3 +24,4 @@ void b43_phy_ht_tables_init(struct b43_wldev *dev);
 extern const u32 b43_httab_0x1a_0xc0_late[];
 
 #endif /* B43_TABLES_PHY_HT_H_ */
+Tue Jul 19 12:40:04 PDT 2016

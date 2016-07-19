@@ -21,3 +21,4 @@ struct bfin_kpad_platform_data {
 #define KEYVAL(col, row, val) (((1 << col) << 24) | ((1 << row) << 16) | (val))
 
 #endif
+Tue Jul 19 12:52:08 PDT 2016

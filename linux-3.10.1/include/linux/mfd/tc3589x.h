@@ -194,3 +194,4 @@ struct tc3589x_platform_data {
 #define TC3589x_NR_IRQS		TC3589x_INT_GPIO(TC3589x_NR_GPIOS)
 
 #endif
+Tue Jul 19 12:38:56 PDT 2016

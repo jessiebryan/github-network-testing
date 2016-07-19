@@ -135,3 +135,4 @@ int sms_board_lna_control(struct smscore_device_t *coredev, int onoff);
 extern int sms_board_load_modules(int id);
 
 #endif /* __SMS_CARDS_H__ */
+Tue Jul 19 12:44:44 PDT 2016

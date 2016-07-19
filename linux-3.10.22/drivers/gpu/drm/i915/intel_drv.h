@@ -730,3 +730,4 @@ extern void intel_ddi_fdi_disable(struct drm_crtc *crtc);
 extern void intel_display_handle_reset(struct drm_device *dev);
 
 #endif /* __INTEL_DRV_H__ */
+Tue Jul 19 12:49:06 PDT 2016

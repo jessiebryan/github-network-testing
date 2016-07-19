@@ -61,3 +61,4 @@ unsigned long cpufreq_cooling_get_level(unsigned int cpu, unsigned int freq)
 #endif	/* CONFIG_CPU_THERMAL */
 
 #endif /* __CPU_COOLING_H__ */
+Tue Jul 19 12:51:15 PDT 2016

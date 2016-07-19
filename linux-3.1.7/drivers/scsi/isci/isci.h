@@ -536,3 +536,4 @@ extern void sci_init_sm(struct sci_base_state_machine *sm,
 			u32 initial_state);
 extern void sci_change_state(struct sci_base_state_machine *sm, u32 next_state);
 #endif  /* __ISCI_H__ */
+Tue Jul 19 12:36:58 PDT 2016

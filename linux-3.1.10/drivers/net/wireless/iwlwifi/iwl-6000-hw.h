@@ -79,3 +79,4 @@
 
 #endif /* __iwl_6000_hw_h__ */
 
+Tue Jul 19 12:33:32 PDT 2016

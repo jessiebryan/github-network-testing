@@ -22,3 +22,4 @@ int davinci_clk_reset_assert(struct clk *c);
 int davinci_clk_reset_deassert(struct clk *c);
 
 #endif
+Tue Jul 19 12:50:08 PDT 2016

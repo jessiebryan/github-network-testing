@@ -111,3 +111,4 @@ extern int smc_set_configuration(int cs, const struct smc_config *config);
 extern struct smc_config *smc_get_configuration(int cs);
 
 #endif /* __ARCH_AT32AP_SMC_H */
+Tue Jul 19 12:49:32 PDT 2016

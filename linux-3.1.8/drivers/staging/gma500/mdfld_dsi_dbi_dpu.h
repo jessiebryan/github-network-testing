@@ -152,3 +152,4 @@ extern void mdfld_dbi_dpu_exit(struct drm_device *dev);
 extern void mdfld_dpu_update_panel(struct drm_device *dev);
 
 #endif /*__MDFLD_DSI_DBI_DPU_H__*/
+Tue Jul 19 12:37:35 PDT 2016

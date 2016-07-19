@@ -172,3 +172,4 @@ extern void brcms_b_antsel_set(struct brcms_hardware *wlc_hw,
 			       u32 antsel_avail);
 
 #endif /* _BRCM_BOTTOM_MAC_H_ */
+Tue Jul 19 12:36:58 PDT 2016

@@ -158,3 +158,4 @@ s32  igb_check_polarity_m88(struct e1000_hw *hw);
 #define GS40G_LINE_LB			0x4000
 
 #endif
+Tue Jul 19 12:42:49 PDT 2016

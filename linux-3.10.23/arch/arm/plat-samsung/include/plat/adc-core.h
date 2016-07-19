@@ -26,3 +26,4 @@ static inline void s3c_adc_setname(char *name)
 }
 
 #endif /* __ASM_PLAT_ADC_CORE_H */
+Tue Jul 19 12:49:32 PDT 2016

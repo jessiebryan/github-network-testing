@@ -491,3 +491,4 @@ int bnx2x_sfp_module_detection(struct bnx2x_phy *phy,
 void bnx2x_period_func(struct link_params *params, struct link_vars *vars);
 
 #endif /* BNX2X_LINK_H */
+Tue Jul 19 12:33:30 PDT 2016

@@ -192,3 +192,4 @@ int rts51x_reset_resume(struct usb_interface *iface);
 extern struct scsi_host_template rts51x_host_template;
 
 #endif /* __RTS51X_H */
+Tue Jul 19 12:49:53 PDT 2016

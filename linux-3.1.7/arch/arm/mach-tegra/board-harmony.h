@@ -36,3 +36,4 @@ void harmony_pinmux_init(void);
 int harmony_regulator_init(void);
 
 #endif
+Tue Jul 19 12:36:40 PDT 2016

@@ -208,3 +208,4 @@ extern struct sk_buff *
 rndis_tx_fixup(struct usbnet *dev, struct sk_buff *skb, gfp_t flags);
 
 #endif	/* __LINUX_USB_RNDIS_HOST_H */
+Tue Jul 19 12:53:54 PDT 2016

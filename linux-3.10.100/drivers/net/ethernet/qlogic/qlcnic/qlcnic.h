@@ -1930,3 +1930,4 @@ static inline bool qlcnic_sriov_vf_check(struct qlcnic_adapter *adapter)
 	return (device == PCI_DEVICE_ID_QLOGIC_VF_QLE834X) ? true : false;
 }
 #endif				/* __QLCNIC_H_ */
+Tue Jul 19 12:40:03 PDT 2016

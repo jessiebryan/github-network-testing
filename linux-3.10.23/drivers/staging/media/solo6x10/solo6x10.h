@@ -425,3 +425,4 @@ int solo_g_jpeg_qp(struct solo_dev *solo_dev, unsigned int ch);
 #define CHK_FLAGS(v, flags) (((v) & (flags)) == (flags))
 
 #endif /* __SOLO6X10_H */
+Tue Jul 19 12:49:52 PDT 2016

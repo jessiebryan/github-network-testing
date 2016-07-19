@@ -92,3 +92,4 @@ void da9055_device_exit(struct da9055 *da9055);
 extern struct regmap_config da9055_regmap_config;
 
 #endif /* __DA9055_CORE_H */
+Tue Jul 19 12:50:37 PDT 2016

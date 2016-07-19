@@ -175,3 +175,4 @@ extern void zfcp_unit_queue_scsi_scan(struct zfcp_port *);
 extern unsigned int zfcp_unit_sdev_status(struct zfcp_unit *);
 
 #endif	/* ZFCP_EXT_H */
+Tue Jul 19 12:44:08 PDT 2016

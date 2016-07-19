@@ -102,3 +102,4 @@ enum ad7606_supported_device_ids {
 int ad7606_register_ring_funcs_and_init(struct iio_dev *indio_dev);
 void ad7606_ring_cleanup(struct iio_dev *indio_dev);
 #endif /* IIO_ADC_AD7606_H_ */
+Tue Jul 19 12:45:26 PDT 2016

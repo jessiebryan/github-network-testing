@@ -52,3 +52,4 @@ static inline __attribute_const__ __u32 __c6x_swahb32(__u32 val)
 #define __arch_swahb32 __c6x_swahb32
 
 #endif /* _ASM_C6X_SWAB_H */
+Tue Jul 19 12:49:33 PDT 2016

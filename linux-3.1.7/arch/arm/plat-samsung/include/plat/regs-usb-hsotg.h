@@ -377,3 +377,4 @@
 #define S3C_EPFIFO(_a)				S3C_HSOTG_REG(0x1000 + ((_a) * 0x1000))
 
 #endif /* __PLAT_S3C64XX_REGS_USB_HSOTG_H */
+Tue Jul 19 12:36:41 PDT 2016

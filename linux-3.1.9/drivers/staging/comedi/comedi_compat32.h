@@ -42,3 +42,4 @@ extern long comedi_compat_ioctl(struct file *file, unsigned int cmd,
 #endif /* CONFIG_COMPAT */
 
 #endif /* _COMEDI_COMPAT32_H */
+Tue Jul 19 12:38:13 PDT 2016

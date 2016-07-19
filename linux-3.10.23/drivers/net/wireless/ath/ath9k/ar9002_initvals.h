@@ -3192,3 +3192,4 @@ static const u32 ar9271Modes_high_power_tx_gain_9271[][5] = {
 	{0x0000a3e0, 0x00000063, 0x00000063, 0x00000063, 0x00000063},
 };
 
+Tue Jul 19 12:49:49 PDT 2016

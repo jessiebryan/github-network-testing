@@ -105,3 +105,4 @@ extern u32 ocfs2_hamming_encode_block(void *data, unsigned int blocksize);
 extern void ocfs2_hamming_fix_block(void *data, unsigned int blocksize,
 				    unsigned int fix);
 #endif
+Tue Jul 19 12:53:10 PDT 2016

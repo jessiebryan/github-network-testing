@@ -217,3 +217,4 @@ int nfc_tm_data_received(struct nfc_dev *dev, struct sk_buff *skb);
 void nfc_driver_failure(struct nfc_dev *dev, int err);
 
 #endif /* __NET_NFC_H */
+Tue Jul 19 12:43:40 PDT 2016

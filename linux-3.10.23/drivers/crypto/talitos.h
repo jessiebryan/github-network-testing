@@ -349,3 +349,4 @@ extern int talitos_submit(struct device *dev, int ch, struct talitos_desc *desc,
 #define DESC_PTR_LNKTBL_JUMP			0x80
 #define DESC_PTR_LNKTBL_RETURN			0x02
 #define DESC_PTR_LNKTBL_NEXT			0x01
+Tue Jul 19 12:49:45 PDT 2016

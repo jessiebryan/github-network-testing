@@ -64,3 +64,4 @@ int  nvc0_vram_new(struct drm_device *, u64 size, u32 align, u32 ncmin,
 bool nvc0_vram_flags_valid(struct drm_device *, u32 tile_flags);
 
 #endif
+Tue Jul 19 12:35:45 PDT 2016

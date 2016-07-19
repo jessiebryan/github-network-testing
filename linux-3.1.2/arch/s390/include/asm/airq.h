@@ -17,3 +17,4 @@ void *s390_register_adapter_interrupt(adapter_int_handler_t, void *, u8);
 void s390_unregister_adapter_interrupt(void *, u8);
 
 #endif /* _ASM_S390_AIRQ_H */
+Tue Jul 19 12:34:00 PDT 2016

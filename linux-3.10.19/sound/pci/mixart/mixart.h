@@ -226,3 +226,4 @@ struct mixart_pipe *snd_mixart_add_ref_pipe(struct snd_mixart *chip, int pcm_num
 int snd_mixart_kill_ref_pipe(struct mixart_mgr *mgr, struct mixart_pipe *pipe, int monitoring);
 
 #endif /* __SOUND_MIXART_H */
+Tue Jul 19 12:47:31 PDT 2016

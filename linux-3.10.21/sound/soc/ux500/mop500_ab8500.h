@@ -20,3 +20,4 @@ int mop500_ab8500_machine_init(struct snd_soc_pcm_runtime *runtime);
 void mop500_ab8500_remove(struct snd_soc_card *card);
 
 #endif
+Tue Jul 19 12:48:48 PDT 2016

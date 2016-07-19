@@ -183,3 +183,4 @@ static inline __u8 pn_sockaddr_get_resource(const struct sockaddr_pn *spn)
 /* Phonet device ioctl requests */
 
 #endif /* _UAPILINUX_PHONET_H */
+Tue Jul 19 12:49:25 PDT 2016

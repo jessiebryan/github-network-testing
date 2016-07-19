@@ -407,3 +407,4 @@ nv_pitch_align(struct drm_device *dev, uint32_t width, int bpp)
 }
 
 #endif	/* __NOUVEAU_HW_H__ */
+Tue Jul 19 12:39:21 PDT 2016

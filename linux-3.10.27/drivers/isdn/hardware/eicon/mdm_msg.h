@@ -344,3 +344,4 @@
 #define MDM_CAPI_NEG_MOD_CLASS        0x0001
 #define MDM_CAPI_NEG_DISABLED         0x0000
 #endif
+Tue Jul 19 12:52:22 PDT 2016

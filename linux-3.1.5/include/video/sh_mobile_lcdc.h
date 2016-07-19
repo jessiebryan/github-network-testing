@@ -98,3 +98,4 @@ struct sh_mobile_lcdc_info {
 };
 
 #endif /* __ASM_SH_MOBILE_LCDC_H__ */
+Tue Jul 19 12:36:35 PDT 2016

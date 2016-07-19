@@ -108,3 +108,4 @@ static inline void pcmcia_disable_irq(void)
 #define CISTPL_FUNCID_SCSI	0x08
 
 #endif
+Tue Jul 19 12:48:18 PDT 2016

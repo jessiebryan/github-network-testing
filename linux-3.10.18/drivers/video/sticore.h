@@ -361,3 +361,4 @@ void sti_bmove(struct sti_struct *sti, int src_y, int src_x,
 	       int dst_y, int dst_x, int height, int width);
 
 #endif	/* STICORE_H */
+Tue Jul 19 12:46:42 PDT 2016

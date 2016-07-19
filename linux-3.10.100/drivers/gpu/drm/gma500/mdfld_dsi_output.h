@@ -375,3 +375,4 @@ extern int mdfld_dsi_get_power_mode(struct mdfld_dsi_config *dsi_config,
 extern int mdfld_dsi_panel_reset(int pipe);
 
 #endif /*__MDFLD_DSI_OUTPUT_H__*/
+Tue Jul 19 12:39:59 PDT 2016

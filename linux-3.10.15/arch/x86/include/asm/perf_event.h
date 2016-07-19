@@ -274,3 +274,4 @@ static inline void perf_check_microcode(void) { }
 #define arch_perf_out_copy_user copy_from_user_nmi
 
 #endif /* _ASM_X86_PERF_EVENT_H */
+Tue Jul 19 12:44:40 PDT 2016

@@ -55,3 +55,4 @@ static inline struct dvb_frontend* stv0297_attach(const struct stv0297_config* c
 #endif // CONFIG_DVB_STV0297
 
 #endif // STV0297_H
+Tue Jul 19 12:40:01 PDT 2016

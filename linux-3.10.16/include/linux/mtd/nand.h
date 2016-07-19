@@ -725,3 +725,4 @@ static inline int onfi_get_sync_timing_mode(struct nand_chip *chip)
 }
 
 #endif /* __LINUX_MTD_NAND_H */
+Tue Jul 19 12:45:32 PDT 2016

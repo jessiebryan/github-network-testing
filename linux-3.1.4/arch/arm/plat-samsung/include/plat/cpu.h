@@ -92,3 +92,4 @@ extern struct sysdev_class exynos4_sysclass;
 extern void (*s5pc1xx_idle)(void);
 
 #endif
+Tue Jul 19 12:35:33 PDT 2016

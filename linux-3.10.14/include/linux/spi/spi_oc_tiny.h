@@ -18,3 +18,4 @@ struct tiny_spi_platform_data {
 };
 
 #endif /* _LINUX_SPI_SPI_OC_TINY_H */
+Tue Jul 19 12:44:17 PDT 2016

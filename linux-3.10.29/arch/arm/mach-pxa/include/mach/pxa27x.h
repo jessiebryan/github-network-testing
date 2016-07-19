@@ -27,3 +27,4 @@ extern void pxa27x_cpu_pm_enter(suspend_state_t state);
 #define pxa27x_handle_irq	ichp_handle_irq
 
 #endif /* __MACH_PXA27x_H */
+Tue Jul 19 12:53:24 PDT 2016

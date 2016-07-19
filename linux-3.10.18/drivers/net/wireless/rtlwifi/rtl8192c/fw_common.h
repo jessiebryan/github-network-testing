@@ -101,3 +101,4 @@ void usb_writeN_async(struct rtl_priv *rtlpriv, u32 addr, void *data, u16 len);
 void rtl92c_set_p2p_ps_offload_cmd(struct ieee80211_hw *hw, u8 p2p_ps_state);
 
 #endif
+Tue Jul 19 12:46:38 PDT 2016

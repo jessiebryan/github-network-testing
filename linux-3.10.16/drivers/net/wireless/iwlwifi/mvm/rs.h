@@ -391,3 +391,4 @@ extern int iwl_mvm_rate_control_register(void);
 extern void iwl_mvm_rate_control_unregister(void);
 
 #endif /* __rs__ */
+Tue Jul 19 12:45:23 PDT 2016

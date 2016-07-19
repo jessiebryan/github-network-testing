@@ -63,3 +63,4 @@ static inline int gpio_polarity(unsigned gpio, int value)
 #include <asm-generic/gpio.h>
 
 #endif /* __BCM47XX_GPIO_H */
+Tue Jul 19 12:36:45 PDT 2016

@@ -51,3 +51,4 @@ struct pxa_device_desc mmp2_device_##_name __initdata = {		\
 
 extern int pxa_register_device(struct pxa_device_desc *, void *, size_t);
 #endif /* __MACH_DEVICE_H */
+Tue Jul 19 12:33:50 PDT 2016

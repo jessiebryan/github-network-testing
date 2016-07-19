@@ -80,3 +80,4 @@ void tegra_ehci_phy_restore_start(struct usb_phy *phy,
 void tegra_ehci_phy_restore_end(struct usb_phy *phy);
 
 #endif /* __TEGRA_USB_PHY_H */
+Tue Jul 19 12:43:01 PDT 2016

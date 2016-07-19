@@ -169,3 +169,4 @@ void rtl92c_dm_dynamic_txpower(struct ieee80211_hw *hw);
 void rtl92c_dm_bt_coexist(struct ieee80211_hw *hw);
 
 #endif
+Tue Jul 19 12:45:24 PDT 2016

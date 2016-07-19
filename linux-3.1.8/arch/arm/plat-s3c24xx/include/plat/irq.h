@@ -113,3 +113,4 @@ extern int s3c_irq_wake(struct irq_data *data, unsigned int state);
 #endif
 
 extern int s3c_irqext_type(struct irq_data *d, unsigned int type);
+Tue Jul 19 12:37:15 PDT 2016

@@ -80,3 +80,4 @@ int lbs_get_firmware_async(struct lbs_private *priv, struct device *device,
 void lbs_wait_for_firmware_load(struct lbs_private *priv);
 
 #endif
+Tue Jul 19 12:52:26 PDT 2016

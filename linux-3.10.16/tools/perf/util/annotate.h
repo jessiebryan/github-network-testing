@@ -192,3 +192,4 @@ static inline void perf_gtk__show_annotations(void) {}
 extern const char	*disassembler_style;
 
 #endif	/* __PERF_ANNOTATE_H */
+Tue Jul 19 12:45:39 PDT 2016

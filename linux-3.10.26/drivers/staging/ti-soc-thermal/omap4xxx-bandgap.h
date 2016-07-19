@@ -173,3 +173,4 @@
 #define OMAP4460_T_COLD					795	/* 71 deg C */
 
 #endif /* __OMAP4XXX_BANDGAP_H */
+Tue Jul 19 12:51:50 PDT 2016

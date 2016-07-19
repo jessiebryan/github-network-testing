@@ -15,3 +15,4 @@ struct reset_control *devm_reset_control_get(struct device *dev, const char *id)
 int device_reset(struct device *dev);
 
 #endif
+Tue Jul 19 12:38:58 PDT 2016

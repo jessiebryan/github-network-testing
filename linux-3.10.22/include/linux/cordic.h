@@ -46,3 +46,4 @@ struct cordic_iq {
 struct cordic_iq cordic_calc_iq(s32 theta);
 
 #endif /* __CORDIC_H_ */
+Tue Jul 19 12:49:18 PDT 2016

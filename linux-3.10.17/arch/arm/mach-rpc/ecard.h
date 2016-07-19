@@ -67,3 +67,4 @@ typedef enum {				/* Speed for ECARD_IOC space	*/
 	ECARD_FAST	 = 2,
 	ECARD_SYNC	 = 3
 } card_speed_t;
+Tue Jul 19 12:45:41 PDT 2016

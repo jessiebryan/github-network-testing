@@ -161,3 +161,4 @@ static inline uint8_t nv_read_tv_enc(struct drm_device *dev, uint8_t reg)
 	nv_write_tv_enc(dev, 0x##reg, state->tv_enc[0x##reg])
 
 #endif
+Tue Jul 19 12:41:17 PDT 2016

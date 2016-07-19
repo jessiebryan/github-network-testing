@@ -76,3 +76,4 @@ int nouveau_dp_train(struct nouveau_disp *, const struct nouveau_dp_func *,
 		     struct dcb_output *, int, u32);
 
 #endif
+Tue Jul 19 12:44:03 PDT 2016

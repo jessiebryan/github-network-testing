@@ -1008,3 +1008,4 @@ struct drm_radeon_info {
 #define SI_TILE_MODE_DEPTH_STENCIL_2D_8AA	2
 
 #endif
+Tue Jul 19 12:40:56 PDT 2016

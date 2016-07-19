@@ -58,3 +58,4 @@ extern struct smp_operations realview_smp_ops;
 extern void realview_cpu_die(unsigned int cpu);
 
 #endif
+Tue Jul 19 12:39:07 PDT 2016

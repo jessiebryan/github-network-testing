@@ -24,3 +24,4 @@ static inline void apple_bl_unregister(void)
 #endif /* !CONFIG_BACKLIGHT_APPLE */
 
 #endif /* _LINUX_APPLE_BL_H */
+Tue Jul 19 12:48:01 PDT 2016

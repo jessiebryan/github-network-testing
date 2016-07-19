@@ -236,3 +236,4 @@ static inline int cs5535_mfgpt_release_irq(struct cs5535_mfgpt_timer *timer,
 }
 
 #endif
+Tue Jul 19 12:37:41 PDT 2016

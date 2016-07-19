@@ -866,3 +866,4 @@ static inline void __rcu_reclaim(struct rcu_head *head)
 	__kfree_rcu(&((ptr)->rcu_head), offsetof(typeof(*(ptr)), rcu_head))
 
 #endif /* __LINUX_RCUPDATE_H */
+Tue Jul 19 12:36:32 PDT 2016

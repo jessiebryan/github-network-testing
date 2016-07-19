@@ -809,3 +809,4 @@ struct dwc2_hcd_dma_desc {
 #define MAX_DMA_DESC_NUM_HS_ISOC	256
 
 #endif /* __DWC2_HW_H__ */
+Tue Jul 19 12:42:53 PDT 2016

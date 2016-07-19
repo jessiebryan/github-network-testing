@@ -83,3 +83,4 @@ static inline void register_hugetlbfs_with_node(node_registration_func_t reg,
 #define to_node(sys_device) container_of(sys_device, struct node, sysdev)
 
 #endif /* _LINUX_NODE_H_ */
+Tue Jul 19 12:37:06 PDT 2016

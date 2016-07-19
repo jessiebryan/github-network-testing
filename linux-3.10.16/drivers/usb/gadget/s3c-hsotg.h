@@ -375,3 +375,4 @@
 #define EPFIFO(_a)			HSOTG_REG(0x1000 + ((_a) * 0x1000))
 
 #endif /* __REGS_USB_HSOTG_H */
+Tue Jul 19 12:45:27 PDT 2016

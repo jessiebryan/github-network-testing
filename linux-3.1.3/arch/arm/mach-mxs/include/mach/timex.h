@@ -19,3 +19,4 @@
 #define CLOCK_TICK_RATE		32000	/* 32K */
 
 #endif /* __MACH_MXS_TIMEX_H__ */
+Tue Jul 19 12:34:42 PDT 2016

@@ -74,3 +74,4 @@ struct ibmvtpm_dev {
 #define VTPM_PREPARE_TO_SUSPEND_RES		(0x04 | VTPM_MSG_RES)
 
 #endif
+Tue Jul 19 12:42:01 PDT 2016

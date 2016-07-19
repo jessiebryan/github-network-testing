@@ -244,3 +244,4 @@ void snd_kctl_jack_report(struct snd_card *card,
 			  struct snd_kcontrol *kctl, bool status);
 
 #endif	/* __SOUND_CONTROL_H */
+Tue Jul 19 12:42:23 PDT 2016

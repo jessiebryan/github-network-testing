@@ -518,3 +518,4 @@ int hfsplus_submit_bio(struct super_block *sb, sector_t sector,
 #define hfsp_now2mt()		__hfsp_ut2mt(get_seconds())
 
 #endif
+Tue Jul 19 12:53:49 PDT 2016

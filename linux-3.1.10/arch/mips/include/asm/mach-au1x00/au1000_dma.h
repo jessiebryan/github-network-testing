@@ -452,3 +452,4 @@ static inline int get_dma_residue(unsigned int dmanr)
 }
 
 #endif /* __ASM_AU1000_DMA_H */
+Tue Jul 19 12:33:20 PDT 2016

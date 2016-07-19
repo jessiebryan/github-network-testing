@@ -98,3 +98,4 @@ static inline int altera_pid_feed_control(void *dev, int filt_nr,
 #endif /* CONFIG_MEDIA_ALTERA_CI */
 
 #endif /* __ALTERA_CI_H */
+Tue Jul 19 12:34:07 PDT 2016

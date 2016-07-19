@@ -688,3 +688,4 @@ s32 atl1e_restart_autoneg(struct atl1e_hw *hw);
 #define MII_AT001_PSSR_1000MBS                  0x8000  /* 10=1000Mbs */
 
 #endif /*_ATHL1E_HW_H_*/
+Tue Jul 19 12:53:42 PDT 2016

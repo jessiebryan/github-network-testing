@@ -226,3 +226,4 @@ static inline void adis16400_unconfigure_ring(struct iio_dev *indio_dev)
 
 #endif /* CONFIG_IIO_RING_BUFFER */
 #endif /* SPI_ADIS16400_H_ */
+Tue Jul 19 12:37:35 PDT 2016

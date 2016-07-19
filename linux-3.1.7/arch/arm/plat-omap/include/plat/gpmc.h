@@ -158,3 +158,4 @@ extern int gpmc_nand_write(int cs, int cmd, int wval);
 int gpmc_enable_hwecc(int cs, int mode, int dev_width, int ecc_size);
 int gpmc_calculate_ecc(int cs, const u_char *dat, u_char *ecc_code);
 #endif
+Tue Jul 19 12:36:41 PDT 2016

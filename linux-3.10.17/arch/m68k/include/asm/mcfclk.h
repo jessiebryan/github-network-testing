@@ -48,3 +48,4 @@ void __clk_init_disabled(struct clk *);
 #endif /* MCFPM_PPMCR0 */
 
 #endif /* mcfclk_h */
+Tue Jul 19 12:45:46 PDT 2016

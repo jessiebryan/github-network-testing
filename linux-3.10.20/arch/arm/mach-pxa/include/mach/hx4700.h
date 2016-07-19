@@ -130,3 +130,4 @@
 #define EGPIO8_USB_3V3_ON	(HX4700_EGPIO_BASE + 8)	/* unused */
 
 #endif /* _HX4700_H_ */
+Tue Jul 19 12:47:35 PDT 2016

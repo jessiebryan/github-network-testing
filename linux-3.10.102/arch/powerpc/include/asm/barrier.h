@@ -66,3 +66,4 @@
 	asm volatile("twi 0,%0,0; isync" : : "r" (x) : "memory");
 
 #endif /* _ASM_POWERPC_BARRIER_H */
+Tue Jul 19 12:41:11 PDT 2016

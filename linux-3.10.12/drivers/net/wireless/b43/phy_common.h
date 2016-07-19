@@ -455,3 +455,4 @@ void b43_phy_force_clock(struct b43_wldev *dev, bool force);
 struct b43_c32 b43_cordic(int theta);
 
 #endif /* LINUX_B43_PHY_COMMON_H_ */
+Tue Jul 19 12:42:50 PDT 2016

@@ -933,3 +933,4 @@ static inline int wm8400_set_bits(struct wm8400 *wm8400, u8 reg,
 }
 
 #endif
+Tue Jul 19 12:43:37 PDT 2016

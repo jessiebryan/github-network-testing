@@ -447,3 +447,4 @@ bool b43_channel_type_is_40mhz(enum nl80211_channel_type channel_type);
 struct b43_c32 b43_cordic(int theta);
 
 #endif /* LINUX_B43_PHY_COMMON_H_ */
+Tue Jul 19 12:33:31 PDT 2016

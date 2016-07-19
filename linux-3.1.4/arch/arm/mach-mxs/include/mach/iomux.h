@@ -166,3 +166,4 @@ int mxs_iomux_setup_pad(iomux_cfg_t pad);
 int mxs_iomux_setup_multiple_pads(const iomux_cfg_t *pad_list, unsigned count);
 
 #endif /* __MACH_MXS_IOMUX_H__*/
+Tue Jul 19 12:35:30 PDT 2016

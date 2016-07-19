@@ -1092,3 +1092,4 @@ extern const u32 ib_qib_rnr_table[];
 extern struct ib_dma_mapping_ops qib_dma_mapping_ops;
 
 #endif                          /* QIB_VERBS_H */
+Tue Jul 19 12:36:53 PDT 2016

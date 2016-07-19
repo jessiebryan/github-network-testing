@@ -53,3 +53,4 @@ extern struct snd_ice1712_card_info snd_vt1724_revo_cards[];
 #define VT1724_REVO_MUTE	(1<<22)	/* 0 = all mute, 1 = normal operation */
 
 #endif /* __SOUND_REVO_H */
+Tue Jul 19 12:53:20 PDT 2016

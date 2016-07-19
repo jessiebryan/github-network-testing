@@ -105,3 +105,4 @@
 #define AAH_E			(1    << 31)	/* Address Enabled */
 
 #endif /* KS8695NET_H */
+Tue Jul 19 12:34:07 PDT 2016

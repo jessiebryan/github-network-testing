@@ -284,3 +284,4 @@ int stmpe_remove(struct stmpe *stmpe);
 #define STMPE24XX_SYSCON_ENABLE_ROT		(1 << 0)
 
 #endif
+Tue Jul 19 12:49:48 PDT 2016

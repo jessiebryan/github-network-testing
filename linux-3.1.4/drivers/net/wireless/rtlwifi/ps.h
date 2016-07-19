@@ -49,3 +49,4 @@ void rtl_swlps_rf_awake(struct ieee80211_hw *hw);
 void rtl_swlps_rf_sleep(struct ieee80211_hw *hw);
 
 #endif
+Tue Jul 19 12:35:49 PDT 2016

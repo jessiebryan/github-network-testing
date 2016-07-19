@@ -47,3 +47,4 @@ struct mxt_platform_data {
 };
 
 #endif /* __LINUX_ATMEL_MXT_TS_H */
+Tue Jul 19 12:39:33 PDT 2016

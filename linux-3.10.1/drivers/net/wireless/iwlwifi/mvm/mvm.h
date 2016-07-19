@@ -535,3 +535,4 @@ void iwl_mvm_bt_rssi_event(struct iwl_mvm *mvm, struct ieee80211_vif *vif,
 void iwl_mvm_bt_coex_vif_assoc(struct iwl_mvm *mvm, struct ieee80211_vif *vif);
 
 #endif /* __IWL_MVM_H__ */
+Tue Jul 19 12:38:48 PDT 2016

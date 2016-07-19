@@ -519,3 +519,4 @@ extern bool bt_siso_mode;
 void iwlagn_fw_error(struct iwl_priv *priv, bool ondemand);
 
 #endif /* __iwl_core_h__ */
+Tue Jul 19 12:38:11 PDT 2016

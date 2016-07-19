@@ -285,3 +285,4 @@ struct ft1000_info {
 	struct proc_dir_entry *ft1000_proc_dir;
 	char netdevname[IFNAMSIZ];
 };
+Tue Jul 19 12:46:02 PDT 2016

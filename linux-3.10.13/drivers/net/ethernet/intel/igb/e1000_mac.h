@@ -89,3 +89,4 @@ enum e1000_mng_mode {
 extern void e1000_init_function_pointers_82575(struct e1000_hw *hw);
 
 #endif
+Tue Jul 19 12:43:27 PDT 2016

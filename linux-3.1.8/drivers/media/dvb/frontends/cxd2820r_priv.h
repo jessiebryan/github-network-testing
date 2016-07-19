@@ -164,3 +164,4 @@ int cxd2820r_get_tune_settings_t2(struct dvb_frontend *fe,
 	struct dvb_frontend_tune_settings *s);
 
 #endif /* CXD2820R_PRIV_H */
+Tue Jul 19 12:37:30 PDT 2016

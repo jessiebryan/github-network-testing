@@ -31,3 +31,4 @@ extern int cpuidle_add_sysfs(struct sys_device *sysdev);
 extern void cpuidle_remove_sysfs(struct sys_device *sysdev);
 
 #endif /* __DRIVER_CPUIDLE_H */
+Tue Jul 19 12:36:19 PDT 2016

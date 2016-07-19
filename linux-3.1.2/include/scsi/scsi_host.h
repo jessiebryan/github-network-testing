@@ -902,3 +902,4 @@ extern void scsi_unregister(struct Scsi_Host *);
 extern int scsi_host_set_state(struct Scsi_Host *, enum scsi_host_state);
 
 #endif /* _SCSI_SCSI_HOST_H */
+Tue Jul 19 12:34:36 PDT 2016

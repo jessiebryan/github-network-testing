@@ -72,3 +72,4 @@
 #define SOLO_JPEG_EXT_SIZE(__solo)		(0x00080000 * __solo->nr_chans)
 
 #endif /* __SOLO6X10_OFFSETS_H */
+Tue Jul 19 12:37:00 PDT 2016

@@ -63,3 +63,4 @@
 #define ULPI_PHY_CLK_SEL        (1<<10)
 #define PHY_CLK_VALID		(1<<17)
 #endif				/* _EHCI_FSL_H */
+Tue Jul 19 12:53:09 PDT 2016

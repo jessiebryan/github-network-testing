@@ -33,3 +33,4 @@ struct omap1_cam_platform_data {
 #define OMAP1_CAMERA_RST_HIGH		BIT(2)
 
 #endif /* __MEDIA_OMAP1_CAMERA_H_ */
+Tue Jul 19 12:43:01 PDT 2016

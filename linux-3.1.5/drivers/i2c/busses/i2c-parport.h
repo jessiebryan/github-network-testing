@@ -108,3 +108,4 @@ MODULE_PARM_DESC(type,
 	" 6 = Barco LPT->DVI (K5800236) adapter\n"
 	" 7 = One For All JP1 parallel port adapter\n"
 );
+Tue Jul 19 12:36:20 PDT 2016

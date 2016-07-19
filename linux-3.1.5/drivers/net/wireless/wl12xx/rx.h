@@ -132,3 +132,4 @@ u8 wl1271_rate_to_idx(int rate, enum ieee80211_band band);
 void wl1271_set_default_filters(struct wl1271 *wl);
 
 #endif
+Tue Jul 19 12:36:24 PDT 2016

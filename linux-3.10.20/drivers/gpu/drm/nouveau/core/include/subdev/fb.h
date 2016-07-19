@@ -169,3 +169,4 @@ void nv46_fb_tile_init(struct nouveau_fb *, int i, u32 addr, u32 size,
 void nv50_fb_vram_del(struct nouveau_fb *, struct nouveau_mem **);
 
 #endif
+Tue Jul 19 12:47:50 PDT 2016

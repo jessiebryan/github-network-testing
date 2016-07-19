@@ -167,3 +167,4 @@ int mpc10x_disable_store_gathering(struct pci_controller *hose);
 void mpc10x_set_openpic(void);
 
 #endif	/* __PPC_KERNEL_MPC10X_H */
+Tue Jul 19 12:52:55 PDT 2016

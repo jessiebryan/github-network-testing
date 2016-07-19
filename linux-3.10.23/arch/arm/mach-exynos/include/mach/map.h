@@ -292,3 +292,4 @@
 #define S3C_VA_UARTx(x)			(S3C_VA_UART + ((x) * S3C_UART_OFFSET))
 
 #endif /* __ASM_ARCH_MAP_H */
+Tue Jul 19 12:49:30 PDT 2016

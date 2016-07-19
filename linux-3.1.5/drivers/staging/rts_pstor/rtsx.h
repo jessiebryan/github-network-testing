@@ -184,3 +184,4 @@ enum xfer_buf_dir	{TO_XFER_BUF, FROM_XFER_BUF};
 int rtsx_read_pci_cfg_byte(u8 bus, u8 dev, u8 func, u8 offset, u8 *val);
 
 #endif  /* __REALTEK_RTSX_H */
+Tue Jul 19 12:36:26 PDT 2016

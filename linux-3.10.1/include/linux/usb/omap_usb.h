@@ -65,3 +65,4 @@ static inline void omap_usb_writel(void __iomem *addr, unsigned offset,
 }
 
 #endif /* __DRIVERS_OMAP_USB_H */
+Tue Jul 19 12:38:58 PDT 2016

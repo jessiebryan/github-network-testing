@@ -38,3 +38,4 @@
 
 #endif /* __RTL8712_BITDEF_H__ */
 
+Tue Jul 19 12:44:10 PDT 2016

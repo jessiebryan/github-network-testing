@@ -250,3 +250,4 @@ extern void mrst_hdmi_i2c_exit(struct pci_dev *dev);
 extern void mrst_hdmi_save(struct drm_device *dev);
 extern void mrst_hdmi_restore(struct drm_device *dev);
 extern void mrst_hdmi_init(struct drm_device *dev, struct psb_intel_mode_device *mode_dev);
+Tue Jul 19 12:35:51 PDT 2016

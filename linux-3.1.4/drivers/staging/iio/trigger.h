@@ -186,3 +186,4 @@ struct iio_trigger *iio_allocate_trigger(const char *fmt, ...)
 void iio_free_trigger(struct iio_trigger *trig);
 
 #endif /* _IIO_TRIGGER_H_ */
+Tue Jul 19 12:35:51 PDT 2016

@@ -97,3 +97,4 @@ extern int llc_establish_connection(struct sock *sk, u8 *lmac,
 extern int llc_build_and_send_pkt(struct sock *sk, struct sk_buff *skb);
 extern int llc_send_disc(struct sock *sk);
 #endif /* LLC_IF_H */
+Tue Jul 19 12:33:43 PDT 2016

@@ -2489,3 +2489,4 @@ static const struct XGI301C_Tap4TimingStruct YPbPr750pTap4Timing[] = {
 	}
 };
 #endif
+Tue Jul 19 12:53:08 PDT 2016

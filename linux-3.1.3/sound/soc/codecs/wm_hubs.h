@@ -47,3 +47,4 @@ extern int wm_hubs_handle_analogue_pdata(struct snd_soc_codec *,
 extern irqreturn_t wm_hubs_dcs_done(int irq, void *data);
 
 #endif
+Tue Jul 19 12:35:28 PDT 2016

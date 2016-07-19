@@ -48,3 +48,4 @@ struct ux500_charger {
 extern struct blocking_notifier_head charger_notifier_list;
 
 #endif
+Tue Jul 19 12:53:52 PDT 2016

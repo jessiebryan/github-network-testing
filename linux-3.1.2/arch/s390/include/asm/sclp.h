@@ -56,3 +56,4 @@ int sclp_chp_read_info(struct sclp_chp_info *info);
 void sclp_get_ipl_info(struct sclp_ipl_info *info);
 
 #endif /* _ASM_S390_SCLP_H */
+Tue Jul 19 12:34:00 PDT 2016

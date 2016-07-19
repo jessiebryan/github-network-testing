@@ -3480,3 +3480,4 @@
 #define   GEN6_PCODE_FREQ_IA_RATIO_SHIFT	8
 
 #endif /* _I915_REG_H_ */
+Tue Jul 19 12:35:11 PDT 2016

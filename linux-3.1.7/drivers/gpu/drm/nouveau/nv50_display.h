@@ -85,3 +85,4 @@ int  nv50_evo_dmaobj_new(struct nouveau_channel *, u32 handle, u32 memtype,
 			 u64 base, u64 size, struct nouveau_gpuobj **);
 
 #endif /* __NV50_DISPLAY_H__ */
+Tue Jul 19 12:36:53 PDT 2016

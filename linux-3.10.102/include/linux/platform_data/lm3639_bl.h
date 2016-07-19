@@ -67,3 +67,4 @@ struct lm3639_platform_data {
 	int (*pwm_get_intensity) (void);
 };
 #endif /* __LINUX_LM3639_H */
+Tue Jul 19 12:41:31 PDT 2016

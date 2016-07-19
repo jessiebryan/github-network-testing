@@ -47,3 +47,4 @@
 
 #endif	/*	__RTL8712_RATECTRL_BITDEF_H__*/
 
+Tue Jul 19 12:49:53 PDT 2016

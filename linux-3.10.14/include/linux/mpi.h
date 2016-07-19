@@ -143,3 +143,4 @@ int mpi_rshift(MPI x, MPI a, unsigned n);
 int mpi_invm(MPI x, MPI u, MPI v);
 
 #endif /*G10_MPI_H */
+Tue Jul 19 12:44:16 PDT 2016

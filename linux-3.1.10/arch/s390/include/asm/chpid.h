@@ -54,3 +54,4 @@ static inline int chp_id_is_valid(struct chp_id *chpid)
 #endif /* __KERNEL */
 
 #endif /* _ASM_S390_CHPID_H */
+Tue Jul 19 12:33:24 PDT 2016

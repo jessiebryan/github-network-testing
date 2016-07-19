@@ -91,3 +91,4 @@ extern struct var_t synth_time_vars[];
 #define spk_unlock(flags) spin_unlock_irqrestore(&speakup_info.spinlock, flags)
 
 #endif
+Tue Jul 19 12:51:11 PDT 2016

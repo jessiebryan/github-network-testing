@@ -53,3 +53,4 @@ struct at24_platform_data {
 };
 
 #endif /* _LINUX_AT24_H */
+Tue Jul 19 12:43:36 PDT 2016

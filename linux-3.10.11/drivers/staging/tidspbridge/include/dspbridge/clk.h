@@ -99,3 +99,4 @@ u32 dsp_clock_disable_all(u32 dsp_per_clocks);
 extern void ssi_clk_prepare(bool FLAG);
 
 #endif /* _SYNC_H */
+Tue Jul 19 12:42:12 PDT 2016

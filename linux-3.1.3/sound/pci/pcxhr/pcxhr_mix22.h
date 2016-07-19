@@ -57,3 +57,4 @@ int hr222_iec958_update_byte(struct snd_pcxhr *chip, int aes_idx,
 int hr222_add_mic_controls(struct snd_pcxhr *chip);
 
 #endif /* __SOUND_PCXHR_MIX22_H */
+Tue Jul 19 12:35:28 PDT 2016

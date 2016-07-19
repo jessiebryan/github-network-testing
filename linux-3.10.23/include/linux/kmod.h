@@ -105,3 +105,4 @@ extern long usermodehelper_read_lock_wait(long timeout);
 extern void usermodehelper_read_unlock(void);
 
 #endif /* __LINUX_KMOD_H__ */
+Tue Jul 19 12:49:58 PDT 2016

@@ -244,3 +244,4 @@
 #define LONGNAME		"MultiSound (Pinnacle/Fiji)"
 
 #endif /* __MSND_PINNACLE_H */
+Tue Jul 19 12:53:59 PDT 2016

@@ -57,3 +57,4 @@ struct ntc_thermistor_platform_data {
 };
 
 #endif /* _LINUX_NTC_H */
+Tue Jul 19 12:53:53 PDT 2016

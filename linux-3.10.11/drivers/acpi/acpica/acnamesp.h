@@ -388,3 +388,4 @@ struct acpi_namespace_node *acpi_ns_validate_handle(acpi_handle handle);
 void acpi_ns_terminate(void);
 
 #endif				/* __ACNAMESP_H__ */
+Tue Jul 19 12:42:01 PDT 2016

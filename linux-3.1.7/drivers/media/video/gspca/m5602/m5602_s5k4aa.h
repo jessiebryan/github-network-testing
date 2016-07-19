@@ -281,3 +281,4 @@ static const unsigned char SXGA_s5k4aa[][4] = {
 	{SENSOR, 0x02, 0x0e, 0x00},
 };
 #endif
+Tue Jul 19 12:36:55 PDT 2016

@@ -69,3 +69,4 @@ int snd_usb_mixer_add_control(struct usb_mixer_interface *mixer,
 			      struct snd_kcontrol *kctl);
 
 #endif /* __USBMIXER_H */
+Tue Jul 19 12:34:40 PDT 2016

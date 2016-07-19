@@ -305,3 +305,4 @@ struct sdio_mmc_card {
 	struct mwifiex_sdio_mpa_rx mpa_rx;
 };
 #endif /* _MWIFIEX_SDIO_H */
+Tue Jul 19 12:36:23 PDT 2016

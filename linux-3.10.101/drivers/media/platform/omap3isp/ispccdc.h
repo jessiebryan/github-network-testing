@@ -170,3 +170,4 @@ void omap3isp_ccdc_max_rate(struct isp_ccdc_device *ccdc,
 	unsigned int *max_rate);
 
 #endif	/* OMAP3_ISP_CCDC_H */
+Tue Jul 19 12:40:41 PDT 2016

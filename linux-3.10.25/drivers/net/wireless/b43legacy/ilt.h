@@ -32,3 +32,4 @@ void b43legacy_ilt_write32(struct b43legacy_wldev *dev, u16 offset,
 u16 b43legacy_ilt_read(struct b43legacy_wldev *dev, u16 offset);
 
 #endif /* B43legacy_ILT_H_ */
+Tue Jul 19 12:51:08 PDT 2016

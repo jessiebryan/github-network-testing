@@ -169,3 +169,4 @@ void isl38xx_trigger_device(int, void __iomem *);
 void isl38xx_interface_reset(void __iomem *, dma_addr_t);
 
 #endif				/* _ISL_38XX_H */
+Tue Jul 19 12:38:48 PDT 2016

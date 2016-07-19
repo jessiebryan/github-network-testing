@@ -450,3 +450,4 @@ int spear_pinctrl_remove(struct platform_device *pdev);
 	PINCTRL_PIN(245, "PLGPIO245")
 
 #endif /* __PINMUX_SPEAR_H__ */
+Tue Jul 19 12:49:12 PDT 2016

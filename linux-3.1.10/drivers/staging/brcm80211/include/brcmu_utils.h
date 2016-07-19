@@ -299,3 +299,4 @@ extern uint brcmu_mkiovar(char *name, char *data, uint datalen,
 extern uint brcmu_bitcount(u8 *bitmap, uint bytelength);
 
 #endif				/* _BRCMU_UTILS_H_ */
+Tue Jul 19 12:33:33 PDT 2016

@@ -233,3 +233,4 @@ int gspca_coarse_grained_expo_autogain(struct gspca_dev *gspca_dev,
         int avg_lum, int desired_avg_lum, int deadzone);
 
 #endif /* GSPCAV2_H */
+Tue Jul 19 12:42:05 PDT 2016

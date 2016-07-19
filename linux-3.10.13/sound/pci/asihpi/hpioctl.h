@@ -36,3 +36,4 @@ long asihpi_hpi_ioctl(struct file *file, unsigned int cmd, unsigned long arg);
 void hpi_send_recv(struct hpi_message *phm, struct hpi_response *phr);
 
 #define HOWNER_KERNEL ((void *)-1)
+Tue Jul 19 12:43:44 PDT 2016

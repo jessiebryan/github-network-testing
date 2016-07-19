@@ -110,3 +110,4 @@ struct btmrvl_sdio_device {
 #define ALIGN_ADDR(p, a)	\
 	((((unsigned long)(p)) + (((unsigned long)(a)) - 1)) & \
 					~(((unsigned long)(a)) - 1))
+Tue Jul 19 12:36:19 PDT 2016

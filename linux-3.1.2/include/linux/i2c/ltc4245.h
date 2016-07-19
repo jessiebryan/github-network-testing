@@ -19,3 +19,4 @@ struct ltc4245_platform_data {
 };
 
 #endif /* LINUX_LTC4245_H */
+Tue Jul 19 12:34:25 PDT 2016

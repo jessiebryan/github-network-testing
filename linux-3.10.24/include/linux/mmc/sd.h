@@ -92,3 +92,4 @@
 #define SD_SWITCH_ACCESS_HS	1
 
 #endif /* LINUX_MMC_SD_H */
+Tue Jul 19 12:50:38 PDT 2016

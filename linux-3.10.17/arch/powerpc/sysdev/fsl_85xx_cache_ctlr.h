@@ -99,3 +99,4 @@ extern int instantiate_cache_sram(struct platform_device *dev,
 extern void remove_cache_sram(struct platform_device *dev);
 
 #endif /* __FSL_85XX_CACHE_CTLR_H__ */
+Tue Jul 19 12:45:50 PDT 2016

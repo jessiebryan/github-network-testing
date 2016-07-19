@@ -337,3 +337,4 @@ dma_sync_sg_for_device(struct device *dev, struct scatterlist *sg,
 #define dma_free_noncoherent(d, s, v, h) dma_free_coherent(d, s, v, h)
 
 #endif /* __ASM_AVR32_DMA_MAPPING_H */
+Tue Jul 19 12:36:41 PDT 2016

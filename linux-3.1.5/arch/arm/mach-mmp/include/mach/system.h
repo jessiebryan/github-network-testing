@@ -24,3 +24,4 @@ static inline void arch_reset(char mode, const char *cmd)
 		cpu_reset(0);
 }
 #endif /* __ASM_MACH_SYSTEM_H */
+Tue Jul 19 12:36:04 PDT 2016

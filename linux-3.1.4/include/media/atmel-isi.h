@@ -117,3 +117,4 @@ struct isi_platform_data {
 };
 
 #endif /* __ATMEL_ISI_H__ */
+Tue Jul 19 12:35:59 PDT 2016

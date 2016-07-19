@@ -70,3 +70,4 @@
 #define CPUS_PER_SUBNODE	2	/* CPUs on a single hub PI */
 
 #endif /* _ASM_SN_SN0_ARCH_H */
+Tue Jul 19 12:35:39 PDT 2016

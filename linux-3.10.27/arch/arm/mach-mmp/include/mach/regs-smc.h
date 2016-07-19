@@ -35,3 +35,4 @@
 #define SMC_ADV_AP1		SMC_REG(0x0104)
 
 #endif /* __ASM_MACH_REGS_SMC_H */
+Tue Jul 19 12:52:05 PDT 2016

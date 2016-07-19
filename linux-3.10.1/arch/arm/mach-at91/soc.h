@@ -73,3 +73,4 @@ static inline int at91_soc_is_enabled(void)
 #if !defined(CONFIG_SOC_SAMA5D3)
 #define sama5d3_soc	at91_boot_soc
 #endif
+Tue Jul 19 12:38:27 PDT 2016

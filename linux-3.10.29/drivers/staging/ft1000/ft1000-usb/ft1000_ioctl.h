@@ -105,3 +105,4 @@ typedef struct _IOCTL_DPRAM_COMMAND
 #define IOCTL_FT1000_REGISTER  _IOW (FT1000_MAGIC_CODE, IOCTL_REGISTER_CMD, sizeof(unsigned short *) )
 #endif // _FT1000IOCTLH_
 
+Tue Jul 19 12:53:46 PDT 2016

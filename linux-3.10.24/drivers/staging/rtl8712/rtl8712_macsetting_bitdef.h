@@ -45,3 +45,4 @@
 
 #endif /* __RTL8712_MACSETTING_BITDEF_H__*/
 
+Tue Jul 19 12:50:31 PDT 2016

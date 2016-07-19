@@ -34,3 +34,4 @@ UNUSUAL_DEV(  0x0d49, 0x7010, 0x0000, 0x9999,
 		0),
 
 #endif /* defined(CONFIG_USB_STORAGE_ONETOUCH) || ... */
+Tue Jul 19 12:46:42 PDT 2016

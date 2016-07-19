@@ -113,3 +113,4 @@ static inline void s3c_pm_saved_gpios(void)
 
 	__raw_writel(S3C64XX_SLPEN_USE_xSLP, S3C64XX_SLPEN);
 }
+Tue Jul 19 12:35:31 PDT 2016

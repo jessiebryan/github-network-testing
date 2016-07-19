@@ -66,3 +66,4 @@
 #define PALMTE2_MAX_LIFE_MINS		360	/* on-life in minutes */
 
 #endif
+Tue Jul 19 12:50:48 PDT 2016

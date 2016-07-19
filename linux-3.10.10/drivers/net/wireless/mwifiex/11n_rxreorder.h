@@ -80,3 +80,4 @@ void mwifiex_11n_del_rx_reorder_tbl_by_ta(struct mwifiex_private *priv, u8 *ta);
 void mwifiex_update_rxreor_flags(struct mwifiex_adapter *adapter, u8 flags);
 
 #endif /* _MWIFIEX_11N_RXREORDER_H_ */
+Tue Jul 19 12:39:26 PDT 2016

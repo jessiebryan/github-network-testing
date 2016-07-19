@@ -23,3 +23,4 @@ struct pm8xxx_rtc_platform_data {
 };
 
 #endif /* __RTC_PM8XXX_H__ */
+Tue Jul 19 12:47:24 PDT 2016

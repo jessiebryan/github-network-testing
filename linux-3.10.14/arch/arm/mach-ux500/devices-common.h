@@ -147,3 +147,4 @@ dbx500_add_pinctrl(struct device *parent, const char *name,
 }
 
 #endif
+Tue Jul 19 12:43:49 PDT 2016

@@ -461,3 +461,4 @@ extern int iwlagn_rate_control_register(void);
 extern void iwlagn_rate_control_unregister(void);
 
 #endif /* __iwl_agn__rs__ */
+Tue Jul 19 12:35:15 PDT 2016

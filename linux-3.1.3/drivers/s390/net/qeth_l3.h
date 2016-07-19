@@ -65,3 +65,4 @@ void qeth_l3_del_rxip(struct qeth_card *card, enum qeth_prot_versions,
 int qeth_l3_is_addr_covered_by_ipato(struct qeth_card *, struct qeth_ipaddr *);
 
 #endif /* __QETH_L3_H__ */
+Tue Jul 19 12:35:15 PDT 2016

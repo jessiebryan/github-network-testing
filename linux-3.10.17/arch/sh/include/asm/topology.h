@@ -26,3 +26,4 @@ extern cpumask_t cpu_core_map[NR_CPUS];
 #include <asm-generic/topology.h>
 
 #endif /* _ASM_SH_TOPOLOGY_H */
+Tue Jul 19 12:45:51 PDT 2016

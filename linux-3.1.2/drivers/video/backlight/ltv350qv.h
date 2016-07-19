@@ -93,3 +93,4 @@
 #define LTV_VCOMH_VOLTAGE(x)	(((x) & 0x001f) << 0)	/* 0=3V, 31=4.5V */
 
 #endif /* __LTV350QV_H */
+Tue Jul 19 12:34:21 PDT 2016

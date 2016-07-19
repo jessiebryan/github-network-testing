@@ -53,3 +53,4 @@ void hmatrix_sfr_clear_bits(unsigned int slave_id, u32 mask);
 #define HMATRIX_SFR(s)			(0x0110 + 4 * (s))
 
 #endif /* __HMATRIX_H */
+Tue Jul 19 12:49:32 PDT 2016

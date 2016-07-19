@@ -88,3 +88,4 @@ struct lcd_sync_arg {
 
 #endif  /* ifndef DA8XX_FB_H */
 
+Tue Jul 19 12:52:01 PDT 2016

@@ -528,3 +528,4 @@ typedef struct {
 #define chipcHw_REG_VPM_PHASE_TIMEOUT_COUNT_SHIFT       0
 
 #endif /* CHIPCHW_REG_H */
+Tue Jul 19 12:34:41 PDT 2016

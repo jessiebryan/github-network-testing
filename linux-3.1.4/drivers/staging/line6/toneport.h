@@ -50,3 +50,4 @@ extern int line6_toneport_init(struct usb_interface *interface,
 extern void line6_toneport_reset_resume(struct usb_line6_toneport *toneport);
 
 #endif
+Tue Jul 19 12:35:51 PDT 2016

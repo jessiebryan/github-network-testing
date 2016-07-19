@@ -794,3 +794,4 @@ uint r8712_is_cckratesonly_included(u8 *rate);
 
 #endif /* IEEE80211_H */
 
+Tue Jul 19 12:46:02 PDT 2016

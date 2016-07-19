@@ -168,3 +168,4 @@ extern int unregister_vt_notifier(struct notifier_block *nb);
 extern void hide_boot_cursor(bool hide);
 
 #endif /* _VT_KERN_H */
+Tue Jul 19 12:33:42 PDT 2016

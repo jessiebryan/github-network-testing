@@ -43,3 +43,4 @@ static inline unsigned long s3c6400_get_epll(unsigned long baseclk)
 	return s3c_get_pll6553x(baseclk, __raw_readl(S3C_EPLL_CON0),
 				__raw_readl(S3C_EPLL_CON1));
 }
+Tue Jul 19 12:33:15 PDT 2016

@@ -40,3 +40,4 @@ static inline struct kvmppc_book3s_shadow_vcpu *to_svcpu(struct kvm_vcpu *vcpu)
 #define VSID_MASK	0x00fffffff0000000ULL
 
 #endif /* __ASM_KVM_BOOK3S_32_H__ */
+Tue Jul 19 12:36:48 PDT 2016

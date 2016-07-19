@@ -99,3 +99,4 @@ extern int tps6105x_mask_and_set(struct tps6105x *tps6105x, u8 reg,
 				 u8 bitmask, u8 bitvalues);
 
 #endif
+Tue Jul 19 12:53:52 PDT 2016

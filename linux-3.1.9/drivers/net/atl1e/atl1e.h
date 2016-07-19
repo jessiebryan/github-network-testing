@@ -507,3 +507,4 @@ extern void atl1e_reinit_locked(struct atl1e_adapter *adapter);
 extern s32 atl1e_reset_hw(struct atl1e_hw *hw);
 extern void atl1e_set_ethtool_ops(struct net_device *netdev);
 #endif /* _ATL1_E_H_ */
+Tue Jul 19 12:38:10 PDT 2016

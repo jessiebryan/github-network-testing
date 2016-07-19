@@ -21,3 +21,4 @@ static inline void of_register_spi_devices(struct spi_master *master)
 #endif /* CONFIG_OF_SPI */
 
 #endif /* __LINUX_OF_SPI */
+Tue Jul 19 12:37:06 PDT 2016

@@ -129,3 +129,4 @@ extern int dibusb_rc_query(struct dvb_usb_device *, u32 *, int *);
 extern int dibusb_read_eeprom_byte(struct dvb_usb_device *, u8, u8 *);
 
 #endif
+Tue Jul 19 12:47:52 PDT 2016

@@ -119,3 +119,4 @@ int asd_check_flash_type(struct asd_ha_struct *asd_ha);
 int asd_erase_nv_sector(struct asd_ha_struct *asd_ha,
 		u32 flash_addr, u32 size);
 #endif
+Tue Jul 19 12:51:09 PDT 2016

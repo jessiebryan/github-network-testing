@@ -158,3 +158,4 @@ int clk_set_rate_locked(struct clk *c, unsigned long rate);
 void tegra2_sdmmc_tap_delay(struct clk *c, int delay);
 
 #endif
+Tue Jul 19 12:36:06 PDT 2016

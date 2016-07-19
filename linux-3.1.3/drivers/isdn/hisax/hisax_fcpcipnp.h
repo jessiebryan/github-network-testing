@@ -56,3 +56,4 @@ struct fritz_adapter {
 	void (*write_ctrl) (struct fritz_bcs *bcs, int which);
 };
 
+Tue Jul 19 12:35:12 PDT 2016

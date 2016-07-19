@@ -131,3 +131,4 @@ extern int mxs_saif_put_mclk(unsigned int saif_id);
 extern int mxs_saif_get_mclk(unsigned int saif_id, unsigned int mclk,
 					unsigned int rate);
 #endif
+Tue Jul 19 12:51:24 PDT 2016

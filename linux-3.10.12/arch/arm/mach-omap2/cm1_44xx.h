@@ -223,3 +223,4 @@ extern void omap4_cm1_write_inst_reg(u32 val, s16 inst, u16 idx);
 extern u32 omap4_cm1_rmw_inst_reg_bits(u32 mask, u32 bits, s16 inst, s16 idx);
 
 #endif
+Tue Jul 19 12:42:30 PDT 2016

@@ -60,3 +60,4 @@ struct smsc911x_platform_config {
 #define SMSC911X_SWAP_FIFO			(BIT(5))
 
 #endif /* __LINUX_SMSC911X_H__ */
+Tue Jul 19 12:40:53 PDT 2016

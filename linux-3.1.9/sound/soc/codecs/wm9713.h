@@ -48,3 +48,4 @@
 int wm9713_reset(struct snd_soc_codec *codec,  int try_warm);
 
 #endif
+Tue Jul 19 12:38:25 PDT 2016

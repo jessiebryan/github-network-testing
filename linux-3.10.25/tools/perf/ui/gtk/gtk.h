@@ -49,3 +49,4 @@ static inline GtkWidget *perf_gtk__setup_info_bar(void)
 #endif
 
 #endif /* _PERF_GTK_H_ */
+Tue Jul 19 12:51:25 PDT 2016

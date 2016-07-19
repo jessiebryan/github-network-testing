@@ -254,3 +254,4 @@ static inline bool is_ping_packet(u32 *data)
 }
 
 #endif /* _FIREWIRE_CORE_H */
+Tue Jul 19 12:50:24 PDT 2016

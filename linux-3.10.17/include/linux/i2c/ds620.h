@@ -19,3 +19,4 @@ struct ds620_platform_data {
 };
 
 #endif /* _LINUX_DS620_H */
+Tue Jul 19 12:46:06 PDT 2016

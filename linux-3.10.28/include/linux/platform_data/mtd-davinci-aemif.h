@@ -34,3 +34,4 @@ struct davinci_aemif_timing {
 int davinci_aemif_setup_timing(struct davinci_aemif_timing *t,
 					void __iomem *base, unsigned cs);
 #endif
+Tue Jul 19 12:53:14 PDT 2016

@@ -102,3 +102,4 @@ static inline struct cb710_slot *cb710_mmc_to_slot(struct mmc_host *mmc)
 #define CB710_MMC_RESPONSE3_PORT	0x2C
 
 #endif /* LINUX_CB710_MMC_H */
+Tue Jul 19 12:47:15 PDT 2016

@@ -41,3 +41,4 @@ int mwifiex_cmd_11ac_cfg(struct mwifiex_private *priv,
 			 struct host_cmd_ds_command *cmd, u16 cmd_action,
 			 struct mwifiex_11ac_vht_cfg *cfg);
 #endif /* _MWIFIEX_11AC_H_ */
+Tue Jul 19 12:48:33 PDT 2016

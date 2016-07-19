@@ -48,3 +48,4 @@ extern int evm_init_hmac(struct inode *inode, const struct xattr *xattr,
 extern int evm_init_secfs(void);
 
 #endif
+Tue Jul 19 12:53:20 PDT 2016

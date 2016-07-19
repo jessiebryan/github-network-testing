@@ -322,3 +322,4 @@ extern	void dm_initialize_txpower_tracking(struct net_device *dev);
 extern  void    dm_CheckRfCtrlGPIO(void *data);
 
 #endif	/*__R8192UDM_H__ */
+Tue Jul 19 12:47:57 PDT 2016

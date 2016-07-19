@@ -281,3 +281,4 @@ void wl1271_free_sta(struct wl1271 *wl, struct wl12xx_vif *wlvif, u8 hlid);
 void wl12xx_rearm_tx_watchdog_locked(struct wl1271 *wl);
 
 #endif
+Tue Jul 19 12:51:48 PDT 2016

@@ -7,3 +7,4 @@ struct mmp_camera_platform_data {
 	int sensor_power_gpio;
 	int sensor_reset_gpio;
 };
+Tue Jul 19 12:50:40 PDT 2016

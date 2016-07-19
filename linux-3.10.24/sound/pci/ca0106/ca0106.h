@@ -740,3 +740,4 @@ void snd_ca0106_mixer_resume(struct snd_ca0106 *chip);
 #define snd_ca0106_mixer_suspend(chip)	do { } while (0)
 #define snd_ca0106_mixer_resume(chip)	do { } while (0)
 #endif
+Tue Jul 19 12:50:44 PDT 2016

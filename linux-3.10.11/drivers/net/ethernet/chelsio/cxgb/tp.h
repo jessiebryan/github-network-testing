@@ -70,3 +70,4 @@ void t1_tp_set_ip_checksum_offload(struct petp *tp, int enable);
 int t1_tp_set_coalescing_size(struct petp *tp, unsigned int size);
 int t1_tp_reset(struct petp *tp, struct tp_params *p, unsigned int tp_clk);
 #endif
+Tue Jul 19 12:42:06 PDT 2016

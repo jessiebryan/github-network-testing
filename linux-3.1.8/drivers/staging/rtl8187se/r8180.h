@@ -716,3 +716,4 @@ void rtl8180_rate_adapter(struct work_struct * work);
 bool MgntActSet_RF_State(struct net_device *dev, RT_RF_POWER_STATE StateToSet, u32 ChangeSource);
 
 #endif
+Tue Jul 19 12:37:36 PDT 2016

@@ -76,3 +76,4 @@ void rtl92ce_suspend(struct ieee80211_hw *hw);
 void rtl92ce_resume(struct ieee80211_hw *hw);
 
 #endif
+Tue Jul 19 12:33:32 PDT 2016

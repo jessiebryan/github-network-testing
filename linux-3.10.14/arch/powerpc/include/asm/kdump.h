@@ -44,3 +44,4 @@ static inline void setup_kdump_trampoline(void) { ; }
 #endif /* __ASSEMBLY__ */
 
 #endif /* __PPC64_KDUMP_H */
+Tue Jul 19 12:43:57 PDT 2016

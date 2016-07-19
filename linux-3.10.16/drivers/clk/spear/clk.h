@@ -132,3 +132,4 @@ long clk_round_rate_index(struct clk_hw *hw, unsigned long drate,
 		int *index);
 
 #endif /* __SPEAR_CLK_H */
+Tue Jul 19 12:45:19 PDT 2016

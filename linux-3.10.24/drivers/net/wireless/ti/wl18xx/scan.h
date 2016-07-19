@@ -125,3 +125,4 @@ int wl18xx_sched_scan_start(struct wl1271 *wl, struct wl12xx_vif *wlvif,
 			    struct ieee80211_sched_scan_ies *ies);
 void wl18xx_scan_sched_scan_stop(struct wl1271 *wl, struct wl12xx_vif *wlvif);
 #endif
+Tue Jul 19 12:50:29 PDT 2016

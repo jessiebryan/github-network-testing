@@ -3719,3 +3719,4 @@ int wm8996_detect(struct snd_soc_codec *codec, struct snd_soc_jack *jack,
 #define WM8996_SPKL_VOL_WIDTH                        4  /* SPKL_VOL - [3:0] */
 
 #endif
+Tue Jul 19 12:45:38 PDT 2016

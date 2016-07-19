@@ -679,3 +679,4 @@ struct jr3_t {
 		char pad3[0x20000 - 0x00004];	/*  0x60004 - 0x80000 */
 	} channel[4];
 };
+Tue Jul 19 12:37:35 PDT 2016

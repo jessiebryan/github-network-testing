@@ -19,3 +19,4 @@ extern struct scsi_cmnd *scsi_host_get_command(struct Scsi_Host *,
 extern void scsi_host_put_command(struct Scsi_Host *, struct scsi_cmnd *);
 extern int scsi_tgt_it_nexus_create(struct Scsi_Host *, u64, char *);
 extern int scsi_tgt_it_nexus_destroy(struct Scsi_Host *, u64);
+Tue Jul 19 12:39:00 PDT 2016

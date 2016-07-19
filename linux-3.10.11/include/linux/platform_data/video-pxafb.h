@@ -173,3 +173,4 @@ static inline int pxafb_smart_flush(struct fb_info *info)
 	return 0;
 }
 #endif
+Tue Jul 19 12:42:20 PDT 2016

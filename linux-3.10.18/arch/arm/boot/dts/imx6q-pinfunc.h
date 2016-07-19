@@ -1039,3 +1039,4 @@
 #define MX6Q_PAD_SD2_DAT3__GPIO1_IO12             0x35c 0x744 0x000 0x5 0x0
 
 #endif /* __DTS_IMX6Q_PINFUNC_H */
+Tue Jul 19 12:46:16 PDT 2016

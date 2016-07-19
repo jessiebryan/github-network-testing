@@ -142,3 +142,4 @@ struct mspusb_device {
 #define to_mspusb_device(x) container_of((x), struct mspusb_device, dev)
 #define TO_HOST_ID(x) ((x) & 0x3)
 #endif /*MSP_USB_H_*/
+Tue Jul 19 12:50:16 PDT 2016

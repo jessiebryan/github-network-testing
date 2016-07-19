@@ -56,3 +56,4 @@ extern void brcms_ucode_free_buf(void *);
 extern int  brcms_check_firmwares(struct brcms_info *wl);
 
 #endif	/* _BRCM_UCODE_H_ */
+Tue Jul 19 12:53:05 PDT 2016

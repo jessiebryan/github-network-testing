@@ -205,3 +205,4 @@ struct usbdevfs_ioctl32 {
 #define USBDEVFS_CLAIM_PORT        _IOR('U', 24, unsigned int)
 #define USBDEVFS_RELEASE_PORT      _IOR('U', 25, unsigned int)
 #endif /* _LINUX_USBDEVICE_FS_H */
+Tue Jul 19 12:33:42 PDT 2016

@@ -49,3 +49,4 @@
 
 #define SYSTEM_CLOCK		(27*1000000/4)		/* 27 MHz */
 #endif /* _ASM_SCORE_SCOREREGS_H */
+Tue Jul 19 12:40:34 PDT 2016

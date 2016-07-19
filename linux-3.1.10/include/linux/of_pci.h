@@ -12,3 +12,4 @@ struct device_node *of_pci_find_child_device(struct device_node *parent,
 					     unsigned int devfn);
 
 #endif
+Tue Jul 19 12:33:41 PDT 2016

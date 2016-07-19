@@ -162,3 +162,4 @@ int fimc_is_itf_s_param(struct fimc_is *is, bool update);
 int fimc_is_itf_mode_change(struct fimc_is *is);
 
 #endif /* FIMC_IS_REG_H_ */
+Tue Jul 19 12:44:05 PDT 2016

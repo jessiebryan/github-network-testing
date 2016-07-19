@@ -857,3 +857,4 @@ static inline int twl4030charger_usb_en(int enable) { return 0; }
 
 
 #endif /* End of __TWL4030_H */
+Tue Jul 19 12:40:51 PDT 2016

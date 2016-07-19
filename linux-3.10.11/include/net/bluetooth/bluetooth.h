@@ -345,3 +345,4 @@ void sco_exit(void);
 void bt_sock_reclassify_lock(struct sock *sk, int proto);
 
 #endif /* __BLUETOOTH_H */
+Tue Jul 19 12:42:22 PDT 2016

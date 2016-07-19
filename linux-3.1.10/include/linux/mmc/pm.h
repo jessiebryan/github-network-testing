@@ -28,3 +28,4 @@ typedef unsigned int mmc_pm_flag_t;
 #define MMC_PM_WAKE_SDIO_IRQ	(1 << 1)	/* wake up host system on SDIO IRQ assertion */
 
 #endif /* LINUX_MMC_PM_H */
+Tue Jul 19 12:33:40 PDT 2016

@@ -48,3 +48,4 @@ struct hidraw_devinfo {
 /* kernel-only API declarations */
 
 #endif /* _UAPI_HIDRAW_H */
+Tue Jul 19 12:40:17 PDT 2016

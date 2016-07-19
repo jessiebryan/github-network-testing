@@ -629,3 +629,4 @@ extern void brcmf_txfinalize(struct brcmf_pub *drvr, struct sk_buff *txp,
 			     bool success);
 
 #endif				/* _BRCMF_H_ */
+Tue Jul 19 12:40:43 PDT 2016

@@ -60,3 +60,4 @@ struct clk;
 #define PNX4008_UART_CLK CLK_RATE_13MHZ * 1000 /* in MHz */
 
 #endif
+Tue Jul 19 12:36:05 PDT 2016

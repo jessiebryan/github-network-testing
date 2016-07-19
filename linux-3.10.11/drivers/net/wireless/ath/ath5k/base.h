@@ -117,3 +117,4 @@ void ath5k_deinit_ah(struct ath5k_hw *ah);
 #define ath5k_hw_hasveol(_ah) (ah->ah_version != AR5K_AR5210)
 
 #endif	/* _DEV_ATH5K_BASE_H */
+Tue Jul 19 12:42:07 PDT 2016

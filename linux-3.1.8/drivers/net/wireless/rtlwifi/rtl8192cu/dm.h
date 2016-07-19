@@ -30,3 +30,4 @@
 #include "../rtl8192ce/dm.h"
 
 void rtl92cu_dm_dynamic_txpower(struct ieee80211_hw *hw);
+Tue Jul 19 12:37:33 PDT 2016

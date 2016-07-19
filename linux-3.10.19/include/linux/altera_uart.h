@@ -13,3 +13,4 @@ struct altera_uart_platform_uart {
 };
 
 #endif /* __ALTUART_H */
+Tue Jul 19 12:47:22 PDT 2016

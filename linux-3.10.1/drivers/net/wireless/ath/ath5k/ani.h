@@ -117,3 +117,4 @@ void ath5k_ani_set_cck_weak_signal_detection(struct ath5k_hw *ah, bool on);
 void ath5k_ani_print_counters(struct ath5k_hw *ah);
 
 #endif /* ANI_H */
+Tue Jul 19 12:38:47 PDT 2016

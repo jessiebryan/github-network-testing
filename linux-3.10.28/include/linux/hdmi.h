@@ -229,3 +229,4 @@ ssize_t hdmi_vendor_infoframe_pack(struct hdmi_vendor_infoframe *frame,
 				   void *buffer, size_t size);
 
 #endif /* _DRM_HDMI_H */
+Tue Jul 19 12:53:12 PDT 2016

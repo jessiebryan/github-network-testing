@@ -24,3 +24,4 @@ extern void __init samsung_bl_set(struct samsung_bl_gpio_info *gpio_info,
 	struct platform_pwm_backlight_data *bl_data);
 
 #endif /* __ASM_PLAT_BACKLIGHT_H */
+Tue Jul 19 12:33:52 PDT 2016

@@ -43,3 +43,4 @@ enum db8500_regulator_id {
 int power_state_active_is_enabled(void);
 
 #endif
+Tue Jul 19 12:49:22 PDT 2016

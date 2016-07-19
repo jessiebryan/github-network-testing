@@ -168,3 +168,4 @@
 #define S3C_PA_SPI1		S3C2443_PA_SPI1
 
 #endif /* __ASM_ARCH_MAP_H */
+Tue Jul 19 12:50:09 PDT 2016

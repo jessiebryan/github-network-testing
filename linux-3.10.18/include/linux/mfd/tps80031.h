@@ -635,3 +635,4 @@ extern int tps80031_ext_power_req_config(struct device *dev,
 		unsigned long ext_ctrl_flag, int preq_bit,
 		int state_reg_add, int trans_reg_add);
 #endif /*__LINUX_MFD_TPS80031_H */
+Tue Jul 19 12:46:46 PDT 2016

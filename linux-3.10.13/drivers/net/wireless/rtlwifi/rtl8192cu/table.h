@@ -69,3 +69,4 @@ extern u32 RTL8192CURadioA_1T_HPArray[RTL8192CURadioA_1T_HPArrayLength];
 extern u32 Rtl8192CUAGCTAB_1T_HPArray[RTL8192CUAGCTAB_1T_HPArrayLength];
 
 #endif
+Tue Jul 19 12:43:29 PDT 2016

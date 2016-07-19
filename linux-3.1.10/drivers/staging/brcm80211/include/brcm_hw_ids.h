@@ -57,3 +57,4 @@
 #define BCM6362_CHIP_ID		0x6362	/* 6362 chipcommon chipid */
 
 #endif				/* _BRCM_HW_IDS_H_ */
+Tue Jul 19 12:33:33 PDT 2016

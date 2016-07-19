@@ -132,3 +132,4 @@ BMIRawRead(struct hif_device *device,
 #endif
 
 #endif /* _BMI_H_ */
+Tue Jul 19 12:38:13 PDT 2016

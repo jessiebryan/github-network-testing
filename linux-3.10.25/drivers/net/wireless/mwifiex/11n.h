@@ -166,3 +166,4 @@ static inline int mwifiex_is_sta_11n_enabled(struct mwifiex_private *priv,
 	return node->is_11n_enabled;
 }
 #endif /* !_MWIFIEX_11N_H_ */
+Tue Jul 19 12:51:08 PDT 2016

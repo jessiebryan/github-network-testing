@@ -204,3 +204,4 @@ static int ricoh_override(struct yenta_socket *socket)
 #endif /* CONFIG_CARDBUS */
 
 #endif /* _LINUX_RICOH_H */
+Tue Jul 19 12:53:44 PDT 2016

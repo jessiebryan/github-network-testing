@@ -102,3 +102,4 @@ void regulatory_hint_11d(struct wiphy *wiphy,
 void regulatory_hint_disconnect(void);
 
 #endif  /* __NET_WIRELESS_REG_H */
+Tue Jul 19 12:51:23 PDT 2016

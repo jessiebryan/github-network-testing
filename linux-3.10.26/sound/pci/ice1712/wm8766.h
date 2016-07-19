@@ -161,3 +161,4 @@ void snd_wm8766_volume_restore(struct snd_wm8766 *wm);
 int snd_wm8766_build_controls(struct snd_wm8766 *wm);
 
 #endif /* __SOUND_WM8766_H */
+Tue Jul 19 12:52:02 PDT 2016

@@ -24,3 +24,4 @@ struct pxa2xx_udc_mach_info {
 	int	gpio_pullup;			/* high == pullup activated */
 };
 
+Tue Jul 19 12:33:48 PDT 2016

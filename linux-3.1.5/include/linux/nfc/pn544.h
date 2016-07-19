@@ -95,3 +95,4 @@ struct pn544_nfc_platform_data {
 #endif /* __KERNEL__ */
 
 #endif /* _PN544_H_ */
+Tue Jul 19 12:36:32 PDT 2016

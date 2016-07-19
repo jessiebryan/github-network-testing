@@ -37,3 +37,4 @@ static inline const struct exception_table_entry
 	MODULE_PROC_FAMILY MODULE_KERNEL_TYPE MODULE_KERNEL_SMTC
 
 #endif /* _ASM_SCORE_MODULE_H */
+Tue Jul 19 12:36:49 PDT 2016

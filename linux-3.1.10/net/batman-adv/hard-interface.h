@@ -68,3 +68,4 @@ out:
 }
 
 #endif /* _NET_BATMAN_ADV_HARD_INTERFACE_H_ */
+Tue Jul 19 12:33:44 PDT 2016

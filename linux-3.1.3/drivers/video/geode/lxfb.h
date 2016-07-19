@@ -450,3 +450,4 @@ static inline void write_fp(struct lxfb_par *par, int reg, uint32_t val)
 #define MSR_LX_SPARE_MSR_FIRST_REQ_MASK	(1 << 1)	/* undocumented */
 
 #endif
+Tue Jul 19 12:35:19 PDT 2016

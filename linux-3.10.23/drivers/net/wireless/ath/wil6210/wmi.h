@@ -1279,3 +1279,4 @@ struct wmi_temp_sense_done_event {
 } __packed;
 
 #endif /* __WILOCITY_WMI_H__ */
+Tue Jul 19 12:49:49 PDT 2016

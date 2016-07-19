@@ -134,3 +134,4 @@
 #define I365_REG(slot, reg)	(((slot) << 6) + reg)
 
 #endif /* _LINUX_I82365_H */
+Tue Jul 19 12:51:09 PDT 2016

@@ -14,3 +14,4 @@ extern struct resource eseries_tmio_resources[];
 extern struct platform_device e300_tc6387xb_device;
 extern void eseries_register_clks(void);
 
+Tue Jul 19 12:33:50 PDT 2016

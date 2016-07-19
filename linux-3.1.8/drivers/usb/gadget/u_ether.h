@@ -121,3 +121,4 @@ rndis_bind_config(struct usb_configuration *c, u8 ethaddr[ETH_ALEN])
 #endif
 
 #endif /* __U_ETHER_H */
+Tue Jul 19 12:37:37 PDT 2016

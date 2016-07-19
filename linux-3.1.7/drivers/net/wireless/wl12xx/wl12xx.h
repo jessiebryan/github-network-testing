@@ -680,3 +680,4 @@ size_t wl12xx_copy_fwlog(struct wl1271 *wl, u8 *memblock, size_t maxlen);
 #define WL12XX_HW_BLOCK_SIZE	256
 
 #endif
+Tue Jul 19 12:36:57 PDT 2016

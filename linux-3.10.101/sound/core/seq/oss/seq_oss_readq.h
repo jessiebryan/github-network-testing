@@ -54,3 +54,4 @@ void snd_seq_oss_readq_free(struct seq_oss_readq *q);
 #define snd_seq_oss_readq_unlock(q, flags) spin_unlock_irqrestore(&(q)->lock, flags)
 
 #endif
+Tue Jul 19 12:40:58 PDT 2016

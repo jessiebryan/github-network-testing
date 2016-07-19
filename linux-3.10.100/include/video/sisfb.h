@@ -35,3 +35,4 @@ extern void sis_malloc_new(struct pci_dev *pdev, struct sis_memreq *req);
 extern void sis_free(u32 base);
 extern void sis_free_new(struct pci_dev *pdev, u32 base);
 #endif
+Tue Jul 19 12:40:18 PDT 2016

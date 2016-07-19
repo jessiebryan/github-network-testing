@@ -25,3 +25,4 @@ do {						\
 } while (0)
 
 #endif /* _ASM_X86_XOR_64_H */
+Tue Jul 19 12:48:27 PDT 2016

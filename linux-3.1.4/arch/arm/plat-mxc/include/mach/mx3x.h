@@ -206,3 +206,4 @@ static inline int mx35_revision(void)
 #endif
 
 #endif /* ifndef __MACH_MX3x_H__ */
+Tue Jul 19 12:35:32 PDT 2016

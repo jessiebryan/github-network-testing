@@ -293,3 +293,4 @@ static int snd_vortex_new_pcm(vortex_t * vortex, int idx, int nr);
 static int snd_vortex_mixer(vortex_t * vortex);
 static int snd_vortex_midi(vortex_t * vortex);
 #endif
+Tue Jul 19 12:42:27 PDT 2016

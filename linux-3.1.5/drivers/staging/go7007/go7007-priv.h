@@ -288,3 +288,4 @@ void go7007_v4l2_remove(struct go7007 *go);
 /* snd-go7007.c */
 int go7007_snd_init(struct go7007 *go);
 int go7007_snd_remove(struct go7007 *go);
+Tue Jul 19 12:36:25 PDT 2016

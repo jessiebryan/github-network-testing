@@ -50,3 +50,4 @@ struct sudmac_pdata {
 #define SUDMAC_DMA_BIT_CH1	BIT(1)
 
 #endif
+Tue Jul 19 12:38:58 PDT 2016

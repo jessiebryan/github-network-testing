@@ -12,3 +12,4 @@ static inline u8 crc7_byte(u8 crc, u8 data)
 extern u8 crc7(u8 crc, const u8 *buffer, size_t len);
 
 #endif
+Tue Jul 19 12:48:01 PDT 2016

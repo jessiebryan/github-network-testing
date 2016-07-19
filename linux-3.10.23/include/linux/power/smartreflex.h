@@ -316,3 +316,4 @@ static inline void omap_sr_register_pmic(
 		struct omap_sr_pmic_data *pmic_data) {}
 #endif
 #endif
+Tue Jul 19 12:50:00 PDT 2016

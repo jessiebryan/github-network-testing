@@ -1146,3 +1146,4 @@ bool NicIFDisableNIC(struct r8192_priv *priv);
 
 void PHY_SetRtl8192eRfOff(struct r8192_priv *priv);
 #endif
+Tue Jul 19 12:36:26 PDT 2016

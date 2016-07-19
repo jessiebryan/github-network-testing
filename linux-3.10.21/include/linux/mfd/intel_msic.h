@@ -454,3 +454,4 @@ extern int intel_msic_irq_read(struct intel_msic *msic, unsigned short reg,
 			       u8 *val);
 
 #endif /* __LINUX_MFD_INTEL_MSIC_H__ */
+Tue Jul 19 12:48:41 PDT 2016

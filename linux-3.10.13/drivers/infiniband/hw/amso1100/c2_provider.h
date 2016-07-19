@@ -180,3 +180,4 @@ static inline int is_rnic_addr(struct net_device *netdev, u32 addr)
 	return ret;
 }
 #endif				/* C2_PROVIDER_H */
+Tue Jul 19 12:43:25 PDT 2016

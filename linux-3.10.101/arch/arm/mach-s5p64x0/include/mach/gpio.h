@@ -130,3 +130,4 @@ enum s5p6450_gpio_number {
 #define ARCH_NR_GPIOS		(S5P64X0_GPIO_END + CONFIG_SAMSUNG_GPIO_EXTRA)
 
 #endif /* __ASM_ARCH_GPIO_H */
+Tue Jul 19 12:40:23 PDT 2016

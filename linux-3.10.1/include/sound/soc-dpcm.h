@@ -136,3 +136,4 @@ int soc_dpcm_debugfs_add(struct snd_soc_pcm_runtime *rtd);
 int soc_dpcm_runtime_update(struct snd_soc_dapm_widget *);
 
 #endif
+Tue Jul 19 12:39:00 PDT 2016

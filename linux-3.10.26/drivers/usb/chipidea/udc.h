@@ -91,3 +91,4 @@ static inline int ci_hdrc_gadget_init(struct ci13xxx *ci)
 #endif
 
 #endif /* __DRIVERS_USB_CHIPIDEA_UDC_H */
+Tue Jul 19 12:51:51 PDT 2016

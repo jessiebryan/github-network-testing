@@ -531,3 +531,4 @@ void gsc_hw_set_global_alpha(struct gsc_ctx *ctx);
 void gsc_hw_set_sfr_update(struct gsc_ctx *ctx);
 
 #endif /* GSC_CORE_H_ */
+Tue Jul 19 12:49:09 PDT 2016

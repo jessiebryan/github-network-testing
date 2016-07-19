@@ -47,3 +47,4 @@ int smiapp_read_8only(struct smiapp_sensor *sensor, u32 reg, u32 *val);
 int smiapp_write(struct smiapp_sensor *sensor, u32 reg, u32 val);
 
 #endif
+Tue Jul 19 12:42:47 PDT 2016

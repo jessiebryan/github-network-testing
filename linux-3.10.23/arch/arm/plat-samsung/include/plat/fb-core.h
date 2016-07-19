@@ -42,3 +42,4 @@ static inline void s5p_fb_setname(int id, char *name)
 }
 
 #endif /* __ASM_PLAT_FB_CORE_H */
+Tue Jul 19 12:49:32 PDT 2016

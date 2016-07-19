@@ -77,3 +77,4 @@
 	dbx500_add_uart("uart3", U5500_UART3_BASE, IRQ_DB5500_UART3, plat)
 
 #endif
+Tue Jul 19 12:34:44 PDT 2016

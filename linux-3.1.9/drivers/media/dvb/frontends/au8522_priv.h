@@ -419,3 +419,4 @@ void au8522_release_state(struct au8522_state *state);
 
 /* Enables Closed captioning */
 #define AU8522_TVDEC_VBI_CTRL_H_REG017H_CCON			0x21
+Tue Jul 19 12:38:09 PDT 2016

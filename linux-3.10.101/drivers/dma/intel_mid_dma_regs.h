@@ -297,3 +297,4 @@ static inline struct intel_mid_dma_slave *to_intel_mid_dma_slave
 int dma_resume(struct device *dev);
 
 #endif /*__INTEL_MID_DMAC_REGS_H__*/
+Tue Jul 19 12:40:38 PDT 2016

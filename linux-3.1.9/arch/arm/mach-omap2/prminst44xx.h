@@ -31,3 +31,4 @@ extern int omap4_prminst_deassert_hardreset(u8 shift, u8 part, s16 inst,
 					    u16 rstctrl_offs);
 
 #endif
+Tue Jul 19 12:37:52 PDT 2016

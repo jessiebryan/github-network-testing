@@ -38,3 +38,4 @@ int  pcxhr_setup_firmware(struct pcxhr_mgr *mgr);
 void pcxhr_reset_board(struct pcxhr_mgr *mgr);
 
 #endif /* __SOUND_PCXHR_HWDEP_H */
+Tue Jul 19 12:38:25 PDT 2016

@@ -112,3 +112,4 @@ static inline int of_platform_populate(struct device_node *root,
 #endif /* !CONFIG_OF_ADDRESS */
 
 #endif	/* _LINUX_OF_PLATFORM_H */
+Tue Jul 19 12:53:14 PDT 2016

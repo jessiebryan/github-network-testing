@@ -85,3 +85,4 @@ void wlcore_event_inactive_sta(struct wl1271 *wl, unsigned long sta_bitmap);
 void wlcore_event_roc_complete(struct wl1271 *wl);
 void wlcore_event_rssi_trigger(struct wl1271 *wl, s8 *metric_arr);
 #endif
+Tue Jul 19 12:47:17 PDT 2016

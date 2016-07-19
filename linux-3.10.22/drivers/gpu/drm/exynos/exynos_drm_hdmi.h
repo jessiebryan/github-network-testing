@@ -65,3 +65,4 @@ void exynos_mixer_drv_attach(struct exynos_drm_hdmi_context *ctx);
 void exynos_hdmi_ops_register(struct exynos_hdmi_ops *ops);
 void exynos_mixer_ops_register(struct exynos_mixer_ops *ops);
 #endif
+Tue Jul 19 12:49:06 PDT 2016

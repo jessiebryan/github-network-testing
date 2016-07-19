@@ -95,3 +95,4 @@ batadv_orig_hash_find(struct batadv_priv *bat_priv, const void *data)
 }
 
 #endif /* _NET_BATMAN_ADV_ORIGINATOR_H_ */
+Tue Jul 19 12:39:40 PDT 2016

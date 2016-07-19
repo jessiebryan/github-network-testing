@@ -23,3 +23,4 @@ static inline int touchkit_ps2_detect(struct psmouse *psmouse,
 #endif /* CONFIG_MOUSE_PS2_TOUCHKIT */
 
 #endif
+Tue Jul 19 12:35:11 PDT 2016

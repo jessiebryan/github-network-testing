@@ -34,3 +34,4 @@ void rtl92se_deinit_sw(struct ieee80211_hw *hw);
 void rtl92se_init_var_map(struct ieee80211_hw *hw);
 
 #endif
+Tue Jul 19 12:50:29 PDT 2016

@@ -204,3 +204,4 @@ static inline int sfi_table_parse(char *signature, char *oem_id,
 #endif /* !CONFIG_SFI */
 
 #endif /*_LINUX_SFI_H*/
+Tue Jul 19 12:34:27 PDT 2016

@@ -55,3 +55,4 @@ static __inline__ void __ide_mm_outsl(void __iomem *port, void *addr, u32 count)
 #endif /* __KERNEL__ */
 
 #endif /* __ASM_PARISC_IDE_H */
+Tue Jul 19 12:50:17 PDT 2016

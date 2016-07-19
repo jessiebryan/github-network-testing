@@ -108,3 +108,4 @@ static inline void hpet_reserve_timer(struct hpet_data *hd, int timer)
 int hpet_alloc(struct hpet_data *);
 
 #endif				/* !__HPET__ */
+Tue Jul 19 12:52:33 PDT 2016

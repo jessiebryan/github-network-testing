@@ -193,3 +193,4 @@ scsi_4btoul(uint8_t *bytes)
 	ID((x) | 0x000F000000000000ull)
 
 #endif /*_AICLIB_H */
+Tue Jul 19 12:46:00 PDT 2016

@@ -829,3 +829,4 @@ void gigaset_if_receive(struct cardstate *cs,
 			unsigned char *buffer, size_t len);
 
 #endif
+Tue Jul 19 12:33:29 PDT 2016

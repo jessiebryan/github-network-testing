@@ -50,3 +50,4 @@
 #define CONFIGURATION_REG               0x03
 #define HOST_POWER_UP                   (0x1U << 1)
 #endif
+Tue Jul 19 12:39:26 PDT 2016

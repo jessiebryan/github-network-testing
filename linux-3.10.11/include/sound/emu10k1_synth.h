@@ -37,3 +37,4 @@ struct snd_emu10k1_synth_arg {
 #define EMU10K1_MAX_MEMSIZE	(32 * 1024 * 1024) /* 32MB */
 
 #endif
+Tue Jul 19 12:42:23 PDT 2016

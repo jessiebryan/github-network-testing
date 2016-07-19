@@ -95,3 +95,4 @@ static inline struct g2d_variant *g2d_get_drv_data(struct platform_device *pdev)
 {
 	return (struct g2d_variant *)platform_get_device_id(pdev)->driver_data;
 }
+Tue Jul 19 12:40:02 PDT 2016

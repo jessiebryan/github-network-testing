@@ -184,3 +184,4 @@ int iio_convert_raw_to_processed(struct iio_channel *chan, int raw,
 	int *processed, unsigned int scale);
 
 #endif
+Tue Jul 19 12:51:16 PDT 2016

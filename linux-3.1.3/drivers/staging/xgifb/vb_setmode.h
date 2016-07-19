@@ -69,3 +69,4 @@ extern unsigned char XGI_XG21CheckLVDSMode(unsigned short ModeNo,
 extern unsigned short XGI_GetLVDSOEMTableIndex(struct vb_device_info *pVBInfo);
 
 #endif
+Tue Jul 19 12:35:18 PDT 2016

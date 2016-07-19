@@ -268,3 +268,4 @@ void sym_log_bus_error(struct Scsi_Host *);
 void sym_dump_registers(struct Scsi_Host *);
 
 #endif /* SYM_GLUE_H */
+Tue Jul 19 12:51:49 PDT 2016

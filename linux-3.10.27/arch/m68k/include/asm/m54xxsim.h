@@ -98,3 +98,4 @@
 #define MCF_PAR_PSC_CANRX	(0x40)
 
 #endif	/* m54xxsim_h */
+Tue Jul 19 12:52:11 PDT 2016

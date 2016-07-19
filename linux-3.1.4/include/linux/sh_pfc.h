@@ -95,3 +95,4 @@ int register_pinmux(struct pinmux_info *pip);
 int unregister_pinmux(struct pinmux_info *pip);
 
 #endif /* __SH_PFC_H */
+Tue Jul 19 12:35:58 PDT 2016

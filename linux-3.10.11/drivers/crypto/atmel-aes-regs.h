@@ -60,3 +60,4 @@
 #define AES_HW_VERSION	0xFC
 
 #endif /* __ATMEL_AES_REGS_H__ */
+Tue Jul 19 12:42:01 PDT 2016

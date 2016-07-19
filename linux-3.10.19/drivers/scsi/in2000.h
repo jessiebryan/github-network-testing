@@ -410,3 +410,4 @@ static int in2000_bus_reset(Scsi_Cmnd *);
 #define IN2000_HOST_ID  7
 
 #endif /* IN2000_H */
+Tue Jul 19 12:47:18 PDT 2016

@@ -126,3 +126,4 @@ s32 SigGetDataRefs(CSR_SIGNAL *aSignal, CSR_DATAREF **aDataRef);
 s32 SigGetSize(const CSR_SIGNAL *aSignal);
 
 #endif /* __CSR_WIFI_HIP_SIGNALS_H__ */
+Tue Jul 19 12:40:45 PDT 2016

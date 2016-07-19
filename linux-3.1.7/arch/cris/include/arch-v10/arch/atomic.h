@@ -5,3 +5,4 @@
 #define cris_atomic_restore(addr, flags) local_irq_restore(flags);
 
 #endif
+Tue Jul 19 12:36:42 PDT 2016

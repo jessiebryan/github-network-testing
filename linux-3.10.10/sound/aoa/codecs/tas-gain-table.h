@@ -207,3 +207,4 @@ static int tas_gaintable[] = {
 	0x7f17af, /* 18.0 dB */
 };
 
+Tue Jul 19 12:39:40 PDT 2016

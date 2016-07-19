@@ -897,3 +897,4 @@ void hci_le_ltk_reply(struct hci_conn *conn, u8 ltk[16]);
 void hci_le_ltk_neg_reply(struct hci_conn *conn);
 
 #endif /* __HCI_CORE_H */
+Tue Jul 19 12:34:33 PDT 2016

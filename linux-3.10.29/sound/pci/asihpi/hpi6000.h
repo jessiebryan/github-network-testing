@@ -68,3 +68,4 @@ struct hpi_hif_6000 {
 #define HPI_HIF_RESET           9
 
 #endif				/* _HPI6000_H_ */
+Tue Jul 19 12:53:59 PDT 2016

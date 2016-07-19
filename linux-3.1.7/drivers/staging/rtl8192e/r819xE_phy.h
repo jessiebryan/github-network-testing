@@ -129,3 +129,4 @@ void rtl8192_SetBWModeWorkItem(struct r8192_priv *priv);
 void InitialGain819xPci(struct ieee80211_device *ieee, u8 Operation);
 
 #endif /* _R819XU_PHY_H */
+Tue Jul 19 12:36:59 PDT 2016

@@ -325,3 +325,4 @@ void soc_camera_lock(struct vb2_queue *vq);
 void soc_camera_unlock(struct vb2_queue *vq);
 
 #endif
+Tue Jul 19 12:36:33 PDT 2016

@@ -195,3 +195,4 @@ static inline int r100_packet3_load_vbpntr(struct radeon_cs_parser *p,
 	}
 	return r;
 }
+Tue Jul 19 12:36:20 PDT 2016

@@ -68,3 +68,4 @@ extern int vp7045_usb_op(struct dvb_usb_device *d, u8 cmd, u8 *out, int outlen, 
 extern u8 vp7045_read_reg(struct dvb_usb_device *d, u8 reg);
 
 #endif
+Tue Jul 19 12:41:20 PDT 2016

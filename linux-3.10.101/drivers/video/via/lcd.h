@@ -87,3 +87,4 @@ void viafb_init_lvds_output_interface(struct lvds_chip_information
 bool viafb_lcd_get_mobile_state(bool *mobile);
 
 #endif /* __LCD_H__ */
+Tue Jul 19 12:40:48 PDT 2016

@@ -105,3 +105,4 @@ int perf_event__synthesize_build_id(struct dso *pos, u16 misc,
 int perf_event__process_build_id(union perf_event *event,
 				 struct perf_session *session);
 #endif /* __PERF_HEADER_H */
+Tue Jul 19 12:37:49 PDT 2016

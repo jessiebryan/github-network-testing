@@ -42,3 +42,4 @@ int throw_uevent(struct bat_priv *bat_priv, enum uev_type type,
 		 enum uev_action action, const char *data);
 
 #endif /* _NET_BATMAN_ADV_SYSFS_H_ */
+Tue Jul 19 12:35:27 PDT 2016

@@ -113,3 +113,4 @@ extern int it8152_pci_setup(int nr, struct pci_sys_data *sys);
 extern struct pci_ops it8152_ops;
 
 #endif /* __ASM_HARDWARE_IT8152_H */
+Tue Jul 19 12:49:29 PDT 2016

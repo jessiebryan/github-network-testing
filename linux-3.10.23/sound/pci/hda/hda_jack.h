@@ -91,3 +91,4 @@ void snd_hda_jack_unsol_event(struct hda_codec *codec, unsigned int res);
 void snd_hda_jack_poll_all(struct hda_codec *codec);
 
 #endif /* __SOUND_HDA_JACK_H */
+Tue Jul 19 12:50:05 PDT 2016

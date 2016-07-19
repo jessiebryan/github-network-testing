@@ -48,3 +48,4 @@ struct i2c_client *i2c_setup_smbus_alert(struct i2c_adapter *adapter,
 int i2c_handle_smbus_alert(struct i2c_client *ara);
 
 #endif /* _LINUX_I2C_SMBUS_H */
+Tue Jul 19 12:36:30 PDT 2016

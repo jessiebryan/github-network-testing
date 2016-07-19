@@ -54,3 +54,4 @@ extern int sh73a0_boot_secondary(unsigned int cpu);
 extern void sh73a0_smp_prepare_cpus(void);
 
 #endif /* __ARCH_MACH_COMMON_H */
+Tue Jul 19 12:35:32 PDT 2016

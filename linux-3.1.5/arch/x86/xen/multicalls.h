@@ -66,3 +66,4 @@ void xen_mc_callback(void (*fn)(void *), void *data);
 struct multicall_space xen_mc_extend_args(unsigned long op, size_t arg_size);
 
 #endif /* _XEN_MULTICALLS_H */
+Tue Jul 19 12:36:19 PDT 2016

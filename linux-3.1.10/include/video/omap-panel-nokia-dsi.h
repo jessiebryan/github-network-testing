@@ -31,3 +31,4 @@ struct nokia_dsi_panel_data {
 };
 
 #endif /* __OMAP_NOKIA_DSI_PANEL_H */
+Tue Jul 19 12:33:44 PDT 2016

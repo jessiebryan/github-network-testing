@@ -147,3 +147,4 @@ void cyttsp_remove(struct cyttsp *ts);
 extern const struct dev_pm_ops cyttsp_pm_ops;
 
 #endif /* __CYTTSP_CORE_H__ */
+Tue Jul 19 12:40:00 PDT 2016

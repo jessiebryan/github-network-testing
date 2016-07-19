@@ -351,3 +351,4 @@ int crypto_shash_finup(struct shash_desc *desc, const u8 *data,
 		       unsigned int len, u8 *out);
 
 #endif	/* _CRYPTO_HASH_H */
+Tue Jul 19 12:40:49 PDT 2016

@@ -19,3 +19,4 @@ void orinoco_add_hostscan_results(struct orinoco_private *dev,
 void orinoco_scan_done(struct orinoco_private *priv, bool abort);
 
 #endif /* _ORINOCO_SCAN_H_ */
+Tue Jul 19 12:36:23 PDT 2016

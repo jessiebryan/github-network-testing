@@ -39,3 +39,4 @@ void cx18_vb_timeout(unsigned long data);
 /* Shared with cx18-alsa module */
 int cx18_claim_stream(struct cx18_open_id *id, int type);
 void cx18_release_stream(struct cx18_stream *s);
+Tue Jul 19 12:53:41 PDT 2016

@@ -1080,3 +1080,4 @@ static inline bool __b43_warn_on_dummy(bool x) { return x; }
 #define Q52_ARG(q52)	Q52_TO_INT(q52), ((((q52) & 0x3) * 100) / 4)
 
 #endif /* B43_H_ */
+Tue Jul 19 12:53:04 PDT 2016

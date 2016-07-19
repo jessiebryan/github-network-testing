@@ -174,3 +174,4 @@ static int pas16_bus_reset(Scsi_Cmnd *);
 #endif /* else def HOSTS_C */
 #endif /* ndef ASM */
 #endif /* PAS16_H */
+Tue Jul 19 12:44:48 PDT 2016

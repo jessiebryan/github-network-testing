@@ -71,3 +71,4 @@
 #define NR_IRQS			(MIPS_CPU_IRQS + LS1X_IRQS)
 
 #endif /* __ASM_MACH_LOONGSON1_IRQ_H */
+Tue Jul 19 12:50:15 PDT 2016

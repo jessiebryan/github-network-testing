@@ -29,3 +29,4 @@ struct wireless_dev *iwm_wdev_alloc(int sizeof_bus, struct device *dev);
 void iwm_wdev_free(struct iwm_priv *iwm);
 
 #endif
+Tue Jul 19 12:35:49 PDT 2016

@@ -151,3 +151,4 @@ struct eeprom_eisa_slot_info
 #define HPEE_TYPE_MAX_LEN    80
 
 #endif
+Tue Jul 19 12:49:39 PDT 2016

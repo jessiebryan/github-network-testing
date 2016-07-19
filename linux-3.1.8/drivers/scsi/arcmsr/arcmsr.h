@@ -690,3 +690,4 @@ extern struct QBUFFER __iomem *arcmsr_get_iop_rqbuffer(struct AdapterControlBloc
 extern struct device_attribute *arcmsr_host_attrs[];
 extern int arcmsr_alloc_sysfs_attr(struct AdapterControlBlock *);
 void arcmsr_free_sysfs_attr(struct AdapterControlBlock *acb);
+Tue Jul 19 12:37:34 PDT 2016

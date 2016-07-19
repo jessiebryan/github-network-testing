@@ -271,3 +271,4 @@ struct wl12xx_acx_statistics {
 int wl1271_acx_host_if_cfg_bitmap(struct wl1271 *wl, u32 host_cfg_bitmap);
 
 #endif /* __WL12XX_ACX_H__ */
+Tue Jul 19 12:46:38 PDT 2016

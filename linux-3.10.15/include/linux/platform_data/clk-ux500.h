@@ -16,3 +16,4 @@ void u9540_clk_init(void);
 void u8540_clk_init(void);
 
 #endif /* __CLK_UX500_H */
+Tue Jul 19 12:44:56 PDT 2016

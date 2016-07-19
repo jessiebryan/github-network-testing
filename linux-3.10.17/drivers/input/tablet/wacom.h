@@ -138,3 +138,4 @@ void wacom_setup_device_quirks(struct wacom_features *features);
 int wacom_setup_input_capabilities(struct input_dev *input_dev,
 				   struct wacom_wac *wacom_wac);
 #endif
+Tue Jul 19 12:45:56 PDT 2016

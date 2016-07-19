@@ -111,3 +111,4 @@ void opp_free_cpufreq_table(struct device *dev,
 #endif		/* CONFIG_CPU_FREQ */
 
 #endif		/* __LINUX_OPP_H__ */
+Tue Jul 19 12:35:23 PDT 2016

@@ -157,3 +157,4 @@ void machines__destroy_kernel_maps(struct machines *machines);
 size_t machine__fprintf_vmlinux_path(struct machine *machine, FILE *fp);
 
 #endif /* __PERF_MACHINE_H */
+Tue Jul 19 12:42:28 PDT 2016

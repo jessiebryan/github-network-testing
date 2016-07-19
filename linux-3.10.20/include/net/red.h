@@ -403,3 +403,4 @@ static inline void red_adaptative_algo(struct red_parms *p, struct red_vars *v)
 	p->max_P_reciprocal = reciprocal_value(max_p_delta);
 }
 #endif
+Tue Jul 19 12:48:06 PDT 2016

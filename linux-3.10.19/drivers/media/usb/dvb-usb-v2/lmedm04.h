@@ -173,3 +173,4 @@ static u8 s7395_inittab[] = {
 	0xff, 0xff,
 };
 #endif
+Tue Jul 19 12:47:14 PDT 2016

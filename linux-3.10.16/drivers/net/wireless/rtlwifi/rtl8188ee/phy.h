@@ -234,3 +234,4 @@ extern bool rtl88e_phy_set_rf_power_state(struct ieee80211_hw *hw,
 					  enum rf_pwrstate rfpwr_state);
 
 #endif
+Tue Jul 19 12:45:24 PDT 2016

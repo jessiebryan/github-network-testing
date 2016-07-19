@@ -20,3 +20,4 @@ struct uda1380_platform_data {
 };
 
 #endif /* __UDA1380_H */
+Tue Jul 19 12:50:41 PDT 2016

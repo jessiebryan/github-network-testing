@@ -174,3 +174,4 @@ struct fimc_pipeline_ops {
 			    (f)->pipeline_ops->op((p), ##args) : -ENOIOCTLCMD))
 
 #endif /* S5P_FIMC_H_ */
+Tue Jul 19 12:42:22 PDT 2016

@@ -187,3 +187,4 @@ int snd_ak4117_check_rate_and_errors(struct ak4117 *ak4117, unsigned int flags);
 
 #endif /* __SOUND_AK4117_H */
 
+Tue Jul 19 12:46:11 PDT 2016

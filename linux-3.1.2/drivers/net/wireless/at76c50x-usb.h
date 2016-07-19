@@ -462,3 +462,4 @@ struct at76_priv {
 #define MAX_PADDING_SIZE	53
 
 #endif				/* _AT76_USB_H */
+Tue Jul 19 12:34:08 PDT 2016

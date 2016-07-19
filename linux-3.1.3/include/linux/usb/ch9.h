@@ -887,3 +887,4 @@ enum usb_device_state {
 #define USB_SELF_POWER_VBUS_MAX_DRAW		100
 
 #endif /* __LINUX_USB_CH9_H */
+Tue Jul 19 12:35:25 PDT 2016

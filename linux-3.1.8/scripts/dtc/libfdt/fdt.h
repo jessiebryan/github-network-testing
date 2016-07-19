@@ -58,3 +58,4 @@ struct fdt_property {
 #define FDT_V17_SIZE	(FDT_V16_SIZE + sizeof(uint32_t))
 
 #endif /* _FDT_H */
+Tue Jul 19 12:37:48 PDT 2016

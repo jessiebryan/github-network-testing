@@ -1032,3 +1032,4 @@ static inline void qla4_8xxx_wr_direct(struct scsi_qla_host *ha,
 #define QL4_UEVENT_CODE_FW_DUMP		0
 
 #endif	/*_QLA4XXX_H */
+Tue Jul 19 12:51:49 PDT 2016

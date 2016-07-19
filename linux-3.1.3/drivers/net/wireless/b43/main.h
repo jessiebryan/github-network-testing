@@ -143,3 +143,4 @@ int b43_do_request_fw(struct b43_request_fw_context *ctx,
 void b43_do_release_fw(struct b43_firmware_file *fw);
 
 #endif /* B43_MAIN_H_ */
+Tue Jul 19 12:35:14 PDT 2016

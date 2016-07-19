@@ -359,3 +359,4 @@ do {						\
 #define XOR_SELECT_TEMPLATE(FASTEST) (&xor_block_sse)
 
 #endif /* _ASM_X86_XOR_64_H */
+Tue Jul 19 12:34:04 PDT 2016

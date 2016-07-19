@@ -74,3 +74,4 @@ extern int ar6000_set_uart_config(struct hif_device *hifDevice, u32 scale, u32 s
  * assume 2.4G band for now
  */
 extern int ar6000_get_core_clock_config(struct hif_device *hifDevice, u32 *data);
+Tue Jul 19 12:34:11 PDT 2016

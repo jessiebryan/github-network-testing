@@ -108,3 +108,4 @@ extern unsigned long pcicr_virt;
 extern struct pci_ops sh5_pci_ops;
 
 #endif /* __PCI_SH5_H */
+Tue Jul 19 12:34:59 PDT 2016

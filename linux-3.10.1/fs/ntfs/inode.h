@@ -323,3 +323,4 @@ static inline void ntfs_truncate_vfs(struct inode *vi) {}
 #endif /* NTFS_RW */
 
 #endif /* _LINUX_NTFS_INODE_H */
+Tue Jul 19 12:38:53 PDT 2016

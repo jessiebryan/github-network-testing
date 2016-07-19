@@ -40,3 +40,4 @@
 #define Variable_shift_double(left,right,amount,dest)		\
     /* unsigned int left, right;  int amount, dest; */		\
     dest = (left << (32-(amount))) | ((unsigned) right >> (amount))
+Tue Jul 19 12:39:15 PDT 2016

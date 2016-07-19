@@ -1495,3 +1495,4 @@ static inline struct lcd_regs *path_regs(struct mmp_path *path)
 extern int lcd_spi_register(struct mmphw_ctrl *ctrl);
 #endif
 #endif	/* _MMP_CTRL_H_ */
+Tue Jul 19 12:50:33 PDT 2016

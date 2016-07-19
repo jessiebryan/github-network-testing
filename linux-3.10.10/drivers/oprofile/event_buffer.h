@@ -38,3 +38,4 @@ extern const struct file_operations event_buffer_fops;
 extern struct mutex buffer_mutex;
 
 #endif /* EVENT_BUFFER_H */
+Tue Jul 19 12:39:26 PDT 2016

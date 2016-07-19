@@ -209,3 +209,4 @@ static __inline__ unsigned long __ffs(unsigned long word)
 #include <asm-generic/bitops/fls64.h>
 
 #endif /* _H8300_BITOPS_H */
+Tue Jul 19 12:45:08 PDT 2016

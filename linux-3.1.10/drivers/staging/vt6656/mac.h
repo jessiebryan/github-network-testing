@@ -441,3 +441,4 @@ void MACvDisableBarkerPreambleMd(PSDevice pDevice);
 void MACvWriteBeaconInterval(PSDevice pDevice, WORD wInterval);
 
 #endif /* __MAC_H__ */
+Tue Jul 19 12:33:35 PDT 2016

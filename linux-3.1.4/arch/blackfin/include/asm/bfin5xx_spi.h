@@ -85,3 +85,4 @@ struct bfin5xx_spi_chip {
 };
 
 #endif /* _SPI_CHANNEL_H_ */
+Tue Jul 19 12:35:33 PDT 2016

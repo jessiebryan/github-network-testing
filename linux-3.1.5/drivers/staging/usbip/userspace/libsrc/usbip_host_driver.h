@@ -46,3 +46,4 @@ int usbip_host_export_device(struct usbip_exported_device *edev, int sockfd);
 struct usbip_exported_device *usbip_host_get_device(int num);
 
 #endif /* __USBIP_HOST_DRIVER_H */
+Tue Jul 19 12:36:26 PDT 2016

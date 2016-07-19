@@ -120,3 +120,4 @@ struct dasd_diag_rw_io {
 	u8 spare3[20];
 } __attribute__ ((packed, aligned(8)));
 #endif /* CONFIG_64BIT */
+Tue Jul 19 12:48:33 PDT 2016

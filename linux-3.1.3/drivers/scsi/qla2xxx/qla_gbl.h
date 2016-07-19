@@ -580,3 +580,4 @@ extern int qla2x00_issue_iocb_timeout(scsi_qla_host_t *, void *,
 extern int qla2x00_get_idma_speed(scsi_qla_host_t *, uint16_t,
 	uint16_t *, uint16_t *);
 #endif /* _QLA_GBL_H */
+Tue Jul 19 12:35:16 PDT 2016

@@ -63,3 +63,4 @@ void Wb35Reg_Update(struct hw_data *hw_data, u16 register_no, u32 register_value
 unsigned char adjust_TXVGA_for_iq_mag(struct hw_data *hw_data);
 
 #endif
+Tue Jul 19 12:42:13 PDT 2016

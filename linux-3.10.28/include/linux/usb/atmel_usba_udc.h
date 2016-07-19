@@ -21,3 +21,4 @@ struct usba_platform_data {
 };
 
 #endif /* __LINUX_USB_USBA_H */
+Tue Jul 19 12:53:15 PDT 2016

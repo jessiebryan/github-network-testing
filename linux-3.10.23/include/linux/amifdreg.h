@@ -79,3 +79,4 @@
 #define FD_PERPENDICULAR	0x12	/* perpendicular r/w mode */
 
 #endif /* _LINUX_AMIFDREG_H */
+Tue Jul 19 12:49:56 PDT 2016

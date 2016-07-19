@@ -58,3 +58,4 @@ static inline int hvm_get_parameter(int idx, uint64_t *value)
 		HVM_CALLBACK_VIA_TYPE_SHIFT | (x))
 
 #endif /* XEN_HVM_H__ */
+Tue Jul 19 12:41:37 PDT 2016

@@ -129,3 +129,4 @@ struct ifx_spi_device {
 };
 
 #endif /* _IFX6X60_H */
+Tue Jul 19 12:47:20 PDT 2016

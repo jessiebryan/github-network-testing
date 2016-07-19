@@ -142,3 +142,4 @@ static inline bool ux500_is_svp(void)
 #define ux500_unknown_soc()	BUG()
 
 #endif
+Tue Jul 19 12:40:24 PDT 2016

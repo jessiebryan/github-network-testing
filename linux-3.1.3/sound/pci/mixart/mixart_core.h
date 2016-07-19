@@ -569,3 +569,4 @@ void snd_mixart_msg_tasklet(unsigned long arg);
 void snd_mixart_reset_board(struct mixart_mgr *mgr);
 
 #endif /* __SOUND_MIXART_CORE_H */
+Tue Jul 19 12:35:28 PDT 2016

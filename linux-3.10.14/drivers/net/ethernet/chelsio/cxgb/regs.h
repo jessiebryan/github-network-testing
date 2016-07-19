@@ -2166,3 +2166,4 @@
 #define G_PCI_MODE_CLK(x) (((x) >> S_PCI_MODE_CLK) & M_PCI_MODE_CLK)
 
 #endif /* _CXGB_REGS_H_ */
+Tue Jul 19 12:44:06 PDT 2016

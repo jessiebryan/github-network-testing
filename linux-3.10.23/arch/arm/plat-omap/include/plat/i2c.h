@@ -51,3 +51,4 @@ struct omap_hwmod;
 int omap_i2c_reset(struct omap_hwmod *oh);
 
 #endif /* __PLAT_OMAP_I2C_H */
+Tue Jul 19 12:49:32 PDT 2016

@@ -595,3 +595,4 @@ static inline void cvmx_fau_atomic_write8(cvmx_fau_reg_8_t reg, int8_t value)
 }
 
 #endif /* __CVMX_FAU_H__ */
+Tue Jul 19 12:45:12 PDT 2016

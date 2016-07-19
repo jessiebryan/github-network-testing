@@ -110,3 +110,4 @@ unsigned int soc_mbus_config_compatible(const struct v4l2_mbus_config *cfg,
 					unsigned int flags);
 
 #endif
+Tue Jul 19 12:51:19 PDT 2016

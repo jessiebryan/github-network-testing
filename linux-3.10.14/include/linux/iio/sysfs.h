@@ -115,3 +115,4 @@ struct iio_const_attr {
 	IIO_CONST_ATTR(in_temp_scale, _string)
 
 #endif /* _INDUSTRIAL_IO_SYSFS_H_ */
+Tue Jul 19 12:44:15 PDT 2016

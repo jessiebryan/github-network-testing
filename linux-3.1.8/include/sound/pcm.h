@@ -1065,3 +1065,4 @@ static inline void snd_pcm_limit_isa_dma_size(int dma, size_t *max)
 const char *snd_pcm_format_name(snd_pcm_format_t format);
 
 #endif /* __SOUND_PCM_H */
+Tue Jul 19 12:37:47 PDT 2016

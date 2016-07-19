@@ -185,3 +185,4 @@ static inline u16 read_RCV_DATA16(struct bfin_twi_iface *iface)
 #define	RCV_FULL	0x000C	/*              Receive FIFO Full (2 Bytes To Read)             */
 
 #endif
+Tue Jul 19 12:44:28 PDT 2016

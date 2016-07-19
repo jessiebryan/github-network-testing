@@ -85,3 +85,4 @@ void amd_unregister_ecc_decoder(void (*f)(int, struct mce *));
 int amd_decode_mce(struct notifier_block *nb, unsigned long val, void *data);
 
 #endif /* _EDAC_MCE_AMD_H */
+Tue Jul 19 12:46:32 PDT 2016

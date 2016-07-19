@@ -30,3 +30,4 @@ int jz4740_adc_set_config(struct device *dev, uint32_t mask, uint32_t val);
 #define JZ_ADC_CONFIG_CLKDIV(div)	((div) << 5)
 
 #endif
+Tue Jul 19 12:44:15 PDT 2016

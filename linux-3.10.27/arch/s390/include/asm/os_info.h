@@ -47,3 +47,4 @@ static inline void *os_info_old_entry(int nr, unsigned long *size)
 #endif
 
 #endif /* _ASM_S390_OS_INFO_H */
+Tue Jul 19 12:52:16 PDT 2016

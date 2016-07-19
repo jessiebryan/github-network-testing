@@ -51,3 +51,4 @@ extern void __init samsung_set_timer_source(enum samsung_timer_mode event,
 extern void __init samsung_timer_init(void);
 
 #endif /* __ASM_PLAT_SAMSUNG_TIME_H */
+Tue Jul 19 12:40:24 PDT 2016

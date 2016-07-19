@@ -299,3 +299,4 @@ static inline struct intel_mid_dma_slave *to_intel_mid_dma_slave
 int dma_resume(struct pci_dev *pci);
 
 #endif /*__INTEL_MID_DMAC_REGS_H__*/
+Tue Jul 19 12:33:28 PDT 2016

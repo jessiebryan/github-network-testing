@@ -240,3 +240,4 @@ static const u32 ar9331_1p2_radio_core[][2] = {
 #define ar9331_common_rx_gain_1p2 ar9485_common_rx_gain_1_1
 
 #endif /* INITVALS_9330_1P2_H */
+Tue Jul 19 12:50:28 PDT 2016

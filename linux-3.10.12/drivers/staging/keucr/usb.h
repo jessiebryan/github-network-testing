@@ -235,3 +235,4 @@ extern void fill_inquiry_response(struct us_data *us,
 #define scsi_lock(host)		spin_lock_irq(host->host_lock)
 
 #endif
+Tue Jul 19 12:42:53 PDT 2016

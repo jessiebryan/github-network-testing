@@ -89,3 +89,4 @@ static inline struct dvb_frontend *s5h1432_attach(const struct s5h1432_config
 #endif /* CONFIG_DVB_s5h1432 */
 
 #endif /* __s5h1432_H__ */
+Tue Jul 19 12:53:02 PDT 2016

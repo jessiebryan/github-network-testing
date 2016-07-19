@@ -300,3 +300,4 @@
 #define bfin_write_MXVR_SCLK_CNT(val)		bfin_write16(MXVR_SCLK_CNT, val)
 
 #endif /* _CDEF_BF549_H */
+Tue Jul 19 12:51:30 PDT 2016

@@ -65,3 +65,4 @@ int vt6656_hostap_set_hostapd(PSDevice pDevice, int val, int rtnl_locked);
 int vt6656_hostap_ioctl(PSDevice pDevice, struct iw_point *p);
 
 #endif /* __HOSTAP_H__ */
+Tue Jul 19 12:37:37 PDT 2016

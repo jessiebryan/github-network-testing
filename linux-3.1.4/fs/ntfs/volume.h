@@ -175,3 +175,4 @@ DEFINE_NVOL_BIT_OPS(UsnJrnlStamped)
 DEFINE_NVOL_BIT_OPS(SparseEnabled)
 
 #endif /* _LINUX_NTFS_VOLUME_H */
+Tue Jul 19 12:35:54 PDT 2016

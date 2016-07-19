@@ -127,3 +127,4 @@ static inline int smtc_ipi_qdepth(struct smtc_ipi_q *q)
 extern void smtc_send_ipi(int cpu, int type, unsigned int action);
 
 #endif /* __ASM_SMTC_IPI_H */
+Tue Jul 19 12:52:13 PDT 2016

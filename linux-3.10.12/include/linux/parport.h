@@ -479,3 +479,4 @@ extern unsigned long parport_default_timeslice;
 extern int parport_default_spintime;
 
 #endif /* _PARPORT_H_ */
+Tue Jul 19 12:43:00 PDT 2016

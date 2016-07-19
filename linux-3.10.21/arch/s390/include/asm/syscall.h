@@ -99,3 +99,4 @@ static inline int syscall_get_arch(struct task_struct *task,
 	return sizeof(long) == 8 ? AUDIT_ARCH_S390X : AUDIT_ARCH_S390;
 }
 #endif	/* _ASM_SYSCALL_H */
+Tue Jul 19 12:48:23 PDT 2016

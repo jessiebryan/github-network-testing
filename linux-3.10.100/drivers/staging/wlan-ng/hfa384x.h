@@ -1425,3 +1425,4 @@ hfa384x_cmd_download(hfa384x_t *hw,
 #endif /*__KERNEL__ */
 
 #endif /*_HFA384x_H */
+Tue Jul 19 12:40:08 PDT 2016

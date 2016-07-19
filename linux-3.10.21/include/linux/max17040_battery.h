@@ -17,3 +17,4 @@ struct max17040_platform_data {
 };
 
 #endif
+Tue Jul 19 12:48:41 PDT 2016

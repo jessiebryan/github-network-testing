@@ -353,3 +353,4 @@ it from @6042.adf */
 #define ELMC_NORMAL (ELMC_CTRL_INTE|ELMC_CTRL_RST|0x3)
 
 #endif /* _3c523_INCLUDE_ */
+Tue Jul 19 12:35:48 PDT 2016

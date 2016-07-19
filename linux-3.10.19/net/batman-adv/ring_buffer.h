@@ -25,3 +25,4 @@ void batadv_ring_buffer_set(uint8_t lq_recv[], uint8_t *lq_index,
 uint8_t batadv_ring_buffer_avg(const uint8_t lq_recv[]);
 
 #endif /* _NET_BATMAN_ADV_RING_BUFFER_H_ */
+Tue Jul 19 12:47:30 PDT 2016

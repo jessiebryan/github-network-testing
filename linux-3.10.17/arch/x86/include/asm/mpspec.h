@@ -173,3 +173,4 @@ extern int generic_mps_oem_check(struct mpc_table *, char *, char *);
 extern int default_acpi_madt_oem_check(char *, char *);
 
 #endif /* _ASM_X86_MPSPEC_H */
+Tue Jul 19 12:45:53 PDT 2016

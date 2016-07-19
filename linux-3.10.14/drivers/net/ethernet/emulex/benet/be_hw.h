@@ -544,3 +544,4 @@ struct flash_section_info_g2 {
 	struct flash_section_hdr_g2 fsec_hdr;
 	struct flash_section_entry fsec_entry[32];
 } __packed;
+Tue Jul 19 12:44:06 PDT 2016

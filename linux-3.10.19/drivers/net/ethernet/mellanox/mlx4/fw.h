@@ -222,3 +222,4 @@ int mlx4_NOP(struct mlx4_dev *dev);
 int mlx4_MOD_STAT_CFG(struct mlx4_dev *dev, struct mlx4_mod_stat_cfg *cfg);
 
 #endif /* MLX4_FW_H */
+Tue Jul 19 12:47:15 PDT 2016

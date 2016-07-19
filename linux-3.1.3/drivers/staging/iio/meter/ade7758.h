@@ -186,3 +186,4 @@ static inline void ade7758_uninitialize_ring(struct iio_ring_buffer *ring)
 #endif /* CONFIG_IIO_RING_BUFFER */
 
 #endif
+Tue Jul 19 12:35:17 PDT 2016

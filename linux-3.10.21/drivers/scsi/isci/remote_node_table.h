@@ -186,3 +186,4 @@ void sci_remote_node_table_release_remote_node_index(
 	u16 remote_node_index);
 
 #endif /* _SCIC_SDS_REMOTE_NODE_TABLE_H_ */
+Tue Jul 19 12:48:34 PDT 2016

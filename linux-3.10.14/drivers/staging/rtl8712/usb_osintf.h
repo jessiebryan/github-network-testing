@@ -45,3 +45,4 @@ u8 r8712_free_drv_sw(struct _adapter *padapter);
 struct net_device *r8712_init_netdev(void);
 
 #endif
+Tue Jul 19 12:44:10 PDT 2016

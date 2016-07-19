@@ -11,3 +11,4 @@
 extern struct snd_ice1712_card_info snd_vt1724_psc724_cards[];
 
 #endif /* __SOUND_PSC724_H */
+Tue Jul 19 12:45:02 PDT 2016

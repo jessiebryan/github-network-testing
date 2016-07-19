@@ -76,3 +76,4 @@
 #define SAMA5D3_SRAM_SIZE	(128 * SZ_1K)	/* Internal SRAM size (128Kb) */
 
 #endif
+Tue Jul 19 12:50:47 PDT 2016

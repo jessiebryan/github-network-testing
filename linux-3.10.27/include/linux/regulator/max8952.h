@@ -133,3 +133,4 @@ struct max8952_platform_data {
 
 
 #endif /* REGULATOR_MAX8952 */
+Tue Jul 19 12:52:36 PDT 2016

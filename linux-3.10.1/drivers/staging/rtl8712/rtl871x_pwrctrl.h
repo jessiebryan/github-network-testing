@@ -129,3 +129,4 @@ void r8712_set_ps_mode(struct _adapter *padapter, uint ps_mode,
 void r8712_set_rpwm(struct _adapter *padapter, u8 val8);
 
 #endif  /* __RTL871X_PWRCTRL_H_ */
+Tue Jul 19 12:38:50 PDT 2016

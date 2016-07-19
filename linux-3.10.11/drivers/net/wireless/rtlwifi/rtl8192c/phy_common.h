@@ -256,3 +256,4 @@ void _rtl92c_store_pwrIndex_diffrate_offset(struct ieee80211_hw *hw,
 bool rtl92c_phy_set_io_cmd(struct ieee80211_hw *hw, enum io_type iotype);
 
 #endif
+Tue Jul 19 12:42:08 PDT 2016

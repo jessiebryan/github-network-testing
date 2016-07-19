@@ -43,3 +43,4 @@ extern void cpu_reset(unsigned long addr) __attribute__((noreturn));
 #endif /* __KERNEL__ */
 
 #endif /* __UNICORE_CPU_SINGLE_H__ */
+Tue Jul 19 12:45:53 PDT 2016

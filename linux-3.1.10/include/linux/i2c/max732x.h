@@ -20,3 +20,4 @@ struct max732x_platform_data {
 				void *context);
 };
 #endif /* __LINUX_I2C_MAX732X_H */
+Tue Jul 19 12:33:39 PDT 2016

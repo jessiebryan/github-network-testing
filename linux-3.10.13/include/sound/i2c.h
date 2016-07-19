@@ -102,3 +102,4 @@ int snd_i2c_readbytes(struct snd_i2c_device *device, unsigned char *bytes, int c
 int snd_i2c_probeaddr(struct snd_i2c_bus *bus, unsigned short addr);
 
 #endif /* __SOUND_I2C_H */
+Tue Jul 19 12:43:41 PDT 2016

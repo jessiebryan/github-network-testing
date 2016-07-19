@@ -178,3 +178,4 @@ int m5602_read_sensor(struct sd *sd, const u8 address,
 		      u8 *i2c_data, const u8 len);
 
 #endif
+Tue Jul 19 12:49:09 PDT 2016

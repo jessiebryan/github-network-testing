@@ -69,3 +69,4 @@ static inline int pcie_port_platform_notify(struct pci_dev *port, int *mask)
 #endif /* !CONFIG_ACPI */
 
 #endif /* _PORTDRV_H_ */
+Tue Jul 19 12:36:24 PDT 2016

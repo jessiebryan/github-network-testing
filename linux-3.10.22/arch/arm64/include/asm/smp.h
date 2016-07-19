@@ -78,3 +78,4 @@ extern const struct smp_enable_ops smp_spin_table_ops;
 extern const struct smp_enable_ops smp_psci_ops;
 
 #endif /* ifndef __ASM_SMP_H */
+Tue Jul 19 12:48:52 PDT 2016

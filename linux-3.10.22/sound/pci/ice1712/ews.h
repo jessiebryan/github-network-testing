@@ -84,3 +84,4 @@ extern struct snd_ice1712_card_info snd_ice1712_ews_cards[];
 #define ICE1712_6FIRE_CS8427_ADDR	(0x22)
 
 #endif /* __SOUND_EWS_H */
+Tue Jul 19 12:49:27 PDT 2016

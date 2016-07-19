@@ -100,3 +100,4 @@ struct usbhs_pkt *usbhs_pkt_pop(struct usbhs_pipe *pipe, struct usbhs_pkt *pkt);
 void usbhs_pkt_start(struct usbhs_pipe *pipe);
 
 #endif /* RENESAS_USB_FIFO_H */
+Tue Jul 19 12:44:51 PDT 2016

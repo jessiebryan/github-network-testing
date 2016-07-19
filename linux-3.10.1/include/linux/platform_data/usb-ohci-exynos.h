@@ -19,3 +19,4 @@ struct exynos4_ohci_platdata {
 extern void exynos4_ohci_set_platdata(struct exynos4_ohci_platdata *pd);
 
 #endif /* __MACH_EXYNOS_OHCI_H */
+Tue Jul 19 12:38:57 PDT 2016

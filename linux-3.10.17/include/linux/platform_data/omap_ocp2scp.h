@@ -29,3 +29,4 @@ struct omap_ocp2scp_platform_data {
 	struct omap_ocp2scp_dev		**devices;
 };
 #endif /* __DRIVERS_OMAP_OCP2SCP_H */
+Tue Jul 19 12:46:08 PDT 2016

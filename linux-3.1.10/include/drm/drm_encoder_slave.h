@@ -160,3 +160,4 @@ static inline void drm_i2c_encoder_unregister(struct drm_i2c_encoder_driver *dri
 void drm_i2c_encoder_destroy(struct drm_encoder *encoder);
 
 #endif
+Tue Jul 19 12:33:38 PDT 2016

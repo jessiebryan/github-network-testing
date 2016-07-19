@@ -556,3 +556,4 @@
 #define bfin_write_KPAD_SOFTEVAL(val)		bfin_write16(KPAD_SOFTEVAL, val)
 
 #endif /* _CDEF_BF542_H */
+Tue Jul 19 12:39:46 PDT 2016

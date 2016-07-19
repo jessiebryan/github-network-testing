@@ -54,3 +54,4 @@
 #define bfin_write_EMAC_PTP_PPS_PERIOD(val)     bfin_write32(EMAC_PTP_PPS_PERIOD, val)
 
 #endif /* _CDEF_BF518_H */
+Tue Jul 19 12:46:20 PDT 2016

@@ -83,3 +83,4 @@ int pxa_request_dma (char *name,
 void pxa_free_dma (int dma_ch);
 
 #endif /* __PLAT_DMA_H */
+Tue Jul 19 12:42:31 PDT 2016

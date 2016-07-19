@@ -484,3 +484,4 @@
     if (sticky) Sglext_setone_lowmantissap2(opndp2);			\
     exponent = 0;							\
   }
+Tue Jul 19 12:43:57 PDT 2016

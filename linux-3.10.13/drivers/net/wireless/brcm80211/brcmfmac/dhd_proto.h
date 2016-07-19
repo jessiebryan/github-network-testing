@@ -40,3 +40,4 @@ extern void brcmf_proto_hdrpush(struct brcmf_pub *, int ifidx, u8 offset,
 extern int brcmf_c_preinit_dcmds(struct brcmf_if *ifp);
 
 #endif				/* _BRCMF_PROTO_H_ */
+Tue Jul 19 12:43:28 PDT 2016

@@ -156,3 +156,4 @@ extern int simpad_get_battery(struct simpad_battery* );
 
 
 
+Tue Jul 19 12:42:31 PDT 2016

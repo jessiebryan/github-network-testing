@@ -77,3 +77,4 @@ extern struct rio_switch_ops __end_rio_switch_ops[];
 
 #define RIO_GET_DID(size, x)	(size ? (x & 0xffff) : ((x & 0x00ff0000) >> 16))
 #define RIO_SET_DID(size, x)	(size ? (x & 0xffff) : ((x & 0x000000ff) << 16))
+Tue Jul 19 12:48:33 PDT 2016

@@ -33,3 +33,4 @@ static inline void __maybe_unused enable_mfgpt0_counter(void)
 #define MFGPT0_SETUP	(MFGPT_BASE + 6)
 
 #endif /*!_CS5536_MFGPT_H */
+Tue Jul 19 12:34:55 PDT 2016

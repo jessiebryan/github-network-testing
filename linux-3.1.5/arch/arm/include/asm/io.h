@@ -315,3 +315,4 @@ extern void register_isa_ports(unsigned int mmio, unsigned int io,
 
 #endif	/* __KERNEL__ */
 #endif	/* __ASM_ARM_IO_H */
+Tue Jul 19 12:36:03 PDT 2016

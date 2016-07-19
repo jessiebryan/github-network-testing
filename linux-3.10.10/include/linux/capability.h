@@ -218,3 +218,4 @@ extern bool file_ns_capable(const struct file *file, struct user_namespace *ns, 
 extern int get_vfs_caps_from_disk(const struct dentry *dentry, struct cpu_vfs_cap_data *cpu_caps);
 
 #endif /* !_LINUX_CAPABILITY_H */
+Tue Jul 19 12:39:32 PDT 2016

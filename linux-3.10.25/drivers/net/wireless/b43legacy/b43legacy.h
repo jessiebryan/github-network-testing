@@ -856,3 +856,4 @@ void b43legacydbg(struct b43legacy_wl *wl, const char *fmt, ...);
 #define Q52_ARG(q52)	((q52) / 4), (((q52) & 3) * 100 / 4)
 
 #endif /* B43legacy_H_ */
+Tue Jul 19 12:51:08 PDT 2016

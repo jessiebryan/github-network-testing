@@ -53,3 +53,4 @@ static inline void get_fs_root_and_pwd(struct fs_struct *fs, struct path *root,
 extern bool current_chrooted(void);
 
 #endif /* _LINUX_FS_STRUCT_H */
+Tue Jul 19 12:48:02 PDT 2016

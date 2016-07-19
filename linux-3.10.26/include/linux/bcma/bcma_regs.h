@@ -92,3 +92,4 @@
 #define BCMA_SOC_FLASH2_SZ		0x02000000	/* Size of Flash Region 2 */
 
 #endif /* LINUX_BCMA_REGS_H_ */
+Tue Jul 19 12:51:54 PDT 2016

@@ -223,3 +223,4 @@ static inline int calc_rotation(const struct omap_vout_device *vout)
 
 void omap_vout_free_buffers(struct omap_vout_device *vout);
 #endif	/* ifndef OMAP_VOUTDEF_H */
+Tue Jul 19 12:38:09 PDT 2016

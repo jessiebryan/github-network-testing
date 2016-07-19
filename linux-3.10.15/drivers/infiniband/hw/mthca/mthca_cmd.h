@@ -323,3 +323,4 @@ int mthca_MGID_HASH(struct mthca_dev *dev, struct mthca_mailbox *mailbox,
 int mthca_NOP(struct mthca_dev *dev);
 
 #endif /* MTHCA_CMD_H */
+Tue Jul 19 12:44:43 PDT 2016

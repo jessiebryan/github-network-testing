@@ -457,3 +457,4 @@ static inline struct s5c73m3 *oif_sd_to_s5c73m3(struct v4l2_subdev *sd)
 	return container_of(sd, struct s5c73m3, oif_sd);
 }
 #endif	/* S5C73M3_H_ */
+Tue Jul 19 12:39:23 PDT 2016

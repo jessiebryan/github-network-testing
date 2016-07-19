@@ -175,3 +175,4 @@ struct idmac_channel {
 #define to_idmac_chan(c) container_of(c, struct idmac_channel, dma_chan)
 
 #endif /* __LINUX_DMA_IPU_DMA_H */
+Tue Jul 19 12:42:17 PDT 2016

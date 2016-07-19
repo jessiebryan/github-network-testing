@@ -980,3 +980,4 @@ static inline void REGISTER_WRITE8(struct drm_device *dev,
 #define PSB_RMSVDX32(_offs)		ioread32(dev_priv->msvdx_reg + (_offs))
 
 #endif
+Tue Jul 19 12:47:50 PDT 2016

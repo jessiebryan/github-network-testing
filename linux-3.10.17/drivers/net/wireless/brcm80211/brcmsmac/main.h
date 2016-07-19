@@ -679,3 +679,4 @@ extern void brcms_b_band_stf_ss_set(struct brcms_hardware *wlc_hw,
 extern void brcms_c_init_scb(struct scb *scb);
 
 #endif				/* _BRCM_MAIN_H_ */
+Tue Jul 19 12:45:59 PDT 2016
