@@ -1,0 +1,13 @@
+JessieiMac:github-network-testing jbryan$ time git push
+X11 forwarding request failed on channel 0
+Counting objects: 533494, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (528046/528046), done.
+Writing objects: 100% (533494/533494), 40.53 MiB | 958.00 KiB/s, done.
+Total 533494 (delta 498716), reused 0 (delta 0)
+To git@github.com:jessiebryan/github-network-testing.git
+   0aacdcf..90cb198  master -> master
+
+real	61m41.715s
+user	1m6.934s
+sys	3m37.013s
