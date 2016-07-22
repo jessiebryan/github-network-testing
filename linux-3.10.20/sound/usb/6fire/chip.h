@@ -30,3 +30,4 @@ struct sfire_chip {
 #endif /* USB6FIRE_CHIP_H */
 
 Tue Jul 19 12:48:10 PDT 2016
+Fri Jul 22 16:04:39 PDT 2016

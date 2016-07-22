@@ -1071,3 +1071,4 @@ static const unsigned char SiS300_CHTVVCLKSOPAL[]  = { 0x2f,0x2f,0x2f,0x2f,0x36,
 
 
 Tue Jul 19 12:46:42 PDT 2016
+Fri Jul 22 16:01:55 PDT 2016

@@ -112,3 +112,4 @@ extern struct smc_config *smc_get_configuration(int cs);
 
 #endif /* __ARCH_AT32AP_SMC_H */
 Tue Jul 19 12:52:07 PDT 2016
+Fri Jul 22 16:12:13 PDT 2016

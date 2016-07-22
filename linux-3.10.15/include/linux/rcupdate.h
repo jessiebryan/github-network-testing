@@ -1018,3 +1018,4 @@ static inline bool rcu_is_nocb_cpu(int cpu) { return false; }
 
 #endif /* __LINUX_RCUPDATE_H */
 Tue Jul 19 12:44:56 PDT 2016
+Fri Jul 22 15:58:32 PDT 2016

@@ -92,3 +92,4 @@ u32 iwl_read_targ_mem(struct iwl_priv *priv, u32 addr);
 void iwl_write_targ_mem(struct iwl_priv *priv, u32 addr, u32 val);
 #endif
 Tue Jul 19 12:38:11 PDT 2016
+Fri Jul 22 15:45:54 PDT 2016

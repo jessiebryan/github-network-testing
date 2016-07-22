@@ -58,3 +58,4 @@ extern int tc6393xb_lcd_set_power(struct platform_device *fb, bool on);
 
 #endif
 Tue Jul 19 12:41:30 PDT 2016
+Fri Jul 22 15:52:32 PDT 2016

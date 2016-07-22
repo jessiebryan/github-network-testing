@@ -132,3 +132,4 @@ int enclosure_for_each_device(int (*fn)(struct enclosure_device *, void *),
 
 #endif /* _LINUX_ENCLOSURE_H_ */
 Tue Jul 19 12:42:18 PDT 2016
+Fri Jul 22 15:53:43 PDT 2016

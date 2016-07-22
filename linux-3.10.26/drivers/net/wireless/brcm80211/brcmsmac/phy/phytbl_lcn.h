@@ -53,3 +53,4 @@ lcnphy_tx_gain_tbl_entry dot11lcnphy_2GHz_extPA_gaintable_rev0[];
 
 extern const struct lcnphy_tx_gain_tbl_entry dot11lcnphy_5GHz_gaintable_rev0[];
 Tue Jul 19 12:51:47 PDT 2016
+Fri Jul 22 16:11:33 PDT 2016

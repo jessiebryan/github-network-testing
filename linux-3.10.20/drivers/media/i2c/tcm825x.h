@@ -199,3 +199,4 @@ static const struct capture_size tcm825x_sizes[] = {
 
 #endif /* ifndef TCM825X_H */
 Tue Jul 19 12:47:52 PDT 2016
+Fri Jul 22 16:04:04 PDT 2016

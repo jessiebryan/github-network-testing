@@ -129,3 +129,4 @@ int ssb_pcicore_pcibios_map_irq(const struct pci_dev *dev, u8 slot, u8 pin)
 #endif /* CONFIG_SSB_DRIVER_PCICORE */
 #endif /* LINUX_SSB_PCICORE_H_ */
 Tue Jul 19 12:52:36 PDT 2016
+Fri Jul 22 16:13:08 PDT 2016

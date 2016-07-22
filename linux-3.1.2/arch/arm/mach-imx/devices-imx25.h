@@ -89,3 +89,4 @@ extern struct imx_mxc_pwm_data imx25_mxc_pwm_data[];
 #define imx25_add_mxc_pwm(id)	\
 	imx_add_mxc_pwm(&imx25_mxc_pwm_data[id])
 Tue Jul 19 12:33:49 PDT 2016
+Fri Jul 22 15:38:36 PDT 2016

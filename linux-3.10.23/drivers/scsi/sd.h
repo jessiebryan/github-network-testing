@@ -185,3 +185,4 @@ static inline void sd_dif_complete(struct scsi_cmnd *cmd, unsigned int a)
 
 #endif /* _SCSI_DISK_H */
 Tue Jul 19 12:49:52 PDT 2016
+Fri Jul 22 16:07:50 PDT 2016

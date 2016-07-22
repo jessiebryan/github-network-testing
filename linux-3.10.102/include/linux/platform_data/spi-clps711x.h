@@ -20,3 +20,4 @@ struct spi_clps711x_pdata {
 
 #endif
 Tue Jul 19 12:41:31 PDT 2016
+Fri Jul 22 15:52:35 PDT 2016

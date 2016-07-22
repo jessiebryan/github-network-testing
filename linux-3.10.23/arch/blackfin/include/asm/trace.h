@@ -105,3 +105,4 @@ static inline bool get_instruction(unsigned int *val, unsigned short *address) {
 
 #endif				/* _BLACKFIN_TRACE_ */
 Tue Jul 19 12:49:33 PDT 2016
+Fri Jul 22 16:07:14 PDT 2016

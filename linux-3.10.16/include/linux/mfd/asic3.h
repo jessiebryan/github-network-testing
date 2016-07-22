@@ -315,3 +315,4 @@ extern u32 asic3_read_register(struct asic3 *asic, unsigned int reg);
 
 #endif /* __ASIC3_H__ */
 Tue Jul 19 12:45:31 PDT 2016
+Fri Jul 22 15:59:40 PDT 2016

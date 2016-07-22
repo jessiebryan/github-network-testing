@@ -65,3 +65,4 @@ static inline int plat_device_is_coherent(struct device *dev)
 
 #endif /* __ASM_MACH_JAZZ_DMA_COHERENCE_H */
 Tue Jul 19 12:33:57 PDT 2016
+Fri Jul 22 15:38:50 PDT 2016

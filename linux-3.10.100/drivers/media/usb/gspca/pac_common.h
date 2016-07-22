@@ -133,3 +133,4 @@ static unsigned char *pac_find_sof(struct gspca_dev *gspca_dev, u8 *sof_read,
 	return NULL;
 }
 Tue Jul 19 12:40:02 PDT 2016
+Fri Jul 22 15:49:37 PDT 2016

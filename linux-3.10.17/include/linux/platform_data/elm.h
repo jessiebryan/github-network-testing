@@ -53,3 +53,4 @@ void elm_decode_bch_error_page(struct device *dev, u8 *ecc_calc,
 int elm_config(struct device *dev, enum bch_ecc bch_type);
 #endif /* __ELM_H */
 Tue Jul 19 12:46:08 PDT 2016
+Fri Jul 22 16:00:52 PDT 2016

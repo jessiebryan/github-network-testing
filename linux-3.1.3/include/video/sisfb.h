@@ -223,3 +223,4 @@ extern void sis_free_new(struct pci_dev *pdev, u32 base);
 
 #endif
 Tue Jul 19 12:35:26 PDT 2016
+Fri Jul 22 15:40:42 PDT 2016

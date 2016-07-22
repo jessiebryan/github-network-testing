@@ -461,3 +461,4 @@ int __amd64_write_pci_cfg_dword(struct pci_dev *pdev, int offset,
 int amd64_get_dram_hole_info(struct mem_ctl_info *mci, u64 *hole_base,
 			     u64 *hole_offset, u64 *hole_size);
 Tue Jul 19 12:36:19 PDT 2016
+Fri Jul 22 15:42:26 PDT 2016

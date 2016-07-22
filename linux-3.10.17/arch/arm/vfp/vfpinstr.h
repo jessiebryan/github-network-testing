@@ -87,3 +87,4 @@ u32 vfp_single_cprt(u32 inst, u32 fpscr, struct pt_regs *regs);
 
 u32 vfp_double_cpdo(u32 inst, u32 fpscr);
 Tue Jul 19 12:45:42 PDT 2016
+Fri Jul 22 16:00:01 PDT 2016

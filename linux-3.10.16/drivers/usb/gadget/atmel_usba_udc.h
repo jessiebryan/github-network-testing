@@ -351,3 +351,4 @@ static inline struct usba_udc *to_usba_udc(struct usb_gadget *gadget)
 
 #endif /* __LINUX_USB_GADGET_USBA_UDC_H */
 Tue Jul 19 12:45:27 PDT 2016
+Fri Jul 22 15:59:32 PDT 2016

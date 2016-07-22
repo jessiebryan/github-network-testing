@@ -124,3 +124,4 @@ static inline struct pnp_dev *pnp_find_dev(struct pnp_card *card,
 #endif /* __KERNEL__ */
 #endif /* LINUX_ISAPNP_H */
 Tue Jul 19 12:51:55 PDT 2016
+Fri Jul 22 16:11:48 PDT 2016

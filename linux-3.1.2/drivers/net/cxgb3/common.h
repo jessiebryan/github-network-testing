@@ -774,3 +774,4 @@ int t3_aq100x_phy_prep(struct cphy *phy, struct adapter *adapter,
 			    int phy_addr, const struct mdio_ops *mdio_ops);
 #endif				/* __CHELSIO_COMMON_H */
 Tue Jul 19 12:34:08 PDT 2016
+Fri Jul 22 15:39:09 PDT 2016

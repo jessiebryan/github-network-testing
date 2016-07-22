@@ -37,3 +37,4 @@ void tveeprom_hauppauge_analog(struct i2c_client *c, struct tveeprom *tvee,
 
 int tveeprom_read(struct i2c_client *c, unsigned char *eedata, int len);
 Tue Jul 19 12:50:01 PDT 2016
+Fri Jul 22 16:08:08 PDT 2016

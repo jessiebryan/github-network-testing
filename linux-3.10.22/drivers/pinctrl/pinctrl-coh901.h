@@ -4,3 +4,4 @@ int u300_gpio_config_get(struct gpio_chip *chip,
 int u300_gpio_config_set(struct gpio_chip *chip, unsigned offset,
 			 enum pin_config_param param);
 Tue Jul 19 12:49:12 PDT 2016
+Fri Jul 22 16:06:36 PDT 2016

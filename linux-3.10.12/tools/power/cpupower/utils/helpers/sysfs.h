@@ -29,3 +29,4 @@ extern int sysfs_set_sched(const char *smt_mc, int val);
 
 #endif /* __CPUPOWER_HELPERS_SYSFS_H__ */
 Tue Jul 19 12:43:07 PDT 2016
+Fri Jul 22 15:55:10 PDT 2016

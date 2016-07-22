@@ -46,3 +46,4 @@ extern int psb_intel_connector_clones(struct drm_device *dev, int type_mask);
 #endif
 
 Tue Jul 19 12:47:50 PDT 2016
+Fri Jul 22 16:04:01 PDT 2016

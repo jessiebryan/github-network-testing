@@ -948,3 +948,4 @@ void qeth_osn_deregister(struct net_device *);
 
 #endif /* __QETH_CORE_H__ */
 Tue Jul 19 12:51:09 PDT 2016
+Fri Jul 22 16:10:17 PDT 2016

@@ -177,3 +177,4 @@ static inline void ath9k_mci_set_txpower(struct ath_softc *sc, bool setchannel,
 
 #endif /* MCI_H*/
 Tue Jul 19 12:40:04 PDT 2016
+Fri Jul 22 15:49:40 PDT 2016

@@ -17,3 +17,4 @@ void at32_setup_serial_console(unsigned int usart_id);
 
 #endif /* __ASM_AVR32_AT32AP_INIT_H__ */
 Tue Jul 19 12:51:29 PDT 2016
+Fri Jul 22 16:10:55 PDT 2016

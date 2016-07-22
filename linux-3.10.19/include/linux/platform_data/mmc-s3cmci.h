@@ -51,3 +51,4 @@ extern void s3c24xx_mci_set_platdata(struct s3c24xx_mci_pdata *pdata);
 
 #endif /* _ARCH_NCI_H */
 Tue Jul 19 12:47:25 PDT 2016
+Fri Jul 22 16:03:15 PDT 2016

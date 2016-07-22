@@ -251,3 +251,4 @@ extern void mrst_hdmi_save(struct drm_device *dev);
 extern void mrst_hdmi_restore(struct drm_device *dev);
 extern void mrst_hdmi_init(struct drm_device *dev, struct psb_intel_mode_device *mode_dev);
 Tue Jul 19 12:38:14 PDT 2016
+Fri Jul 22 15:45:59 PDT 2016

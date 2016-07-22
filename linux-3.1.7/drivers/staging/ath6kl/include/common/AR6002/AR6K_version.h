@@ -51,3 +51,4 @@
 /* ABI Version. Reflects the version of binary interface exposed by AR6K target firmware. Needs to be incremented by 1 for any change in the firmware that requires upgrade of the driver on the host side for the change to work correctly */
 #define AR6K_ABI_VERSION        1
 Tue Jul 19 12:36:58 PDT 2016
+Fri Jul 22 15:43:43 PDT 2016

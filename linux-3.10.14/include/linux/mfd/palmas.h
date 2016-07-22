@@ -2852,3 +2852,4 @@ static inline int palmas_irq_get_virq(struct palmas *palmas, int irq)
 
 #endif /*  __LINUX_MFD_PALMAS_H */
 Tue Jul 19 12:44:16 PDT 2016
+Fri Jul 22 15:57:18 PDT 2016

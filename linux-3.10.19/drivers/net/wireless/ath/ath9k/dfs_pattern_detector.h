@@ -105,3 +105,4 @@ dfs_pattern_detector_init(struct ath_hw *ah, enum nl80211_dfs_regions region)
 
 #endif /* DFS_PATTERN_DETECTOR_H */
 Tue Jul 19 12:47:16 PDT 2016
+Fri Jul 22 16:02:57 PDT 2016

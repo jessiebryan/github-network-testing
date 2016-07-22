@@ -18,3 +18,4 @@ static inline void check_bugs(void)
 //	identify_cpu(&boot_cpu_data);
 }
 Tue Jul 19 12:47:05 PDT 2016
+Fri Jul 22 16:02:37 PDT 2016

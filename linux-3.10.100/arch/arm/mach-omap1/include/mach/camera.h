@@ -12,3 +12,4 @@ static inline void omap1_set_camera_info(struct omap1_cam_platform_data *info)
 
 #endif /* __ASM_ARCH_CAMERA_H_ */
 Tue Jul 19 12:39:44 PDT 2016
+Fri Jul 22 15:49:01 PDT 2016

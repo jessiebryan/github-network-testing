@@ -22,3 +22,4 @@ int omap_msdi_reset(struct omap_hwmod *oh);
 extern void omap_mmc_notify_cover_event(struct device *dev, int slot,
 					int is_closed);
 Tue Jul 19 12:44:26 PDT 2016
+Fri Jul 22 15:57:38 PDT 2016

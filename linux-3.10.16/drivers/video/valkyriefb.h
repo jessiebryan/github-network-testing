@@ -199,3 +199,4 @@ static struct valkyrie_regvals *valkyrie_reg_init[VMODE_MAX] = {
 #endif
 };
 Tue Jul 19 12:45:28 PDT 2016
+Fri Jul 22 15:59:33 PDT 2016

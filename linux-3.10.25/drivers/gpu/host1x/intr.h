@@ -101,3 +101,4 @@ void host1x_intr_stop(struct host1x *host);
 irqreturn_t host1x_syncpt_thresh_fn(void *dev_id);
 #endif
 Tue Jul 19 12:51:03 PDT 2016
+Fri Jul 22 16:10:07 PDT 2016

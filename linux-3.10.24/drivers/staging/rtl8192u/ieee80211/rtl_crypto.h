@@ -397,3 +397,4 @@ void crypto_hmac(struct crypto_tfm *tfm, u8 *key, unsigned int *keylen,
 
 #endif	/* _LINUX_CRYPTO_H */
 Tue Jul 19 12:50:31 PDT 2016
+Fri Jul 22 16:09:06 PDT 2016

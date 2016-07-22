@@ -196,3 +196,4 @@ struct sh7760fb_platdata {
 
 #endif /* _ASM_SH_SH7760FB_H */
 Tue Jul 19 12:41:13 PDT 2016
+Fri Jul 22 15:51:57 PDT 2016

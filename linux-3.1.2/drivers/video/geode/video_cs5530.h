@@ -74,3 +74,4 @@ extern struct geode_vid_ops cs5530_vid_ops;
 
 #endif /* !__VIDEO_CS5530_H__ */
 Tue Jul 19 12:34:21 PDT 2016
+Fri Jul 22 15:39:20 PDT 2016

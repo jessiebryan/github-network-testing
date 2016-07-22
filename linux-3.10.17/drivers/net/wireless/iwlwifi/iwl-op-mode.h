@@ -230,3 +230,4 @@ static inline void iwl_op_mode_wimax_active(struct iwl_op_mode *op_mode)
 
 #endif /* __iwl_op_mode_h__ */
 Tue Jul 19 12:45:59 PDT 2016
+Fri Jul 22 16:00:35 PDT 2016

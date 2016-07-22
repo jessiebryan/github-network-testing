@@ -95,3 +95,4 @@ static inline void ivtv_stream_sync_for_device(struct ivtv_stream *s)
 
 #endif
 Tue Jul 19 12:49:47 PDT 2016
+Fri Jul 22 16:07:42 PDT 2016

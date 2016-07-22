@@ -149,3 +149,4 @@ int nouveau_fannil_create(struct nouveau_therm *);
 
 #endif
 Tue Jul 19 12:40:39 PDT 2016
+Fri Jul 22 15:50:48 PDT 2016

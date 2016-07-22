@@ -38,3 +38,4 @@ struct omap_volt_data *omap_voltage_get_voltdata(struct voltagedomain *voltdm,
 		unsigned long volt);
 #endif
 Tue Jul 19 12:38:57 PDT 2016
+Fri Jul 22 15:47:26 PDT 2016

@@ -33,3 +33,4 @@ extern const struct imx_imx_i2c_data imx50_imx_i2c_data[];
 #define imx50_add_imx_i2c(id, pdata)	\
 	imx_add_imx_i2c(&imx50_imx_i2c_data[id], pdata)
 Tue Jul 19 12:33:50 PDT 2016
+Fri Jul 22 15:38:37 PDT 2016

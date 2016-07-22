@@ -466,3 +466,4 @@ extern void omap2_clkops_disable_clkdm(struct clk_hw *hw);
 extern void omap_clocks_register(struct omap_clk *oclks, int cnt);
 #endif
 Tue Jul 19 12:48:51 PDT 2016
+Fri Jul 22 16:05:56 PDT 2016

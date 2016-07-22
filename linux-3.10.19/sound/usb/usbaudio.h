@@ -106,3 +106,4 @@ struct snd_usb_audio_quirk {
 
 #endif /* __USBAUDIO_H */
 Tue Jul 19 12:47:32 PDT 2016
+Fri Jul 22 16:03:28 PDT 2016

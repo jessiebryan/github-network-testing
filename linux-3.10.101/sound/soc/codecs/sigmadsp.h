@@ -20,3 +20,4 @@ extern int process_sigma_firmware_regmap(struct device *dev,
 
 #endif
 Tue Jul 19 12:40:59 PDT 2016
+Fri Jul 22 15:51:27 PDT 2016

@@ -112,3 +112,4 @@ int AthCreateCommandList(struct ps_cmd_packet **, u32 *);
 int AthFreeCommandList(struct ps_cmd_packet **HciPacketList, u32 numPackets);
 #endif /* __AR3KPSPARSER_H */
 Tue Jul 19 12:35:51 PDT 2016
+Fri Jul 22 15:41:31 PDT 2016

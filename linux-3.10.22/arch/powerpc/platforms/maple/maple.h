@@ -11,3 +11,4 @@ extern void maple_pci_init(void);
 extern void maple_pci_irq_fixup(struct pci_dev *dev);
 extern int maple_pci_get_legacy_ide_irq(struct pci_dev *dev, int channel);
 Tue Jul 19 12:49:01 PDT 2016
+Fri Jul 22 16:06:16 PDT 2016

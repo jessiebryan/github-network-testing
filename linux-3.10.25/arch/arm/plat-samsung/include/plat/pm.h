@@ -185,3 +185,4 @@ extern void samsung_pm_save_gpios(void);
 extern void s3c_pm_save_core(void);
 extern void s3c_pm_restore_core(void);
 Tue Jul 19 12:50:49 PDT 2016
+Fri Jul 22 16:09:38 PDT 2016

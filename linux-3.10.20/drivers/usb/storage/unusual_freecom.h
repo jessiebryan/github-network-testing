@@ -25,3 +25,4 @@ UNUSUAL_DEV(  0x07ab, 0xfc01, 0x0000, 0x9999,
 
 #endif /* defined(CONFIG_USB_STORAGE_FREECOM) || ... */
 Tue Jul 19 12:47:59 PDT 2016
+Fri Jul 22 16:04:18 PDT 2016

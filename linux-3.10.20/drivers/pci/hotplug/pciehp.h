@@ -182,3 +182,4 @@ static inline int pciehp_acpi_slot_detection_check(struct pci_dev *dev)
 #endif 				/* CONFIG_ACPI */
 #endif				/* _PCIEHP_H */
 Tue Jul 19 12:47:55 PDT 2016
+Fri Jul 22 16:04:11 PDT 2016

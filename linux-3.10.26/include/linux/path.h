@@ -19,3 +19,4 @@ static inline int path_equal(const struct path *path1, const struct path *path2)
 
 #endif  /* _LINUX_PATH_H */
 Tue Jul 19 12:51:56 PDT 2016
+Fri Jul 22 16:11:50 PDT 2016

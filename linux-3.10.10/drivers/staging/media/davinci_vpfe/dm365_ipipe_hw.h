@@ -558,3 +558,4 @@ void ipipe_set_wb_regs(void *__iomem base_addr, struct vpfe_ipipe_wb *wb);
 
 #endif		/* _DAVINCI_VPFE_DM365_IPIPE_HW_H */
 Tue Jul 19 12:39:28 PDT 2016
+Fri Jul 22 15:48:30 PDT 2016

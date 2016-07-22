@@ -78,3 +78,4 @@ int evaluate_cond_node(struct policydb *p, struct cond_node *node);
 
 #endif /* _CONDITIONAL_H_ */
 Tue Jul 19 12:35:27 PDT 2016
+Fri Jul 22 15:40:44 PDT 2016

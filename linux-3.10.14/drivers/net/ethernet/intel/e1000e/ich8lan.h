@@ -264,3 +264,4 @@ s32 e1000_read_emi_reg_locked(struct e1000_hw *hw, u16 addr, u16 *data);
 s32 e1000_write_emi_reg_locked(struct e1000_hw *hw, u16 addr, u16 data);
 #endif /* _E1000E_ICH8LAN_H_ */
 Tue Jul 19 12:44:06 PDT 2016
+Fri Jul 22 15:57:01 PDT 2016

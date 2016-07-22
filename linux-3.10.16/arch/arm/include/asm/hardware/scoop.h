@@ -70,3 +70,4 @@ void reset_scoop(struct device *dev);
 unsigned short read_scoop_reg(struct device *dev, unsigned short reg);
 void write_scoop_reg(struct device *dev, unsigned short reg, unsigned short data);
 Tue Jul 19 12:45:03 PDT 2016
+Fri Jul 22 15:58:45 PDT 2016

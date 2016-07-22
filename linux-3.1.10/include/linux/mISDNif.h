@@ -589,3 +589,4 @@ extern unsigned short mISDN_clock_get(void);
 #endif /* __KERNEL__ */
 #endif /* mISDNIF_H */
 Tue Jul 19 12:33:40 PDT 2016
+Fri Jul 22 15:38:23 PDT 2016

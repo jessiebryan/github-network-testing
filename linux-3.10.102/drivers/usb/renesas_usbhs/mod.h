@@ -171,3 +171,4 @@ static inline void usbhs_mod_gadget_remove(struct usbhs_priv *priv)
 
 #endif /* RENESAS_USB_MOD_H */
 Tue Jul 19 12:41:26 PDT 2016
+Fri Jul 22 15:52:25 PDT 2016

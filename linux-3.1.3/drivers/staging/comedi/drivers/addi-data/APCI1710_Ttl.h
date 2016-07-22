@@ -43,3 +43,4 @@ int i_APCI1710_InsnWriteSetTTLIOChlOnOff(struct comedi_device *dev,
 					 struct comedi_subdevice *s,
 					 struct comedi_insn *insn, unsigned int *data);
 Tue Jul 19 12:35:16 PDT 2016
+Fri Jul 22 15:40:23 PDT 2016

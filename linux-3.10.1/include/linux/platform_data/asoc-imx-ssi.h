@@ -22,3 +22,4 @@ extern int mxc_set_irq_fiq(unsigned int irq, unsigned int type);
 #endif /* __MACH_SSI_H */
 
 Tue Jul 19 12:38:57 PDT 2016
+Fri Jul 22 15:47:25 PDT 2016

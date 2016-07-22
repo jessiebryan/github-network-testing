@@ -32,3 +32,4 @@ struct sht15_platform_data {
 	bool low_resolution;
 };
 Tue Jul 19 12:46:48 PDT 2016
+Fri Jul 22 16:02:04 PDT 2016

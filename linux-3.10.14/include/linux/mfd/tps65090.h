@@ -136,3 +136,4 @@ static inline int tps65090_clr_bits(struct device *dev, int reg,
 
 #endif /*__LINUX_MFD_TPS65090_H */
 Tue Jul 19 12:44:16 PDT 2016
+Fri Jul 22 15:57:19 PDT 2016

@@ -26,3 +26,4 @@ static inline int vt_kmsg_redirect(int new)
 
 #endif /* _LINUX_VT_H */
 Tue Jul 19 12:38:59 PDT 2016
+Fri Jul 22 15:47:28 PDT 2016

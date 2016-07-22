@@ -58,3 +58,4 @@ int batadv_window_protected(struct batadv_priv *bat_priv, int32_t seq_num_diff,
 
 #endif /* _NET_BATMAN_ADV_ROUTING_H_ */
 Tue Jul 19 12:50:04 PDT 2016
+Fri Jul 22 16:08:15 PDT 2016

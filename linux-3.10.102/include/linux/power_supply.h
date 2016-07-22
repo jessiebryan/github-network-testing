@@ -303,3 +303,4 @@ static inline bool power_supply_is_watt_property(enum power_supply_property psp)
 
 #endif /* __LINUX_POWER_SUPPLY_H__ */
 Tue Jul 19 12:41:31 PDT 2016
+Fri Jul 22 15:52:35 PDT 2016

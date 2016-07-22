@@ -391,3 +391,4 @@ static inline bool kvmppc_critical_section(struct kvm_vcpu *vcpu)
 
 #endif /* __ASM_KVM_BOOK3S_H__ */
 Tue Jul 19 12:38:02 PDT 2016
+Fri Jul 22 15:45:37 PDT 2016

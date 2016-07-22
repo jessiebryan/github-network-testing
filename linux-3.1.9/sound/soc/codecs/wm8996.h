@@ -3716,3 +3716,4 @@ int wm8996_detect(struct snd_soc_codec *codec, struct snd_soc_jack *jack,
 
 #endif
 Tue Jul 19 12:38:25 PDT 2016
+Fri Jul 22 15:46:22 PDT 2016

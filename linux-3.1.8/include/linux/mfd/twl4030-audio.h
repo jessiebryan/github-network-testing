@@ -271,3 +271,4 @@ unsigned int twl4030_audio_get_mclk(void);
 
 #endif	/* End of __TWL4030_CODEC_H__ */
 Tue Jul 19 12:37:42 PDT 2016
+Fri Jul 22 15:45:05 PDT 2016

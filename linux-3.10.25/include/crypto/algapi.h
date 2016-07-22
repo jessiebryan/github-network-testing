@@ -389,3 +389,4 @@ static inline int crypto_requires_sync(u32 type, u32 mask)
 #endif	/* _CRYPTO_ALGAPI_H */
 
 Tue Jul 19 12:51:14 PDT 2016
+Fri Jul 22 16:10:27 PDT 2016

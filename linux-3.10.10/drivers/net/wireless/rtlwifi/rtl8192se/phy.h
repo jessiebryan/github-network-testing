@@ -101,3 +101,4 @@ u8 rtl92s_phy_config_rf(struct ieee80211_hw *hw, enum radio_path rfpath) ;
 #endif
 
 Tue Jul 19 12:39:26 PDT 2016
+Fri Jul 22 15:48:25 PDT 2016

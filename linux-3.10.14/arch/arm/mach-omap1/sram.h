@@ -6,3 +6,4 @@ extern void omap_sram_reprogram_clock(u32 dpllctl, u32 ckctl);
 extern void omap1_sram_reprogram_clock(u32 ckctl, u32 dpllctl);
 extern unsigned long omap1_sram_reprogram_clock_sz;
 Tue Jul 19 12:43:47 PDT 2016
+Fri Jul 22 15:56:25 PDT 2016

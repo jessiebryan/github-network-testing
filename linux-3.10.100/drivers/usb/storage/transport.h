@@ -102,3 +102,4 @@ extern int usb_stor_bulk_srb(struct us_data* us, unsigned int pipe,
 extern int usb_stor_port_reset(struct us_data *us);
 #endif
 Tue Jul 19 12:40:08 PDT 2016
+Fri Jul 22 15:49:49 PDT 2016

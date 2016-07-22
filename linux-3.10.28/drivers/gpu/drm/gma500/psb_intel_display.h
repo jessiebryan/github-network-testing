@@ -24,3 +24,4 @@ bool psb_intel_pipe_has_type(struct drm_crtc *crtc, int type);
 
 #endif
 Tue Jul 19 12:53:00 PDT 2016
+Fri Jul 22 16:13:55 PDT 2016

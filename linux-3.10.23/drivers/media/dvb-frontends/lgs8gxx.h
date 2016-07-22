@@ -94,3 +94,4 @@ struct dvb_frontend *lgs8gxx_attach(const struct lgs8gxx_config *config,
 
 #endif /* __LGS8GXX_H__ */
 Tue Jul 19 12:49:47 PDT 2016
+Fri Jul 22 16:07:41 PDT 2016

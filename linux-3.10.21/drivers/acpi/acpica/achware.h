@@ -149,3 +149,4 @@ acpi_hw_derive_pci_id(struct acpi_pci_id *pci_id,
 
 #endif				/* __ACHWARE_H__ */
 Tue Jul 19 12:48:27 PDT 2016
+Fri Jul 22 16:05:11 PDT 2016

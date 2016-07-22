@@ -105,3 +105,4 @@ extern void c2_mq_rep_init(struct c2_mq *q, u32 index, u32 q_size, u32 msg_size,
 
 #endif				/* _C2_MQ_H_ */
 Tue Jul 19 12:45:56 PDT 2016
+Fri Jul 22 16:00:27 PDT 2016

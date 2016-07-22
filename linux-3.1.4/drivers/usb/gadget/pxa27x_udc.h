@@ -504,3 +504,4 @@ static inline struct pxa_udc *to_gadget_udc(struct usb_gadget *gadget)
 
 #endif /* __LINUX_USB_GADGET_PXA27X_H */
 Tue Jul 19 12:35:53 PDT 2016
+Fri Jul 22 15:41:35 PDT 2016

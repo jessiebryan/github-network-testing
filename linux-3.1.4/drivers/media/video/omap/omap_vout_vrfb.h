@@ -39,3 +39,4 @@ void omap_vout_calculate_vrfb_offset(struct omap_vout_device *vout) { }
 
 #endif
 Tue Jul 19 12:35:47 PDT 2016
+Fri Jul 22 15:41:24 PDT 2016

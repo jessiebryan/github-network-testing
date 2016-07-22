@@ -127,3 +127,4 @@ typedef struct _AUTHENTICATE_MESSAGE {
 	char UserString[0];
 } __attribute__((packed)) AUTHENTICATE_MESSAGE, *PAUTHENTICATE_MESSAGE;
 Tue Jul 19 12:34:22 PDT 2016
+Fri Jul 22 15:39:21 PDT 2016

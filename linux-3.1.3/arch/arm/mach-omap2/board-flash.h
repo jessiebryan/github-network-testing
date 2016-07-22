@@ -29,3 +29,4 @@ extern void board_flash_init(struct flash_partitions [],
 extern void board_nand_init(struct mtd_partition *nand_parts,
 					u8 nr_parts, u8 cs, int nand_type);
 Tue Jul 19 12:34:42 PDT 2016
+Fri Jul 22 15:39:43 PDT 2016

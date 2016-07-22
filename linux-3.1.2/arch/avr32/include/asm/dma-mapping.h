@@ -338,3 +338,4 @@ dma_sync_sg_for_device(struct device *dev, struct scatterlist *sg,
 
 #endif /* __ASM_AVR32_DMA_MAPPING_H */
 Tue Jul 19 12:33:53 PDT 2016
+Fri Jul 22 15:38:42 PDT 2016

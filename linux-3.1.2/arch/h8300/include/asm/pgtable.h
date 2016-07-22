@@ -72,3 +72,4 @@ extern int is_in_rom(unsigned long);
 #define arch_enter_lazy_cpu_mode()    do {} while (0)
 #endif /* _H8300_PGTABLE_H */
 Tue Jul 19 12:33:55 PDT 2016
+Fri Jul 22 15:38:46 PDT 2016

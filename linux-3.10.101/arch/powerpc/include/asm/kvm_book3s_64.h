@@ -283,3 +283,4 @@ static inline void note_hpte_modification(struct kvm *kvm,
 
 #endif /* __ASM_KVM_BOOK3S_64_H__ */
 Tue Jul 19 12:40:32 PDT 2016
+Fri Jul 22 15:50:36 PDT 2016

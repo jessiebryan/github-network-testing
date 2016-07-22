@@ -59,3 +59,4 @@ extern void main_irq_hfc(struct BCState *bcs);
 extern void inithfc(struct IsdnCardState *cs);
 extern void releasehfc(struct IsdnCardState *cs);
 Tue Jul 19 12:53:40 PDT 2016
+Fri Jul 22 16:15:12 PDT 2016

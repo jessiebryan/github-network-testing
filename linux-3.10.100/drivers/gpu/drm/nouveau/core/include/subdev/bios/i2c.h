@@ -24,3 +24,4 @@ int dcb_i2c_parse(struct nouveau_bios *, u8 index, struct dcb_i2c_entry *);
 
 #endif
 Tue Jul 19 12:39:59 PDT 2016
+Fri Jul 22 15:49:32 PDT 2016

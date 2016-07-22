@@ -42,3 +42,4 @@ extern void mx31moboard_smartbot_init(int board);
 
 #endif /* __ASM_ARCH_MXC_BOARD_MX31MOBOARD_H__ */
 Tue Jul 19 12:41:42 PDT 2016
+Fri Jul 22 15:52:51 PDT 2016

@@ -85,3 +85,4 @@ extern struct iscsi_cmd *iscsit_allocate_cmd(struct iscsi_conn *, gfp_t);
 extern int iscsit_sequence_cmd(struct iscsi_conn *, struct iscsi_cmd *,
 			       unsigned char *, __be32);
 Tue Jul 19 12:39:38 PDT 2016
+Fri Jul 22 15:48:49 PDT 2016

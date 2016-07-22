@@ -81,3 +81,4 @@ DEFINE_EVENT(radeon_fence_request, radeon_fence_wait_end,
 #define TRACE_INCLUDE_PATH .
 #include <trace/define_trace.h>
 Tue Jul 19 12:51:03 PDT 2016
+Fri Jul 22 16:10:07 PDT 2016

@@ -151,3 +151,4 @@ static inline int cfc_check_trigger_arg_max(unsigned int *arg,
 
 #endif /* _COMEDI_FC_H */
 Tue Jul 19 12:51:10 PDT 2016
+Fri Jul 22 16:10:19 PDT 2016

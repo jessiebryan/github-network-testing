@@ -376,3 +376,4 @@ extern int mdfld_dsi_panel_reset(int pipe);
 
 #endif /*__MDFLD_DSI_OUTPUT_H__*/
 Tue Jul 19 12:52:21 PDT 2016
+Fri Jul 22 16:12:39 PDT 2016

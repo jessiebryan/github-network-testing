@@ -250,3 +250,4 @@ int intel_render_ring_init_dri(struct drm_device *dev, u64 start, u32 size);
 
 #endif /* _INTEL_RINGBUFFER_H_ */
 Tue Jul 19 12:50:24 PDT 2016
+Fri Jul 22 16:08:51 PDT 2016

@@ -15,3 +15,4 @@ int bcma_bus_register(struct bcma_bus *bus);
 
 #endif /* LINUX_BCMA_SOC_H_ */
 Tue Jul 19 12:51:54 PDT 2016
+Fri Jul 22 16:11:46 PDT 2016

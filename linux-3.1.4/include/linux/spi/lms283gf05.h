@@ -27,3 +27,4 @@ struct lms283gf05_pdata {
 
 #endif /* _INCLUDE_LINUX_SPI_LMS283GF05_H_ */
 Tue Jul 19 12:35:58 PDT 2016
+Fri Jul 22 15:41:46 PDT 2016

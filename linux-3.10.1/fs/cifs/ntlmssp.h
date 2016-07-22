@@ -137,3 +137,4 @@ int build_ntlmssp_auth_blob(unsigned char *pbuffer, u16 *buflen,
 			struct cifs_ses *ses,
 			const struct nls_table *nls_cp);
 Tue Jul 19 12:38:52 PDT 2016
+Fri Jul 22 15:47:17 PDT 2016

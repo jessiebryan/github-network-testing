@@ -181,3 +181,4 @@ nmk_pinctrl_db8540_init(const struct nmk_pinctrl_soc_data **soc)
 
 #endif /* PINCTRL_PINCTRL_NOMADIK_H */
 Tue Jul 19 12:45:24 PDT 2016
+Fri Jul 22 15:59:26 PDT 2016

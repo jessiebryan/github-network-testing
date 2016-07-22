@@ -122,3 +122,4 @@ extern int of_mpc8xxx_spi_probe(struct platform_device *ofdev);
 
 #endif /* __SPI_FSL_LIB_H__ */
 Tue Jul 19 12:37:35 PDT 2016
+Fri Jul 22 15:44:51 PDT 2016

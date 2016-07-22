@@ -69,3 +69,4 @@
 #define U300_GPIO_PIN_GPIO54		54 /* Unrouted */
 #define U300_GPIO_PIN_GPIO55		55 /* Unrouted */
 Tue Jul 19 12:45:06 PDT 2016
+Fri Jul 22 15:58:50 PDT 2016

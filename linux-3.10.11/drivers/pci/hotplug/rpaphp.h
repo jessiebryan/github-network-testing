@@ -102,3 +102,4 @@ int rpaphp_deregister_slot(struct slot *slot);
 	
 #endif				/* _PPC64PHP_H */
 Tue Jul 19 12:42:09 PDT 2016
+Fri Jul 22 15:53:31 PDT 2016

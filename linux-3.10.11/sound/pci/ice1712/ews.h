@@ -85,3 +85,4 @@ extern struct snd_ice1712_card_info snd_ice1712_ews_cards[];
 
 #endif /* __SOUND_EWS_H */
 Tue Jul 19 12:42:27 PDT 2016
+Fri Jul 22 15:53:58 PDT 2016

@@ -130,3 +130,4 @@ void r8712_set_rpwm(struct _adapter *padapter, u8 val8);
 
 #endif  /* __RTL871X_PWRCTRL_H_ */
 Tue Jul 19 12:39:28 PDT 2016
+Fri Jul 22 15:48:30 PDT 2016

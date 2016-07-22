@@ -35,3 +35,4 @@ void rtl88e_deinit_sw_vars(struct ieee80211_hw *hw);
 
 #endif
 Tue Jul 19 12:45:24 PDT 2016
+Fri Jul 22 15:59:25 PDT 2016

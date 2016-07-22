@@ -194,3 +194,4 @@ int umc_controller_reset(struct umc_dev *umc);
 
 #endif /* #ifndef _LINUX_UWB_UMC_H_ */
 Tue Jul 19 12:44:18 PDT 2016
+Fri Jul 22 15:57:23 PDT 2016

@@ -345,3 +345,4 @@ Fields in assign CAI information element:
 #define MDM_CAPI_NEG_DISABLED         0x0000
 #endif
 Tue Jul 19 12:38:08 PDT 2016
+Fri Jul 22 15:45:48 PDT 2016

@@ -140,3 +140,4 @@ static struct xor_block_template xor_block_arm4regs = {
 		xor_speed(&xor_block_32regs);	\
 	} while (0)
 Tue Jul 19 12:41:01 PDT 2016
+Fri Jul 22 15:51:31 PDT 2016

@@ -44,3 +44,4 @@ static inline unsigned long s3c6400_get_epll(unsigned long baseclk)
 				__raw_readl(S3C_EPLL_CON1));
 }
 Tue Jul 19 12:33:15 PDT 2016
+Fri Jul 22 15:37:33 PDT 2016

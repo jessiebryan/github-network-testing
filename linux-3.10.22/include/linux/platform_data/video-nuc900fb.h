@@ -82,3 +82,4 @@ extern void __init nuc900_fb_set_platdata(struct nuc900fb_mach_info *);
 
 #endif /* __ASM_ARM_FB_H */
 Tue Jul 19 12:49:21 PDT 2016
+Fri Jul 22 16:06:52 PDT 2016

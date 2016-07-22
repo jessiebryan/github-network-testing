@@ -46,3 +46,4 @@ static inline void st_accel_deallocate_ring(struct iio_dev *indio_dev)
 
 #endif /* ST_ACCEL_H */
 Tue Jul 19 12:48:29 PDT 2016
+Fri Jul 22 16:05:14 PDT 2016

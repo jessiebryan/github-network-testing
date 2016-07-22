@@ -18,3 +18,4 @@ extern int scsi_partsize(unsigned char *buf, unsigned long capacity,
 extern unsigned char *scsi_bios_ptable(struct block_device *bdev);
 #endif /* def SCSICAM_H */
 Tue Jul 19 12:41:34 PDT 2016
+Fri Jul 22 15:52:39 PDT 2016

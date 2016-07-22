@@ -47,3 +47,4 @@ struct usbip_exported_device *usbip_host_get_device(int num);
 
 #endif /* __USBIP_HOST_DRIVER_H */
 Tue Jul 19 12:47:58 PDT 2016
+Fri Jul 22 16:04:16 PDT 2016

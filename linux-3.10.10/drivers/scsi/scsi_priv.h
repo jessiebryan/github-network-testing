@@ -178,3 +178,4 @@ extern int scsi_internal_device_unblock(struct scsi_device *sdev,
 
 #endif /* _SCSI_PRIV_H */
 Tue Jul 19 12:39:27 PDT 2016
+Fri Jul 22 15:48:28 PDT 2016

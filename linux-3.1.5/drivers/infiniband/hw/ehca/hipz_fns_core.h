@@ -99,3 +99,4 @@ static inline void hipz_set_cqx_n1(struct ehca_cq *cq, u32 value)
 
 #endif /* __HIPZ_FNC_CORE_H__ */
 Tue Jul 19 12:36:20 PDT 2016
+Fri Jul 22 15:42:27 PDT 2016

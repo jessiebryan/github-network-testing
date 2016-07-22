@@ -130,3 +130,4 @@ void InitialGain819xPci(struct ieee80211_device *ieee, u8 Operation);
 
 #endif /* _R819XU_PHY_H */
 Tue Jul 19 12:36:59 PDT 2016
+Fri Jul 22 15:43:46 PDT 2016

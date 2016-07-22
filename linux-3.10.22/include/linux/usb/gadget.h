@@ -983,3 +983,4 @@ extern void usb_ep_autoconfig_reset(struct usb_gadget *);
 
 #endif /* __LINUX_USB_GADGET_H */
 Tue Jul 19 12:49:22 PDT 2016
+Fri Jul 22 16:06:54 PDT 2016

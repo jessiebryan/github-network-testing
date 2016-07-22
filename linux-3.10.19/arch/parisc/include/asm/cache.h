@@ -59,3 +59,4 @@ void parisc_setup_cache_timing(void);
 
 #endif
 Tue Jul 19 12:47:05 PDT 2016
+Fri Jul 22 16:02:37 PDT 2016

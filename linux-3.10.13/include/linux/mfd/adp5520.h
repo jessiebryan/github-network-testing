@@ -298,3 +298,4 @@ extern int adp5520_unregister_notifier(struct device *dev,
 
 #endif /* __LINUX_MFD_ADP5520_H */
 Tue Jul 19 12:43:37 PDT 2016
+Fri Jul 22 15:56:06 PDT 2016

@@ -410,3 +410,4 @@ enum _RTL8192Usb_HW {
 #define GPE 0x10a
 #endif
 Tue Jul 19 12:33:34 PDT 2016
+Fri Jul 22 15:38:12 PDT 2016

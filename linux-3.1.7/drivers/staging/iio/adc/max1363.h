@@ -174,3 +174,4 @@ static inline void max1363_ring_cleanup(struct iio_dev *indio_dev)
 #endif /* CONFIG_MAX1363_RING_BUFFER */
 #endif /* _MAX1363_H_ */
 Tue Jul 19 12:36:59 PDT 2016
+Fri Jul 22 15:43:45 PDT 2016

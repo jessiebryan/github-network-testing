@@ -245,3 +245,4 @@ static inline void vx_set_stream_cmd_params(struct vx_rmh *rmh, int is_capture, 
 
 #endif /* __VX_CMD_H */
 Tue Jul 19 12:36:35 PDT 2016
+Fri Jul 22 15:43:00 PDT 2016

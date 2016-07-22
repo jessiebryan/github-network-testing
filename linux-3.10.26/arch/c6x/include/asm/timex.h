@@ -32,3 +32,4 @@ static inline cycles_t get_cycles(void)
 
 #endif /* _ASM_C6X_TIMEX_H */
 Tue Jul 19 12:51:30 PDT 2016
+Fri Jul 22 16:10:57 PDT 2016

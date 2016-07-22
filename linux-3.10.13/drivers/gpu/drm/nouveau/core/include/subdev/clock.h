@@ -59,3 +59,4 @@ int nva3_clock_pll_calc(struct nouveau_clock *, struct nvbios_pll *,
 
 #endif
 Tue Jul 19 12:43:24 PDT 2016
+Fri Jul 22 15:55:42 PDT 2016

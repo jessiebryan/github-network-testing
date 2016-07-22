@@ -713,3 +713,4 @@ int lpfc_sli4_post_status_check(struct lpfc_hba *);
 uint8_t lpfc_sli_config_mbox_subsys_get(struct lpfc_hba *, LPFC_MBOXQ_t *);
 uint8_t lpfc_sli_config_mbox_opcode_get(struct lpfc_hba *, LPFC_MBOXQ_t *);
 Tue Jul 19 12:45:25 PDT 2016
+Fri Jul 22 15:59:27 PDT 2016

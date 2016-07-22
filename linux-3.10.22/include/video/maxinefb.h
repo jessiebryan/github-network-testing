@@ -37,3 +37,4 @@
 #define IMS332_REG_CURSOR_COLOR_PALETTE	0x0a1	/* cursor color palette, */
 						/* 3 entries             */
 Tue Jul 19 12:49:26 PDT 2016
+Fri Jul 22 16:07:00 PDT 2016

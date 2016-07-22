@@ -39,3 +39,4 @@
 #define BOARD_RB532		"500"
 #define BOARD_RB532A		"500r5"
 Tue Jul 19 12:46:25 PDT 2016
+Fri Jul 22 16:01:23 PDT 2016

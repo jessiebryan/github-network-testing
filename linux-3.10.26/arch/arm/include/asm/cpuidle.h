@@ -28,3 +28,4 @@ static inline int arm_cpuidle_simple_enter(struct cpuidle_device *dev,
 
 #endif
 Tue Jul 19 12:51:26 PDT 2016
+Fri Jul 22 16:10:49 PDT 2016

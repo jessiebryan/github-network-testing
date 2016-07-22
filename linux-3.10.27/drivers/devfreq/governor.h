@@ -40,3 +40,4 @@ extern int devfreq_remove_governor(struct devfreq_governor *governor);
 
 #endif /* _GOVERNOR_H */
 Tue Jul 19 12:52:20 PDT 2016
+Fri Jul 22 16:12:38 PDT 2016

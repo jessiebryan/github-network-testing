@@ -65,3 +65,4 @@ static inline int kmsg_dump_unregister(struct kmsg_dumper *dumper)
 
 #endif /* _LINUX_KMSG_DUMP_H */
 Tue Jul 19 12:37:05 PDT 2016
+Fri Jul 22 15:43:56 PDT 2016

@@ -9,3 +9,4 @@ extern int twl4030_init_chip_irq(const char *chip);
 
 #endif /*  __TWL_CORE_H__ */
 Tue Jul 19 12:53:03 PDT 2016
+Fri Jul 22 16:14:01 PDT 2016

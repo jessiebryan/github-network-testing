@@ -58,3 +58,4 @@ struct vmci_handle vmci_resource_handle(struct vmci_resource *resource);
 
 #endif /* _VMCI_RESOURCE_H_ */
 Tue Jul 19 12:38:46 PDT 2016
+Fri Jul 22 15:47:04 PDT 2016

@@ -59,3 +59,4 @@ struct fan53555_platform_data {
 
 #endif /* __FAN53555_H__ */
 Tue Jul 19 12:42:21 PDT 2016
+Fri Jul 22 15:53:48 PDT 2016

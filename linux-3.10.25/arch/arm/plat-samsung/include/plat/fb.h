@@ -70,3 +70,4 @@ extern void s5p64x0_fb_gpio_setup_24bpp(void);
 
 #endif /* __PLAT_S3C_FB_H */
 Tue Jul 19 12:50:49 PDT 2016
+Fri Jul 22 16:09:38 PDT 2016

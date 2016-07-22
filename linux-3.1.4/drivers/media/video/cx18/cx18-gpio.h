@@ -33,3 +33,4 @@ enum cx18_gpio_reset_type {
 void cx18_reset_ir_gpio(void *data);
 int cx18_reset_tuner_gpio(void *dev, int component, int cmd, int value);
 Tue Jul 19 12:35:47 PDT 2016
+Fri Jul 22 15:41:23 PDT 2016

@@ -22,3 +22,4 @@ int snd_usb_is_big_endian_format(struct snd_usb_audio *chip,
 
 #endif /* __USBAUDIO_QUIRKS_H */
 Tue Jul 19 12:38:25 PDT 2016
+Fri Jul 22 15:46:22 PDT 2016

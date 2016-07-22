@@ -14,3 +14,4 @@ extern int iTCO_vendor_check_noreboot_on(void);
 				/* 1=check noreboot; 0=don't check */
 #endif
 Tue Jul 19 12:47:59 PDT 2016
+Fri Jul 22 16:04:18 PDT 2016

@@ -187,3 +187,4 @@ void iio_free_trigger(struct iio_trigger *trig);
 
 #endif /* _IIO_TRIGGER_H_ */
 Tue Jul 19 12:36:59 PDT 2016
+Fri Jul 22 15:43:45 PDT 2016

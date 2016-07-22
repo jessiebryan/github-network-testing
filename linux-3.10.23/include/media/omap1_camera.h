@@ -34,3 +34,4 @@ struct omap1_cam_platform_data {
 
 #endif /* __MEDIA_OMAP1_CAMERA_H_ */
 Tue Jul 19 12:50:01 PDT 2016
+Fri Jul 22 16:08:08 PDT 2016

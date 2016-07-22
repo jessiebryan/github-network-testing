@@ -414,3 +414,4 @@ static inline void __omap_dm_timer_write_status(struct omap_dm_timer *timer,
 
 #endif /* __ASM_ARCH_DMTIMER_H */
 Tue Jul 19 12:44:27 PDT 2016
+Fri Jul 22 15:57:40 PDT 2016

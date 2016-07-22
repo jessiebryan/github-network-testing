@@ -30,3 +30,4 @@ void usbmisc_unset_ops(const struct usbmisc_ops *ops);
 int
 usbmisc_get_init_data(struct device *dev, struct usbmisc_usb_device *usbdev);
 Tue Jul 19 12:41:25 PDT 2016
+Fri Jul 22 15:52:24 PDT 2016

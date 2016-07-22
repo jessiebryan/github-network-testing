@@ -31,3 +31,4 @@ extern void r8a7778_init_irq_extpin(int irlm);
 
 #endif /* __ASM_R8A7778_H__ */
 Tue Jul 19 12:39:07 PDT 2016
+Fri Jul 22 15:47:45 PDT 2016

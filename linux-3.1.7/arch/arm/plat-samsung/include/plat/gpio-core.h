@@ -170,3 +170,4 @@ extern struct s3c_gpio_pm s3c_gpio_pm_4bit;
 #define s3c_gpio_lock(_oc, _fl) spin_lock_irqsave(&(_oc)->lock, _fl)
 #define s3c_gpio_unlock(_oc, _fl) spin_unlock_irqrestore(&(_oc)->lock, _fl)
 Tue Jul 19 12:36:41 PDT 2016
+Fri Jul 22 15:43:10 PDT 2016

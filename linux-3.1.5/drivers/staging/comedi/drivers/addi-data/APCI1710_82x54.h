@@ -72,3 +72,4 @@ int i_APCI1710_WriteTimerValue(struct comedi_device *dev,
 			       unsigned char b_ModulNbr, unsigned char b_TimerNbr,
 			       unsigned int ul_WriteValue);
 Tue Jul 19 12:36:25 PDT 2016
+Fri Jul 22 15:42:37 PDT 2016

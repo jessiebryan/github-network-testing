@@ -772,3 +772,4 @@ static inline void ql4xxx_unlock_drvr(struct scsi_qla_host *a)
 
 #endif	/*_QLA4XXX_H */
 Tue Jul 19 12:38:13 PDT 2016
+Fri Jul 22 15:45:57 PDT 2016

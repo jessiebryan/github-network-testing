@@ -48,3 +48,4 @@ static inline int LM75_TEMP_FROM_REG(u16 reg)
 	return ((s16)reg / 128) * 500;
 }
 Tue Jul 19 12:38:43 PDT 2016
+Fri Jul 22 15:46:59 PDT 2016

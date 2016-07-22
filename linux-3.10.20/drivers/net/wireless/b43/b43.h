@@ -1081,3 +1081,4 @@ static inline bool __b43_warn_on_dummy(bool x) { return x; }
 
 #endif /* B43_H_ */
 Tue Jul 19 12:47:54 PDT 2016
+Fri Jul 22 16:04:09 PDT 2016

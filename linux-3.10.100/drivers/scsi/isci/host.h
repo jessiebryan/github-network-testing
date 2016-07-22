@@ -516,3 +516,4 @@ int isci_gpio_write(struct sas_ha_struct *, u8 reg_type, u8 reg_index,
 		    u8 reg_count, u8 *write_data);
 #endif
 Tue Jul 19 12:40:05 PDT 2016
+Fri Jul 22 15:49:44 PDT 2016

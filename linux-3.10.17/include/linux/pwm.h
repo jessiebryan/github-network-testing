@@ -280,3 +280,4 @@ static inline void pwm_add_table(struct pwm_lookup *table, size_t num)
 
 #endif /* __LINUX_PWM_H */
 Tue Jul 19 12:46:09 PDT 2016
+Fri Jul 22 16:00:52 PDT 2016

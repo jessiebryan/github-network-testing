@@ -298,3 +298,4 @@ int tps65217_clear_bits(struct tps65217 *tps, unsigned int reg,
 
 #endif /*  __LINUX_MFD_TPS65217_H */
 Tue Jul 19 12:53:13 PDT 2016
+Fri Jul 22 16:14:20 PDT 2016

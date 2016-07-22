@@ -327,3 +327,4 @@ static inline void s3c_sdhci_setname(int id, char *name)
 }
 #endif /* __PLAT_S3C_SDHCI_H */
 Tue Jul 19 12:50:10 PDT 2016
+Fri Jul 22 16:08:25 PDT 2016

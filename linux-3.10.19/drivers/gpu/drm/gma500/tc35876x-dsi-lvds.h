@@ -37,3 +37,4 @@ extern const struct panel_funcs mdfld_tc35876x_funcs;
 
 #endif /*__MDFLD_DSI_LVDS_BRIDGE_H__*/
 Tue Jul 19 12:47:12 PDT 2016
+Fri Jul 22 16:02:49 PDT 2016

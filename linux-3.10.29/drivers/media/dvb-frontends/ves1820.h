@@ -55,3 +55,4 @@ static inline struct dvb_frontend* ves1820_attach(const struct ves1820_config* c
 
 #endif // VES1820_H
 Tue Jul 19 12:53:40 PDT 2016
+Fri Jul 22 16:15:14 PDT 2016

@@ -127,3 +127,4 @@ extern void release2bds0(struct IsdnCardState *cs);
 extern void hfc2bds0_interrupt(struct IsdnCardState *cs, u_char val);
 extern void set_cs_func(struct IsdnCardState *cs);
 Tue Jul 19 12:45:56 PDT 2016
+Fri Jul 22 16:00:28 PDT 2016

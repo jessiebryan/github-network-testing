@@ -11,3 +11,4 @@
 struct omap_sdrc_params *nokia_get_sdram_timings(void);
 
 Tue Jul 19 12:52:06 PDT 2016
+Fri Jul 22 16:12:09 PDT 2016

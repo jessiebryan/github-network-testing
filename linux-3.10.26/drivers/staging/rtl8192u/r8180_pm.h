@@ -27,3 +27,4 @@ int rtl8180_enable_wake (struct pci_dev *dev, u32 state, int enable);
 
 #endif // CONFIG_RTL8180_PM
 Tue Jul 19 12:51:50 PDT 2016
+Fri Jul 22 16:11:38 PDT 2016

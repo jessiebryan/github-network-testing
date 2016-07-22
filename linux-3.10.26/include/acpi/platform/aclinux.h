@@ -178,3 +178,4 @@ static inline void *acpi_os_acquire_object(acpi_cache_t * cache)
 
 #endif /* __ACLINUX_H__ */
 Tue Jul 19 12:51:53 PDT 2016
+Fri Jul 22 16:11:44 PDT 2016

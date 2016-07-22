@@ -178,3 +178,4 @@ static inline int ssb_gige_get_macaddr(struct pci_dev *pdev, u8 *macaddr)
 #endif /* CONFIG_SSB_DRIVER_GIGE */
 #endif /* LINUX_SSB_DRIVER_GIGE_H_ */
 Tue Jul 19 12:53:15 PDT 2016
+Fri Jul 22 16:14:24 PDT 2016

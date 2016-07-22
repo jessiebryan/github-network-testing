@@ -1191,3 +1191,4 @@ int smscore_led_state(struct smscore_device_t *core, int led);
 
 #endif /* __SMS_CORE_API_H__ */
 Tue Jul 19 12:52:22 PDT 2016
+Fri Jul 22 16:12:42 PDT 2016

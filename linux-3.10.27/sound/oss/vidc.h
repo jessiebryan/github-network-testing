@@ -62,3 +62,4 @@ extern void	vidc_synth_exit(struct address_info *hw_config);
 extern int      vidc_synth_get_volume(void);
 extern int      vidc_synth_set_volume(int vol);
 Tue Jul 19 12:52:41 PDT 2016
+Fri Jul 22 16:13:18 PDT 2016

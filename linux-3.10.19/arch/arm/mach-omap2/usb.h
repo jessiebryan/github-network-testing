@@ -72,3 +72,4 @@ extern void am35x_set_mode(u8 musb_mode);
 extern void ti81xx_musb_phy_power(u8 on);
 
 Tue Jul 19 12:46:57 PDT 2016
+Fri Jul 22 16:02:22 PDT 2016

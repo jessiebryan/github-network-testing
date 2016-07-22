@@ -28,3 +28,4 @@ struct s3c_hsotg_plat {
 	unsigned int		is_osc : 1;
 };
 Tue Jul 19 12:34:44 PDT 2016
+Fri Jul 22 15:39:48 PDT 2016

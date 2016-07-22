@@ -65,3 +65,4 @@ void tt_commit_changes(struct bat_priv *bat_priv);
 
 #endif /* _NET_BATMAN_ADV_TRANSLATION_TABLE_H_ */
 Tue Jul 19 12:37:09 PDT 2016
+Fri Jul 22 15:44:05 PDT 2016

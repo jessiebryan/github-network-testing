@@ -11,3 +11,4 @@ static inline int fb_is_primary_device(struct fb_info *info)
 
 #endif /* __ASM_GENERIC_FB_H_ */
 Tue Jul 19 12:42:56 PDT 2016
+Fri Jul 22 15:54:51 PDT 2016

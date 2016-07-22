@@ -321,3 +321,4 @@ wlan_pwr_cfg rtl8723A_leave_lps_flow[RTL8723A_TRANS_LPS_TO_ACT_STPS
 
 #endif
 Tue Jul 19 12:49:50 PDT 2016
+Fri Jul 22 16:07:48 PDT 2016

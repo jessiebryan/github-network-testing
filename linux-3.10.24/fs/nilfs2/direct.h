@@ -50,3 +50,4 @@ int nilfs_direct_delete_and_convert(struct nilfs_bmap *, __u64, __u64 *,
 
 #endif	/* _NILFS_DIRECT_H */
 Tue Jul 19 12:50:34 PDT 2016
+Fri Jul 22 16:09:11 PDT 2016

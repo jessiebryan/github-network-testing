@@ -86,3 +86,4 @@ int  nv50_evo_dmaobj_new(struct nouveau_channel *, u32 handle, u32 memtype,
 
 #endif /* __NV50_DISPLAY_H__ */
 Tue Jul 19 12:35:45 PDT 2016
+Fri Jul 22 15:41:20 PDT 2016

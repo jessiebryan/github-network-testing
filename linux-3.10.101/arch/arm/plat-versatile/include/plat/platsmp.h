@@ -13,3 +13,4 @@ extern void versatile_secondary_startup(void);
 extern void versatile_secondary_init(unsigned int cpu);
 extern int  versatile_boot_secondary(unsigned int cpu, struct task_struct *idle);
 Tue Jul 19 12:40:24 PDT 2016
+Fri Jul 22 15:50:20 PDT 2016

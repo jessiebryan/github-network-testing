@@ -800,3 +800,4 @@ static inline int tps65910_chip_id(struct tps65910 *tps65910)
 
 #endif /*  __LINUX_MFD_TPS65910_H */
 Tue Jul 19 12:33:40 PDT 2016
+Fri Jul 22 15:38:22 PDT 2016

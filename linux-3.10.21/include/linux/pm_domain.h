@@ -312,3 +312,4 @@ static inline void pm_genpd_syscore_poweron(struct device *dev)
 
 #endif /* _LINUX_PM_DOMAIN_H */
 Tue Jul 19 12:48:42 PDT 2016
+Fri Jul 22 16:05:40 PDT 2016

@@ -81,3 +81,4 @@ extern unsigned char cfag12864b_isinited(void);
 #endif /* _CFAG12864B_H_ */
 
 Tue Jul 19 12:35:21 PDT 2016
+Fri Jul 22 15:40:32 PDT 2016

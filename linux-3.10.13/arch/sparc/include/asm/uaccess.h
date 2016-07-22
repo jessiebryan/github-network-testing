@@ -13,3 +13,4 @@ extern long strncpy_from_user(char *dest, const char __user *src, long count);
 
 #endif
 Tue Jul 19 12:43:21 PDT 2016
+Fri Jul 22 15:55:36 PDT 2016

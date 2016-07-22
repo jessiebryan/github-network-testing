@@ -186,3 +186,4 @@ void msm_serial_set_mnd_regs_from_uartclk(struct uart_port *port)
 
 #endif	/* __DRIVERS_SERIAL_MSM_SERIAL_H */
 Tue Jul 19 12:51:12 PDT 2016
+Fri Jul 22 16:10:23 PDT 2016

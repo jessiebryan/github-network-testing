@@ -298,3 +298,4 @@ int dma_resume(struct device *dev);
 
 #endif /*__INTEL_MID_DMAC_REGS_H__*/
 Tue Jul 19 12:51:42 PDT 2016
+Fri Jul 22 16:11:21 PDT 2016

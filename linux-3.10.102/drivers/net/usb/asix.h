@@ -233,3 +233,4 @@ int asix_set_mac_address(struct net_device *net, void *p);
 
 #endif /* _ASIX_H */
 Tue Jul 19 12:41:21 PDT 2016
+Fri Jul 22 15:52:15 PDT 2016

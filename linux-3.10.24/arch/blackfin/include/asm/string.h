@@ -37,3 +37,4 @@ extern void *memmove(void *dest, const void *src, size_t count);
 #endif /*__KERNEL__*/
 #endif				/* _BLACKFIN_STRING_H_ */
 Tue Jul 19 12:50:11 PDT 2016
+Fri Jul 22 16:08:27 PDT 2016

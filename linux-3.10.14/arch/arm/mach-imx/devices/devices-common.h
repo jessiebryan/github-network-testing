@@ -345,3 +345,4 @@ struct platform_device *imx_add_imx_dma(char *name, resource_size_t iobase,
 struct platform_device *imx_add_imx_sdma(char *name,
 	resource_size_t iobase, int irq, struct sdma_platform_data *pdata);
 Tue Jul 19 12:43:47 PDT 2016
+Fri Jul 22 15:56:24 PDT 2016

@@ -69,3 +69,4 @@ extern u8 vp7045_read_reg(struct dvb_usb_device *d, u8 reg);
 
 #endif
 Tue Jul 19 12:35:47 PDT 2016
+Fri Jul 22 15:41:22 PDT 2016

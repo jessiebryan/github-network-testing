@@ -170,3 +170,4 @@ static inline int smsc_get_mac(struct net_device *dev)
 #endif /* MN10300_USE_EXT_EEPROM */
 #endif /* _ASM_UNIT_SMSC911X_H */
 Tue Jul 19 12:47:43 PDT 2016
+Fri Jul 22 16:03:49 PDT 2016

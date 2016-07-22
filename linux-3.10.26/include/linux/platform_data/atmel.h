@@ -99,3 +99,4 @@ extern int at91_suspend_entering_slow_clock(void);
 
 #endif /* __ATMEL_H__ */
 Tue Jul 19 12:51:56 PDT 2016
+Fri Jul 22 16:11:51 PDT 2016

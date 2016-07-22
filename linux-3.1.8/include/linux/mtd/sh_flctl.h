@@ -130,3 +130,4 @@ static inline struct sh_flctl *mtd_to_flctl(struct mtd_info *mtdinfo)
 
 #endif	/* __SH_FLCTL_H__ */
 Tue Jul 19 12:37:43 PDT 2016
+Fri Jul 22 15:45:05 PDT 2016

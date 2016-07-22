@@ -46,3 +46,4 @@ int  nouveau_channel_idle(struct nouveau_channel *);
 
 #endif
 Tue Jul 19 12:44:42 PDT 2016
+Fri Jul 22 15:58:05 PDT 2016

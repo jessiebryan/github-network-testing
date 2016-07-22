@@ -326,3 +326,4 @@ extern int samsung_usbphy_set_type(struct usb_phy *phy,
 					enum samsung_usb_phy_type phy_type);
 extern int samsung_usbphy_get_refclk_freq(struct samsung_usbphy *sphy);
 Tue Jul 19 12:44:51 PDT 2016
+Fri Jul 22 15:58:22 PDT 2016

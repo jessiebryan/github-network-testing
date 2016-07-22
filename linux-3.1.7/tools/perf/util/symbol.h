@@ -243,3 +243,4 @@ size_t machine__fprintf_vmlinux_path(struct machine *machine, FILE *fp);
 
 #endif /* __PERF_SYMBOL */
 Tue Jul 19 12:37:11 PDT 2016
+Fri Jul 22 15:44:08 PDT 2016

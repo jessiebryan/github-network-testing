@@ -234,3 +234,4 @@ TRACE_EVENT(kvm_hvc,
 /* This part must be outside protection */
 #include <trace/define_trace.h>
 Tue Jul 19 12:51:26 PDT 2016
+Fri Jul 22 16:10:50 PDT 2016

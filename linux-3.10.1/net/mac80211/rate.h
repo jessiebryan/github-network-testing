@@ -173,3 +173,4 @@ static inline void rc80211_minstrel_ht_exit(void)
 
 #endif /* IEEE80211_RATE_H */
 Tue Jul 19 12:39:02 PDT 2016
+Fri Jul 22 15:47:36 PDT 2016

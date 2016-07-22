@@ -258,3 +258,4 @@ b43_nphy_get_chantabent_rev2(struct b43_wldev *dev, u8 channel);
 
 #endif /* B43_RADIO_2055_H_ */
 Tue Jul 19 12:49:11 PDT 2016
+Fri Jul 22 16:06:34 PDT 2016

@@ -24,3 +24,4 @@ extern void s3c24xx_ts_cfg_gpio(struct platform_device *dev);
 
 #endif /* __ASM_ARM_TS_H */
 Tue Jul 19 12:46:09 PDT 2016
+Fri Jul 22 16:00:52 PDT 2016

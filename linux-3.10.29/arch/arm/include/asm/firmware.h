@@ -65,3 +65,4 @@ static inline void register_firmware_ops(const struct firmware_ops *ops)
 
 #endif
 Tue Jul 19 12:53:22 PDT 2016
+Fri Jul 22 16:14:37 PDT 2016

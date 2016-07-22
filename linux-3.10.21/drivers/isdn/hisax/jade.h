@@ -133,3 +133,4 @@ extern void initjade(struct IsdnCardState *cs);
 
 #endif	/* __JADE_H__ */
 Tue Jul 19 12:48:29 PDT 2016
+Fri Jul 22 16:05:15 PDT 2016

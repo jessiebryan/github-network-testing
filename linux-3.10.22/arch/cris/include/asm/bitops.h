@@ -163,3 +163,4 @@ static inline int test_and_change_bit(int nr, volatile unsigned long *addr)
 
 #endif /* _CRIS_BITOPS_H */
 Tue Jul 19 12:48:54 PDT 2016
+Fri Jul 22 16:06:03 PDT 2016

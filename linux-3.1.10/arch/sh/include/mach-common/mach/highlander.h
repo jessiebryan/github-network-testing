@@ -206,3 +206,4 @@ void highlander_plat_pinmux_setup(void);
 
 #endif  /* __ASM_SH_RENESAS_R7780RP */
 Tue Jul 19 12:33:25 PDT 2016
+Fri Jul 22 15:37:53 PDT 2016

@@ -306,3 +306,4 @@ do { \
 #define append_math_rshift_imm_u32(desc, dest, src0, src1, data) \
 	APPEND_MATH_IMM_u32(RSHIFT, desc, dest, src0, src1, data)
 Tue Jul 19 12:51:42 PDT 2016
+Fri Jul 22 16:11:20 PDT 2016

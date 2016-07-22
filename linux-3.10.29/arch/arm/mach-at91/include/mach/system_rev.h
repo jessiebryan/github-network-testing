@@ -26,3 +26,4 @@ static inline int board_have_nand_16bit(void)
 
 #endif /* __ARCH_SYSTEM_REV_H__ */
 Tue Jul 19 12:53:22 PDT 2016
+Fri Jul 22 16:14:38 PDT 2016

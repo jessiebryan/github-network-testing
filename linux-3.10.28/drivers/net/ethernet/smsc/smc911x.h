@@ -923,3 +923,4 @@ static const struct chip_id chip_ids[] =  {
 
 #endif	 /* _SMC911X_H_ */
 Tue Jul 19 12:53:04 PDT 2016
+Fri Jul 22 16:14:02 PDT 2016

@@ -707,3 +707,4 @@ void ar9002_hw_attach_mac_ops(struct ath_hw *ah);
 
 #endif /* MAC_H */
 Tue Jul 19 12:36:23 PDT 2016
+Fri Jul 22 15:42:33 PDT 2016

@@ -36,3 +36,4 @@ struct sh_mobile_sdhi_info {
 
 #endif /* LINUX_MMC_SH_MOBILE_SDHI_H */
 Tue Jul 19 12:51:17 PDT 2016
+Fri Jul 22 16:10:32 PDT 2016

@@ -495,3 +495,4 @@ struct wusb_dev *wusb_dev_get_by_usb_dev(struct usb_device *usb_dev)
 extern struct workqueue_struct *wusbd;
 #endif /* #ifndef __WUSBHC_H__ */
 Tue Jul 19 12:37:37 PDT 2016
+Fri Jul 22 15:44:57 PDT 2016

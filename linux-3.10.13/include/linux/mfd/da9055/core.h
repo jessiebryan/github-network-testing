@@ -93,3 +93,4 @@ extern struct regmap_config da9055_regmap_config;
 
 #endif /* __DA9055_CORE_H */
 Tue Jul 19 12:43:37 PDT 2016
+Fri Jul 22 15:56:06 PDT 2016

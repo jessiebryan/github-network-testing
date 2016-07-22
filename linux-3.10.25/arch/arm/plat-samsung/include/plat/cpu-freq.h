@@ -144,3 +144,4 @@ static inline int s3c_cpufreq_setboard(struct s3c_cpufreq_board *board)
 }
 #endif  /* CONFIG_CPU_FREQ_S3C */
 Tue Jul 19 12:50:49 PDT 2016
+Fri Jul 22 16:09:38 PDT 2016

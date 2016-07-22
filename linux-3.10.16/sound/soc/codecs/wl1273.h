@@ -29,3 +29,4 @@ int wl1273_get_format(struct snd_soc_codec *codec, unsigned int *fmt);
 
 #endif	/* End of __WL1273_CODEC_H__ */
 Tue Jul 19 12:45:38 PDT 2016
+Fri Jul 22 15:59:54 PDT 2016

@@ -34,3 +34,4 @@ void davinci_soc_platform_unregister(struct device *dev);
 
 #endif
 Tue Jul 19 12:40:20 PDT 2016
+Fri Jul 22 15:50:12 PDT 2016

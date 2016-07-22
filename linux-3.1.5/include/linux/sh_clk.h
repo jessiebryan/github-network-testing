@@ -153,3 +153,4 @@ int sh_clk_div6_reparent_register(struct clk *clks, int nr);
 
 #endif /* __SH_CLOCK_H */
 Tue Jul 19 12:36:32 PDT 2016
+Fri Jul 22 15:42:54 PDT 2016

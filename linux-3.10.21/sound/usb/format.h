@@ -8,3 +8,4 @@ int snd_usb_parse_audio_format(struct snd_usb_audio *chip,
 
 #endif /*  __USBAUDIO_FORMAT_H */
 Tue Jul 19 12:48:48 PDT 2016
+Fri Jul 22 16:05:52 PDT 2016

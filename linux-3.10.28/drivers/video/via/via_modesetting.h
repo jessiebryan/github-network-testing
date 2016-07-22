@@ -60,3 +60,4 @@ void via_set_secondary_color_depth(u8 depth);
 
 #endif /* __VIA_MODESETTING_H__ */
 Tue Jul 19 12:53:09 PDT 2016
+Fri Jul 22 16:14:13 PDT 2016

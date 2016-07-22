@@ -496,3 +496,4 @@ struct ath5k_eeprom_info {
 int
 ath5k_eeprom_mode_from_channel(struct ieee80211_channel *channel);
 Tue Jul 19 12:36:56 PDT 2016
+Fri Jul 22 15:43:40 PDT 2016

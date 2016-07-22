@@ -1283,3 +1283,4 @@ static const u32 ar955x_1p0_modes_fast_clock[][3] = {
 
 #endif /* INITVALS_955X_1P0_H */
 Tue Jul 19 12:47:54 PDT 2016
+Fri Jul 22 16:04:09 PDT 2016

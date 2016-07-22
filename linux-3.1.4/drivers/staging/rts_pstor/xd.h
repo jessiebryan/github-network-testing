@@ -187,3 +187,4 @@ int release_xd_card(struct rtsx_chip *chip);
 #endif  /* __REALTEK_RTSX_XD_H */
 
 Tue Jul 19 12:35:52 PDT 2016
+Fri Jul 22 15:41:33 PDT 2016

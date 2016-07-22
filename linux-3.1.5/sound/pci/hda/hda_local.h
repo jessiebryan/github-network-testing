@@ -688,3 +688,4 @@ static inline void snd_hda_input_jack_free(struct hda_codec *codec)
 
 #endif /* __SOUND_HDA_LOCAL_H */
 Tue Jul 19 12:36:36 PDT 2016
+Fri Jul 22 15:43:00 PDT 2016

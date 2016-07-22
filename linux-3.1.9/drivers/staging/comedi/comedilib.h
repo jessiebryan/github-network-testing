@@ -36,3 +36,4 @@ int comedi_get_n_channels(struct comedi_device *dev, unsigned int subdevice);
 
 #endif
 Tue Jul 19 12:38:13 PDT 2016
+Fri Jul 22 15:45:58 PDT 2016

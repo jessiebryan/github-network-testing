@@ -114,3 +114,4 @@ int ad7606_register_ring_funcs_and_init(struct iio_dev *indio_dev);
 void ad7606_ring_cleanup(struct iio_dev *indio_dev);
 #endif /* IIO_ADC_AD7606_H_ */
 Tue Jul 19 12:34:12 PDT 2016
+Fri Jul 22 15:39:16 PDT 2016

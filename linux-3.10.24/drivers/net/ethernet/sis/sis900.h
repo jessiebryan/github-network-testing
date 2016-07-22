@@ -328,3 +328,4 @@ enum sis630_revision_id {
 #define SIS630_VENDOR_ID        0x1039
 #define SIS630_DEVICE_ID        0x0630
 Tue Jul 19 12:50:28 PDT 2016
+Fri Jul 22 16:08:59 PDT 2016

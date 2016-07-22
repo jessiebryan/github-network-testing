@@ -311,3 +311,4 @@ static inline uint64_t batadv_sum_counter(struct batadv_priv *bat_priv,
 
 #endif /* _NET_BATMAN_ADV_MAIN_H_ */
 Tue Jul 19 12:44:22 PDT 2016
+Fri Jul 22 15:57:30 PDT 2016

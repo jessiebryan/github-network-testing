@@ -374,3 +374,4 @@ static inline u32 iwl_mvm_reciprocal(u32 v)
 
 #endif /* __fw_api_mac_h__ */
 Tue Jul 19 12:51:08 PDT 2016
+Fri Jul 22 16:10:15 PDT 2016

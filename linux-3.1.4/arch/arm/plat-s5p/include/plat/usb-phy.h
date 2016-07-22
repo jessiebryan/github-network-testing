@@ -21,3 +21,4 @@ extern int s5p_usb_phy_exit(struct platform_device *pdev, int type);
 
 #endif /* __PLAT_S5P_REGS_USB_PHY_H */
 Tue Jul 19 12:35:33 PDT 2016
+Fri Jul 22 15:40:56 PDT 2016

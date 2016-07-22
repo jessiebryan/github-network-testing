@@ -480,3 +480,4 @@ struct r8a66597_platdata {
 #endif /* __LINUX_USB_R8A66597_H */
 
 Tue Jul 19 12:49:22 PDT 2016
+Fri Jul 22 16:06:54 PDT 2016

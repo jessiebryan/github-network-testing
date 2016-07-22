@@ -14,3 +14,4 @@ static inline const char *asymmetric_key_id(const struct key *key)
 	return key->type_data.p[1];
 }
 Tue Jul 19 12:47:49 PDT 2016
+Fri Jul 22 16:04:00 PDT 2016

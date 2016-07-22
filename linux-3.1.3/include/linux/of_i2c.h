@@ -29,3 +29,4 @@ static inline void of_i2c_register_devices(struct i2c_adapter *adap)
 
 #endif /* __LINUX_OF_I2C_H */
 Tue Jul 19 12:35:23 PDT 2016
+Fri Jul 22 15:40:37 PDT 2016

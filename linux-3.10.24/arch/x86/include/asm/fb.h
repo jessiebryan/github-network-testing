@@ -16,3 +16,4 @@ extern int fb_is_primary_device(struct fb_info *info);
 
 #endif /* _ASM_X86_FB_H */
 Tue Jul 19 12:50:22 PDT 2016
+Fri Jul 22 16:08:48 PDT 2016

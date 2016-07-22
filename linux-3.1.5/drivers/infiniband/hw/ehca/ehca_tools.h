@@ -155,3 +155,4 @@ int ehca2ib_return_code(u64 ehca_rc);
 
 #endif /* EHCA_TOOLS_H */
 Tue Jul 19 12:36:20 PDT 2016
+Fri Jul 22 15:42:27 PDT 2016

@@ -79,3 +79,4 @@ extern int viafb_lcd_panel_id;
 
 #endif /* __GLOBAL_H__ */
 Tue Jul 19 12:49:54 PDT 2016
+Fri Jul 22 16:07:56 PDT 2016

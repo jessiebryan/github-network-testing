@@ -157,3 +157,4 @@ int cryptocop_job_queue_insert_user_job(struct cryptocop_operation *operation);
 
 #endif /* CRYPTOCOP_H */
 Tue Jul 19 12:48:53 PDT 2016
+Fri Jul 22 16:06:02 PDT 2016

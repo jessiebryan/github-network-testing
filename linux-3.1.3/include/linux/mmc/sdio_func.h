@@ -163,3 +163,4 @@ extern int sdio_set_host_pm_flags(struct sdio_func *func, mmc_pm_flag_t flags);
 
 #endif /* LINUX_MMC_SDIO_FUNC_H */
 Tue Jul 19 12:35:23 PDT 2016
+Fri Jul 22 15:40:36 PDT 2016

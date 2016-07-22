@@ -16,3 +16,4 @@ struct ad2s1210_platform_data {
 	bool gpioin;
 };
 Tue Jul 19 12:51:50 PDT 2016
+Fri Jul 22 16:11:38 PDT 2016

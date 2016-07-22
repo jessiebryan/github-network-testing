@@ -9,3 +9,4 @@ extern struct scsi_host_template usb_stor_host_template;
 
 #endif
 Tue Jul 19 12:34:12 PDT 2016
+Fri Jul 22 15:39:16 PDT 2016

@@ -79,3 +79,4 @@ static inline void thermal_gov_user_space_unregister(void) {}
 
 #endif /* __THERMAL_CORE_H__ */
 Tue Jul 19 12:40:47 PDT 2016
+Fri Jul 22 15:51:04 PDT 2016

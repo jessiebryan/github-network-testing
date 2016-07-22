@@ -50,3 +50,4 @@ extern void brcms_c_regd_init(struct brcms_c_info *wlc);
 
 #endif				/* _WLC_CHANNEL_H */
 Tue Jul 19 12:46:37 PDT 2016
+Fri Jul 22 16:01:47 PDT 2016

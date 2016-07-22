@@ -15,3 +15,4 @@ extern struct platform_device e300_tc6387xb_device;
 extern void eseries_register_clks(void);
 
 Tue Jul 19 12:34:43 PDT 2016
+Fri Jul 22 15:39:43 PDT 2016

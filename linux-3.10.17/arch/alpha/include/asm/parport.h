@@ -17,3 +17,4 @@ static int parport_pc_find_nonpci_ports (int autoirq, int autodma)
 
 #endif /* !(_ASM_AXP_PARPORT_H) */
 Tue Jul 19 12:45:39 PDT 2016
+Fri Jul 22 15:59:55 PDT 2016

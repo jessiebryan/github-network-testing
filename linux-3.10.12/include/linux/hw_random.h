@@ -50,3 +50,4 @@ extern void hwrng_unregister(struct hwrng *rng);
 
 #endif /* LINUX_HWRANDOM_H_ */
 Tue Jul 19 12:42:58 PDT 2016
+Fri Jul 22 15:54:54 PDT 2016

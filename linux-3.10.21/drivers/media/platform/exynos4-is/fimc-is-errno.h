@@ -247,3 +247,4 @@ const char * const fimc_is_param_strerr(unsigned int error);
 
 #endif /* FIMC_IS_ERR_H_ */
 Tue Jul 19 12:48:30 PDT 2016
+Fri Jul 22 16:05:17 PDT 2016

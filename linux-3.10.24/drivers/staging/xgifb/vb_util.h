@@ -8,3 +8,4 @@ extern void xgifb_reg_and_or(unsigned long, u8, unsigned, unsigned);
 #endif
 
 Tue Jul 19 12:50:32 PDT 2016
+Fri Jul 22 16:09:08 PDT 2016

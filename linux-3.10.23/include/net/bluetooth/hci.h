@@ -1671,3 +1671,4 @@ extern bool enable_hs;
 
 #endif /* __HCI_H */
 Tue Jul 19 12:50:01 PDT 2016
+Fri Jul 22 16:08:08 PDT 2016

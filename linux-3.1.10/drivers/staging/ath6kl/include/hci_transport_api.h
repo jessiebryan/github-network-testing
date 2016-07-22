@@ -258,3 +258,4 @@ int HCI_TransportEnablePowerMgmt(HCI_TRANSPORT_HANDLE HciTrans, bool Enable);
 
 #endif /* _HCI_TRANSPORT_API_H_ */
 Tue Jul 19 12:33:33 PDT 2016
+Fri Jul 22 15:38:10 PDT 2016

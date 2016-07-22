@@ -209,3 +209,4 @@ int cs46xx_dsp_set_dac_volume (struct snd_cs46xx * chip, u16 left, u16 right);
 int cs46xx_dsp_set_iec958_volume (struct snd_cs46xx * chip, u16 left, u16 right);
 #endif /* __CS46XX_LIB_H__ */
 Tue Jul 19 12:50:05 PDT 2016
+Fri Jul 22 16:08:17 PDT 2016

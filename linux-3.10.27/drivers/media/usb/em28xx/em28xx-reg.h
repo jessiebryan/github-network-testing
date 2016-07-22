@@ -247,3 +247,4 @@ enum em28xx_chip_id {
 #define EM202_ANTIPOP            0x72
 #define EM202_EAPD_GPIO_ACCESS   0x74
 Tue Jul 19 12:52:23 PDT 2016
+Fri Jul 22 16:12:44 PDT 2016

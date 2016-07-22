@@ -65,3 +65,4 @@ int adb_get_infos(int address, int *original_address, int *handler_id);
 
 #endif /* __ADB_H */
 Tue Jul 19 12:49:56 PDT 2016
+Fri Jul 22 16:07:59 PDT 2016

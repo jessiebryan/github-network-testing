@@ -54,3 +54,4 @@
         __asm__ __volatile__ (" movsl %1@, %0" : "=d" (value) : "a" (addr));
 #endif
 Tue Jul 19 12:53:29 PDT 2016
+Fri Jul 22 16:14:51 PDT 2016

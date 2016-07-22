@@ -1160,3 +1160,4 @@ extern s8 wlc_phy_upd_rssi_offset(struct brcms_phy *pi, s8 rssi,
 extern bool wlc_phy_n_txpower_ipa_ison(struct brcms_phy *pih);
 #endif				/* _BRCM_PHY_INT_H_ */
 Tue Jul 19 12:43:28 PDT 2016
+Fri Jul 22 15:55:51 PDT 2016

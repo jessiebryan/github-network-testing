@@ -176,3 +176,4 @@ extern int max8998_update_reg(struct i2c_client *i2c, u8 reg, u8 val, u8 mask);
 
 #endif /*  __LINUX_MFD_MAX8998_PRIV_H */
 Tue Jul 19 12:50:37 PDT 2016
+Fri Jul 22 16:09:16 PDT 2016

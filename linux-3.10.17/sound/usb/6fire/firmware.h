@@ -26,3 +26,4 @@ int usb6fire_fw_init(struct usb_interface *intf);
 #endif /* USB6FIRE_FIRMWARE_H */
 
 Tue Jul 19 12:46:15 PDT 2016
+Fri Jul 22 16:01:04 PDT 2016

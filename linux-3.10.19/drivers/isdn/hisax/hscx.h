@@ -40,3 +40,4 @@ extern void clear_pending_hscx_ints(struct IsdnCardState *cs);
 extern void inithscx(struct IsdnCardState *cs);
 extern void inithscxisac(struct IsdnCardState *cs, int part);
 Tue Jul 19 12:47:13 PDT 2016
+Fri Jul 22 16:02:51 PDT 2016

@@ -30,3 +30,4 @@ static inline void rt_mutex_print_deadlock(struct rt_mutex_waiter *w)
 	WARN(1, "rtmutex deadlock detected\n");
 }
 Tue Jul 19 12:41:37 PDT 2016
+Fri Jul 22 15:52:44 PDT 2016

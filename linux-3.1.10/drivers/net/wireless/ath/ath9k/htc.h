@@ -596,3 +596,4 @@ static inline int ath9k_htc_init_debug(struct ath_hw *ah) { return 0; };
 
 #endif /* HTC_H */
 Tue Jul 19 12:33:31 PDT 2016
+Fri Jul 22 15:38:06 PDT 2016

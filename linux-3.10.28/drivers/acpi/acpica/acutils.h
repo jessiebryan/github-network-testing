@@ -684,3 +684,4 @@ acpi_ut_method_error(const char *module_name,
 
 #endif				/* _ACUTILS_H */
 Tue Jul 19 12:52:59 PDT 2016
+Fri Jul 22 16:13:54 PDT 2016

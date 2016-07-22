@@ -11,3 +11,4 @@ void comedi_reset_async_buf(struct comedi_async *async);
 int comedi_buf_alloc(struct comedi_device *dev, struct comedi_subdevice *s,
 		     unsigned long new_size);
 Tue Jul 19 12:35:51 PDT 2016
+Fri Jul 22 15:41:31 PDT 2016

@@ -70,3 +70,4 @@ static inline int plat_device_is_coherent(struct device *dev)
 
 #endif /* __ASM_MACH_LOONGSON_DMA_COHERENCE_H */
 Tue Jul 19 12:51:34 PDT 2016
+Fri Jul 22 16:11:06 PDT 2016

@@ -227,3 +227,4 @@ void dm_cck_txpower_adjust(struct r8192_priv *priv, bool binch14);
 #endif	/*__R8192UDM_H__ */
 
 Tue Jul 19 12:34:12 PDT 2016
+Fri Jul 22 15:39:16 PDT 2016

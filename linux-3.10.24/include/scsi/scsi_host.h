@@ -934,3 +934,4 @@ extern int scsi_host_set_state(struct Scsi_Host *, enum scsi_host_state);
 
 #endif /* _SCSI_SCSI_HOST_H */
 Tue Jul 19 12:50:41 PDT 2016
+Fri Jul 22 16:09:23 PDT 2016

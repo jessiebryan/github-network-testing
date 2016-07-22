@@ -64,3 +64,4 @@ void viafb_dvi_set_mode(const struct fb_var_screeninfo *var,
 
 #endif /* __DVI_H__ */
 Tue Jul 19 12:50:33 PDT 2016
+Fri Jul 22 16:09:09 PDT 2016

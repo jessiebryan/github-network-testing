@@ -148,3 +148,4 @@ static inline bool irq_settings_is_nested_thread(struct irq_desc *desc)
 	return desc->status_use_accessors & _IRQ_NESTED_THREAD;
 }
 Tue Jul 19 12:47:30 PDT 2016
+Fri Jul 22 16:03:24 PDT 2016

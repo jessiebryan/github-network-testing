@@ -78,3 +78,4 @@ enum ad5624r_supported_device_ids {
 
 #endif /* SPI_AD5624R_H_ */
 Tue Jul 19 12:47:50 PDT 2016
+Fri Jul 22 16:04:02 PDT 2016

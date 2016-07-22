@@ -31,3 +31,4 @@ struct gpio_vbus_mach_info {
 	bool wakeup;
 };
 Tue Jul 19 12:47:27 PDT 2016
+Fri Jul 22 16:03:17 PDT 2016

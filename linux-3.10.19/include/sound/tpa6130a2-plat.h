@@ -29,3 +29,4 @@ struct tpa6130a2_platform_data {
 
 #endif
 Tue Jul 19 12:47:28 PDT 2016
+Fri Jul 22 16:03:20 PDT 2016

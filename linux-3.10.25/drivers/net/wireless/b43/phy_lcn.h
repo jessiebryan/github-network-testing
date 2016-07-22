@@ -30,3 +30,4 @@ extern const struct b43_phy_operations b43_phyops_lcn;
 
 #endif /* B43_PHY_LCN_H_ */
 Tue Jul 19 12:51:07 PDT 2016
+Fri Jul 22 16:10:15 PDT 2016

@@ -80,3 +80,4 @@ static inline u32 hash32_ptr(const void *ptr)
 }
 #endif /* _LINUX_HASH_H */
 Tue Jul 19 12:46:06 PDT 2016
+Fri Jul 22 16:00:48 PDT 2016

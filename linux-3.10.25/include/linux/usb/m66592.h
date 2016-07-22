@@ -45,3 +45,4 @@ struct m66592_platdata {
 #endif /* __LINUX_USB_M66592_H */
 
 Tue Jul 19 12:51:19 PDT 2016
+Fri Jul 22 16:10:36 PDT 2016

@@ -15,3 +15,4 @@ extern void s5p_hdmi_set_platdata(struct i2c_board_info *hdmiphy_info,
 
 #endif /* __PLAT_SAMSUNG_HDMI_H */
 Tue Jul 19 12:43:49 PDT 2016
+Fri Jul 22 15:56:27 PDT 2016

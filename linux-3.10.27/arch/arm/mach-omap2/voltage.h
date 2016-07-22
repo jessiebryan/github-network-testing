@@ -185,3 +185,4 @@ void voltdm_reset(struct voltagedomain *voltdm);
 unsigned long voltdm_get_voltage(struct voltagedomain *voltdm);
 #endif
 Tue Jul 19 12:52:06 PDT 2016
+Fri Jul 22 16:12:09 PDT 2016

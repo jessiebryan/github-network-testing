@@ -35,3 +35,4 @@ void batadv_vis_quit(struct batadv_priv *bat_priv);
 
 #endif /* _NET_BATMAN_ADV_VIS_H_ */
 Tue Jul 19 12:53:58 PDT 2016
+Fri Jul 22 16:15:48 PDT 2016

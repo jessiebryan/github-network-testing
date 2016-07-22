@@ -136,3 +136,4 @@ static const char* generic_NCR5380_info(struct Scsi_Host *);
 #endif /* GENERIC_NCR5380_H */
 
 Tue Jul 19 12:40:05 PDT 2016
+Fri Jul 22 15:49:44 PDT 2016

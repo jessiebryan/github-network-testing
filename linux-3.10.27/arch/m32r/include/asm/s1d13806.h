@@ -198,3 +198,4 @@ static struct s1d13xxxfb_regval s1d13xxxfb_initregs[] = {
     {0x0067,0x02},   // CRT/TV Memory Address Offset Register 1
 };
 Tue Jul 19 12:52:10 PDT 2016
+Fri Jul 22 16:12:20 PDT 2016

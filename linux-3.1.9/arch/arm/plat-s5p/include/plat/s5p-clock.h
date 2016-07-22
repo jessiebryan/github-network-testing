@@ -54,3 +54,4 @@ extern unsigned long s5p_spdif_get_rate(struct clk *clk);
 extern struct clk_ops s5p_sclk_spdif_ops;
 #endif /* __ASM_PLAT_S5P_CLOCK_H */
 Tue Jul 19 12:37:55 PDT 2016
+Fri Jul 22 15:45:24 PDT 2016

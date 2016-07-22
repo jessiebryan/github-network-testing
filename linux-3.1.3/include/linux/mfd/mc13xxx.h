@@ -152,3 +152,4 @@ struct mc13xxx_platform_data {
 
 #endif /* ifndef __LINUX_MFD_MC13XXX_H */
 Tue Jul 19 12:35:23 PDT 2016
+Fri Jul 22 15:40:35 PDT 2016

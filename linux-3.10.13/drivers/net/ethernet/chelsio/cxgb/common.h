@@ -352,3 +352,4 @@ extern void t1_link_negotiated(adapter_t *adapter, int port_id, int link_stat,
 			    int speed, int duplex, int pause);
 #endif /* _CXGB_COMMON_H_ */
 Tue Jul 19 12:43:27 PDT 2016
+Fri Jul 22 15:55:49 PDT 2016

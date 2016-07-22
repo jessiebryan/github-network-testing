@@ -70,3 +70,4 @@ extern int mac_find_mode(struct fb_var_screeninfo *var,
 
 #endif /* _VIDEO_MACMODES_H */
 Tue Jul 19 12:40:47 PDT 2016
+Fri Jul 22 15:51:05 PDT 2016

@@ -107,3 +107,4 @@ void stub_enqueue_ret_unlink(struct stub_device *sdev, __u32 seqnum,
 void stub_complete(struct urb *urb);
 int stub_tx_loop(void *data);
 Tue Jul 19 12:38:15 PDT 2016
+Fri Jul 22 15:46:01 PDT 2016

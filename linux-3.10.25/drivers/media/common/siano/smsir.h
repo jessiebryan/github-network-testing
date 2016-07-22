@@ -62,3 +62,4 @@ inline static void sms_ir_event(struct smscore_device_t *coredev,
 #endif /* __SMS_IR_H__ */
 
 Tue Jul 19 12:51:04 PDT 2016
+Fri Jul 22 16:10:09 PDT 2016

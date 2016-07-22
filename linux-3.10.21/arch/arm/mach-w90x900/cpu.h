@@ -59,3 +59,4 @@ extern struct platform_device nuc900_device_rtc;
 extern struct platform_device nuc900_device_ts;
 extern struct platform_device nuc900_device_lcd;
 Tue Jul 19 12:48:14 PDT 2016
+Fri Jul 22 16:04:46 PDT 2016

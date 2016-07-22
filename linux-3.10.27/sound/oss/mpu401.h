@@ -10,3 +10,4 @@ int probe_mpu401(struct address_info *hw_config, struct resource *ports);
 int attach_mpu401(struct address_info * hw_config, struct module *owner);
 void unload_mpu401(struct address_info *hw_info);
 Tue Jul 19 12:52:41 PDT 2016
+Fri Jul 22 16:13:18 PDT 2016

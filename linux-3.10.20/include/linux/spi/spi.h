@@ -918,3 +918,4 @@ spi_get_device_id(const struct spi_device *sdev);
 
 #endif /* __LINUX_SPI_H */
 Tue Jul 19 12:48:04 PDT 2016
+Fri Jul 22 16:04:28 PDT 2016

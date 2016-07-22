@@ -94,3 +94,4 @@ extern int usb_bus_start_enum(struct usb_bus *bus, unsigned port_num);
 
 #endif /* __LINUX_USB_OTG_H */
 Tue Jul 19 12:50:01 PDT 2016
+Fri Jul 22 16:08:07 PDT 2016

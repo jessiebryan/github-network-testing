@@ -11,3 +11,4 @@ extern int __do_adjtimex(struct timex *, struct timespec *, s32 *);
 extern void __hardpps(const struct timespec *, const struct timespec *);
 #endif /* _LINUX_NTP_INTERNAL_H */
 Tue Jul 19 12:50:43 PDT 2016
+Fri Jul 22 16:09:27 PDT 2016

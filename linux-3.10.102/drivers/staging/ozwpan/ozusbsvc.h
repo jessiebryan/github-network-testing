@@ -31,3 +31,4 @@ void oz_usb_farewell(struct oz_pd *pd, u8 ep_num, u8 *data, u8 len);
 #endif /* _OZUSBSVC_H */
 
 Tue Jul 19 12:41:24 PDT 2016
+Fri Jul 22 15:52:21 PDT 2016

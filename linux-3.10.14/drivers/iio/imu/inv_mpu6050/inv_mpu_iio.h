@@ -245,3 +245,4 @@ int inv_mpu6050_switch_engine(struct inv_mpu6050_state *st, bool en, u32 mask);
 int inv_mpu6050_write_reg(struct inv_mpu6050_state *st, int reg, u8 val);
 int inv_mpu6050_set_power_itg(struct inv_mpu6050_state *st, bool power_on);
 Tue Jul 19 12:44:03 PDT 2016
+Fri Jul 22 15:56:56 PDT 2016

@@ -983,3 +983,4 @@ enum amplc_dio_gate_source {
 
 #endif /* _COMEDI_H */
 Tue Jul 19 12:49:52 PDT 2016
+Fri Jul 22 16:07:50 PDT 2016

@@ -153,3 +153,4 @@ int bus_reset(struct scsi_cmnd *srb);
 
 #endif /* __RTS51X_SCSI_H */
 Tue Jul 19 12:39:28 PDT 2016
+Fri Jul 22 15:48:30 PDT 2016

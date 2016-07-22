@@ -854,3 +854,4 @@ static struct xor_block_template xor_block_alpha_prefetch = {
 #define XOR_SELECT_TEMPLATE(FASTEST) \
 	(implver() == IMPLVER_EV6 ? &xor_block_alpha_prefetch : FASTEST)
 Tue Jul 19 12:51:25 PDT 2016
+Fri Jul 22 16:10:48 PDT 2016

@@ -72,3 +72,4 @@ static struct xor_block_template xor_block_niagara = {
 	 &xor_block_niagara : \
 	 &xor_block_VIS)
 Tue Jul 19 12:41:58 PDT 2016
+Fri Jul 22 15:53:15 PDT 2016

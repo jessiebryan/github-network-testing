@@ -219,3 +219,4 @@ static inline int at91_soc_is_detected(void)
 
 #endif /* __MACH_CPU_H__ */
 Tue Jul 19 12:47:34 PDT 2016
+Fri Jul 22 16:03:31 PDT 2016

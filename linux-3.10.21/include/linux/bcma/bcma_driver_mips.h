@@ -58,3 +58,4 @@ extern u32 bcma_cpu_clock(struct bcma_drv_mips *mcore);
 
 #endif /* LINUX_BCMA_DRIVER_MIPS_H_ */
 Tue Jul 19 12:48:39 PDT 2016
+Fri Jul 22 16:05:34 PDT 2016

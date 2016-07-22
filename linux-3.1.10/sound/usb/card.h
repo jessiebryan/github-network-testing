@@ -107,3 +107,4 @@ struct snd_usb_stream {
 
 #endif /* __USBAUDIO_CARD_H */
 Tue Jul 19 12:33:47 PDT 2016
+Fri Jul 22 15:38:32 PDT 2016

@@ -429,3 +429,4 @@ static inline void UART_PUT_LSR(void *p, uint16_t val)
 
 #endif /* __BFIN_ASM_SERIAL_H__ */
 Tue Jul 19 12:45:07 PDT 2016
+Fri Jul 22 15:58:52 PDT 2016

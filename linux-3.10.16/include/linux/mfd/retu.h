@@ -27,3 +27,4 @@ int retu_write(struct retu_dev *, u8, u16);
 
 #endif /* __LINUX_MFD_RETU_H */
 Tue Jul 19 12:45:31 PDT 2016
+Fri Jul 22 15:59:40 PDT 2016

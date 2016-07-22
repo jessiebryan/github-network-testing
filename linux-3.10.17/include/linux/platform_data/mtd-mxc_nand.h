@@ -31,3 +31,4 @@ struct mxc_nand_platform_data {
 };
 #endif /* __ASM_ARCH_NAND_H */
 Tue Jul 19 12:46:08 PDT 2016
+Fri Jul 22 16:00:52 PDT 2016

@@ -200,3 +200,4 @@ int snd_cs8427_iec958_pcm(struct snd_i2c_device *cs8427, unsigned int rate);
 
 #endif /* __SOUND_CS8427_H */
 Tue Jul 19 12:51:59 PDT 2016
+Fri Jul 22 16:11:56 PDT 2016

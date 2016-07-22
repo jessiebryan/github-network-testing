@@ -694,3 +694,4 @@ extern uint32_t aic79xx_verbose;
 
 #endif /* _AIC79XX_LINUX_H_ */
 Tue Jul 19 12:53:06 PDT 2016
+Fri Jul 22 16:14:06 PDT 2016

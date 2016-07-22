@@ -34,3 +34,4 @@ void dm_savepowerindex(struct ieee80211_hw *hw);
 void dm_writepowerindex(struct ieee80211_hw *hw, u8 value);
 void dm_restorepowerindex(struct ieee80211_hw *hw);
 Tue Jul 19 12:53:44 PDT 2016
+Fri Jul 22 16:15:20 PDT 2016

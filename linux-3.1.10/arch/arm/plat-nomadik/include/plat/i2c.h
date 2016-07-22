@@ -38,3 +38,4 @@ struct nmk_i2c_controller {
 
 #endif	/* __PLAT_I2C_H */
 Tue Jul 19 12:33:16 PDT 2016
+Fri Jul 22 15:37:35 PDT 2016

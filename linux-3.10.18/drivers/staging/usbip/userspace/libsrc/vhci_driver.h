@@ -66,3 +66,4 @@ int usbip_vhci_detach_device(uint8_t port);
 
 #endif /* __VHCI_DRIVER_H */
 Tue Jul 19 12:46:41 PDT 2016
+Fri Jul 22 16:01:53 PDT 2016

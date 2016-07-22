@@ -67,3 +67,4 @@ static int orinoco_pci_resume(struct pci_dev *pdev)
 
 #endif /* _ORINOCO_PCI_H */
 Tue Jul 19 12:46:00 PDT 2016
+Fri Jul 22 16:00:35 PDT 2016

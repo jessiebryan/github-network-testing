@@ -12,3 +12,4 @@ static inline struct thread_info *current_thread_info(void)
 
 #endif /* _ASM_CRIS_ARCH_THREAD_INFO_H */
 Tue Jul 19 12:45:44 PDT 2016
+Fri Jul 22 16:00:04 PDT 2016

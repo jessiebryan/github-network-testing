@@ -32,3 +32,4 @@ static inline void arch_reset(char mode, const char *cmd)
 	*IXP23XX_RESET0 |= IXP23XX_RST_ALL;
 }
 Tue Jul 19 12:34:42 PDT 2016
+Fri Jul 22 15:39:41 PDT 2016

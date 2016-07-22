@@ -74,3 +74,4 @@ void ab8540_gpadc_get_otp(struct ab8500_gpadc *gpadc,
 
 #endif /* _AB8500_GPADC_H */
 Tue Jul 19 12:45:31 PDT 2016
+Fri Jul 22 15:59:40 PDT 2016

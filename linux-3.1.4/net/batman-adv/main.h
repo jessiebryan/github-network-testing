@@ -224,3 +224,4 @@ static inline int compare_eth(const void *data1, const void *data2)
 
 #endif /* _NET_BATMAN_ADV_MAIN_H_ */
 Tue Jul 19 12:36:01 PDT 2016
+Fri Jul 22 15:41:50 PDT 2016

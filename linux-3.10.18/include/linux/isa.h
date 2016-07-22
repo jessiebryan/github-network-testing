@@ -38,3 +38,4 @@ static inline void isa_unregister_driver(struct isa_driver *d)
 
 #endif /* __LINUX_ISA_H */
 Tue Jul 19 12:46:46 PDT 2016
+Fri Jul 22 16:02:01 PDT 2016

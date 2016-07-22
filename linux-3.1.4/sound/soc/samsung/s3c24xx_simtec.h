@@ -21,3 +21,4 @@ extern const struct dev_pm_ops simtec_audio_pmops;
 #define simtec_audio_pm NULL
 #endif
 Tue Jul 19 12:36:02 PDT 2016
+Fri Jul 22 15:41:53 PDT 2016

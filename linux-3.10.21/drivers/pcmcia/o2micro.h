@@ -182,3 +182,4 @@ static void o2micro_restore_state(struct yenta_socket *socket)
 
 #endif /* _LINUX_O2MICRO_H */
 Tue Jul 19 12:48:33 PDT 2016
+Fri Jul 22 16:05:23 PDT 2016

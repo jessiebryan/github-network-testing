@@ -1338,3 +1338,4 @@ static const unsigned char SiS310_CHTVVCLKOPALN[] = { 0x47,0x47,0x47,0x47,0x48,0
 
 
 Tue Jul 19 12:44:12 PDT 2016
+Fri Jul 22 15:57:11 PDT 2016

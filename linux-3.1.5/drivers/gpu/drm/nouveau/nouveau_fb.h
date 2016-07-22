@@ -48,3 +48,4 @@ int nouveau_framebuffer_init(struct drm_device *dev, struct nouveau_framebuffer 
 			     struct drm_mode_fb_cmd *mode_cmd, struct nouveau_bo *nvbo);
 #endif /* __NOUVEAU_FB_H__ */
 Tue Jul 19 12:36:20 PDT 2016
+Fri Jul 22 15:42:27 PDT 2016

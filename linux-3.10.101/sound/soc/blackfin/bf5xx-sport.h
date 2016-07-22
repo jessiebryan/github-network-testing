@@ -173,3 +173,4 @@ int sport_send_and_recv(struct sport_device *sport, u8 *out_data, \
 		u8 *in_data, int len);
 #endif /* BF53X_SPORT_H */
 Tue Jul 19 12:40:59 PDT 2016
+Fri Jul 22 15:51:27 PDT 2016

@@ -46,3 +46,4 @@ int i_APCI1710_InsnBitsReadWritePulseEncoder(struct comedi_device *dev,
 					     struct comedi_insn *insn,
 					     unsigned int *data);
 Tue Jul 19 12:38:13 PDT 2016
+Fri Jul 22 15:45:58 PDT 2016

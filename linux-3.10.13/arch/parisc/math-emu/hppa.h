@@ -41,3 +41,4 @@
     /* unsigned int left, right;  int amount, dest; */		\
     dest = (left << (32-(amount))) | ((unsigned) right >> (amount))
 Tue Jul 19 12:43:17 PDT 2016
+Fri Jul 22 15:55:31 PDT 2016

@@ -442,3 +442,4 @@ struct net2280_ep_regs {	/* [11.9] */
 
 #endif /* __LINUX_USB_NET2280_H */
 Tue Jul 19 12:48:05 PDT 2016
+Fri Jul 22 16:04:29 PDT 2016

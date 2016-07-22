@@ -140,3 +140,4 @@ static inline void adis16201_uninitialize_ring(struct iio_ring_buffer *ring)
 #endif /* CONFIG_IIO_RING_BUFFER */
 #endif /* SPI_ADIS16201_H_ */
 Tue Jul 19 12:36:25 PDT 2016
+Fri Jul 22 15:42:38 PDT 2016

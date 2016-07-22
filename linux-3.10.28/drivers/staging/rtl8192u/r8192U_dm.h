@@ -240,3 +240,4 @@ extern void dm_initialize_txpower_tracking(struct net_device *dev);
 
 /* End of r8192U_dm.h */
 Tue Jul 19 12:53:08 PDT 2016
+Fri Jul 22 16:14:09 PDT 2016

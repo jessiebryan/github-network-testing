@@ -24,3 +24,4 @@ static inline int imx6q_cpuidle_init(void)
 }
 #endif
 Tue Jul 19 12:48:12 PDT 2016
+Fri Jul 22 16:04:43 PDT 2016

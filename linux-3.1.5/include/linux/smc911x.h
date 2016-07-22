@@ -12,3 +12,4 @@ struct smc911x_platdata {
 
 #endif /* __SMC911X_H__ */
 Tue Jul 19 12:36:32 PDT 2016
+Fri Jul 22 15:42:54 PDT 2016

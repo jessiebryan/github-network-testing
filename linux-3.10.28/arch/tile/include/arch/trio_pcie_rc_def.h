@@ -23,3 +23,4 @@
 #define TRIO_PCIE_RC_REVISION_ID 0x0008
 #endif /* !defined(__ARCH_TRIO_PCIE_RC_DEF_H__) */
 Tue Jul 19 12:52:57 PDT 2016
+Fri Jul 22 16:13:50 PDT 2016

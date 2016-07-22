@@ -35,3 +35,4 @@ extern void s3c_adc_release(struct s3c_adc_client *client);
 
 #endif /* __ASM_PLAT_ADC_H */
 Tue Jul 19 12:45:42 PDT 2016
+Fri Jul 22 16:00:01 PDT 2016

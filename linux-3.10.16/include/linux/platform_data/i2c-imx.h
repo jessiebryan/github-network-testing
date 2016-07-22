@@ -20,3 +20,4 @@ struct imxi2c_platform_data {
 
 #endif /* __ASM_ARCH_I2C_H_ */
 Tue Jul 19 12:45:32 PDT 2016
+Fri Jul 22 15:59:42 PDT 2016

@@ -522,3 +522,4 @@ extern void mmc_fixup_device(struct mmc_card *card,
 
 #endif /* LINUX_MMC_CARD_H */
 Tue Jul 19 12:51:56 PDT 2016
+Fri Jul 22 16:11:49 PDT 2016

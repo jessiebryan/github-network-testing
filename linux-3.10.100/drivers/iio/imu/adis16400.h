@@ -213,3 +213,4 @@ irqreturn_t adis16400_trigger_handler(int irq, void *p);
 
 #endif /* SPI_ADIS16400_H_ */
 Tue Jul 19 12:40:00 PDT 2016
+Fri Jul 22 15:49:33 PDT 2016

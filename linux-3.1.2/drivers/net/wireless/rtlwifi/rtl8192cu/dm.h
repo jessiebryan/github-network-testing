@@ -31,3 +31,4 @@
 
 void rtl92cu_dm_dynamic_txpower(struct ieee80211_hw *hw);
 Tue Jul 19 12:34:09 PDT 2016
+Fri Jul 22 15:39:12 PDT 2016

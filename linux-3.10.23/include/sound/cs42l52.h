@@ -35,3 +35,4 @@ struct cs42l52_platform_data {
 
 #endif /* __CS42L52_H */
 Tue Jul 19 12:50:02 PDT 2016
+Fri Jul 22 16:08:10 PDT 2016

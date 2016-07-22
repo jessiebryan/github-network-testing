@@ -1612,3 +1612,4 @@ nv44_graph_class(struct drm_device *dev)
 
 #endif /* __NOUVEAU_DRV_H__ */
 Tue Jul 19 12:38:07 PDT 2016
+Fri Jul 22 15:45:47 PDT 2016

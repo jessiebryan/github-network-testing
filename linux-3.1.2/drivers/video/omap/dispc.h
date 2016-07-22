@@ -45,3 +45,4 @@ extern void omap_dispc_free_irq(unsigned long irq_mask,
 extern const struct lcd_ctrl omap2_int_ctrl;
 #endif
 Tue Jul 19 12:34:21 PDT 2016
+Fri Jul 22 15:39:20 PDT 2016

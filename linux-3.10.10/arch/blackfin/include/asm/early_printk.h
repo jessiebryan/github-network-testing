@@ -35,3 +35,4 @@ extern void early_shadow_write(struct console *con, const char *s,
 
 #endif /* __ASM_EARLY_PRINTK_H__ */
 Tue Jul 19 12:39:08 PDT 2016
+Fri Jul 22 15:47:48 PDT 2016

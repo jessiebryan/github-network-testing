@@ -24,3 +24,4 @@ void cx18_halt_firmware(struct cx18 *cx);
 void cx18_init_memory(struct cx18 *cx);
 void cx18_init_power(struct cx18 *cx, int lowpwr);
 Tue Jul 19 12:44:44 PDT 2016
+Fri Jul 22 15:58:08 PDT 2016

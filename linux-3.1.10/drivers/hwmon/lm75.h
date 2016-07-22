@@ -49,3 +49,4 @@ static inline int LM75_TEMP_FROM_REG(u16 reg)
 }
 
 Tue Jul 19 12:33:28 PDT 2016
+Fri Jul 22 15:38:00 PDT 2016

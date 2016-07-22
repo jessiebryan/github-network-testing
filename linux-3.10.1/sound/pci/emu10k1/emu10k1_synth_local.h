@@ -41,3 +41,4 @@ int snd_emu10k1_synth_get_voice(struct snd_emu10k1 *hw);
 
 #endif	/* __EMU10K1_SYNTH_LOCAL_H */
 Tue Jul 19 12:39:03 PDT 2016
+Fri Jul 22 15:47:37 PDT 2016

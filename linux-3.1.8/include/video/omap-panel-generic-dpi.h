@@ -36,3 +36,4 @@ struct panel_generic_dpi_data {
 
 #endif /* __OMAP_PANEL_GENERIC_DPI_H */
 Tue Jul 19 12:37:47 PDT 2016
+Fri Jul 22 15:45:11 PDT 2016

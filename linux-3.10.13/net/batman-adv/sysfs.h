@@ -41,3 +41,4 @@ int batadv_throw_uevent(struct batadv_priv *bat_priv, enum batadv_uev_type type,
 
 #endif /* _NET_BATMAN_ADV_SYSFS_H_ */
 Tue Jul 19 12:43:43 PDT 2016
+Fri Jul 22 15:56:17 PDT 2016

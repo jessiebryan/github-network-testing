@@ -161,3 +161,4 @@ int register_sst_card(struct intel_sst_card_ops *card);
 void unregister_sst_card(struct intel_sst_card_ops *card);
 #endif /* __INTEL_SST_H__ */
 Tue Jul 19 12:33:34 PDT 2016
+Fri Jul 22 15:38:11 PDT 2016

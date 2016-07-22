@@ -240,3 +240,4 @@ static const char * interfaces[ 2 ] = { "TP", "AUI" };
 #endif  /* _SMC_9194_H_ */
 
 Tue Jul 19 12:47:15 PDT 2016
+Fri Jul 22 16:02:56 PDT 2016

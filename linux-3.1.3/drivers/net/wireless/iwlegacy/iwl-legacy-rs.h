@@ -455,3 +455,4 @@ extern void iwl3945_rate_control_unregister(void);
 
 #endif /* __iwl_legacy_rs__ */
 Tue Jul 19 12:35:15 PDT 2016
+Fri Jul 22 15:40:19 PDT 2016

@@ -194,3 +194,4 @@ static inline unsigned int cpuid_edx(unsigned int op) { return 0; };
 
 #endif /* __CPUPOWERUTILS_HELPERS__ */
 Tue Jul 19 12:42:28 PDT 2016
+Fri Jul 22 15:54:00 PDT 2016

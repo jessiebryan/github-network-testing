@@ -340,3 +340,4 @@ TRACE_EVENT(kvm_s390_handle_stsi,
 /* This part must be outside protection */
 #include <trace/define_trace.h>
 Tue Jul 19 12:52:55 PDT 2016
+Fri Jul 22 16:13:46 PDT 2016

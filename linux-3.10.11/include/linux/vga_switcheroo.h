@@ -78,3 +78,4 @@ static inline int vga_switcheroo_get_client_state(struct pci_dev *dev) { return 
 #endif
 #endif /* _LINUX_VGA_SWITCHEROO_H_ */
 Tue Jul 19 12:42:22 PDT 2016
+Fri Jul 22 15:53:50 PDT 2016

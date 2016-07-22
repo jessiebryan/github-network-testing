@@ -127,3 +127,4 @@ static inline void init_SCp(struct scsi_cmnd *SCpnt)
 	}
 }
 Tue Jul 19 12:36:57 PDT 2016
+Fri Jul 22 15:43:42 PDT 2016

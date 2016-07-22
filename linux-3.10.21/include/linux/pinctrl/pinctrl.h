@@ -170,3 +170,4 @@ static inline bool pin_is_valid(struct pinctrl_dev *pctldev, int pin)
 
 #endif /* __LINUX_PINCTRL_PINCTRL_H */
 Tue Jul 19 12:48:41 PDT 2016
+Fri Jul 22 16:05:39 PDT 2016

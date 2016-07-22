@@ -174,3 +174,4 @@ static inline struct scsi_cmnd *scsi_host_find_tag(struct Scsi_Host *shost,
 #endif /* CONFIG_BLOCK */
 #endif /* _SCSI_SCSI_TCQ_H */
 Tue Jul 19 12:44:19 PDT 2016
+Fri Jul 22 15:57:25 PDT 2016

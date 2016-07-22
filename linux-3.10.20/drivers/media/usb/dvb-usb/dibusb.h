@@ -130,3 +130,4 @@ extern int dibusb_read_eeprom_byte(struct dvb_usb_device *, u8, u8 *);
 
 #endif
 Tue Jul 19 12:47:52 PDT 2016
+Fri Jul 22 16:04:06 PDT 2016

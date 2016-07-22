@@ -269,3 +269,4 @@ void sym_dump_registers(struct Scsi_Host *);
 
 #endif /* SYM_GLUE_H */
 Tue Jul 19 12:47:56 PDT 2016
+Fri Jul 22 16:04:13 PDT 2016

@@ -829,3 +829,4 @@ void l2cap_unregister_user(struct l2cap_conn *conn, struct l2cap_user *user);
 
 #endif /* __L2CAP_H */
 Tue Jul 19 12:41:33 PDT 2016
+Fri Jul 22 15:52:38 PDT 2016

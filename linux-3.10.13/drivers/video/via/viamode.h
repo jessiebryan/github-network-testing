@@ -62,3 +62,4 @@ const struct fb_videomode *viafb_get_best_rb_mode(int hres, int vres,
 
 #endif /* __VIAMODE_H__ */
 Tue Jul 19 12:43:33 PDT 2016
+Fri Jul 22 15:55:59 PDT 2016

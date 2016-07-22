@@ -358,3 +358,4 @@ int exynos_mipi_dsi_register_lcd_driver(struct mipi_dsim_lcd_driver
 						*lcd_drv);
 #endif /* _EXYNOS_MIPI_DSIM_H */
 Tue Jul 19 12:45:00 PDT 2016
+Fri Jul 22 15:58:39 PDT 2016

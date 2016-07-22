@@ -568,3 +568,4 @@ extern int parport_default_spintime;
 #endif /* __KERNEL__ */
 #endif /* _PARPORT_H_ */
 Tue Jul 19 12:35:58 PDT 2016
+Fri Jul 22 15:41:45 PDT 2016

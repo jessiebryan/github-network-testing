@@ -290,3 +290,4 @@ static inline __le16 iwl3945_hw_set_rate_n_flags(u8 rate, u16 flags)
 }
 #endif
 Tue Jul 19 12:35:14 PDT 2016
+Fri Jul 22 15:40:19 PDT 2016

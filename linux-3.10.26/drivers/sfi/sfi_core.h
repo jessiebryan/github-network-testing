@@ -80,3 +80,4 @@ extern void sfi_put_table(struct sfi_table_header *table);
 extern struct sfi_table_attr __init *sfi_sysfs_install_table(u64 pa);
 extern void __init sfi_acpi_sysfs_init(void);
 Tue Jul 19 12:51:49 PDT 2016
+Fri Jul 22 16:11:37 PDT 2016

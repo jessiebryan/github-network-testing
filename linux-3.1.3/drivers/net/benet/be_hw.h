@@ -502,3 +502,4 @@ struct flash_section_info {
 	struct flash_section_entry fsec_entry[32];
 };
 Tue Jul 19 12:35:13 PDT 2016
+Fri Jul 22 15:40:17 PDT 2016

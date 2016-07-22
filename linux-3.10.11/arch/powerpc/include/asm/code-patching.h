@@ -51,3 +51,4 @@ static inline unsigned long ppc_function_entry(void *func)
 
 #endif /* _ASM_POWERPC_CODE_PATCHING_H */
 Tue Jul 19 12:41:54 PDT 2016
+Fri Jul 22 15:53:09 PDT 2016

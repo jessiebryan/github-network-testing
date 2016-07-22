@@ -59,3 +59,4 @@ DEF_PCI_AC_NORET(memcpy_fromio, (void *d, const PCI_IO_ADDR s, unsigned long n),
 DEF_PCI_AC_NORET(memcpy_toio, (PCI_IO_ADDR d, const void *s, unsigned long n),
 		 (d, s, n), mem, d)
 Tue Jul 19 12:40:32 PDT 2016
+Fri Jul 22 15:50:36 PDT 2016

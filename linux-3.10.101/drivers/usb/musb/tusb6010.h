@@ -231,3 +231,4 @@ extern u8 tusb_get_revision(struct musb *musb);
 
 #endif /* __TUSB6010_H__ */
 Tue Jul 19 12:40:47 PDT 2016
+Fri Jul 22 15:51:04 PDT 2016

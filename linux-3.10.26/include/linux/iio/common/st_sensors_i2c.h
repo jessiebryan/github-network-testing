@@ -19,3 +19,4 @@ void st_sensors_i2c_configure(struct iio_dev *indio_dev,
 
 #endif /* ST_SENSORS_I2C_H */
 Tue Jul 19 12:51:55 PDT 2016
+Fri Jul 22 16:11:48 PDT 2016

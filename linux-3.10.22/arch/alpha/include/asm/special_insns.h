@@ -40,3 +40,4 @@ enum amask_enum {
 
 #endif /* __ALPHA_SPECIAL_INSNS_H */
 Tue Jul 19 12:48:49 PDT 2016
+Fri Jul 22 16:05:53 PDT 2016

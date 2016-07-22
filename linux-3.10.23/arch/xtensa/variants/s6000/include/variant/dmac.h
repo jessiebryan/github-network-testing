@@ -386,3 +386,4 @@ extern void s6dmac_release_chan(u32 dmac, int chan);
 
 #endif /* __ASM_XTENSA_S6000_DMAC_H */
 Tue Jul 19 12:49:44 PDT 2016
+Fri Jul 22 16:07:37 PDT 2016

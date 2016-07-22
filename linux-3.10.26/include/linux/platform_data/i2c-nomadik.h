@@ -38,3 +38,4 @@ struct nmk_i2c_controller {
 
 #endif	/* __PDATA_I2C_NOMADIK_H */
 Tue Jul 19 12:51:56 PDT 2016
+Fri Jul 22 16:11:51 PDT 2016

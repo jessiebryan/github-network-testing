@@ -104,3 +104,4 @@ int ToLegalChannel(struct rtllib_device *dev, u8 channel);
 
 #endif
 Tue Jul 19 12:40:46 PDT 2016
+Fri Jul 22 15:51:01 PDT 2016

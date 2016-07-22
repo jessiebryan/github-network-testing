@@ -128,3 +128,4 @@ extern void smtc_send_ipi(int cpu, int type, unsigned int action);
 
 #endif /* __ASM_SMTC_IPI_H */
 Tue Jul 19 12:45:12 PDT 2016
+Fri Jul 22 15:59:02 PDT 2016

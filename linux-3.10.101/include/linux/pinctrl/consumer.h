@@ -203,3 +203,4 @@ static inline int pin_config_group_set(const char *dev_name,
 
 #endif /* __LINUX_PINCTRL_CONSUMER_H */
 Tue Jul 19 12:40:52 PDT 2016
+Fri Jul 22 15:51:14 PDT 2016

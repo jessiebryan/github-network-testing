@@ -420,3 +420,4 @@ int ib_sa_guid_info_rec_query(struct ib_sa_client *client,
 			      struct ib_sa_query **sa_query);
 #endif /* IB_SA_H */
 Tue Jul 19 12:39:00 PDT 2016
+Fri Jul 22 15:47:30 PDT 2016

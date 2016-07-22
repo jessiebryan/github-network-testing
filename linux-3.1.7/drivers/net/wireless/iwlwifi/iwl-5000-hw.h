@@ -87,3 +87,4 @@ static inline s32 iwl_temp_calib_to_offset(struct iwl_priv *priv)
 #endif /* __iwl_5000_hw_h__ */
 
 Tue Jul 19 12:36:56 PDT 2016
+Fri Jul 22 15:43:40 PDT 2016

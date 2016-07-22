@@ -318,3 +318,4 @@ void ssc_free(struct ssc_device *ssc);
 
 #endif /* __INCLUDE_ATMEL_SSC_H */
 Tue Jul 19 12:47:23 PDT 2016
+Fri Jul 22 16:03:10 PDT 2016

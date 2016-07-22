@@ -1141,3 +1141,4 @@ static inline u64 pcm_format_to_bits(snd_pcm_format_t pcm_format)
 
 #endif /* __SOUND_PCM_H */
 Tue Jul 19 12:45:35 PDT 2016
+Fri Jul 22 15:59:47 PDT 2016

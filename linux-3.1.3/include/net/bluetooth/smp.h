@@ -122,3 +122,4 @@ int smp_distribute_keys(struct l2cap_conn *conn, __u8 force);
 
 #endif /* __SMP_H */
 Tue Jul 19 12:35:25 PDT 2016
+Fri Jul 22 15:40:40 PDT 2016

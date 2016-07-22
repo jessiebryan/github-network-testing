@@ -3,3 +3,4 @@ void pxa2xx_drv_pcmcia_ops(struct pcmcia_low_level *ops);
 void pxa2xx_configure_sockets(struct device *dev);
 
 Tue Jul 19 12:49:50 PDT 2016
+Fri Jul 22 16:07:48 PDT 2016

@@ -368,3 +368,4 @@ extern int pm80x_init(struct i2c_client *client,
 extern int pm80x_deinit(void);
 #endif /* __LINUX_MFD_88PM80X_H */
 Tue Jul 19 12:53:52 PDT 2016
+Fri Jul 22 16:15:35 PDT 2016

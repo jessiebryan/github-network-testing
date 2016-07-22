@@ -138,3 +138,4 @@
 	asm ("rdhwr %[rt],$" CVMX_TMP_STR(regstr) : [rt] "=d" (result))
 #endif /* __CVMX_ASM_H__ */
 Tue Jul 19 12:39:51 PDT 2016
+Fri Jul 22 15:49:16 PDT 2016

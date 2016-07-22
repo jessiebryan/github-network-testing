@@ -571,3 +571,4 @@ static inline int unregister_acpi_bus_type(void *bus) { return 0; }
 
 #endif /*__ACPI_BUS_H__*/
 Tue Jul 19 12:45:29 PDT 2016
+Fri Jul 22 15:59:35 PDT 2016

@@ -10348,3 +10348,4 @@ static struct hash_testvec crc32c_tv_template[] = {
 
 #endif	/* _CRYPTO_TESTMGR_H */
 Tue Jul 19 12:38:07 PDT 2016
+Fri Jul 22 15:45:46 PDT 2016

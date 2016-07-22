@@ -6,3 +6,4 @@ void snd_usb_caiaq_audio_free(struct snd_usb_caiaqdev *cdev);
 
 #endif /* CAIAQ_AUDIO_H */
 Tue Jul 19 12:50:06 PDT 2016
+Fri Jul 22 16:08:18 PDT 2016

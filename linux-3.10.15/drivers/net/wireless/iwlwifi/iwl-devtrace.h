@@ -513,3 +513,4 @@ TRACE_EVENT(iwlwifi_dev_ucode_event,
 #define TRACE_INCLUDE_FILE iwl-devtrace
 #include <trace/define_trace.h>
 Tue Jul 19 12:44:47 PDT 2016
+Fri Jul 22 15:58:14 PDT 2016

@@ -70,3 +70,4 @@ struct clk clk_##_name = {					\
 extern struct clk clk_pxa168_gpio;
 extern struct clk clk_pxa168_timers;
 Tue Jul 19 12:41:42 PDT 2016
+Fri Jul 22 15:52:51 PDT 2016

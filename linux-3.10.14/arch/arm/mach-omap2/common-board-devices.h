@@ -13,3 +13,4 @@ void omap_ads7846_init(int bus_num, int gpio_pendown, int gpio_debounce,
 
 #endif /* __OMAP_COMMON_BOARD_DEVICES__ */
 Tue Jul 19 12:43:48 PDT 2016
+Fri Jul 22 15:56:25 PDT 2016

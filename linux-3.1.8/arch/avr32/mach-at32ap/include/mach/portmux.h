@@ -29,3 +29,4 @@ void at32_reserve_pin(unsigned int port, u32 pin_mask);
 
 #endif /* __ASM_ARCH_PORTMUX_H__ */
 Tue Jul 19 12:37:16 PDT 2016
+Fri Jul 22 15:44:18 PDT 2016

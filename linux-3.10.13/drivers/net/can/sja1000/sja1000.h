@@ -181,3 +181,4 @@ irqreturn_t sja1000_interrupt(int irq, void *dev_id);
 
 #endif /* SJA1000_DEV_H */
 Tue Jul 19 12:43:27 PDT 2016
+Fri Jul 22 15:55:48 PDT 2016

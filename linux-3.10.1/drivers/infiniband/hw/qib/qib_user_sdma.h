@@ -51,3 +51,4 @@ void qib_user_sdma_queue_drain(struct qib_pportdata *ppd,
 u32 qib_user_sdma_complete_counter(const struct qib_user_sdma_queue *pq);
 u32 qib_user_sdma_inflight_counter(struct qib_user_sdma_queue *pq);
 Tue Jul 19 12:38:43 PDT 2016
+Fri Jul 22 15:46:59 PDT 2016

@@ -47,3 +47,4 @@ extern struct snd_ice1712_card_info  snd_vt1724_amp_cards[];
 
 #endif /* __SOUND_AMP_H */
 Tue Jul 19 12:34:39 PDT 2016
+Fri Jul 22 15:39:36 PDT 2016

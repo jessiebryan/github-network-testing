@@ -150,3 +150,4 @@ struct omap_mmc_platform_data {
 	} slots[OMAP_MMC_MAX_SLOTS];
 };
 Tue Jul 19 12:48:04 PDT 2016
+Fri Jul 22 16:04:27 PDT 2016

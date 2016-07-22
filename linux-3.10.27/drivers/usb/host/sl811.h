@@ -265,3 +265,4 @@ sl811_read_buf(struct sl811 *sl811, int addr, void *buf, size_t count)
 #define INFO(stuff...)		printk(KERN_INFO "sl811: " stuff)
 
 Tue Jul 19 12:52:30 PDT 2016
+Fri Jul 22 16:12:56 PDT 2016

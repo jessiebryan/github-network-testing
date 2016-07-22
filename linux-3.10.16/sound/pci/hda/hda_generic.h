@@ -327,3 +327,4 @@ int snd_hda_gen_check_power_status(struct hda_codec *codec, hda_nid_t nid);
 
 #endif /* __SOUND_HDA_GENERIC_H */
 Tue Jul 19 12:45:38 PDT 2016
+Fri Jul 22 15:59:53 PDT 2016

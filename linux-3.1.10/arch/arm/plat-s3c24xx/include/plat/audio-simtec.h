@@ -36,3 +36,4 @@ struct s3c24xx_audio_simtec_pdata {
 extern int simtec_audio_add(const char *codec_name, bool has_lr_routing,
 			    struct s3c24xx_audio_simtec_pdata *pdata);
 Tue Jul 19 12:33:16 PDT 2016
+Fri Jul 22 15:37:36 PDT 2016

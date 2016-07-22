@@ -47,3 +47,4 @@ u16 nvbios_oclk_match(struct nouveau_bios *, u16 cmp, u32 khz);
 
 #endif
 Tue Jul 19 12:51:43 PDT 2016
+Fri Jul 22 16:11:21 PDT 2016

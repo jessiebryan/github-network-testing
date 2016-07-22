@@ -87,3 +87,4 @@ void o2nm_undepend_this_node(void);
 
 #endif /* O2CLUSTER_NODEMANAGER_H */
 Tue Jul 19 12:50:34 PDT 2016
+Fri Jul 22 16:09:11 PDT 2016

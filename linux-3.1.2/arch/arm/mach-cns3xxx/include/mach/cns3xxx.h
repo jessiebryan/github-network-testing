@@ -631,3 +631,4 @@ int cns3xxx_cpu_clock(void);
 
 #endif	/* __MACH_BOARD_CNS3XXX_H */
 Tue Jul 19 12:33:49 PDT 2016
+Fri Jul 22 15:38:35 PDT 2016

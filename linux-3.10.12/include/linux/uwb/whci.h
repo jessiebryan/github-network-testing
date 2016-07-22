@@ -116,3 +116,4 @@ extern int whci_wait_for(struct device *dev, u32 __iomem *reg,
 
 #endif /* #ifndef _LINUX_UWB_WHCI_H_ */
 Tue Jul 19 12:43:01 PDT 2016
+Fri Jul 22 15:55:00 PDT 2016

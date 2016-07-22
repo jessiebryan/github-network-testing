@@ -50,3 +50,4 @@ static unsigned char *sn9c2028_find_sof(struct gspca_dev *gspca_dev,
 	return NULL;
 }
 Tue Jul 19 12:44:45 PDT 2016
+Fri Jul 22 15:58:10 PDT 2016

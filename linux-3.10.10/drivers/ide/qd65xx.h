@@ -143,3 +143,4 @@ static struct qd65xx_timing_s {
 	{ -1, "    ", 175, 415 }   /* unknown disk name			*/
 };
 Tue Jul 19 12:39:21 PDT 2016
+Fri Jul 22 15:48:16 PDT 2016

@@ -510,3 +510,4 @@ void brcmf_abort_scanning(struct brcmf_cfg80211_info *cfg);
 
 #endif				/* _wl_cfg80211_h_ */
 Tue Jul 19 12:45:23 PDT 2016
+Fri Jul 22 15:59:24 PDT 2016

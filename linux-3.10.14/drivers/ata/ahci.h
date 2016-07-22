@@ -388,3 +388,4 @@ static inline int ahci_nr_ports(u32 cap)
 
 #endif /* _AHCI_H */
 Tue Jul 19 12:44:02 PDT 2016
+Fri Jul 22 15:56:53 PDT 2016

@@ -30,3 +30,4 @@ void sa1100_register_uart(int idx, int port);
 #define sa1100_register_uart(idx,port) do { } while (0)
 #endif
 Tue Jul 19 12:37:50 PDT 2016
+Fri Jul 22 15:45:17 PDT 2016

@@ -69,3 +69,4 @@ void nouveau_fbcon_output_poll_changed(struct drm_device *dev);
 #endif /* __NV50_FBCON_H__ */
 
 Tue Jul 19 12:39:21 PDT 2016
+Fri Jul 22 15:48:15 PDT 2016

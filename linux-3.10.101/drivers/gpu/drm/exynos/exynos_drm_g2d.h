@@ -35,3 +35,4 @@ static inline int exynos_g2d_exec_ioctl(struct drm_device *dev, void *data,
 }
 #endif
 Tue Jul 19 12:40:38 PDT 2016
+Fri Jul 22 15:50:47 PDT 2016

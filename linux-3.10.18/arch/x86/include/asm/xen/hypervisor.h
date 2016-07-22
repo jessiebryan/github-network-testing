@@ -73,3 +73,4 @@ static inline bool xen_x2apic_para_available(void)
 
 #endif /* _ASM_X86_XEN_HYPERVISOR_H */
 Tue Jul 19 12:46:31 PDT 2016
+Fri Jul 22 16:01:36 PDT 2016

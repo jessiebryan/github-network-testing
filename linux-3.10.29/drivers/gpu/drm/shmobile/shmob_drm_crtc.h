@@ -59,3 +59,4 @@ int shmob_drm_connector_create(struct shmob_drm_device *sdev,
 
 #endif /* __SHMOB_DRM_CRTC_H__ */
 Tue Jul 19 12:53:39 PDT 2016
+Fri Jul 22 16:15:11 PDT 2016

@@ -104,3 +104,4 @@ struct crypto_report_rng {
 #define CRYPTO_REPORT_MAXSIZE (sizeof(struct crypto_user_alg) + \
 			       sizeof(struct crypto_report_blkcipher))
 Tue Jul 19 12:41:28 PDT 2016
+Fri Jul 22 15:52:30 PDT 2016

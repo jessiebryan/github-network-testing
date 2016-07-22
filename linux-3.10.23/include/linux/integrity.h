@@ -39,3 +39,4 @@ static inline void integrity_inode_free(struct inode *inode)
 #endif /* CONFIG_INTEGRITY */
 #endif /* _LINUX_INTEGRITY_H */
 Tue Jul 19 12:49:58 PDT 2016
+Fri Jul 22 16:08:02 PDT 2016

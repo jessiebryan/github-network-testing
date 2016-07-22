@@ -43,3 +43,4 @@ int twl6040_get_hs_step_size(struct snd_soc_codec *codec);
 
 #endif /* End of __TWL6040_H__ */
 Tue Jul 19 12:44:23 PDT 2016
+Fri Jul 22 15:57:32 PDT 2016

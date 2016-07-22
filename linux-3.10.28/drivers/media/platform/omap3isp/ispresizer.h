@@ -145,3 +145,4 @@ int omap3isp_resizer_busy(struct isp_res_device *isp_res);
 
 #endif	/* OMAP3_ISP_RESIZER_H */
 Tue Jul 19 12:53:02 PDT 2016
+Fri Jul 22 16:13:59 PDT 2016

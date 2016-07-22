@@ -54,3 +54,4 @@ static inline struct dvb_frontend* ves1x93_attach(const struct ves1x93_config* c
 
 #endif // VES1X93_H
 Tue Jul 19 12:48:30 PDT 2016
+Fri Jul 22 16:05:16 PDT 2016

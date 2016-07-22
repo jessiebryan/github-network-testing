@@ -505,3 +505,4 @@ static inline void enable_caches(void *dummy)
 	write_cr0(read_cr0() & ~X86_CR0_CD);
 }
 Tue Jul 19 12:43:24 PDT 2016
+Fri Jul 22 15:55:42 PDT 2016

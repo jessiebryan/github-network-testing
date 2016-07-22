@@ -268,3 +268,4 @@ struct isar_hw {
 extern u32 mISDNisar_init(struct isar_hw *, void *);
 extern void mISDNisar_irq(struct isar_hw *);
 Tue Jul 19 12:47:51 PDT 2016
+Fri Jul 22 16:04:03 PDT 2016

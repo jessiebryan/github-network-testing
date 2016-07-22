@@ -238,3 +238,4 @@ extern void text_poke_smp_batch(struct text_poke_param *params, int n);
 
 #endif /* _ASM_X86_ALTERNATIVE_H */
 Tue Jul 19 12:52:58 PDT 2016
+Fri Jul 22 16:13:51 PDT 2016

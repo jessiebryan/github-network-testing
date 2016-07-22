@@ -400,3 +400,4 @@ void sti_bmove(struct sti_struct *sti, int src_y, int src_x,
 
 #endif	/* STICORE_H */
 Tue Jul 19 12:52:30 PDT 2016
+Fri Jul 22 16:12:57 PDT 2016

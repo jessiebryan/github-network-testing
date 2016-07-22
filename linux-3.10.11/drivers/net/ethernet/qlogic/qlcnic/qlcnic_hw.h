@@ -199,3 +199,4 @@ void qlcnic_82xx_napi_disable(struct qlcnic_adapter *);
 void qlcnic_82xx_napi_del(struct qlcnic_adapter *);
 #endif				/* __QLCNIC_HW_H_ */
 Tue Jul 19 12:42:07 PDT 2016
+Fri Jul 22 15:53:28 PDT 2016

@@ -274,3 +274,4 @@ static __inline__ int test_and_change_bit(int nr, volatile void * addr)
 
 #endif /* _ASM_M32R_BITOPS_H */
 Tue Jul 19 12:46:23 PDT 2016
+Fri Jul 22 16:01:18 PDT 2016

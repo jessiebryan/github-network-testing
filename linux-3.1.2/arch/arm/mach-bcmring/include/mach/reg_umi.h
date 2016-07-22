@@ -236,3 +236,4 @@
 #define REG_UMI_BCH_ERR_LOC_ADDR(index)     (__REG32(HW_UMI_BASE + 0x64 + (index / 2)*4) >> ((index % 2) * 16))
 #endif
 Tue Jul 19 12:33:49 PDT 2016
+Fri Jul 22 15:38:35 PDT 2016

@@ -275,3 +275,4 @@ extern ssize_t i2400mu_bus_bm_wait_for_ack(struct i2400m *,
 					   size_t);
 #endif /* #ifndef __I2400M_USB_H__ */
 Tue Jul 19 12:47:54 PDT 2016
+Fri Jul 22 16:04:09 PDT 2016

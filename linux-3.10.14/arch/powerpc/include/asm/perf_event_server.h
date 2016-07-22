@@ -145,3 +145,4 @@ extern ssize_t power_events_sysfs_show(struct device *dev,
 #define	POWER_EVENT_ATTR(_name, _id)	EVENT_ATTR(PM_##_name, _id, _p)
 #define	POWER_EVENT_PTR(_id)		EVENT_PTR(_id, _p)
 Tue Jul 19 12:43:57 PDT 2016
+Fri Jul 22 15:56:42 PDT 2016

@@ -142,3 +142,4 @@ int ccw_set_cmf(struct ccw_device *cdev, int enable);
 extern struct device_attribute dev_attr_cmb_enable;
 #endif
 Tue Jul 19 12:35:50 PDT 2016
+Fri Jul 22 15:41:29 PDT 2016

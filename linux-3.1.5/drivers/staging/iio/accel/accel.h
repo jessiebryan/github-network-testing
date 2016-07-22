@@ -86,3 +86,4 @@
 #define IIO_DEV_ATTR_ACCEL_XYZPEAK(_show, _addr)		\
 	IIO_DEVICE_ATTR(accel_xyzpeak, S_IRUGO, _show, NULL, _addr)
 Tue Jul 19 12:36:25 PDT 2016
+Fri Jul 22 15:42:38 PDT 2016

@@ -34,3 +34,4 @@ extern void pxa3xx_set_u2d_info(struct pxa3xx_u2d_platform_data *info);
 
 #endif /* __PXA310_U2D__ */
 Tue Jul 19 12:52:35 PDT 2016
+Fri Jul 22 16:13:06 PDT 2016

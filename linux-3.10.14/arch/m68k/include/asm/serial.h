@@ -34,3 +34,4 @@
 	{ 0, BASE_BAUD, 0x2E8, 3, STD_COM4_FLAGS },	/* ttyS3 */
 #endif
 Tue Jul 19 12:43:53 PDT 2016
+Fri Jul 22 15:56:35 PDT 2016

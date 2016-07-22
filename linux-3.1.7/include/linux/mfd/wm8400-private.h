@@ -935,3 +935,4 @@ int wm8400_set_bits(struct wm8400 *wm8400, u8 reg, u16 mask, u16 val);
 
 #endif
 Tue Jul 19 12:37:05 PDT 2016
+Fri Jul 22 15:43:57 PDT 2016

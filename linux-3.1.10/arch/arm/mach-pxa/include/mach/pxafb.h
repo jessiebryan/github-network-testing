@@ -161,3 +161,4 @@ unsigned long pxafb_get_hsync_time(struct device *dev);
 extern int pxafb_smart_queue(struct fb_info *info, uint16_t *cmds, int);
 extern int pxafb_smart_flush(struct fb_info *info);
 Tue Jul 19 12:33:14 PDT 2016
+Fri Jul 22 15:37:33 PDT 2016

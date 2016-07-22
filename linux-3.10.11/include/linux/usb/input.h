@@ -24,3 +24,4 @@ usb_to_input_id(const struct usb_device *dev, struct input_id *id)
 
 #endif /* __LINUX_USB_INPUT_H */
 Tue Jul 19 12:42:22 PDT 2016
+Fri Jul 22 15:53:49 PDT 2016

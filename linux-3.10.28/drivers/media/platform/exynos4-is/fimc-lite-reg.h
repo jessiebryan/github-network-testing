@@ -149,3 +149,4 @@ static inline void flite_hw_set_output_addr(struct fimc_lite *dev, u32 paddr)
 }
 #endif /* FIMC_LITE_REG_H */
 Tue Jul 19 12:53:02 PDT 2016
+Fri Jul 22 16:13:59 PDT 2016

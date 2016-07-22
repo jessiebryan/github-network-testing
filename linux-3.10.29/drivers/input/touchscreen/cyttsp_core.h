@@ -148,3 +148,4 @@ extern const struct dev_pm_ops cyttsp_pm_ops;
 
 #endif /* __CYTTSP_CORE_H__ */
 Tue Jul 19 12:53:39 PDT 2016
+Fri Jul 22 16:15:12 PDT 2016

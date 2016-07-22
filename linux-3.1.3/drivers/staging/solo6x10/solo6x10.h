@@ -335,3 +335,4 @@ int solo_osd_print(struct solo_enc_dev *solo_enc);
 
 #endif /* __SOLO6X10_H */
 Tue Jul 19 12:35:17 PDT 2016
+Fri Jul 22 15:40:25 PDT 2016

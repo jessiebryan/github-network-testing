@@ -183,3 +183,4 @@ int usbip_net_tcp_connect(char *hostname, char *port);
 
 #endif /* __USBIP_NETWORK_H */
 Tue Jul 19 12:46:41 PDT 2016
+Fri Jul 22 16:01:53 PDT 2016

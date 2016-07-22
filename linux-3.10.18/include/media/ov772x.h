@@ -58,3 +58,4 @@ struct ov772x_camera_info {
 
 #endif /* __OV772X_H__ */
 Tue Jul 19 12:46:49 PDT 2016
+Fri Jul 22 16:02:07 PDT 2016

@@ -169,3 +169,4 @@ int cros_ec_register(struct cros_ec_device *ec_dev);
 
 #endif /* __LINUX_MFD_CROS_EC_H */
 Tue Jul 19 12:43:37 PDT 2016
+Fri Jul 22 15:56:06 PDT 2016

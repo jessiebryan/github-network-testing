@@ -96,3 +96,4 @@ bitbang_txrx_be_cpha1(struct spi_device *spi,
 	return word;
 }
 Tue Jul 19 12:41:23 PDT 2016
+Fri Jul 22 15:52:20 PDT 2016

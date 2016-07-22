@@ -160,3 +160,4 @@ static inline uint8_t nv_read_tv_enc(struct drm_device *dev, uint8_t reg)
 
 #endif
 Tue Jul 19 12:33:28 PDT 2016
+Fri Jul 22 15:38:00 PDT 2016

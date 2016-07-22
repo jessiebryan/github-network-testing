@@ -204,3 +204,4 @@ int nci_to_errno(__u8 code);
 
 #endif /* __NCI_CORE_H */
 Tue Jul 19 12:48:06 PDT 2016
+Fri Jul 22 16:04:31 PDT 2016

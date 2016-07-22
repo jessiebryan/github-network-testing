@@ -20,3 +20,4 @@ struct max197_platform_data {
 	int (*convert)(u8 ctrl);
 };
 Tue Jul 19 12:48:04 PDT 2016
+Fri Jul 22 16:04:27 PDT 2016

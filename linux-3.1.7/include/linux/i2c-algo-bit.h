@@ -52,3 +52,4 @@ int i2c_bit_add_numbered_bus(struct i2c_adapter *);
 
 #endif /* _LINUX_I2C_ALGO_BIT_H */
 Tue Jul 19 12:37:04 PDT 2016
+Fri Jul 22 15:43:55 PDT 2016

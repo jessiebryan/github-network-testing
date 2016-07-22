@@ -199,3 +199,4 @@ extern void uvc_function_disconnect(struct uvc_device *uvc);
 #endif /* _UVC_GADGET_H_ */
 
 Tue Jul 19 12:50:33 PDT 2016
+Fri Jul 22 16:09:08 PDT 2016

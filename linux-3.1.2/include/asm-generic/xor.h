@@ -717,3 +717,4 @@ static struct xor_block_template xor_block_32regs_p = {
 		xor_speed(&xor_block_32regs_p);	\
 	} while (0)
 Tue Jul 19 12:34:23 PDT 2016
+Fri Jul 22 15:39:23 PDT 2016

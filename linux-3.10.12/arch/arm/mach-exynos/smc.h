@@ -30,3 +30,4 @@ extern void exynos_smc(u32 cmd, u32 arg1, u32 arg2, u32 arg3);
 
 #endif
 Tue Jul 19 12:42:29 PDT 2016
+Fri Jul 22 15:54:02 PDT 2016

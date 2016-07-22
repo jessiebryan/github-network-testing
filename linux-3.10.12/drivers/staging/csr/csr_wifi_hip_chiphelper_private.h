@@ -199,3 +199,4 @@ struct chip_device_desc_t
 
 #endif /* CSR_WIFI_HIP_CHIPHELPER_PRIVATE_H__ */
 Tue Jul 19 12:42:52 PDT 2016
+Fri Jul 22 15:54:44 PDT 2016

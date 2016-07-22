@@ -680,3 +680,4 @@ static inline bool uncore_box_is_fake(struct intel_uncore_box *box)
 	return (box->phys_id < 0);
 }
 Tue Jul 19 12:39:58 PDT 2016
+Fri Jul 22 15:49:29 PDT 2016

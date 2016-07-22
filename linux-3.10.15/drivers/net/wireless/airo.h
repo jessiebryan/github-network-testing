@@ -8,3 +8,4 @@ void stop_airo_card(struct net_device *dev, int freeres);
 
 #endif  /*  _AIRO_H_  */
 Tue Jul 19 12:44:46 PDT 2016
+Fri Jul 22 15:58:13 PDT 2016

@@ -269,3 +269,4 @@ int ath6kl_bmi_fast_download(struct ath6kl *ar,
 			     u32 addr, u8 *buf, u32 len);
 #endif
 Tue Jul 19 12:50:28 PDT 2016
+Fri Jul 22 16:08:59 PDT 2016

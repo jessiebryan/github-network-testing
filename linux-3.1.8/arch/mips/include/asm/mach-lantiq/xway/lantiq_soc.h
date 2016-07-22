@@ -140,3 +140,4 @@ static inline int ltq_is_vr9(void)
 #endif /* CONFIG_SOC_TYPE_XWAY */
 #endif /* _LTQ_XWAY_H__ */
 Tue Jul 19 12:37:21 PDT 2016
+Fri Jul 22 15:44:27 PDT 2016

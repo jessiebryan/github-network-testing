@@ -82,3 +82,4 @@ extern void s3c_set_clksrc(struct clksrc_clk *clk, bool announce);
  */
 extern void s3c_register_clksrc(struct clksrc_clk *srcs, int size);
 Tue Jul 19 12:39:45 PDT 2016
+Fri Jul 22 15:49:04 PDT 2016

@@ -472,3 +472,4 @@ uint32_t lpfc_sli_port_speed_get(struct lpfc_hba *);
 int lpfc_sli4_request_firmware_update(struct lpfc_hba *, uint8_t);
 void lpfc_sli4_offline_eratt(struct lpfc_hba *);
 Tue Jul 19 12:46:01 PDT 2016
+Fri Jul 22 16:00:37 PDT 2016

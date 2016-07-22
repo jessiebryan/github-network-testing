@@ -43,3 +43,4 @@ struct max8649_platform_data {
 
 #endif	/* __LINUX_REGULATOR_MAX8649_H */
 Tue Jul 19 12:35:24 PDT 2016
+Fri Jul 22 15:40:38 PDT 2016

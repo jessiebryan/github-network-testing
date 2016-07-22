@@ -2731,3 +2731,4 @@ void ath6kl_wmi_reset(struct wmi *wmi);
 
 #endif /* WMI_H */
 Tue Jul 19 12:48:32 PDT 2016
+Fri Jul 22 16:05:20 PDT 2016

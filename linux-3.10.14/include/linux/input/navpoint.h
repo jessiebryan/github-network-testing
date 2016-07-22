@@ -11,3 +11,4 @@ struct navpoint_platform_data {
 	int		gpio;		/* GPIO for power on/off */
 };
 Tue Jul 19 12:44:15 PDT 2016
+Fri Jul 22 15:57:17 PDT 2016

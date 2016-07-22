@@ -295,3 +295,4 @@ static inline u32 omap1_usb2_init(unsigned nwires, unsigned alt_pingroup)
 
 #endif	/* __ASM_ARCH_OMAP_USB_H */
 Tue Jul 19 12:35:33 PDT 2016
+Fri Jul 22 15:40:56 PDT 2016

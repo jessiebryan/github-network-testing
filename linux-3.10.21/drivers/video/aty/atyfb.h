@@ -368,3 +368,4 @@ void atyfb_fillrect(struct fb_info *info, const struct fb_fillrect *rect);
 void atyfb_imageblit(struct fb_info *info, const struct fb_image *image);
 
 Tue Jul 19 12:48:37 PDT 2016
+Fri Jul 22 16:05:29 PDT 2016

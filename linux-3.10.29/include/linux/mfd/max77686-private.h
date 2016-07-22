@@ -245,3 +245,4 @@ extern int max77686_irq_resume(struct max77686_dev *max77686);
 
 #endif /*  __LINUX_MFD_MAX77686_PRIV_H */
 Tue Jul 19 12:53:52 PDT 2016
+Fri Jul 22 16:15:35 PDT 2016

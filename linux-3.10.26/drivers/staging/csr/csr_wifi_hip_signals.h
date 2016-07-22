@@ -127,3 +127,4 @@ s32 SigGetSize(const CSR_SIGNAL *aSignal);
 
 #endif /* __CSR_WIFI_HIP_SIGNALS_H__ */
 Tue Jul 19 12:51:49 PDT 2016
+Fri Jul 22 16:11:37 PDT 2016

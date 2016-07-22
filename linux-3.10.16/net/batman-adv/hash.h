@@ -188,3 +188,4 @@ static inline void *batadv_hash_remove(struct batadv_hashtable *hash,
 
 #endif /* _NET_BATMAN_ADV_HASH_H_ */
 Tue Jul 19 12:45:37 PDT 2016
+Fri Jul 22 15:59:51 PDT 2016

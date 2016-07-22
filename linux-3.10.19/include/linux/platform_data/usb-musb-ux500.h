@@ -24,3 +24,4 @@ void ux500_add_usb(struct device *parent, resource_size_t base,
 		   int irq, int *dma_rx_cfg, int *dma_tx_cfg);
 #endif
 Tue Jul 19 12:47:25 PDT 2016
+Fri Jul 22 16:03:15 PDT 2016

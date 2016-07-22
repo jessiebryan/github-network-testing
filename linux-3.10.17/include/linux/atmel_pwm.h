@@ -69,3 +69,4 @@ static inline u32 pwm_channel_readl(struct pwm_channel *pwmc, unsigned offset)
 
 #endif /* __LINUX_ATMEL_PWM_H */
 Tue Jul 19 12:46:06 PDT 2016
+Fri Jul 22 16:00:46 PDT 2016

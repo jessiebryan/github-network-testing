@@ -50,3 +50,4 @@ int snd_seq_oss_synth_make_info(struct seq_oss_devinfo *dp, int dev, struct synt
 
 #endif
 Tue Jul 19 12:33:45 PDT 2016
+Fri Jul 22 15:38:31 PDT 2016

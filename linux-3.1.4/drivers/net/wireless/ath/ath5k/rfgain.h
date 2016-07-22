@@ -515,3 +515,4 @@ static const struct ath5k_gain_opt rfgain_opt_5112 = {
 };
 
 Tue Jul 19 12:35:49 PDT 2016
+Fri Jul 22 15:41:27 PDT 2016

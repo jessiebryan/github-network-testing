@@ -771,3 +771,4 @@ static inline void db8500_prcmu_write_masked(unsigned int reg, u32 mask,
 
 #endif /* __MFD_DB8500_PRCMU_H */
 Tue Jul 19 12:48:41 PDT 2016
+Fri Jul 22 16:05:37 PDT 2016

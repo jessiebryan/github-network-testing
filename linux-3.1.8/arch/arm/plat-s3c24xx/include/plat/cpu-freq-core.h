@@ -286,3 +286,4 @@ static inline int s3c_cpufreq_addfreq(struct cpufreq_frequency_table *table,
 	return index + 1;
 }
 Tue Jul 19 12:37:15 PDT 2016
+Fri Jul 22 15:44:17 PDT 2016

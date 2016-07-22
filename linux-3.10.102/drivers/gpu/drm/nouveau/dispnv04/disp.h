@@ -184,3 +184,4 @@ nouveau_bios_run_init_table(struct drm_device *dev, u16 table,
 
 #endif
 Tue Jul 19 12:41:17 PDT 2016
+Fri Jul 22 15:52:07 PDT 2016

@@ -636,3 +636,4 @@ static inline unsigned int max_hw_blocks(struct f2fs_sb_info *sbi)
 	return SECTOR_TO_BLOCK(sbi, queue_max_sectors(q));
 }
 Tue Jul 19 12:38:53 PDT 2016
+Fri Jul 22 15:47:17 PDT 2016

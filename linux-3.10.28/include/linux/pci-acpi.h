@@ -82,3 +82,4 @@ static inline bool aer_acpi_firmware_first(void) { return false; }
 
 #endif	/* _PCI_ACPI_H_ */
 Tue Jul 19 12:53:14 PDT 2016
+Fri Jul 22 16:14:22 PDT 2016

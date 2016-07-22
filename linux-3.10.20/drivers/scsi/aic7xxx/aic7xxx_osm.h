@@ -704,3 +704,4 @@ void	ahc_platform_dump_card_state(struct ahc_softc *ahc);
 extern u_int aic7xxx_verbose;
 #endif /* _AIC7XXX_LINUX_H_ */
 Tue Jul 19 12:47:56 PDT 2016
+Fri Jul 22 16:04:12 PDT 2016

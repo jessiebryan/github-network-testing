@@ -82,3 +82,4 @@ static inline int i7300_idle_platform_probe(struct pci_dev **fbd_dev,
 
 #endif
 Tue Jul 19 12:35:22 PDT 2016
+Fri Jul 22 15:40:34 PDT 2016

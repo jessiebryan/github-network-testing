@@ -19,3 +19,4 @@
 extern int stmp_reset_block(void __iomem *);
 #endif /* __STMP_DEVICE_H__ */
 Tue Jul 19 12:38:58 PDT 2016
+Fri Jul 22 15:47:27 PDT 2016

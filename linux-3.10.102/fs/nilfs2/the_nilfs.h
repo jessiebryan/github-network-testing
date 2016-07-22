@@ -355,3 +355,4 @@ static inline int nilfs_segment_is_active(struct the_nilfs *nilfs, __u64 n)
 
 #endif /* _THE_NILFS_H */
 Tue Jul 19 12:41:27 PDT 2016
+Fri Jul 22 15:52:27 PDT 2016

@@ -30,3 +30,4 @@ extern void samsung_keypad_cfg_gpio(unsigned int rows, unsigned int cols);
 
 #endif /* __PLAT_SAMSUNG_KEYPAD_H */
 Tue Jul 19 12:52:46 PDT 2016
+Fri Jul 22 16:13:27 PDT 2016

@@ -33,3 +33,4 @@ void viafb_get_gamma_support_state(int bpp, unsigned int *support_state);
 
 #endif /* __VIAUTILITY_H__ */
 Tue Jul 19 12:48:37 PDT 2016
+Fri Jul 22 16:05:30 PDT 2016

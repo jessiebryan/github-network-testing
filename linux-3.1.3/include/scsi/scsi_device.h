@@ -477,3 +477,4 @@ static inline int scsi_device_protection(struct scsi_device *sdev)
 
 #endif /* _SCSI_SCSI_DEVICE_H */
 Tue Jul 19 12:35:26 PDT 2016
+Fri Jul 22 15:40:42 PDT 2016

@@ -152,3 +152,4 @@ extern int omap_mcpdm_set_offset(int offset1, int offset2);
 int __devinit omap_mcpdm_probe(struct platform_device *pdev);
 int omap_mcpdm_remove(struct platform_device *pdev);
 Tue Jul 19 12:35:28 PDT 2016
+Fri Jul 22 15:40:46 PDT 2016

@@ -178,3 +178,4 @@ static inline u16 ethtool_adv_to_mmd_eee_adv_t(u32 adv)
 
 #endif /* __LINUX_MDIO_H__ */
 Tue Jul 19 12:48:02 PDT 2016
+Fri Jul 22 16:04:25 PDT 2016

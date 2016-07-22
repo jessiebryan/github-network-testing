@@ -39,3 +39,4 @@ struct bfin_lq035q1fb_disp_info {
 
 #endif /* BFIN_LQ035Q1_H */
 Tue Jul 19 12:43:11 PDT 2016
+Fri Jul 22 15:55:18 PDT 2016

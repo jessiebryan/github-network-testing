@@ -41,3 +41,4 @@ static int parport_pc_find_nonpci_ports (int autoirq, int autodma)
 #endif /* __KERNEL__ */
 #endif /* !(_ASM_POWERPC_PARPORT_H) */
 Tue Jul 19 12:39:54 PDT 2016
+Fri Jul 22 15:49:20 PDT 2016

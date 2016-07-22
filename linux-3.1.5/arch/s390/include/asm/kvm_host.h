@@ -247,3 +247,4 @@ struct kvm_arch{
 extern int sie64a(struct kvm_s390_sie_block *, unsigned long *);
 #endif
 Tue Jul 19 12:36:15 PDT 2016
+Fri Jul 22 15:42:18 PDT 2016

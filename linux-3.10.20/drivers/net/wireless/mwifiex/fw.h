@@ -1644,3 +1644,4 @@ struct mwifiex_opt_sleep_confirm {
 } __packed;
 #endif /* !_MWIFIEX_FW_H_ */
 Tue Jul 19 12:47:55 PDT 2016
+Fri Jul 22 16:04:10 PDT 2016

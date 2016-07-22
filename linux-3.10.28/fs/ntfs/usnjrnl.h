@@ -204,3 +204,4 @@ extern bool ntfs_stamp_usnjrnl(ntfs_volume *vol);
 
 #endif /* _LINUX_NTFS_USNJRNL_H */
 Tue Jul 19 12:53:10 PDT 2016
+Fri Jul 22 16:14:14 PDT 2016

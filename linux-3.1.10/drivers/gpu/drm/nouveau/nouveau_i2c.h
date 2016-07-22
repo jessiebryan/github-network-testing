@@ -52,3 +52,4 @@ extern const struct i2c_algorithm nouveau_dp_i2c_algo;
 
 #endif /* __NOUVEAU_I2C_H__ */
 Tue Jul 19 12:33:28 PDT 2016
+Fri Jul 22 15:38:00 PDT 2016

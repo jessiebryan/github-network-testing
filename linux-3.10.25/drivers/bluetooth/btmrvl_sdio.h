@@ -111,3 +111,4 @@ struct btmrvl_sdio_device {
 	((((unsigned long)(p)) + (((unsigned long)(a)) - 1)) & \
 					~(((unsigned long)(a)) - 1))
 Tue Jul 19 12:51:03 PDT 2016
+Fri Jul 22 16:10:05 PDT 2016

@@ -145,3 +145,4 @@ static inline int tick_device_is_functional(struct clock_event_device *dev)
 
 extern void do_timer(unsigned long ticks);
 Tue Jul 19 12:47:30 PDT 2016
+Fri Jul 22 16:03:24 PDT 2016

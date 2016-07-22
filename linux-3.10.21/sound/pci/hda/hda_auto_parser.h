@@ -117,3 +117,4 @@ static inline const hda_nid_t *auto_cfg_speaker_pins(const struct auto_pin_cfg *
 
 #endif /* __SOUND_HDA_AUTO_PARSER_H */
 Tue Jul 19 12:48:48 PDT 2016
+Fri Jul 22 16:05:50 PDT 2016

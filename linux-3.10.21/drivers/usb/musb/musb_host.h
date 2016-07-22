@@ -111,3 +111,4 @@ static inline struct urb *next_urb(struct musb_qh *qh)
 
 #endif				/* _MUSB_HOST_H */
 Tue Jul 19 12:48:37 PDT 2016
+Fri Jul 22 16:05:29 PDT 2016

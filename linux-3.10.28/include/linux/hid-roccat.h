@@ -28,3 +28,4 @@ int roccat_report_event(int minor, u8 const *data);
 
 #endif
 Tue Jul 19 12:53:12 PDT 2016
+Fri Jul 22 16:14:18 PDT 2016

@@ -71,3 +71,4 @@ int chp_info_get_status(struct chp_id chpid);
 int chp_ssd_get_mask(struct chsc_ssd_info *, struct chp_link *);
 #endif /* S390_CHP_H */
 Tue Jul 19 12:35:50 PDT 2016
+Fri Jul 22 15:41:29 PDT 2016

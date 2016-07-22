@@ -185,3 +185,4 @@ extern void qib_qsfp_init(struct qib_qsfp_data *qd,
 			  void (*fevent)(struct work_struct *));
 extern void qib_qsfp_deinit(struct qib_qsfp_data *qd);
 Tue Jul 19 12:33:28 PDT 2016
+Fri Jul 22 15:38:01 PDT 2016

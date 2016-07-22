@@ -100,3 +100,4 @@ u16 r8712_eeprom_read16(struct _adapter *padapter, u16 reg);
 #endif  /*__RTL871X_EEPROM_H__*/
 
 Tue Jul 19 12:43:31 PDT 2016
+Fri Jul 22 15:55:56 PDT 2016

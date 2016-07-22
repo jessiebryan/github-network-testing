@@ -62,3 +62,4 @@ unsigned long cpufreq_cooling_get_level(unsigned int, unsigned int)
 
 #endif /* __CPU_COOLING_H__ */
 Tue Jul 19 12:38:55 PDT 2016
+Fri Jul 22 15:47:21 PDT 2016

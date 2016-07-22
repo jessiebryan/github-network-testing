@@ -83,3 +83,4 @@ struct imx_fb_platform_data {
 void set_imx_fb_info(struct imx_fb_platform_data *);
 #endif /* ifndef __MACH_IMXFB_H__ */
 Tue Jul 19 12:42:20 PDT 2016
+Fri Jul 22 15:53:48 PDT 2016

@@ -36,3 +36,4 @@ extern int watchdog_dev_unregister(struct watchdog_device *);
 extern int __init watchdog_dev_init(void);
 extern void __exit watchdog_dev_exit(void);
 Tue Jul 19 12:53:48 PDT 2016
+Fri Jul 22 16:15:28 PDT 2016

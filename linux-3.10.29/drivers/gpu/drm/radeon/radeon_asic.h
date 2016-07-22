@@ -555,3 +555,4 @@ int si_set_uvd_clocks(struct radeon_device *rdev, u32 vclk, u32 dclk);
 
 #endif
 Tue Jul 19 12:53:39 PDT 2016
+Fri Jul 22 16:15:10 PDT 2016

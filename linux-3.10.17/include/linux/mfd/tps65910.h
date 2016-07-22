@@ -955,3 +955,4 @@ static inline int tps65910_irq_get_virq(struct tps65910 *tps65910, int irq)
 
 #endif /*  __LINUX_MFD_TPS65910_H */
 Tue Jul 19 12:46:07 PDT 2016
+Fri Jul 22 16:00:50 PDT 2016

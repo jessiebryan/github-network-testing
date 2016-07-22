@@ -248,3 +248,4 @@ extern void brcms_c_rateset_bw_mcs_filter(struct brcms_c_rateset *rateset,
 
 #endif				/* _BRCM_RATE_H_ */
 Tue Jul 19 12:53:43 PDT 2016
+Fri Jul 22 16:15:19 PDT 2016

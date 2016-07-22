@@ -59,3 +59,4 @@ static inline int hvm_get_parameter(int idx, uint64_t *value)
 
 #endif /* XEN_HVM_H__ */
 Tue Jul 19 12:44:22 PDT 2016
+Fri Jul 22 15:57:29 PDT 2016

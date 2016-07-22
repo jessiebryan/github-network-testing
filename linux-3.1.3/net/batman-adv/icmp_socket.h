@@ -31,3 +31,4 @@ void bat_socket_receive_packet(struct icmp_packet_rr *icmp_packet,
 
 #endif /* _NET_BATMAN_ADV_ICMP_SOCKET_H_ */
 Tue Jul 19 12:35:27 PDT 2016
+Fri Jul 22 15:40:43 PDT 2016

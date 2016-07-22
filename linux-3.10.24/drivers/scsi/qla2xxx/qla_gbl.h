@@ -698,3 +698,4 @@ extern void qla82xx_set_reset_owner(scsi_qla_host_t *);
 
 #endif /* _QLA_GBL_H */
 Tue Jul 19 12:50:30 PDT 2016
+Fri Jul 22 16:09:04 PDT 2016

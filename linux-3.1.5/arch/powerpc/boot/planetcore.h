@@ -48,3 +48,4 @@ void planetcore_set_serial_speed(const char *table);
 
 #endif
 Tue Jul 19 12:36:14 PDT 2016
+Fri Jul 22 15:42:15 PDT 2016

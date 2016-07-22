@@ -50,3 +50,4 @@ extern void __init s3c_hwmon_set_platdata(struct s3c_hwmon_pdata *pd);
 #endif /* __ASM_ARCH_ADC_HWMON_H */
 
 Tue Jul 19 12:40:52 PDT 2016
+Fri Jul 22 15:51:14 PDT 2016

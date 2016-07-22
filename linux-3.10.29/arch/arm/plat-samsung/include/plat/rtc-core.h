@@ -26,3 +26,4 @@ static inline void s3c_rtc_setname(char *name)
 
 #endif /* __ASM_PLAT_RTC_CORE_H */
 Tue Jul 19 12:53:25 PDT 2016
+Fri Jul 22 16:14:43 PDT 2016

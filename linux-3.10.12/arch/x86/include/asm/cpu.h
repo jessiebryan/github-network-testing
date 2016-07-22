@@ -40,3 +40,4 @@ int mwait_usable(const struct cpuinfo_x86 *);
 
 #endif /* _ASM_X86_CPU_H */
 Tue Jul 19 12:42:43 PDT 2016
+Fri Jul 22 15:54:28 PDT 2016

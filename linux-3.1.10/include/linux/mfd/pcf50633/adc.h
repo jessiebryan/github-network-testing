@@ -72,3 +72,4 @@ pcf50633_adc_sync_read(struct pcf50633 *pcf, int mux, int avg);
 
 #endif /* __LINUX_PCF50633_ADC_H */
 Tue Jul 19 12:33:40 PDT 2016
+Fri Jul 22 15:38:22 PDT 2016

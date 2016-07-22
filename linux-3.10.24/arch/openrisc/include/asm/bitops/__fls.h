@@ -32,3 +32,4 @@ static inline unsigned long __fls(unsigned long x)
 
 #endif /* __ASM_OPENRISC___FLS_H */
 Tue Jul 19 12:50:17 PDT 2016
+Fri Jul 22 16:08:39 PDT 2016

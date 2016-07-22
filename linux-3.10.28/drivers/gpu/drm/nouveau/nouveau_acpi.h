@@ -25,3 +25,4 @@ static inline void *nouveau_acpi_edid(struct drm_device *dev, struct drm_connect
 
 #endif
 Tue Jul 19 12:53:00 PDT 2016
+Fri Jul 22 16:13:56 PDT 2016

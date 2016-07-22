@@ -23,3 +23,4 @@ struct ad7877_platform_data {
 					   2 = ever 1 ms,   3 = every 8 ms,*/
 };
 Tue Jul 19 12:38:58 PDT 2016
+Fri Jul 22 15:47:27 PDT 2016

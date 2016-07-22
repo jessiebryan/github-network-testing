@@ -26,3 +26,4 @@ int uvc_bind_config(struct usb_configuration *c,
 #endif /* _F_UVC_H_ */
 
 Tue Jul 19 12:51:12 PDT 2016
+Fri Jul 22 16:10:23 PDT 2016

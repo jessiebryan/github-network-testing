@@ -451,3 +451,4 @@ static inline void write_fp(struct lxfb_par *par, int reg, uint32_t val)
 
 #endif
 Tue Jul 19 12:48:37 PDT 2016
+Fri Jul 22 16:05:30 PDT 2016

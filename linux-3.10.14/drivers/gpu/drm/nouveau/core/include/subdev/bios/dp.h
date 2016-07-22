@@ -33,3 +33,4 @@ nvbios_dpcfg_match(struct nouveau_bios *, u16 outp, u8 un, u8 vs, u8 pe,
 
 #endif
 Tue Jul 19 12:44:03 PDT 2016
+Fri Jul 22 15:56:55 PDT 2016

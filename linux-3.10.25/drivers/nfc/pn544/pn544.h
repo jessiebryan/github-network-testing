@@ -31,3 +31,4 @@ void pn544_hci_remove(struct nfc_hci_dev *hdev);
 
 #endif /* __LOCAL_PN544_H_ */
 Tue Jul 19 12:51:08 PDT 2016
+Fri Jul 22 16:10:17 PDT 2016

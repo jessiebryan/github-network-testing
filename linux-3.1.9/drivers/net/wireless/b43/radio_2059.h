@@ -53,3 +53,4 @@ const struct b43_phy_ht_channeltab_e_radio2059
 
 #endif /* B43_RADIO_2059_H_ */
 Tue Jul 19 12:38:11 PDT 2016
+Fri Jul 22 15:45:54 PDT 2016

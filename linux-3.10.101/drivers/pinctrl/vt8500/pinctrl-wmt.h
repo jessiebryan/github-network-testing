@@ -78,3 +78,4 @@ int wmt_pinctrl_probe(struct platform_device *pdev,
 		      struct wmt_pinctrl_data *data);
 int wmt_pinctrl_remove(struct platform_device *pdev);
 Tue Jul 19 12:40:44 PDT 2016
+Fri Jul 22 15:50:58 PDT 2016

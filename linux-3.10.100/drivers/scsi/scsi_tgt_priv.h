@@ -31,3 +31,4 @@ extern int scsi_tgt_uspace_send_it_nexus_request(int host_no, u64 it_nexus_id,
 						 int function, char *initiator);
 extern int scsi_tgt_kspace_it_nexus_rsp(int host_no, u64 it_nexus_id, int result);
 Tue Jul 19 12:40:06 PDT 2016
+Fri Jul 22 15:49:44 PDT 2016

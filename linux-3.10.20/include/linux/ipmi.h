@@ -311,3 +311,4 @@ extern int ipmi_get_smi_info(int if_num, struct ipmi_smi_info *data);
 
 #endif /* __LINUX_IPMI_H */
 Tue Jul 19 12:48:02 PDT 2016
+Fri Jul 22 16:04:24 PDT 2016

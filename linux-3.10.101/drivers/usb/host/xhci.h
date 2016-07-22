@@ -1865,3 +1865,4 @@ bool xhci_compliance_mode_recovery_timer_quirk_check(void);
 
 #endif /* __LINUX_XHCI_HCD_H */
 Tue Jul 19 12:40:47 PDT 2016
+Fri Jul 22 15:51:04 PDT 2016

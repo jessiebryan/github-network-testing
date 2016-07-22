@@ -92,3 +92,4 @@ enum s3c_gpio_number {
 
 #define ARCH_NR_GPIOS	(GPIO_BOARD_START + BOARD_NR_GPIOS)
 Tue Jul 19 12:45:05 PDT 2016
+Fri Jul 22 15:58:49 PDT 2016

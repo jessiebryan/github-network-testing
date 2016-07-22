@@ -665,3 +665,4 @@ static __inline__ int mga_is_idle(drm_mga_private_t *dev_priv)
 
 #endif
 Tue Jul 19 12:51:03 PDT 2016
+Fri Jul 22 16:10:06 PDT 2016

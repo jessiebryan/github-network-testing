@@ -203,3 +203,4 @@ struct renesas_usbhs_platform_info {
 	})
 #endif /* RENESAS_USB_H */
 Tue Jul 19 12:48:43 PDT 2016
+Fri Jul 22 16:05:42 PDT 2016

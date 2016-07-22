@@ -349,3 +349,4 @@ ql_log_pci(uint32_t, struct pci_dev *pdev, int32_t, const char *fmt, ...);
 #define ql_dbg_tgt_mgt	0x00002000 /* Target mode management */
 #define ql_dbg_tgt_tmr	0x00001000 /* Target mode task management */
 Tue Jul 19 12:42:10 PDT 2016
+Fri Jul 22 15:53:32 PDT 2016

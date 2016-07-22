@@ -1174,3 +1174,4 @@ static inline void ath9k_hw_wow_enable(struct ath_hw *ah, u32 pattern_enable)
 
 #endif
 Tue Jul 19 12:44:07 PDT 2016
+Fri Jul 22 15:57:02 PDT 2016

@@ -14,3 +14,4 @@ static inline struct task_struct * get_current(void)
 
 #endif /* !(_PARISC_CURRENT_H) */
 Tue Jul 19 12:42:39 PDT 2016
+Fri Jul 22 15:54:20 PDT 2016

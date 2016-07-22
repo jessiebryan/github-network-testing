@@ -13,3 +13,4 @@ int ucs2_strncmp(const ucs2_char_t *a, const ucs2_char_t *b, size_t len);
 
 #endif /* _LINUX_UCS2_STRING_H_ */
 Tue Jul 19 12:43:01 PDT 2016
+Fri Jul 22 15:54:59 PDT 2016

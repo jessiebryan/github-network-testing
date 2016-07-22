@@ -34,3 +34,4 @@ struct dsp56k_host_flags {
 #define DSP56K_HOST_FLAGS	4    /* Host flag registers             */
 #define DSP56K_HOST_CMD         5    /* Trig Host Command (0-31)        */
 Tue Jul 19 12:45:10 PDT 2016
+Fri Jul 22 15:58:58 PDT 2016

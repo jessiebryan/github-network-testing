@@ -41,3 +41,4 @@ extern void s3c_hsotg_set_platdata(struct s3c_hsotg_plat *pd);
 
 #endif /* __LINUX_USB_S3C_HSOTG_H */
 Tue Jul 19 12:46:47 PDT 2016
+Fri Jul 22 16:02:04 PDT 2016

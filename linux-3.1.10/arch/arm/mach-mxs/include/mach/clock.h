@@ -61,3 +61,4 @@ void clk_unregister(struct clk *clk);
 #endif /* __ASSEMBLY__ */
 #endif /* __MACH_MXS_CLOCK_H__ */
 Tue Jul 19 12:33:14 PDT 2016
+Fri Jul 22 15:37:31 PDT 2016

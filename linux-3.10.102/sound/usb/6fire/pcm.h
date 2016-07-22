@@ -74,3 +74,4 @@ void usb6fire_pcm_abort(struct sfire_chip *chip);
 void usb6fire_pcm_destroy(struct sfire_chip *chip);
 #endif /* USB6FIRE_PCM_H */
 Tue Jul 19 12:41:39 PDT 2016
+Fri Jul 22 15:52:47 PDT 2016

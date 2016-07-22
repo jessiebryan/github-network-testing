@@ -26,3 +26,4 @@ u16 dcb_conn(struct nouveau_bios *bios, u8 idx, u8 *ver, u8 *len);
 
 #endif
 Tue Jul 19 12:46:32 PDT 2016
+Fri Jul 22 16:01:39 PDT 2016

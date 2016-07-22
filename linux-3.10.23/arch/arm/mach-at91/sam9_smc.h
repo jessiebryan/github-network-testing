@@ -10,3 +10,4 @@
 
 extern void __init at91sam9_ioremap_smc(int id, u32 addr);
 Tue Jul 19 12:49:30 PDT 2016
+Fri Jul 22 16:07:07 PDT 2016

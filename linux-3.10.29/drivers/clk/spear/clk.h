@@ -133,3 +133,4 @@ long clk_round_rate_index(struct clk_hw *hw, unsigned long drate,
 
 #endif /* __SPEAR_CLK_H */
 Tue Jul 19 12:53:38 PDT 2016
+Fri Jul 22 16:15:09 PDT 2016

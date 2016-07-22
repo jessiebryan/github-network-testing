@@ -748,3 +748,4 @@ int cx88_video_mux(struct cx88_core *core, unsigned int input);
 void cx88_querycap(struct file *file, struct cx88_core *core,
 		struct v4l2_capability *cap);
 Tue Jul 19 12:41:19 PDT 2016
+Fri Jul 22 15:52:11 PDT 2016

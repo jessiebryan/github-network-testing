@@ -155,3 +155,4 @@ static inline int cmp_reg(const struct coproc_reg *i1,
 
 #endif /* __ARM_KVM_COPROC_LOCAL_H__ */
 Tue Jul 19 12:44:25 PDT 2016
+Fri Jul 22 15:57:36 PDT 2016

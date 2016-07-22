@@ -67,3 +67,4 @@ static inline void ft1000_write_reg(struct net_device *dev, u16 offset, u16 valu
 
 #endif
 Tue Jul 19 12:47:18 PDT 2016
+Fri Jul 22 16:03:02 PDT 2016

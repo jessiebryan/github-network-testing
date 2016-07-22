@@ -37,3 +37,4 @@ static inline void power_supply_remove_triggers(struct power_supply *psy) {}
 
 #endif /* CONFIG_LEDS_TRIGGERS */
 Tue Jul 19 12:34:09 PDT 2016
+Fri Jul 22 15:39:13 PDT 2016

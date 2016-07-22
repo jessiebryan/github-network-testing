@@ -36,3 +36,4 @@ ssize_t batadv_gw_bandwidth_set(struct net_device *net_dev, char *buff,
 
 #endif /* _NET_BATMAN_ADV_GATEWAY_COMMON_H_ */
 Tue Jul 19 12:44:22 PDT 2016
+Fri Jul 22 15:57:30 PDT 2016

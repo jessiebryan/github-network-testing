@@ -174,3 +174,4 @@ extern int snd_ad1816a_timer(struct snd_ad1816a *chip, int device,
 
 #endif	/* __SOUND_AD1816A_H */
 Tue Jul 19 12:34:37 PDT 2016
+Fri Jul 22 15:39:33 PDT 2016

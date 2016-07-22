@@ -70,3 +70,4 @@ static inline gid_t user_ns_map_gid(struct user_namespace *to,
 
 #endif /* _LINUX_USER_H */
 Tue Jul 19 12:37:45 PDT 2016
+Fri Jul 22 15:45:08 PDT 2016

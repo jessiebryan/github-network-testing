@@ -361,3 +361,4 @@ fnic_chk_state_flags_locked(struct fnic *fnic, unsigned long st_flags)
 void __fnic_set_state_flags(struct fnic *, unsigned long, unsigned long);
 #endif /* _FNIC_H_ */
 Tue Jul 19 12:48:34 PDT 2016
+Fri Jul 22 16:05:24 PDT 2016

@@ -1050,3 +1050,4 @@ static struct it913xset set_it9137_template[] = {
 	{0xff, 0x0000, {0x00}, 0x00}, /* Terminating Entry */
 };
 Tue Jul 19 12:50:25 PDT 2016
+Fri Jul 22 16:08:55 PDT 2016

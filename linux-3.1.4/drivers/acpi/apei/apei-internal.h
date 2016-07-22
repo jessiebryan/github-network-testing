@@ -128,3 +128,4 @@ int apei_estatus_check(const struct acpi_hest_generic_status *estatus);
 int apei_osc_setup(void);
 #endif
 Tue Jul 19 12:35:45 PDT 2016
+Fri Jul 22 15:41:20 PDT 2016

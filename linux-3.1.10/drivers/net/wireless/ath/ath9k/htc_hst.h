@@ -217,3 +217,4 @@ void ath9k_htc_hw_deinit(struct htc_target *target, bool hot_unplug);
 
 #endif /* HTC_HST_H */
 Tue Jul 19 12:33:31 PDT 2016
+Fri Jul 22 15:38:06 PDT 2016

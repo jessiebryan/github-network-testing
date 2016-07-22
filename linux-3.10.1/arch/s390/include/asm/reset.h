@@ -18,3 +18,4 @@ extern void unregister_reset_call(struct reset_call *reset);
 extern void s390_reset_system(void (*func)(void *), void *data);
 #endif /* _ASM_S390_RESET_H */
 Tue Jul 19 12:38:38 PDT 2016
+Fri Jul 22 15:46:48 PDT 2016

@@ -82,3 +82,4 @@ extern const struct smiapp_quirk smiapp_tcm8500md_quirk;
 
 #endif /* __SMIAPP_QUIRK__ */
 Tue Jul 19 12:41:19 PDT 2016
+Fri Jul 22 15:52:10 PDT 2016

@@ -78,3 +78,4 @@ extern void mdfld_dsi_dpi_controller_init(struct mdfld_dsi_config *dsi_config,
 				int pipe);
 #endif /*__MDFLD_DSI_DPI_H__*/
 Tue Jul 19 12:47:11 PDT 2016
+Fri Jul 22 16:02:49 PDT 2016

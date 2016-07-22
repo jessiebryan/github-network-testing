@@ -363,3 +363,4 @@ THUMB(	orr	\reg , \reg , #PSR_T_BIT	)
 
 #endif /* __ASM_ASSEMBLER_H__ */
 Tue Jul 19 12:43:46 PDT 2016
+Fri Jul 22 15:56:22 PDT 2016

@@ -429,3 +429,4 @@ static const struct SiS_Part2PortTbl SiS310_CRT2Part2_Asus1024x768_3[] =
 
 
 Tue Jul 19 12:48:37 PDT 2016
+Fri Jul 22 16:05:30 PDT 2016

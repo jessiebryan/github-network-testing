@@ -316,3 +316,4 @@ static inline pte_t pte_modify(pte_t pte, pgprot_t newprot)
 
 #endif /* __ASM_SH_PGTABLE_64_H */
 Tue Jul 19 12:53:34 PDT 2016
+Fri Jul 22 16:15:02 PDT 2016

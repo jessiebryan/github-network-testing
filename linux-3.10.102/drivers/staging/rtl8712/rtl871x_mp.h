@@ -285,3 +285,4 @@ u32 r8712_GetPhyRxPktCRC32Error(struct _adapter *pAdapter);
 #endif /*__RTL871X_MP_H_*/
 
 Tue Jul 19 12:41:24 PDT 2016
+Fri Jul 22 15:52:22 PDT 2016

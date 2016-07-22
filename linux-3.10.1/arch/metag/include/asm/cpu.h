@@ -13,3 +13,4 @@ struct cpuinfo_metag {
 DECLARE_PER_CPU(struct cpuinfo_metag, cpu_data);
 #endif /* _ASM_METAG_CPU_H */
 Tue Jul 19 12:38:33 PDT 2016
+Fri Jul 22 15:46:39 PDT 2016

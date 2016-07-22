@@ -46,3 +46,4 @@ extern bool no_sleep_autoadjust;
 
 #endif  /* __iwl_power_setting_h__ */
 Tue Jul 19 12:42:50 PDT 2016
+Fri Jul 22 15:54:40 PDT 2016

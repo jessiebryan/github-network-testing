@@ -101,3 +101,4 @@ static inline int jump_label_apply_nops(struct module *mod)
 
 #endif
 Tue Jul 19 12:35:57 PDT 2016
+Fri Jul 22 15:41:42 PDT 2016

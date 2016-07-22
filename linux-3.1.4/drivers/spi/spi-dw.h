@@ -232,3 +232,4 @@ extern void dw_spi_xfer_done(struct dw_spi *dws);
 extern int dw_spi_mid_init(struct dw_spi *dws); /* Intel MID platforms */
 #endif /* DW_SPI_HEADER_H */
 Tue Jul 19 12:35:50 PDT 2016
+Fri Jul 22 15:41:30 PDT 2016

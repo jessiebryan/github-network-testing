@@ -57,3 +57,4 @@ struct bma150_platform_data {
 
 #endif /* _BMA150_H_ */
 Tue Jul 19 12:47:23 PDT 2016
+Fri Jul 22 16:03:10 PDT 2016

@@ -190,3 +190,4 @@ int rts51x_release_xd_card(struct rts51x_chip *chip);
 
 #endif /* __RTS51X_XD_H */
 Tue Jul 19 12:42:12 PDT 2016
+Fri Jul 22 15:53:35 PDT 2016

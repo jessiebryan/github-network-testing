@@ -6,3 +6,4 @@
 #define issecure(X)		(issecure_mask(X) & current_cred_xxx(securebits))
 #endif /* !_LINUX_SECUREBITS_H */
 Tue Jul 19 12:38:58 PDT 2016
+Fri Jul 22 15:47:27 PDT 2016

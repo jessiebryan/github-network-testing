@@ -19,3 +19,4 @@ extern struct snd_ice1712_card_info snd_vt1724_wtm_cards[];
 #endif /* __SOUND_WTM_H */
 
 Tue Jul 19 12:40:59 PDT 2016
+Fri Jul 22 15:51:27 PDT 2016

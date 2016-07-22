@@ -100,3 +100,4 @@ static inline void sclp_console_pm_event(enum sclp_pm_event sclp_pm_event) { }
 
 #endif	/* __SCLP_RW_H__ */
 Tue Jul 19 12:51:48 PDT 2016
+Fri Jul 22 16:11:35 PDT 2016

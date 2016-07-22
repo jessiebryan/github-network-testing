@@ -40,3 +40,4 @@ struct i2c_mux_pinctrl_platform_data {
 
 #endif
 Tue Jul 19 12:50:36 PDT 2016
+Fri Jul 22 16:09:15 PDT 2016

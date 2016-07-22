@@ -356,3 +356,4 @@ params_period_bytes(const struct snd_pcm_hw_params *p)
 
 #endif /* __SOUND_PCM_PARAMS_H */
 Tue Jul 19 12:51:59 PDT 2016
+Fri Jul 22 16:11:56 PDT 2016

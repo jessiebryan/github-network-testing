@@ -898,3 +898,4 @@ void hci_le_ltk_neg_reply(struct hci_conn *conn);
 
 #endif /* __HCI_CORE_H */
 Tue Jul 19 12:38:22 PDT 2016
+Fri Jul 22 15:46:16 PDT 2016

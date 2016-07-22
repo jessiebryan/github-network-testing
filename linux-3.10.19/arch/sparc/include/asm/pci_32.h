@@ -60,3 +60,4 @@ static inline int pci_get_legacy_ide_irq(struct pci_dev *dev, int channel)
 
 #endif /* __SPARC_PCI_H */
 Tue Jul 19 12:47:08 PDT 2016
+Fri Jul 22 16:02:43 PDT 2016

@@ -65,3 +65,4 @@ struct VideoModeTable *viafb_get_rb_mode(int hres, int vres);
 
 #endif /* __VIAMODE_H__ */
 Tue Jul 19 12:34:21 PDT 2016
+Fri Jul 22 15:39:20 PDT 2016

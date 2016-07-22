@@ -20,3 +20,4 @@ void orinoco_scan_done(struct orinoco_private *priv, bool abort);
 
 #endif /* _ORINOCO_SCAN_H_ */
 Tue Jul 19 12:34:09 PDT 2016
+Fri Jul 22 15:39:12 PDT 2016

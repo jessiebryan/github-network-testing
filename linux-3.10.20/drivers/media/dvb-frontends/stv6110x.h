@@ -72,3 +72,4 @@ static inline struct stv6110x_devctl *stv6110x_attach(struct dvb_frontend *fe,
 
 #endif /* __STV6110x_H */
 Tue Jul 19 12:47:52 PDT 2016
+Fri Jul 22 16:04:04 PDT 2016

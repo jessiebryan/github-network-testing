@@ -283,3 +283,4 @@ ssize_t st_sensors_sysfs_scale_avail(struct device *dev,
 
 #endif /* ST_SENSORS_H */
 Tue Jul 19 12:40:12 PDT 2016
+Fri Jul 22 15:49:56 PDT 2016

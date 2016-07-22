@@ -585,3 +585,4 @@ static inline u32 iwl_mvm_get_scd_ssn(struct iwl_mvm_tx_resp *tx_resp)
 
 #endif /* __fw_api_tx_h__ */
 Tue Jul 19 12:43:28 PDT 2016
+Fri Jul 22 15:55:51 PDT 2016

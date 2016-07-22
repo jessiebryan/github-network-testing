@@ -234,3 +234,4 @@ static inline void bt431_init_cursor(struct bt431_regs *regs)
 	bt431_write_reg_inc(regs, 0x00); /* BT431_REG_WHHI */
 }
 Tue Jul 19 12:53:09 PDT 2016
+Fri Jul 22 16:14:12 PDT 2016

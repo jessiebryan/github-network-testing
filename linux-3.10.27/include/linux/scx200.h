@@ -50,3 +50,4 @@ extern unsigned scx200_cb_base;
 #define SCx200_CBA 0x3e		/* Configuration Base Address Register */
 #define SCx200_CBA_SCRATCH 0x64	/* Configuration Base Address Scratchpad */
 Tue Jul 19 12:52:36 PDT 2016
+Fri Jul 22 16:13:07 PDT 2016

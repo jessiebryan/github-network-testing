@@ -591,3 +591,4 @@ static inline int ufs_is_data_ptr_zero(struct ufs_sb_private_info *uspi,
 		return *(__fs32 *)p == 0;
 }
 Tue Jul 19 12:41:27 PDT 2016
+Fri Jul 22 15:52:27 PDT 2016

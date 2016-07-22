@@ -8,3 +8,4 @@ u8  mxm_ddc_map(struct nouveau_bios *, u8 port);
 
 #endif
 Tue Jul 19 12:47:50 PDT 2016
+Fri Jul 22 16:04:01 PDT 2016

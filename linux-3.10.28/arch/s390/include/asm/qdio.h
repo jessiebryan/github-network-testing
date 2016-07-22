@@ -402,3 +402,4 @@ extern int qdio_get_ssqd_desc(struct ccw_device *, struct qdio_ssqd_desc *);
 
 #endif /* __QDIO_H__ */
 Tue Jul 19 12:52:55 PDT 2016
+Fri Jul 22 16:13:46 PDT 2016

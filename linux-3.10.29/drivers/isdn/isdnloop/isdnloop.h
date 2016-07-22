@@ -111,3 +111,4 @@ static isdnloop_card *cards = (isdnloop_card *) 0;
 #endif                          /* defined(__KERNEL__) || defined(__DEBUGVAR__) */
 #endif                          /* isdnloop_h */
 Tue Jul 19 12:53:40 PDT 2016
+Fri Jul 22 16:15:12 PDT 2016

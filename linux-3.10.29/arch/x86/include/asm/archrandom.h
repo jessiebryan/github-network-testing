@@ -74,3 +74,4 @@ extern void x86_init_rdrand(struct cpuinfo_x86 *c);
 
 #endif /* ASM_X86_ARCHRANDOM_H */
 Tue Jul 19 12:53:36 PDT 2016
+Fri Jul 22 16:15:06 PDT 2016

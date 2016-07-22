@@ -118,3 +118,4 @@ void* xbv_to_patch(card_t *card, fwreadfn_t readfn, const void *fw_buf, const xb
 
 #endif /* __XBV_H__ */
 Tue Jul 19 12:40:45 PDT 2016
+Fri Jul 22 15:51:00 PDT 2016

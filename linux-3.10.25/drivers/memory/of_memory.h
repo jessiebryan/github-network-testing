@@ -35,3 +35,4 @@ static inline const struct lpddr2_timings
 
 #endif /* __LINUX_MEMORY_OF_REG_ */
 Tue Jul 19 12:51:06 PDT 2016
+Fri Jul 22 16:10:12 PDT 2016

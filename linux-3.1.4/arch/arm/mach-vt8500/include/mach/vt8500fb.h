@@ -30,3 +30,4 @@ struct vt8500fb_platform_data {
 
 #endif /* _VT8500FB_H */
 Tue Jul 19 12:35:32 PDT 2016
+Fri Jul 22 15:40:54 PDT 2016

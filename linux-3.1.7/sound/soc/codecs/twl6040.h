@@ -28,3 +28,4 @@ int twl6040_get_clk_id(struct snd_soc_codec *codec);
 
 #endif /* End of __TWL6040_H__ */
 Tue Jul 19 12:37:10 PDT 2016
+Fri Jul 22 15:44:07 PDT 2016

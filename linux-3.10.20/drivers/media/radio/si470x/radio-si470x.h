@@ -225,3 +225,4 @@ int si470x_fops_release(struct file *file);
 int si470x_vidioc_querycap(struct file *file, void *priv,
 		struct v4l2_capability *capability);
 Tue Jul 19 12:47:52 PDT 2016
+Fri Jul 22 16:04:05 PDT 2016

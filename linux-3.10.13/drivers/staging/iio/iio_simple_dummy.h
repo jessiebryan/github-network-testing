@@ -109,3 +109,4 @@ void iio_simple_dummy_unconfigure_buffer(struct iio_dev *indio_dev)
 {};
 #endif /* CONFIG_IIO_SIMPLE_DUMMY_BUFFER */
 Tue Jul 19 12:43:31 PDT 2016
+Fri Jul 22 15:55:55 PDT 2016

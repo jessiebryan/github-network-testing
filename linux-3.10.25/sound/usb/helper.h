@@ -35,3 +35,4 @@ static inline int snd_usb_ctrl_intf(struct snd_usb_audio *chip)
 
 #endif /* __USBAUDIO_HELPER_H */
 Tue Jul 19 12:51:25 PDT 2016
+Fri Jul 22 16:10:47 PDT 2016

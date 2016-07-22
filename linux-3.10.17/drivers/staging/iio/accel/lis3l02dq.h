@@ -209,3 +209,4 @@ static inline void lis3l02dq_unconfigure_buffer(struct iio_dev *indio_dev)
 #endif /* CONFIG_IIO_BUFFER */
 #endif /* SPI_LIS3L02DQ_H_ */
 Tue Jul 19 12:46:02 PDT 2016
+Fri Jul 22 16:00:39 PDT 2016

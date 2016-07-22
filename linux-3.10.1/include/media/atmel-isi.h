@@ -120,3 +120,4 @@ struct isi_platform_data {
 
 #endif /* __ATMEL_ISI_H__ */
 Tue Jul 19 12:38:59 PDT 2016
+Fri Jul 22 15:47:29 PDT 2016

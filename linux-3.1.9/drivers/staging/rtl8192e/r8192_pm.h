@@ -23,3 +23,4 @@ int rtl8192E_enable_wake (struct pci_dev *dev, pm_message_t state, int enable);
 
 #endif //R8192E_PM_H
 Tue Jul 19 12:38:14 PDT 2016
+Fri Jul 22 15:45:59 PDT 2016

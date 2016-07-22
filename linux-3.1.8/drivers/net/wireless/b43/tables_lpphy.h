@@ -43,3 +43,4 @@ void lpphy_init_tx_gain_table(struct b43_wldev *dev);
 
 #endif /* B43_TABLES_LPPHY_H_ */
 Tue Jul 19 12:37:33 PDT 2016
+Fri Jul 22 15:44:48 PDT 2016

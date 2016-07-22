@@ -164,3 +164,4 @@ static inline void omap1_usb_init(struct omap_usb_config *pdata)
 #	define	CONF_USB_PWRDN_DM_R	(1 << 2)
 #	define	CONF_USB_PWRDN_DP_R	(1 << 1)
 Tue Jul 19 12:39:44 PDT 2016
+Fri Jul 22 15:49:02 PDT 2016

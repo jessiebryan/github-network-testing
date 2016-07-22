@@ -15,3 +15,4 @@ struct rotary_encoder_platform_data {
 
 #endif /* __ROTARY_ENCODER_H__ */
 Tue Jul 19 12:50:00 PDT 2016
+Fri Jul 22 16:08:06 PDT 2016

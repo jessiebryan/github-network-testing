@@ -48,3 +48,4 @@ static inline int altera_init(struct altera_config *config,
 
 #endif /* _ALTERA_H_ */
 Tue Jul 19 12:46:49 PDT 2016
+Fri Jul 22 16:02:07 PDT 2016

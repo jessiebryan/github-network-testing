@@ -34,3 +34,4 @@ void armada_xp_mpic_smp_cpu_init(void);
 
 #endif /* __MACH_ARMADA_370_XP_H */
 Tue Jul 19 12:42:30 PDT 2016
+Fri Jul 22 15:54:03 PDT 2016

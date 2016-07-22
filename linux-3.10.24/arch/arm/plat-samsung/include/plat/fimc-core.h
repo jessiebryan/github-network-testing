@@ -50,3 +50,4 @@ static inline void s3c_fimc_setname(int id, char *name)
 
 #endif /* __ASM_PLAT_FIMC_CORE_H */
 Tue Jul 19 12:50:10 PDT 2016
+Fri Jul 22 16:08:25 PDT 2016

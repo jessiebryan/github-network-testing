@@ -795,3 +795,4 @@ static inline int dasd_eer_enabled(struct dasd_device *device)
 
 #endif				/* DASD_H */
 Tue Jul 19 12:42:51 PDT 2016
+Fri Jul 22 15:54:42 PDT 2016

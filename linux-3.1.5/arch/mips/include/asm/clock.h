@@ -63,3 +63,4 @@ int clk_set_rate_ex(struct clk *clk, unsigned long rate, int algo_id);
 
 #endif				/* __ASM_MIPS_CLOCK_H */
 Tue Jul 19 12:36:11 PDT 2016
+Fri Jul 22 15:42:10 PDT 2016

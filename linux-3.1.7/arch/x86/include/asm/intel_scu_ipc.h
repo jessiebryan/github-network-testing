@@ -46,3 +46,4 @@ int intel_scu_ipc_fw_update(u8 *buffer, u32 length);
 
 #endif
 Tue Jul 19 12:36:51 PDT 2016
+Fri Jul 22 15:43:31 PDT 2016

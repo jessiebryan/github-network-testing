@@ -17,3 +17,4 @@ struct efm32_uart_pdata {
 };
 #endif /* ifndef __LINUX_PLATFORM_DATA_EFM32_UART_H__ */
 Tue Jul 19 12:53:53 PDT 2016
+Fri Jul 22 16:15:37 PDT 2016

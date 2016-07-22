@@ -333,3 +333,4 @@ int t3_get_edc_fw(struct cphy *phy, int edc_idx, int size);
 
 #endif				/* __T3_ADAPTER_H__ */
 Tue Jul 19 12:44:46 PDT 2016
+Fri Jul 22 15:58:11 PDT 2016

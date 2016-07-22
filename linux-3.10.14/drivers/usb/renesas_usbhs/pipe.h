@@ -115,3 +115,4 @@ void usbhs_dcp_dir_for_host(struct usbhs_pipe *pipe, int dir_out);
 
 #endif /* RENESAS_USB_PIPE_H */
 Tue Jul 19 12:44:11 PDT 2016
+Fri Jul 22 15:57:11 PDT 2016

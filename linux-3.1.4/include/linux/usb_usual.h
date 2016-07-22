@@ -101,3 +101,4 @@ extern int usb_usual_check_type(const struct usb_device_id *, int type);
 
 #endif /* __LINUX_USB_USUAL_H */
 Tue Jul 19 12:35:59 PDT 2016
+Fri Jul 22 15:41:47 PDT 2016

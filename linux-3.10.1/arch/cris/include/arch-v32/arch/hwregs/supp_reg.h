@@ -77,3 +77,4 @@ __asm__ __volatile__ ("move $S" STRINGIFYFY(r) ",%0" : "=r" (v));
 
 #endif /* __SUPP_REG_H__ */
 Tue Jul 19 12:38:31 PDT 2016
+Fri Jul 22 15:46:34 PDT 2016

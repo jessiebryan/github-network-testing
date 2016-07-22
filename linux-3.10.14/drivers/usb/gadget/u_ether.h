@@ -158,3 +158,4 @@ static inline int rndis_bind_config(struct usb_configuration *c,
 
 #endif /* __U_ETHER_H */
 Tue Jul 19 12:44:11 PDT 2016
+Fri Jul 22 15:57:11 PDT 2016

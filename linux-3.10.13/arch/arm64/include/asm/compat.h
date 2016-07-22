@@ -305,3 +305,4 @@ static inline int is_compat_thread(struct thread_info *thread)
 #endif /* __KERNEL__ */
 #endif /* __ASM_COMPAT_H */
 Tue Jul 19 12:43:10 PDT 2016
+Fri Jul 22 15:55:17 PDT 2016

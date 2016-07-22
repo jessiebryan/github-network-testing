@@ -86,3 +86,4 @@ void wlcore_event_roc_complete(struct wl1271 *wl);
 void wlcore_event_rssi_trigger(struct wl1271 *wl, s8 *metric_arr);
 #endif
 Tue Jul 19 12:44:48 PDT 2016
+Fri Jul 22 15:58:15 PDT 2016

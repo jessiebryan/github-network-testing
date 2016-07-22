@@ -151,3 +151,4 @@ do { \
 #define ar5523_info(ar, format, arg...)	\
 	dev_info(&(ar)->dev->dev, format, ## arg)
 Tue Jul 19 12:38:47 PDT 2016
+Fri Jul 22 15:47:06 PDT 2016

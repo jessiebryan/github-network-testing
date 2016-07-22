@@ -608,3 +608,4 @@ extern int intelfbhw_active_pipe(const struct intelfb_hwstate *hw);
 
 #endif /* _INTELFBHW_H */
 Tue Jul 19 12:34:21 PDT 2016
+Fri Jul 22 15:39:20 PDT 2016

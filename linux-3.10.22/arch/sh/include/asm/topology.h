@@ -27,3 +27,4 @@ extern cpumask_t cpu_core_map[NR_CPUS];
 
 #endif /* _ASM_SH_TOPOLOGY_H */
 Tue Jul 19 12:49:02 PDT 2016
+Fri Jul 22 16:06:18 PDT 2016

@@ -1213,3 +1213,4 @@ struct r_port {
 #define PCI_DEVICE_ID_CRP16INTF		0x0903	/* Rocketport Compact PCI 16 port w/external I/F */
 
 Tue Jul 19 12:51:12 PDT 2016
+Fri Jul 22 16:10:23 PDT 2016

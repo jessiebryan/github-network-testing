@@ -149,3 +149,4 @@ struct wusb_cbaf_cc_data_fail {
 
 #endif	/* __LINUX_USB_ASSOCIATION_H */
 Tue Jul 19 12:46:09 PDT 2016
+Fri Jul 22 16:00:54 PDT 2016

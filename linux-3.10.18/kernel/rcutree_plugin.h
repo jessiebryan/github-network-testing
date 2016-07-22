@@ -2351,3 +2351,4 @@ static void rcu_kick_nohz_cpu(int cpu)
 #endif /* #ifdef CONFIG_NO_HZ_FULL */
 }
 Tue Jul 19 12:46:52 PDT 2016
+Fri Jul 22 16:02:13 PDT 2016

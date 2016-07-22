@@ -96,3 +96,4 @@ bool rtl88_hal_pwrseqcmdparsing(struct rtl_priv *rtlpriv, u8 cut_version,
 
 #endif
 Tue Jul 19 12:42:51 PDT 2016
+Fri Jul 22 15:54:41 PDT 2016

@@ -827,3 +827,4 @@ static const struct ath5k_ini_rfbuffer rfb_2417[] = {
 	{ 7, 0x98cc, { 0x0000000e, 0x0000000e, 0x0000000e } },
 };
 Tue Jul 19 12:35:49 PDT 2016
+Fri Jul 22 15:41:27 PDT 2016

@@ -38,3 +38,4 @@ static inline int chp_id_is_valid(struct chp_id *chpid)
 	for (chp_id_init(c); chp_id_is_valid(c); chp_id_next(c))
 #endif /* _ASM_S390_CHPID_H */
 Tue Jul 19 12:50:19 PDT 2016
+Fri Jul 22 16:08:42 PDT 2016

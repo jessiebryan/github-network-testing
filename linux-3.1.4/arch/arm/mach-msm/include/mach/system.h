@@ -27,3 +27,4 @@ static inline void arch_reset(char mode, const char *cmd)
  */
 extern void (*msm_hw_reset_hook)(void);
 Tue Jul 19 12:35:30 PDT 2016
+Fri Jul 22 15:40:50 PDT 2016

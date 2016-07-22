@@ -242,3 +242,4 @@ struct cmd_firmware_vers_s {
 };
 #endif /* VENDOR_CMD_H_ */
 Tue Jul 19 12:49:09 PDT 2016
+Fri Jul 22 16:06:31 PDT 2016

@@ -896,3 +896,4 @@ static inline u16 DISPC_PRELOAD_OFFSET(enum omap_plane plane)
 }
 #endif
 Tue Jul 19 12:39:30 PDT 2016
+Fri Jul 22 15:48:34 PDT 2016

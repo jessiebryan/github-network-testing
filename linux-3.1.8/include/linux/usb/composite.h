@@ -384,3 +384,4 @@ extern int usb_string_ids_n(struct usb_composite_dev *c, unsigned n);
 
 #endif	/* __LINUX_USB_COMPOSITE_H */
 Tue Jul 19 12:37:45 PDT 2016
+Fri Jul 22 15:45:08 PDT 2016

@@ -19,3 +19,4 @@ extern int mxs_dma_is_apbh(struct dma_chan *chan);
 extern int mxs_dma_is_apbx(struct dma_chan *chan);
 #endif /* __MACH_MXS_DMA_H__ */
 Tue Jul 19 12:49:57 PDT 2016
+Fri Jul 22 16:08:01 PDT 2016

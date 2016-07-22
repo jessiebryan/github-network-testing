@@ -706,3 +706,4 @@ pending_queue_pop(struct fimc_vid_cap *vid_cap)
 
 #endif /* FIMC_CORE_H_ */
 Tue Jul 19 12:36:22 PDT 2016
+Fri Jul 22 15:42:30 PDT 2016

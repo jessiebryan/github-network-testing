@@ -780,3 +780,4 @@ int wm8350_isink_set_flash(struct wm8350 *wm8350, int isink, u16 mode,
 
 #endif
 Tue Jul 19 12:43:37 PDT 2016
+Fri Jul 22 15:56:06 PDT 2016

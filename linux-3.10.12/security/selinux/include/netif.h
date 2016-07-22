@@ -22,3 +22,4 @@ int sel_netif_sid(int ifindex, u32 *sid);
 #endif	/* _SELINUX_NETIF_H_ */
 
 Tue Jul 19 12:43:05 PDT 2016
+Fri Jul 22 15:55:07 PDT 2016

@@ -64,3 +64,4 @@ struct spear_smi_plat_data {
 
 #endif /* __MTD_SPEAR_SMI_H */
 Tue Jul 19 12:52:35 PDT 2016
+Fri Jul 22 16:13:05 PDT 2016

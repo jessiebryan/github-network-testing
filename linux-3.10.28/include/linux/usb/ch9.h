@@ -54,3 +54,4 @@ extern const char *usb_state_string(enum usb_device_state state);
 
 #endif /* __LINUX_USB_CH9_H */
 Tue Jul 19 12:53:15 PDT 2016
+Fri Jul 22 16:14:25 PDT 2016

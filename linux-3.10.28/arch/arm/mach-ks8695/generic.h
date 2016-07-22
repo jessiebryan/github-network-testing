@@ -15,3 +15,4 @@ extern __init void ks8695_init_irq(void);
 extern void ks8695_restart(char, const char *);
 extern void ks8695_timer_init(void);
 Tue Jul 19 12:52:44 PDT 2016
+Fri Jul 22 16:13:24 PDT 2016

@@ -21,3 +21,4 @@ int orinoco_mic(struct crypto_hash *tfm_michael, u8 *key,
 
 #endif /* ORINOCO_MIC_H */
 Tue Jul 19 12:35:15 PDT 2016
+Fri Jul 22 15:40:20 PDT 2016

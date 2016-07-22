@@ -32,3 +32,4 @@
 		LPFC_DRIVER_VERSION
 #define LPFC_COPYRIGHT "Copyright(c) 2004-2009 Emulex.  All rights reserved."
 Tue Jul 19 12:47:56 PDT 2016
+Fri Jul 22 16:04:12 PDT 2016

@@ -7470,3 +7470,4 @@ static inline u8 calc_crc8(u32 data, u8 crc)
 
 #endif /* BNX2X_REG_H */
 Tue Jul 19 12:49:48 PDT 2016
+Fri Jul 22 16:07:44 PDT 2016

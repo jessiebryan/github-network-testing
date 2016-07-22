@@ -49,3 +49,4 @@ static inline int tpm_get_random(u32 chip_num, u8 *data, size_t max) {
 #endif
 #endif
 Tue Jul 19 12:50:39 PDT 2016
+Fri Jul 22 16:09:20 PDT 2016

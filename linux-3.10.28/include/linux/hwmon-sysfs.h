@@ -56,3 +56,4 @@ struct sensor_device_attribute_2 sensor_dev_attr_##_name		\
 
 #endif /* _LINUX_HWMON_SYSFS_H */
 Tue Jul 19 12:53:12 PDT 2016
+Fri Jul 22 16:14:18 PDT 2016

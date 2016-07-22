@@ -42,3 +42,4 @@ enum {
 #endif /*_RTL8711_RF_H_*/
 
 Tue Jul 19 12:33:35 PDT 2016
+Fri Jul 22 15:38:12 PDT 2016

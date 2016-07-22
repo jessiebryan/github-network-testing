@@ -171,3 +171,4 @@ wlcore_scan_sched_scan_ssid_list(struct wl1271 *wl,
 
 #endif /* __WL1271_SCAN_H__ */
 Tue Jul 19 12:40:44 PDT 2016
+Fri Jul 22 15:50:58 PDT 2016

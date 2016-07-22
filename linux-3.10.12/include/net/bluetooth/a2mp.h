@@ -149,3 +149,4 @@ void a2mp_send_create_phy_link_rsp(struct hci_dev *hdev, u8 status);
 
 #endif /* __A2MP_H */
 Tue Jul 19 12:43:02 PDT 2016
+Fri Jul 22 15:55:01 PDT 2016

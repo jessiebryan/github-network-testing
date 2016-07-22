@@ -44,3 +44,4 @@ void bL_cpufreq_unregister(struct cpufreq_arm_bL_ops *ops);
 
 #endif /* CPUFREQ_ARM_BIG_LITTLE_H */
 Tue Jul 19 12:45:19 PDT 2016
+Fri Jul 22 15:59:15 PDT 2016

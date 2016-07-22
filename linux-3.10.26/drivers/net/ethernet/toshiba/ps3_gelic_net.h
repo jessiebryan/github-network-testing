@@ -385,3 +385,4 @@ extern void gelic_net_poll_controller(struct net_device *netdev);
 
 #endif /* _GELIC_NET_H */
 Tue Jul 19 12:51:47 PDT 2016
+Fri Jul 22 16:11:31 PDT 2016

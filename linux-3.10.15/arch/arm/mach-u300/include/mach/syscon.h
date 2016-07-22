@@ -591,3 +591,4 @@ int syscon_speed_request(enum syscon_call_mode wait_mode,
 			 enum syscon_clk_mode req_clk_mode);
 #endif /* __MACH_SYSCON_H */
 Tue Jul 19 12:44:27 PDT 2016
+Fri Jul 22 15:57:40 PDT 2016

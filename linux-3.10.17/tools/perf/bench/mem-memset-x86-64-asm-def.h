@@ -11,3 +11,4 @@ MEMSET_FN(memset_c_e,
 	"x86-64-stosb",
 	"movsb-based memset() in arch/x86/lib/memset_64.S")
 Tue Jul 19 12:46:15 PDT 2016
+Fri Jul 22 16:01:04 PDT 2016

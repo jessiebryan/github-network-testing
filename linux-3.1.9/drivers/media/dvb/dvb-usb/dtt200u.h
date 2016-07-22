@@ -56,3 +56,4 @@ extern struct dvb_frontend * dtt200u_fe_attach(struct dvb_usb_device *d);
 
 #endif
 Tue Jul 19 12:38:08 PDT 2016
+Fri Jul 22 15:45:49 PDT 2016

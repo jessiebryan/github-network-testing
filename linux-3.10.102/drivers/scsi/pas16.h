@@ -175,3 +175,4 @@ static int pas16_bus_reset(Scsi_Cmnd *);
 #endif /* ndef ASM */
 #endif /* PAS16_H */
 Tue Jul 19 12:41:23 PDT 2016
+Fri Jul 22 15:52:20 PDT 2016

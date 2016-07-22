@@ -56,3 +56,4 @@ extern void usb_stor_set_xfer_buf(unsigned char *buffer,
 	unsigned int buflen, struct scsi_cmnd *srb);
 #endif
 Tue Jul 19 12:45:27 PDT 2016
+Fri Jul 22 15:59:32 PDT 2016

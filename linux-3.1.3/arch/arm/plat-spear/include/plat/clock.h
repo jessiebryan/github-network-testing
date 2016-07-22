@@ -248,3 +248,4 @@ int clcd_clk_set_rate(struct clk *clk, unsigned long desired_rate);
 
 #endif /* __PLAT_CLOCK_H */
 Tue Jul 19 12:34:44 PDT 2016
+Fri Jul 22 15:39:48 PDT 2016

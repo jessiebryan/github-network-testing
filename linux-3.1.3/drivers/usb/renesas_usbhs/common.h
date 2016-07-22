@@ -273,3 +273,4 @@ struct usbhs_priv *usbhs_pdev_to_priv(struct platform_device *pdev);
 
 #endif /* RENESAS_USB_DRIVER_H */
 Tue Jul 19 12:35:19 PDT 2016
+Fri Jul 22 15:40:28 PDT 2016

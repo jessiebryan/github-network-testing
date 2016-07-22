@@ -65,3 +65,4 @@ static inline void cpuidle_coupled_unregister_device(struct cpuidle_device *dev)
 
 #endif /* __DRIVER_CPUIDLE_H */
 Tue Jul 19 12:45:19 PDT 2016
+Fri Jul 22 15:59:15 PDT 2016

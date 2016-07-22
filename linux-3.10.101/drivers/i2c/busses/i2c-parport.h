@@ -109,3 +109,4 @@ MODULE_PARM_DESC(type,
 	" 7 = One For All JP1 parallel port adapter\n"
 );
 Tue Jul 19 12:40:39 PDT 2016
+Fri Jul 22 15:50:49 PDT 2016

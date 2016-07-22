@@ -193,3 +193,4 @@ extern struct scsi_host_template rts51x_host_template;
 
 #endif /* __RTS51X_H */
 Tue Jul 19 12:44:10 PDT 2016
+Fri Jul 22 15:57:09 PDT 2016

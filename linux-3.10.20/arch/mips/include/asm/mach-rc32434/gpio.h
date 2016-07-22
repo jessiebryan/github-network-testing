@@ -89,3 +89,4 @@ extern void rb532_gpio_set_func(unsigned gpio);
 
 #endif /* _RC32434_GPIO_H_ */
 Tue Jul 19 12:47:42 PDT 2016
+Fri Jul 22 16:03:46 PDT 2016

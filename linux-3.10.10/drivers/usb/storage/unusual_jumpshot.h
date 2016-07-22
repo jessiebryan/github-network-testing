@@ -26,3 +26,4 @@ UNUSUAL_DEV(  0x05dc, 0x0001, 0x0000, 0x0001,
 
 #endif /* defined(CONFIG_USB_STORAGE_JUMPSHOT) || ... */
 Tue Jul 19 12:39:30 PDT 2016
+Fri Jul 22 15:48:33 PDT 2016

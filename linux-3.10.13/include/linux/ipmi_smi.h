@@ -241,3 +241,4 @@ int ipmi_smi_add_proc_entry(ipmi_smi_t smi, char *name,
 
 #endif /* __LINUX_IPMI_SMI_H */
 Tue Jul 19 12:43:36 PDT 2016
+Fri Jul 22 15:56:05 PDT 2016

@@ -655,3 +655,4 @@ static inline unsigned int norm_swidth(v4l2_std_id norm)
 	return (norm & (V4L2_STD_MN & ~V4L2_STD_PAL_Nc)) ? 754 : 922;
 }
 Tue Jul 19 12:41:19 PDT 2016
+Fri Jul 22 15:52:11 PDT 2016

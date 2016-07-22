@@ -26,3 +26,4 @@ struct fsa9480_platform_data {
 
 #endif /* _FSA9480_H_ */
 Tue Jul 19 12:43:00 PDT 2016
+Fri Jul 22 15:54:57 PDT 2016

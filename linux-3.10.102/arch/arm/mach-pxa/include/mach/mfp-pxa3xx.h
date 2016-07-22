@@ -157,3 +157,4 @@ static inline void pxa3xx_mfp_config(unsigned long *mfp_cfg, int num)
 }
 #endif /* __ASM_ARCH_MFP_PXA3XX_H */
 Tue Jul 19 12:41:02 PDT 2016
+Fri Jul 22 15:51:34 PDT 2016

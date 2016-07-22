@@ -9,3 +9,4 @@ extern struct mutex acpi_device_lock;
 
 extern void acpi_resume_power_resources(void);
 Tue Jul 19 12:53:38 PDT 2016
+Fri Jul 22 16:15:09 PDT 2016

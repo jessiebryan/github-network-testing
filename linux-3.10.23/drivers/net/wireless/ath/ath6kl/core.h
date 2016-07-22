@@ -963,3 +963,4 @@ void ath6kl_recovery_suspend(struct ath6kl *ar);
 void ath6kl_recovery_resume(struct ath6kl *ar);
 #endif /* CORE_H */
 Tue Jul 19 12:49:49 PDT 2016
+Fri Jul 22 16:07:46 PDT 2016

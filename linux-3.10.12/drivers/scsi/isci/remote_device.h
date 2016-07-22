@@ -386,3 +386,4 @@ enum sci_status sci_remote_device_suspend(struct isci_remote_device *idev,
 					  enum sci_remote_node_suspension_reasons reason);
 #endif /* !defined(_ISCI_REMOTE_DEVICE_H_) */
 Tue Jul 19 12:42:52 PDT 2016
+Fri Jul 22 15:54:43 PDT 2016

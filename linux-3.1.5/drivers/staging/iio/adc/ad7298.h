@@ -75,3 +75,4 @@ static inline void ad7298_ring_cleanup(struct iio_dev *indio_dev)
 #endif /* CONFIG_IIO_RING_BUFFER */
 #endif /* IIO_ADC_AD7298_H_ */
 Tue Jul 19 12:36:25 PDT 2016
+Fri Jul 22 15:42:38 PDT 2016

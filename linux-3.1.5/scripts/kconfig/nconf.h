@@ -95,3 +95,4 @@ void show_scroll_win(WINDOW *main_window,
 		const char *title,
 		const char *text);
 Tue Jul 19 12:36:35 PDT 2016
+Fri Jul 22 15:42:59 PDT 2016

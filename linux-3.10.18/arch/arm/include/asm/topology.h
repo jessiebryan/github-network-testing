@@ -38,3 +38,4 @@ static inline void store_cpu_topology(unsigned int cpuid) { }
 
 #endif /* _ASM_ARM_TOPOLOGY_H */
 Tue Jul 19 12:46:16 PDT 2016
+Fri Jul 22 16:01:06 PDT 2016

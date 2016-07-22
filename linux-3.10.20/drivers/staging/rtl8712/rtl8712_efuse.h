@@ -42,3 +42,4 @@ u8 r8712_efuse_map_write(struct _adapter *padapter, u16 addr,
 				u16 cnts, u8 *data);
 #endif
 Tue Jul 19 12:47:57 PDT 2016
+Fri Jul 22 16:04:15 PDT 2016

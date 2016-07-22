@@ -58,3 +58,4 @@ static inline int at91_soc_is_enabled(void)
 #define at91sam9x5_soc	at91_boot_soc
 #endif
 Tue Jul 19 12:36:03 PDT 2016
+Fri Jul 22 15:41:55 PDT 2016

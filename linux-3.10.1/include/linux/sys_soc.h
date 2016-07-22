@@ -36,3 +36,4 @@ struct device *soc_device_to_device(struct soc_device *soc);
 
 #endif /* __SOC_BUS_H */
 Tue Jul 19 12:38:58 PDT 2016
+Fri Jul 22 15:47:28 PDT 2016

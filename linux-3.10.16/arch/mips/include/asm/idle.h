@@ -22,3 +22,4 @@ static inline int address_is_in_r4k_wait_irqoff(unsigned long addr)
 
 #endif /* __ASM_IDLE_H  */
 Tue Jul 19 12:45:11 PDT 2016
+Fri Jul 22 15:59:00 PDT 2016

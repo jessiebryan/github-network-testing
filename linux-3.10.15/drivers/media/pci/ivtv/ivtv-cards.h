@@ -308,3 +308,4 @@ const struct ivtv_card *ivtv_get_card(u16 index);
 
 #endif
 Tue Jul 19 12:44:44 PDT 2016
+Fri Jul 22 15:58:09 PDT 2016

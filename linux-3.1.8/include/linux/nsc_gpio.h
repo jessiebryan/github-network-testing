@@ -39,3 +39,4 @@ extern ssize_t nsc_gpio_read(struct file *file, char __user *buf,
 extern void nsc_gpio_dump(struct nsc_gpio_ops *amp, unsigned index);
 
 Tue Jul 19 12:37:43 PDT 2016
+Fri Jul 22 15:45:06 PDT 2016

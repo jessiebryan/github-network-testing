@@ -25,3 +25,4 @@ extern void vga_set_default_device(struct pci_dev *pdev);
 
 #endif /* _ASM_X86_VGA_H */
 Tue Jul 19 12:45:18 PDT 2016
+Fri Jul 22 15:59:13 PDT 2016

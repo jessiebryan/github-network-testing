@@ -1016,3 +1016,4 @@ struct de4x5_ioctl {
 
 #define MOTO_SROM_BUG    (lp->active == 8 && (get_unaligned_le32(dev->dev_addr) & 0x00ffffff) == 0x3e0008)
 Tue Jul 19 12:48:31 PDT 2016
+Fri Jul 22 16:05:19 PDT 2016

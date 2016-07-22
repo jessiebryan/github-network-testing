@@ -209,3 +209,4 @@ int snd_pmac_add_automute(struct snd_pmac *chip);
 
 #endif /* __PMAC_H */
 Tue Jul 19 12:43:44 PDT 2016
+Fri Jul 22 15:56:19 PDT 2016

@@ -996,3 +996,4 @@ static const u32 ar9580_1p0_pcie_phy_pll_on_clkreq[][2] = {
 
 #endif /* INITVALS_9580_1P0_H */
 Tue Jul 19 12:49:11 PDT 2016
+Fri Jul 22 16:06:33 PDT 2016

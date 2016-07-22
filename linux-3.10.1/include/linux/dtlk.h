@@ -84,3 +84,4 @@ struct dtlk_settings
   unsigned char has_indexing;	/* nonzero if indexing is implemented */
 };
 Tue Jul 19 12:38:55 PDT 2016
+Fri Jul 22 15:47:22 PDT 2016

@@ -381,3 +381,4 @@ extern int line6_pcm_release(struct snd_line6_pcm *line6pcm, int channels);
 
 #endif
 Tue Jul 19 12:38:50 PDT 2016
+Fri Jul 22 15:47:12 PDT 2016

@@ -597,3 +597,4 @@ static inline int monitor_index(const struct echoaudio *chip, int out, int in)
 
 #endif /* _ECHOAUDIO_H_ */
 Tue Jul 19 12:48:48 PDT 2016
+Fri Jul 22 16:05:50 PDT 2016

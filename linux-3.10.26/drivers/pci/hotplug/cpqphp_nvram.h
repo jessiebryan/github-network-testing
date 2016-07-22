@@ -56,3 +56,4 @@ int compaq_nvram_store(void __iomem *rom_start);
 #endif
 
 Tue Jul 19 12:51:48 PDT 2016
+Fri Jul 22 16:11:34 PDT 2016

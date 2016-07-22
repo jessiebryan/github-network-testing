@@ -1392,3 +1392,4 @@ int rt2x00lib_resume(struct rt2x00_dev *rt2x00dev);
 
 #endif /* RT2X00_H */
 Tue Jul 19 12:51:08 PDT 2016
+Fri Jul 22 16:10:16 PDT 2016

@@ -69,3 +69,4 @@ extern void initisac(struct IsdnCardState *);
 extern void isac_interrupt(struct IsdnCardState *, u_char);
 extern void clear_pending_isac_ints(struct IsdnCardState *);
 Tue Jul 19 12:47:13 PDT 2016
+Fri Jul 22 16:02:52 PDT 2016

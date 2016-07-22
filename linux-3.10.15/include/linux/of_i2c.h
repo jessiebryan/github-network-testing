@@ -45,3 +45,4 @@ static inline struct i2c_adapter *of_find_i2c_adapter_by_node(
 
 #endif /* __LINUX_OF_I2C_H */
 Tue Jul 19 12:44:56 PDT 2016
+Fri Jul 22 15:58:30 PDT 2016

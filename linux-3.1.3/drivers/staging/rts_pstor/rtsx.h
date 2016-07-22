@@ -185,3 +185,4 @@ int rtsx_read_pci_cfg_byte(u8 bus, u8 dev, u8 func, u8 offset, u8 *val);
 
 #endif  /* __REALTEK_RTSX_H */
 Tue Jul 19 12:35:17 PDT 2016
+Fri Jul 22 15:40:25 PDT 2016

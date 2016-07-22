@@ -32,3 +32,4 @@ int netup_jtag_io_lpt(void *device, int tms, int tdi, int read_tdo);
 
 #endif /* ALTERA_EXPRT_H */
 Tue Jul 19 12:53:03 PDT 2016
+Fri Jul 22 16:14:01 PDT 2016

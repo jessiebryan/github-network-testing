@@ -253,3 +253,4 @@ static inline int ab8500_sysctrl_clear(u16 reg, u8 bits)
 
 #endif /* __AB8500_SYSCTRL_H */
 Tue Jul 19 12:38:19 PDT 2016
+Fri Jul 22 15:46:11 PDT 2016

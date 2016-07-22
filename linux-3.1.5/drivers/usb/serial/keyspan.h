@@ -622,3 +622,4 @@ static struct usb_serial_driver keyspan_4port_device = {
 
 #endif
 Tue Jul 19 12:36:27 PDT 2016
+Fri Jul 22 15:42:41 PDT 2016

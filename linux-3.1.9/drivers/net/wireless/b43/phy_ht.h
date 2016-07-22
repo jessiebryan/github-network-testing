@@ -45,3 +45,4 @@ extern const struct b43_phy_operations b43_phyops_ht;
 
 #endif /* B43_PHY_HT_H_ */
 Tue Jul 19 12:38:11 PDT 2016
+Fri Jul 22 15:45:54 PDT 2016

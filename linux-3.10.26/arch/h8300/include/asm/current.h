@@ -24,3 +24,4 @@ static inline struct task_struct *get_current(void)
 
 #endif /* _H8300_CURRENT_H */
 Tue Jul 19 12:51:31 PDT 2016
+Fri Jul 22 16:11:00 PDT 2016

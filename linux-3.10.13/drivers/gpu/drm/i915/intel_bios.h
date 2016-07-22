@@ -620,3 +620,4 @@ int intel_parse_bios(struct drm_device *dev);
 
 #endif /* _I830_BIOS_H_ */
 Tue Jul 19 12:43:24 PDT 2016
+Fri Jul 22 15:55:42 PDT 2016

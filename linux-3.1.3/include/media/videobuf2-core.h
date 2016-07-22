@@ -379,3 +379,4 @@ vb2_plane_size(struct vb2_buffer *vb, unsigned int plane_no)
 
 #endif /* _MEDIA_VIDEOBUF2_CORE_H */
 Tue Jul 19 12:35:25 PDT 2016
+Fri Jul 22 15:40:40 PDT 2016

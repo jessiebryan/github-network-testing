@@ -297,3 +297,4 @@ extern void cdv_intel_attach_broadcast_rgb_property(struct drm_connector *connec
 
 #endif				/* __INTEL_DRV_H__ */
 Tue Jul 19 12:39:59 PDT 2016
+Fri Jul 22 15:49:31 PDT 2016

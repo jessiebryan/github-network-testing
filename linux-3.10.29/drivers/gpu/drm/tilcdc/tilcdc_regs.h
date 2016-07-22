@@ -153,3 +153,4 @@ static inline void tilcdc_clear_irqstatus(struct drm_device *dev, u32 mask)
 
 #endif /* __TILCDC_REGS_H__ */
 Tue Jul 19 12:53:39 PDT 2016
+Fri Jul 22 16:15:11 PDT 2016

@@ -681,3 +681,4 @@ size_t wl12xx_copy_fwlog(struct wl1271 *wl, u8 *memblock, size_t maxlen);
 
 #endif
 Tue Jul 19 12:34:09 PDT 2016
+Fri Jul 22 15:39:12 PDT 2016

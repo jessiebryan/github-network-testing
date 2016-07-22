@@ -21,3 +21,4 @@ extern int usb_emergency(struct usb_device *usbdev);
 
 #endif /* __USB_BOOT_H__ */
 Tue Jul 19 12:40:06 PDT 2016
+Fri Jul 22 15:49:46 PDT 2016

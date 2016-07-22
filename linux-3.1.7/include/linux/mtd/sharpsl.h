@@ -19,3 +19,4 @@ struct sharpsl_nand_platform_data {
 	unsigned int		nr_partitions;
 };
 Tue Jul 19 12:37:05 PDT 2016
+Fri Jul 22 15:43:57 PDT 2016

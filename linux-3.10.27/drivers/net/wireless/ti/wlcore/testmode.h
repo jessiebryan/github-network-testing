@@ -30,3 +30,4 @@ int wl1271_tm_cmd(struct ieee80211_hw *hw, void *data, int len);
 
 #endif /* __WL1271_TESTMODE_H__ */
 Tue Jul 19 12:52:26 PDT 2016
+Fri Jul 22 16:12:49 PDT 2016

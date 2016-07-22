@@ -194,3 +194,4 @@ extern int ltq_pinctrl_register(struct platform_device *pdev,
 extern int ltq_pinctrl_unregister(struct platform_device *pdev);
 #endif	/* __PINCTRL_PXA3XX_H */
 Tue Jul 19 12:51:09 PDT 2016
+Fri Jul 22 16:10:17 PDT 2016

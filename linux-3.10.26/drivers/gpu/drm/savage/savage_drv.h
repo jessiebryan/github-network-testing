@@ -574,3 +574,4 @@ extern void savage_emit_clip_rect_s4(drm_savage_private_t * dev_priv,
 
 #endif				/* __SAVAGE_DRV_H__ */
 Tue Jul 19 12:51:43 PDT 2016
+Fri Jul 22 16:11:22 PDT 2016

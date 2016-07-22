@@ -10,3 +10,4 @@ extern u32 crc32c(u32 crc, const void *address, unsigned int length);
 
 #endif	/* _LINUX_CRC32C_H */
 Tue Jul 19 12:36:30 PDT 2016
+Fri Jul 22 15:42:48 PDT 2016

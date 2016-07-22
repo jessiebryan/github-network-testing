@@ -84,3 +84,4 @@ extern void wf_cpu_pid_init(struct wf_cpu_pid_state *st,
 			    struct wf_cpu_pid_param *param);
 extern s32 wf_cpu_pid_run(struct wf_cpu_pid_state *st, s32 power, s32 temp);
 Tue Jul 19 12:35:12 PDT 2016
+Fri Jul 22 15:40:14 PDT 2016

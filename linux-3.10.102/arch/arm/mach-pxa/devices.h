@@ -52,3 +52,4 @@ extern struct platform_device pxa93x_device_gpio;
 
 void __init pxa_register_device(struct platform_device *dev, void *data);
 Tue Jul 19 12:41:02 PDT 2016
+Fri Jul 22 15:51:34 PDT 2016

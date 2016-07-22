@@ -40,3 +40,4 @@ struct ts78xx_fpga_data {
 	struct fpga_devices	supports;
 };
 Tue Jul 19 12:52:06 PDT 2016
+Fri Jul 22 16:12:10 PDT 2016

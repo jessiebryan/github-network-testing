@@ -441,3 +441,4 @@ int rt2x00usb_resume(struct usb_interface *usb_intf);
 
 #endif /* RT2X00USB_H */
 Tue Jul 19 12:49:11 PDT 2016
+Fri Jul 22 16:06:35 PDT 2016

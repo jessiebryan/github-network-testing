@@ -374,3 +374,4 @@ static inline int wusb_oob_mic(u8 mic_out[8], const u8 key[16],
 
 #endif /* #ifndef __WUSB_H__ */
 Tue Jul 19 12:33:42 PDT 2016
+Fri Jul 22 15:38:26 PDT 2016

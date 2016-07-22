@@ -87,3 +87,4 @@ extern ieee754sp ieee754sp_format(int, int, unsigned);
 
 #define SPNORMRET1(s, e, m, name, a0)  SPNORMRET2(s, e, m, name, a0, a0)
 Tue Jul 19 12:41:10 PDT 2016
+Fri Jul 22 15:51:50 PDT 2016

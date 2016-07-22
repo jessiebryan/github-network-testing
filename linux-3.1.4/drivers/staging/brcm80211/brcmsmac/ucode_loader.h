@@ -51,3 +51,4 @@ extern int brcms_ucode_init_uint(struct brcms_info *wl, unsigned *data,
 extern void brcms_ucode_free_buf(void *);
 extern int  brcms_check_firmwares(struct brcms_info *wl);
 Tue Jul 19 12:35:51 PDT 2016
+Fri Jul 22 15:41:31 PDT 2016

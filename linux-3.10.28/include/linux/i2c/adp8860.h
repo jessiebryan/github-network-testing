@@ -153,3 +153,4 @@ struct adp8860_backlight_platform_data {
 
 #endif /* __LINUX_I2C_ADP8860_H */
 Tue Jul 19 12:53:12 PDT 2016
+Fri Jul 22 16:14:18 PDT 2016

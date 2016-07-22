@@ -59,3 +59,4 @@ int hr222_add_mic_controls(struct snd_pcxhr *chip);
 
 #endif /* __SOUND_PCXHR_MIX22_H */
 Tue Jul 19 12:48:10 PDT 2016
+Fri Jul 22 16:04:38 PDT 2016

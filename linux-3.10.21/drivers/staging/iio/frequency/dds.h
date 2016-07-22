@@ -109,3 +109,4 @@
 	IIO_CONST_ATTR(							\
 	out_altvoltage##_channel##_out##_output##_wavetype_available, _modes);
 Tue Jul 19 12:48:35 PDT 2016
+Fri Jul 22 16:05:26 PDT 2016

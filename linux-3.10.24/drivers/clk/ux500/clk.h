@@ -89,3 +89,4 @@ struct clk *clk_reg_sysctrl_set_parent(struct device *dev,
 
 #endif /* __UX500_CLK_H */
 Tue Jul 19 12:50:23 PDT 2016
+Fri Jul 22 16:08:51 PDT 2016

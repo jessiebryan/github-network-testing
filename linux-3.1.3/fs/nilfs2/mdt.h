@@ -109,3 +109,4 @@ static inline __u64 nilfs_mdt_cno(struct inode *inode)
 
 #endif /* _NILFS_MDT_H */
 Tue Jul 19 12:35:20 PDT 2016
+Fri Jul 22 15:40:29 PDT 2016

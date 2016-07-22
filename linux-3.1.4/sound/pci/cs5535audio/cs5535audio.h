@@ -141,3 +141,4 @@ int __devinit snd_cs5535audio_pcm(struct cs5535audio *cs5535audio);
 #endif /* __SOUND_CS5535AUDIO_H */
 
 Tue Jul 19 12:36:02 PDT 2016
+Fri Jul 22 15:41:52 PDT 2016

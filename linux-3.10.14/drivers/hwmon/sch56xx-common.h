@@ -31,3 +31,4 @@ struct sch56xx_watchdog_data *sch56xx_watchdog_register(struct device *parent,
 	u16 addr, u32 revision, struct mutex *io_lock, int check_enabled);
 void sch56xx_watchdog_unregister(struct sch56xx_watchdog_data *data);
 Tue Jul 19 12:44:03 PDT 2016
+Fri Jul 22 15:56:55 PDT 2016

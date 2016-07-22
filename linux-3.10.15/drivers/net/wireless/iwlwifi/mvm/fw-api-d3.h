@@ -332,3 +332,4 @@ struct iwl_wowlan_remote_wake_config {
 
 #endif /* __fw_api_d3_h__ */
 Tue Jul 19 12:44:47 PDT 2016
+Fri Jul 22 15:58:14 PDT 2016

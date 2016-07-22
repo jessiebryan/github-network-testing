@@ -34,3 +34,4 @@ struct ds1305_platform_data {
 
 #endif /* __LINUX_SPI_DS1305_H */
 Tue Jul 19 12:38:58 PDT 2016
+Fri Jul 22 15:47:27 PDT 2016

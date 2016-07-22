@@ -93,3 +93,4 @@ nouveau_encoder_connector_get(struct nouveau_encoder *encoder);
 
 #endif /* __NOUVEAU_ENCODER_H__ */
 Tue Jul 19 12:43:24 PDT 2016
+Fri Jul 22 15:55:43 PDT 2016

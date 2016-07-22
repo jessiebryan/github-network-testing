@@ -58,3 +58,4 @@ static inline int vga_switcheroo_process_delayed_switch(void) { return 0; }
 
 #endif
 Tue Jul 19 12:37:07 PDT 2016
+Fri Jul 22 15:44:00 PDT 2016

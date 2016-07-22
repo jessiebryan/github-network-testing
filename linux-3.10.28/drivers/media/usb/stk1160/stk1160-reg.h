@@ -92,3 +92,4 @@
 /* EEPROM Interface */
 #define STK1160_EEPROM_SZ		0x5f0
 Tue Jul 19 12:53:03 PDT 2016
+Fri Jul 22 16:14:00 PDT 2016

@@ -243,3 +243,4 @@ int gspca_auto_gain_n_exposure(struct gspca_dev *gspca_dev, int avg_lum,
 	int desired_avg_lum, int deadzone, int gain_knee, int exposure_knee);
 #endif /* GSPCAV2_H */
 Tue Jul 19 12:35:13 PDT 2016
+Fri Jul 22 15:40:16 PDT 2016

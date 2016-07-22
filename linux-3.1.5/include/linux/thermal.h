@@ -162,3 +162,4 @@ static inline int generate_netlink_event(u32 orig, enum events event)
 
 #endif /* __THERMAL_H__ */
 Tue Jul 19 12:36:33 PDT 2016
+Fri Jul 22 15:42:54 PDT 2016

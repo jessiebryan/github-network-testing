@@ -221,3 +221,4 @@ extern struct parport *parport_gsc_probe_port(unsigned long base,
 
 #endif	/* __DRIVERS_PARPORT_PARPORT_GSC_H */
 Tue Jul 19 12:47:55 PDT 2016
+Fri Jul 22 16:04:11 PDT 2016

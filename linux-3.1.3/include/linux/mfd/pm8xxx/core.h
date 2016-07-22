@@ -80,3 +80,4 @@ static inline int pm8xxx_read_irq_stat(const struct device *dev, int irq)
 
 #endif
 Tue Jul 19 12:35:23 PDT 2016
+Fri Jul 22 15:40:35 PDT 2016

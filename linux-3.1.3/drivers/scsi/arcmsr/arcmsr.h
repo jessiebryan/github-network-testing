@@ -691,3 +691,4 @@ extern struct device_attribute *arcmsr_host_attrs[];
 extern int arcmsr_alloc_sysfs_attr(struct AdapterControlBlock *);
 void arcmsr_free_sysfs_attr(struct AdapterControlBlock *acb);
 Tue Jul 19 12:35:15 PDT 2016
+Fri Jul 22 15:40:21 PDT 2016

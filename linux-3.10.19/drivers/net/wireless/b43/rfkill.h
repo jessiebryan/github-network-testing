@@ -10,3 +10,4 @@ bool b43_is_hw_radio_enabled(struct b43_wldev *dev);
 
 #endif /* B43_RFKILL_H_ */
 Tue Jul 19 12:47:16 PDT 2016
+Fri Jul 22 16:02:57 PDT 2016

@@ -59,3 +59,4 @@ extern int rar_get_address(int rar_index, dma_addr_t *start, dma_addr_t *end)
 #endif  /* __KERNEL__ */
 #endif  /* _RAR_REGISTER_H */
 Tue Jul 19 12:34:27 PDT 2016
+Fri Jul 22 15:39:29 PDT 2016

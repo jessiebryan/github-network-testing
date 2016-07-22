@@ -363,3 +363,4 @@ extern int max8997_update_reg(struct i2c_client *i2c, u8 reg, u8 val, u8 mask);
 #define MAX8997_GPIO_DATA_MASK	(0x1 << 2)
 #endif /*  __LINUX_MFD_MAX8997_PRIV_H */
 Tue Jul 19 12:37:42 PDT 2016
+Fri Jul 22 15:45:04 PDT 2016

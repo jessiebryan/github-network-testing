@@ -57,3 +57,4 @@ static inline bool kvm_hv_vapic_assist_page_enabled(struct kvm_vcpu *vcpu)
 }
 #endif
 Tue Jul 19 12:36:52 PDT 2016
+Fri Jul 22 15:43:32 PDT 2016

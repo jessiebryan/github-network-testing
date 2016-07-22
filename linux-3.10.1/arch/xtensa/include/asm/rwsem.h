@@ -130,3 +130,4 @@ static inline int rwsem_atomic_update(int delta, struct rw_semaphore *sem)
 
 #endif	/* _XTENSA_RWSEM_H */
 Tue Jul 19 12:38:42 PDT 2016
+Fri Jul 22 15:46:56 PDT 2016

@@ -49,3 +49,4 @@ int r8712_usbctrl_vendorreq(struct intf_priv *pintfpriv, u8 request, u16 value,
 #endif
 
 Tue Jul 19 12:49:53 PDT 2016
+Fri Jul 22 16:07:52 PDT 2016

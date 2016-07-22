@@ -95,3 +95,4 @@ extern void fbcon_rotate_ud(struct fbcon_ops *ops);
 extern void fbcon_rotate_ccw(struct fbcon_ops *ops);
 #endif
 Tue Jul 19 12:40:08 PDT 2016
+Fri Jul 22 15:49:50 PDT 2016

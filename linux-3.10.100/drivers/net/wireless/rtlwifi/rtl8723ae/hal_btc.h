@@ -150,3 +150,4 @@ void rtl8723ae_bt_coex_off_before_lps(struct ieee80211_hw *hw);
 
 #endif
 Tue Jul 19 12:40:05 PDT 2016
+Fri Jul 22 15:49:42 PDT 2016

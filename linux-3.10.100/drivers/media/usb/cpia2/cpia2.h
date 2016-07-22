@@ -486,3 +486,4 @@ int cpia2_usb_change_streaming_alternate(struct camera_data *cam,
 
 #endif
 Tue Jul 19 12:40:02 PDT 2016
+Fri Jul 22 15:49:37 PDT 2016

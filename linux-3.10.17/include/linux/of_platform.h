@@ -113,3 +113,4 @@ static inline int of_platform_populate(struct device_node *root,
 
 #endif	/* _LINUX_OF_PLATFORM_H */
 Tue Jul 19 12:46:08 PDT 2016
+Fri Jul 22 16:00:51 PDT 2016

@@ -129,3 +129,4 @@ extern asmlinkage void mn10300_serial_vdma_tx_handler(void);
 
 #endif /* _MN10300_SERIAL_H */
 Tue Jul 19 12:41:11 PDT 2016
+Fri Jul 22 15:51:51 PDT 2016

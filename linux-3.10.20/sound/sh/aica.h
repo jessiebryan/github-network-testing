@@ -80,3 +80,4 @@ struct snd_card_aica {
 	int dma_check;
 };
 Tue Jul 19 12:48:10 PDT 2016
+Fri Jul 22 16:04:38 PDT 2016

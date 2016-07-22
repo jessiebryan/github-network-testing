@@ -70,3 +70,4 @@ struct as3645a_platform_data {
 
 #endif /* __AS3645A_H__ */
 Tue Jul 19 12:43:01 PDT 2016
+Fri Jul 22 15:55:00 PDT 2016

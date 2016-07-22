@@ -520,3 +520,4 @@ void usb_remove_function(struct usb_configuration *c, struct usb_function *f);
 
 #endif	/* __LINUX_USB_COMPOSITE_H */
 Tue Jul 19 12:53:15 PDT 2016
+Fri Jul 22 16:14:25 PDT 2016

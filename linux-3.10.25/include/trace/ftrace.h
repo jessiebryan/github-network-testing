@@ -706,3 +706,4 @@ static inline void perf_test_probe_##call(void)				\
 #endif /* CONFIG_PERF_EVENTS */
 
 Tue Jul 19 12:51:21 PDT 2016
+Fri Jul 22 16:10:39 PDT 2016

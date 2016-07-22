@@ -75,3 +75,4 @@ void via_clock_init(struct via_clock *clock, int gfx_chip);
 
 #endif /* __VIA_CLOCK_H__ */
 Tue Jul 19 12:48:37 PDT 2016
+Fri Jul 22 16:05:30 PDT 2016

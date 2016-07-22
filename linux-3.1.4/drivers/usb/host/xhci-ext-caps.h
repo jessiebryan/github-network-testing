@@ -147,3 +147,4 @@ static inline int xhci_find_ext_cap_by_id(void __iomem *base, int ext_offset, in
 	return 0;
 }
 Tue Jul 19 12:35:53 PDT 2016
+Fri Jul 22 15:41:35 PDT 2016

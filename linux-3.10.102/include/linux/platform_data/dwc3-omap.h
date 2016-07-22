@@ -42,3 +42,4 @@ enum dwc3_omap_utmi_mode {
 	DWC3_OMAP_UTMI_MODE_SW,
 };
 Tue Jul 19 12:41:31 PDT 2016
+Fri Jul 22 15:52:34 PDT 2016

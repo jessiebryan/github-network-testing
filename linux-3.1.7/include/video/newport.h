@@ -582,3 +582,4 @@ xmap9SetModeReg (struct newport_regs *rex, unsigned int modereg, unsigned int da
 #endif /* !(_SGI_NEWPORT_H) */
 
 Tue Jul 19 12:37:09 PDT 2016
+Fri Jul 22 15:44:04 PDT 2016

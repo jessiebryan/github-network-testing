@@ -237,3 +237,4 @@ __set_fixmap_offset(enum fixed_addresses idx, phys_addr_t phys, pgprot_t flags)
 #endif /* !__ASSEMBLY__ */
 #endif /* _ASM_X86_FIXMAP_H */
 Tue Jul 19 12:49:04 PDT 2016
+Fri Jul 22 16:06:22 PDT 2016

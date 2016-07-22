@@ -183,3 +183,4 @@ extern void s3c_pm_save_gpios(void);
 extern void s3c_pm_save_core(void);
 extern void s3c_pm_restore_core(void);
 Tue Jul 19 12:33:16 PDT 2016
+Fri Jul 22 15:37:36 PDT 2016

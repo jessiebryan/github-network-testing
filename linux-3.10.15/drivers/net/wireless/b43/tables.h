@@ -33,3 +33,4 @@ extern const u16 b43_tab_rssiagc2[];
 
 #endif /* B43_TABLES_H_ */
 Tue Jul 19 12:44:47 PDT 2016
+Fri Jul 22 15:58:13 PDT 2016

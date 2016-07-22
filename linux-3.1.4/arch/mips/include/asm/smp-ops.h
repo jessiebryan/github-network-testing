@@ -99,3 +99,4 @@ static inline int register_vsmp_smp_ops(void)
 
 #endif /* __ASM_SMP_OPS_H */
 Tue Jul 19 12:35:39 PDT 2016
+Fri Jul 22 15:41:07 PDT 2016

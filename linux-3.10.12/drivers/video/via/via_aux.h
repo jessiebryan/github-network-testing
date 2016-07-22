@@ -92,3 +92,4 @@ void via_aux_vt1621_probe(struct via_aux_bus *bus);
 
 #endif /* __VIA_AUX_H__ */
 Tue Jul 19 12:42:55 PDT 2016
+Fri Jul 22 15:54:49 PDT 2016

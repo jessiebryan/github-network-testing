@@ -16,3 +16,4 @@ static inline int ci_hdrc_host_init(struct ci13xxx *ci)
 
 #endif /* __DRIVERS_USB_CHIPIDEA_HOST_H */
 Tue Jul 19 12:39:29 PDT 2016
+Fri Jul 22 15:48:32 PDT 2016

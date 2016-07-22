@@ -107,3 +107,4 @@ static void fixup_use_fwh_lock(struct mtd_info *mtd)
 }
 #endif /* FWH_LOCK_H */
 Tue Jul 19 12:37:31 PDT 2016
+Fri Jul 22 15:44:46 PDT 2016

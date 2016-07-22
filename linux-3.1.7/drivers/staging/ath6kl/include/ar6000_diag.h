@@ -47,3 +47,4 @@ ar6k_FetchTargetRegs(struct hif_device *hifDevice, u32 *targregs);
 
 #endif /*AR6000_DIAG_H_*/
 Tue Jul 19 12:36:58 PDT 2016
+Fri Jul 22 15:43:43 PDT 2016

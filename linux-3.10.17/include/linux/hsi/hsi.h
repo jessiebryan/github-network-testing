@@ -412,3 +412,4 @@ static inline int hsi_stop_tx(struct hsi_client *cl)
 }
 #endif /* __LINUX_HSI_H__ */
 Tue Jul 19 12:46:06 PDT 2016
+Fri Jul 22 16:00:48 PDT 2016

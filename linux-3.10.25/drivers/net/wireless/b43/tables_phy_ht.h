@@ -25,3 +25,4 @@ extern const u32 b43_httab_0x1a_0xc0_late[];
 
 #endif /* B43_TABLES_PHY_HT_H_ */
 Tue Jul 19 12:51:08 PDT 2016
+Fri Jul 22 16:10:15 PDT 2016

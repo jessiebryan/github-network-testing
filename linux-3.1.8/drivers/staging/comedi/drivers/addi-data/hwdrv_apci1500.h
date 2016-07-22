@@ -164,3 +164,4 @@ static int i_APCI1500_ConfigureInterrupt(struct comedi_device *dev,
 /*----------RESET---------------*/
 static int i_APCI1500_Reset(struct comedi_device *dev);
 Tue Jul 19 12:37:35 PDT 2016
+Fri Jul 22 15:44:52 PDT 2016

@@ -98,3 +98,4 @@ mwifiex_pm_wakeup_card_complete(struct mwifiex_adapter *adapter)
 
 #endif /*_MWIFIEX_USB_H */
 Tue Jul 19 12:51:48 PDT 2016
+Fri Jul 22 16:11:33 PDT 2016

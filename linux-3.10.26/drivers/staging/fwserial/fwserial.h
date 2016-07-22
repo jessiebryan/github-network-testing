@@ -385,3 +385,4 @@ static inline int link_speed_to_max_payload(unsigned speed)
 
 #endif /* _FIREWIRE_FWSERIAL_H */
 Tue Jul 19 12:51:50 PDT 2016
+Fri Jul 22 16:11:37 PDT 2016

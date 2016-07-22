@@ -729,3 +729,4 @@ struct intel_sdvo_encode {
 	u8 hdmi_rev;
 } __attribute__ ((packed));
 Tue Jul 19 12:53:00 PDT 2016
+Fri Jul 22 16:13:55 PDT 2016

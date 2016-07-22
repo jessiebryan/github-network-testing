@@ -96,3 +96,4 @@ extern int pm860x_mic_jack_detect(struct snd_soc_codec *, struct snd_soc_jack *,
 
 #endif	/* __88PM860X_H */
 Tue Jul 19 12:52:41 PDT 2016
+Fri Jul 22 16:13:18 PDT 2016

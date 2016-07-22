@@ -45,3 +45,4 @@ static void iio_device_unregister_trigger_consumer(struct iio_dev *indio_dev)
 
 
 Tue Jul 19 12:50:25 PDT 2016
+Fri Jul 22 16:08:53 PDT 2016

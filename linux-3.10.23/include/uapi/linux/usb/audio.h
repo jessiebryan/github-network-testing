@@ -546,3 +546,4 @@ struct uac1_status_word {
 
 #endif /* _UAPI__LINUX_USB_AUDIO_H */
 Tue Jul 19 12:50:04 PDT 2016
+Fri Jul 22 16:08:14 PDT 2016

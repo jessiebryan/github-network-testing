@@ -89,3 +89,4 @@ static inline enum smi_action smi_check_local_returning_smp(struct ib_smp *smp,
 
 #endif	/* __SMI_H_ */
 Tue Jul 19 12:49:07 PDT 2016
+Fri Jul 22 16:06:27 PDT 2016

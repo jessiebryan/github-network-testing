@@ -438,3 +438,4 @@ static __inline__ int NCR5380_pc_dma_residual(struct Scsi_Host *instance)
 #endif				/* ndef ASM */
 #endif				/* NCR5380_H */
 Tue Jul 19 12:53:06 PDT 2016
+Fri Jul 22 16:14:07 PDT 2016

@@ -111,3 +111,4 @@ extern struct pci_bus *it8152_pci_scan_bus(int nr, struct pci_sys_data *sys);
 
 #endif /* __ASM_HARDWARE_IT8152_H */
 Tue Jul 19 12:34:40 PDT 2016
+Fri Jul 22 15:39:39 PDT 2016

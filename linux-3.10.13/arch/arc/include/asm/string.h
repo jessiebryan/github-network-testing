@@ -39,3 +39,4 @@ extern __kernel_size_t strlen(const char *);
 #endif /* __KERNEL__ */
 #endif /* _ASM_ARC_STRING_H */
 Tue Jul 19 12:43:07 PDT 2016
+Fri Jul 22 15:55:11 PDT 2016

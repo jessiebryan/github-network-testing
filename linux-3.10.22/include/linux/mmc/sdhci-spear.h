@@ -41,3 +41,4 @@ sdhci_set_plat_data(struct platform_device *pdev, struct sdhci_plat_data *data)
 
 #endif /* LINUX_MMC_SDHCI_SPEAR_H */
 Tue Jul 19 12:49:20 PDT 2016
+Fri Jul 22 16:06:50 PDT 2016

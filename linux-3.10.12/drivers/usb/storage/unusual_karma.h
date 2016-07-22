@@ -25,3 +25,4 @@ UNUSUAL_DEV(  0x045a, 0x5210, 0x0101, 0x0101,
 
 #endif /* defined(CONFIG_USB_STORAGE_KARMA) || ... */
 Tue Jul 19 12:42:55 PDT 2016
+Fri Jul 22 15:54:48 PDT 2016

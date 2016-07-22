@@ -97,3 +97,4 @@ UNUSUAL_DEV( 0x0c0b, 0xa109, 0x0000, 0xffff,
 
 #endif /* defined(CONFIG_USB_STORAGE_DATAFAB) || ... */
 Tue Jul 19 12:50:33 PDT 2016
+Fri Jul 22 16:09:09 PDT 2016

@@ -70,3 +70,4 @@ extern struct s3c64xx_spi_info s3c64xx_spi1_pdata;
 extern struct s3c64xx_spi_info s3c64xx_spi2_pdata;
 #endif /* __S3C64XX_PLAT_SPI_H */
 Tue Jul 19 12:43:38 PDT 2016
+Fri Jul 22 15:56:08 PDT 2016

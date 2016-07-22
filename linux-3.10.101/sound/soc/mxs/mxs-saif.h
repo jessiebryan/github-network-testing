@@ -132,3 +132,4 @@ extern int mxs_saif_get_mclk(unsigned int saif_id, unsigned int mclk,
 					unsigned int rate);
 #endif
 Tue Jul 19 12:40:59 PDT 2016
+Fri Jul 22 15:51:28 PDT 2016

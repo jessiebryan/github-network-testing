@@ -118,3 +118,4 @@ struct exynos_tmu_platform_data {
 };
 #endif /* _LINUX_EXYNOS_THERMAL_H */
 Tue Jul 19 12:52:35 PDT 2016
+Fri Jul 22 16:13:06 PDT 2016

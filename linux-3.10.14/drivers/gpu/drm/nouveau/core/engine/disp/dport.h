@@ -77,3 +77,4 @@ int nouveau_dp_train(struct nouveau_disp *, const struct nouveau_dp_func *,
 
 #endif
 Tue Jul 19 12:44:03 PDT 2016
+Fri Jul 22 15:56:54 PDT 2016

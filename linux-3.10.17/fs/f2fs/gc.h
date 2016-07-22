@@ -101,3 +101,4 @@ static inline int is_idle(struct f2fs_sb_info *sbi)
 	return !(rl->count[BLK_RW_SYNC]) && !(rl->count[BLK_RW_ASYNC]);
 }
 Tue Jul 19 12:46:04 PDT 2016
+Fri Jul 22 16:00:44 PDT 2016

@@ -49,3 +49,4 @@ void rtl92cu_phy_set_bw_mode_callback(struct ieee80211_hw *hw);
 bool rtl92cu_phy_set_rf_power_state(struct ieee80211_hw *hw,
 				    enum rf_pwrstate rfpwr_state);
 Tue Jul 19 12:36:23 PDT 2016
+Fri Jul 22 15:42:34 PDT 2016

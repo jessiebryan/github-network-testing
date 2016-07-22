@@ -41,3 +41,4 @@ void cma3000_resume(struct cma3000_accl_data *);
 
 #endif
 Tue Jul 19 12:49:46 PDT 2016
+Fri Jul 22 16:07:40 PDT 2016

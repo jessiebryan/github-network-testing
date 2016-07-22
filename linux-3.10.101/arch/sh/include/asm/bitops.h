@@ -103,3 +103,4 @@ static inline unsigned long ffz(unsigned long word)
 
 #endif /* __ASM_SH_BITOPS_H */
 Tue Jul 19 12:40:34 PDT 2016
+Fri Jul 22 15:50:39 PDT 2016

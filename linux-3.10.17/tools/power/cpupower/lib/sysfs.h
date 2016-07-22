@@ -30,3 +30,4 @@ extern int sysfs_modify_freq_policy_governor(unsigned int cpu, char *governor);
 extern int sysfs_set_frequency(unsigned int cpu,
 			unsigned long target_frequency);
 Tue Jul 19 12:46:15 PDT 2016
+Fri Jul 22 16:01:04 PDT 2016

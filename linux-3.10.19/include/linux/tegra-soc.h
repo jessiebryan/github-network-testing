@@ -21,3 +21,4 @@ u32 tegra_read_chipid(void);
 
 #endif /* __LINUX_TEGRA_SOC_H_ */
 Tue Jul 19 12:47:26 PDT 2016
+Fri Jul 22 16:03:17 PDT 2016

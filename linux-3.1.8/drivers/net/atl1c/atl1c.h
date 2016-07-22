@@ -635,3 +635,4 @@ extern s32 atl1c_reset_hw(struct atl1c_hw *hw);
 extern void atl1c_set_ethtool_ops(struct net_device *netdev);
 #endif /* _ATL1C_H_ */
 Tue Jul 19 12:37:31 PDT 2016
+Fri Jul 22 15:44:46 PDT 2016

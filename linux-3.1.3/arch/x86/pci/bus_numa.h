@@ -24,3 +24,4 @@ extern void update_res(struct pci_root_info *info, resource_size_t start,
 		      resource_size_t end, unsigned long flags, int merge);
 #endif
 Tue Jul 19 12:35:10 PDT 2016
+Fri Jul 22 15:40:11 PDT 2016

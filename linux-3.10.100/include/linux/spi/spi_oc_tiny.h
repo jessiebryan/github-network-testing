@@ -19,3 +19,4 @@ struct tiny_spi_platform_data {
 
 #endif /* _LINUX_SPI_SPI_OC_TINY_H */
 Tue Jul 19 12:40:14 PDT 2016
+Fri Jul 22 15:50:01 PDT 2016

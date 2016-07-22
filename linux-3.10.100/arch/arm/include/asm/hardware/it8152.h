@@ -114,3 +114,4 @@ extern struct pci_ops it8152_ops;
 
 #endif /* __ASM_HARDWARE_IT8152_H */
 Tue Jul 19 12:39:43 PDT 2016
+Fri Jul 22 15:48:59 PDT 2016

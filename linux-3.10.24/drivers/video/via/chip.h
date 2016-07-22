@@ -175,3 +175,4 @@ struct VT1636_DPA_SETTING {
 };
 #endif /* __CHIP_H__ */
 Tue Jul 19 12:50:33 PDT 2016
+Fri Jul 22 16:09:09 PDT 2016

@@ -156,3 +156,4 @@ int cx18_get_input(struct cx18 *cx, u16 index, struct v4l2_input *input);
 int cx18_get_audio_input(struct cx18 *cx, u16 index, struct v4l2_audio *input);
 const struct cx18_card *cx18_get_card(u16 index);
 Tue Jul 19 12:39:23 PDT 2016
+Fri Jul 22 15:48:19 PDT 2016

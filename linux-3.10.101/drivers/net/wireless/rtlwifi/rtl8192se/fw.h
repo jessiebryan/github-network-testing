@@ -375,3 +375,4 @@ void rtl92s_set_fw_joinbss_report_cmd(struct ieee80211_hw *hw,
 #endif
 
 Tue Jul 19 12:40:44 PDT 2016
+Fri Jul 22 15:50:57 PDT 2016

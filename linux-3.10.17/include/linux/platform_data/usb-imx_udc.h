@@ -22,3 +22,4 @@ struct imxusb_platform_data {
 
 #endif /* __ASM_ARCH_MXC_USB */
 Tue Jul 19 12:46:09 PDT 2016
+Fri Jul 22 16:00:52 PDT 2016

@@ -319,3 +319,4 @@ static inline bool has_feature(const struct kvm_vcpu *vcpu,
 
 #endif /* KVM_E500_H */
 Tue Jul 19 12:42:40 PDT 2016
+Fri Jul 22 15:54:22 PDT 2016

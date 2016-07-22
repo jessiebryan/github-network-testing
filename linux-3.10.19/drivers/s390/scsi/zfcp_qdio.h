@@ -270,3 +270,4 @@ void zfcp_qdio_set_scount(struct zfcp_qdio *qdio, struct zfcp_qdio_req *q_req)
 
 #endif /* ZFCP_QDIO_H */
 Tue Jul 19 12:47:17 PDT 2016
+Fri Jul 22 16:03:00 PDT 2016

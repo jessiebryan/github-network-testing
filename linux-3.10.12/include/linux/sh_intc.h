@@ -148,3 +148,4 @@ static inline int register_intc_userimask(unsigned long addr)
 
 #endif /* __SH_INTC_H */
 Tue Jul 19 12:43:01 PDT 2016
+Fri Jul 22 15:54:58 PDT 2016

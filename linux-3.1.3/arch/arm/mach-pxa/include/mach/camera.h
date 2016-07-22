@@ -43,3 +43,4 @@ extern void pxa_set_camera_info(struct pxacamera_platform_data *);
 
 #endif /* __ASM_ARCH_CAMERA_H_ */
 Tue Jul 19 12:34:43 PDT 2016
+Fri Jul 22 15:39:43 PDT 2016

@@ -194,3 +194,4 @@ struct ad9523_platform_data {
 
 #endif /* IIO_FREQUENCY_AD9523_H_ */
 Tue Jul 19 12:48:40 PDT 2016
+Fri Jul 22 16:05:36 PDT 2016

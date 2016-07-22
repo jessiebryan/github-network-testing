@@ -349,3 +349,4 @@ static inline u16 get_xtal_from_pdata(struct r8a66597_platdata *pdata)
 #endif	/* __R8A66597_H__ */
 
 Tue Jul 19 12:35:18 PDT 2016
+Fri Jul 22 15:40:27 PDT 2016

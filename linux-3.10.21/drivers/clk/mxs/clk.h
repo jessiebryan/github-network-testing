@@ -65,3 +65,4 @@ static inline struct clk *mxs_clk_fixed_factor(const char *name,
 
 #endif /* __MXS_CLK_H */
 Tue Jul 19 12:48:28 PDT 2016
+Fri Jul 22 16:05:12 PDT 2016

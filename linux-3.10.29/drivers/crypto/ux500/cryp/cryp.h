@@ -307,3 +307,4 @@ int cryp_read_outdata(struct cryp_device_data *device_data, u32 *read_data);
 
 #endif /* _CRYP_H_ */
 Tue Jul 19 12:53:38 PDT 2016
+Fri Jul 22 16:15:09 PDT 2016

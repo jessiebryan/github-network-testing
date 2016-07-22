@@ -128,3 +128,4 @@ extern int auok190x_common_remove(struct platform_device *pdev);
 
 extern const struct dev_pm_ops auok190x_pm;
 Tue Jul 19 12:41:26 PDT 2016
+Fri Jul 22 15:52:25 PDT 2016

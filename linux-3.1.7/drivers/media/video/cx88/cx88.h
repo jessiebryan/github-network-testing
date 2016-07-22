@@ -729,3 +729,4 @@ int cx88_get_control(struct cx88_core *core, struct v4l2_control *ctl);
 int cx88_set_control(struct cx88_core *core, struct v4l2_control *ctl);
 int cx88_video_mux(struct cx88_core *core, unsigned int input);
 Tue Jul 19 12:36:54 PDT 2016
+Fri Jul 22 15:43:37 PDT 2016

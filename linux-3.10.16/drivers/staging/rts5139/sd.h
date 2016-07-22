@@ -274,3 +274,4 @@ extern int sd_read_data(struct rts51x_chip *chip, u8 trans_mode, u8 *cmd,
 
 #endif /* __RTS51X_SD_H */
 Tue Jul 19 12:45:26 PDT 2016
+Fri Jul 22 15:59:30 PDT 2016

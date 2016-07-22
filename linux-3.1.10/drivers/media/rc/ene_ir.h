@@ -258,3 +258,4 @@ struct ene_device {
 static int ene_irq_status(struct ene_device *dev);
 static void ene_rx_read_hw_pointer(struct ene_device *dev);
 Tue Jul 19 12:33:29 PDT 2016
+Fri Jul 22 15:38:03 PDT 2016

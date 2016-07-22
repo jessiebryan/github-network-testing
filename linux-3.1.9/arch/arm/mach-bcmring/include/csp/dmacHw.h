@@ -595,3 +595,4 @@ uint32_t dmacHw_getDmaControllerAttribute(dmacHw_HANDLE_t handle,	/*  [ IN ]  DM
 
 #endif /* _DMACHW_H */
 Tue Jul 19 12:37:51 PDT 2016
+Fri Jul 22 15:45:17 PDT 2016

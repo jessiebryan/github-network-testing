@@ -15,3 +15,4 @@
 #define SYNTH_ALMOST_EMPTY 'M' /* synth has less than 2 seconds of text left */
 #define SYNTH_SPEAKING	's' /* synth is speaking and has a fare way to go */
 Tue Jul 19 12:49:14 PDT 2016
+Fri Jul 22 16:06:40 PDT 2016

@@ -99,3 +99,4 @@ void host1x_cdma_update_sync_queue(struct host1x_cdma *cdma,
 				   struct device *dev);
 #endif
 Tue Jul 19 12:51:43 PDT 2016
+Fri Jul 22 16:11:22 PDT 2016

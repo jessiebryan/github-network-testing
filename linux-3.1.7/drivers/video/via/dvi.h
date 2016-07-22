@@ -64,3 +64,4 @@ void viafb_dvi_set_mode(struct VideoModeTable *videoMode, int mode_bpp,
 
 #endif /* __DVI_H__ */
 Tue Jul 19 12:37:01 PDT 2016
+Fri Jul 22 15:43:49 PDT 2016

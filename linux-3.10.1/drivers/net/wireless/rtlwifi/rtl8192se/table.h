@@ -48,3 +48,4 @@ extern u32 rtl8192seagctab_array[AGCTAB_ARRAYLENGTH];
 #endif
 
 Tue Jul 19 12:38:48 PDT 2016
+Fri Jul 22 15:47:08 PDT 2016

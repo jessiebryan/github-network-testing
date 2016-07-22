@@ -493,3 +493,4 @@ static inline unsigned int mmc_host_clk_rate(struct mmc_host *host)
 #endif
 #endif /* LINUX_MMC_HOST_H */
 Tue Jul 19 12:52:34 PDT 2016
+Fri Jul 22 16:13:04 PDT 2016

@@ -434,3 +434,4 @@ struct usb_cdc_ncm_ndp_input_size {
 
 #endif /* __LINUX_USB_CDC_H */
 Tue Jul 19 12:43:04 PDT 2016
+Fri Jul 22 15:55:05 PDT 2016

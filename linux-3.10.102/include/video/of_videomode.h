@@ -17,3 +17,4 @@ int of_get_videomode(struct device_node *np, struct videomode *vm,
 
 #endif /* __LINUX_OF_VIDEOMODE_H */
 Tue Jul 19 12:41:37 PDT 2016
+Fri Jul 22 15:52:43 PDT 2016

@@ -89,3 +89,4 @@ struct xgi_hw_device_info {
 #endif
 
 Tue Jul 19 12:35:18 PDT 2016
+Fri Jul 22 15:40:27 PDT 2016

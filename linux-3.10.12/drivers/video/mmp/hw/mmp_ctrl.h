@@ -1496,3 +1496,4 @@ extern int lcd_spi_register(struct mmphw_ctrl *ctrl);
 #endif
 #endif	/* _MMP_CTRL_H_ */
 Tue Jul 19 12:42:55 PDT 2016
+Fri Jul 22 15:54:48 PDT 2016

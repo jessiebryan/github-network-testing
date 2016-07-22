@@ -22,3 +22,4 @@ extern atomic_t smtc_fpu_recoveries;
 
 #endif /* __ASM_SMTC_PROC_H */
 Tue Jul 19 12:39:13 PDT 2016
+Fri Jul 22 15:47:59 PDT 2016

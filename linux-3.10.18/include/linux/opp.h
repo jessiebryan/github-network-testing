@@ -133,3 +133,4 @@ void opp_free_cpufreq_table(struct device *dev,
 
 #endif		/* __LINUX_OPP_H__ */
 Tue Jul 19 12:46:47 PDT 2016
+Fri Jul 22 16:02:03 PDT 2016

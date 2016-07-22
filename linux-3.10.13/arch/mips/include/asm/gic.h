@@ -390,3 +390,4 @@ extern void gic_finish_irq(struct irq_data *d);
 extern void gic_platform_init(int irqs, struct irq_chip *irq_controller);
 #endif /* _ASM_GICREGS_H */
 Tue Jul 19 12:43:15 PDT 2016
+Fri Jul 22 15:55:26 PDT 2016

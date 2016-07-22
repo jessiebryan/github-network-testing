@@ -84,3 +84,4 @@ static inline int bind_cpu(int cpu)
 
 #endif /* __CPUIDLE_INFO_HW__ */
 Tue Jul 19 12:47:32 PDT 2016
+Fri Jul 22 16:03:28 PDT 2016

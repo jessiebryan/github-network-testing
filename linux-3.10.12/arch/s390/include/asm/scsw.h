@@ -987,3 +987,4 @@ static inline int scsw_is_solicited(union scsw *scsw)
 
 #endif /* _ASM_S390_SCSW_H_ */
 Tue Jul 19 12:42:40 PDT 2016
+Fri Jul 22 15:54:23 PDT 2016

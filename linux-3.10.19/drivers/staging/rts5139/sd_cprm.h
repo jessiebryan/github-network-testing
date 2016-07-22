@@ -53,3 +53,4 @@ int rts51x_sd_hw_rst(struct scsi_cmnd *srb, struct rts51x_chip *chip);
 
 #endif /* __RTS51X_SD_CPRM_H */
 Tue Jul 19 12:47:19 PDT 2016
+Fri Jul 22 16:03:03 PDT 2016

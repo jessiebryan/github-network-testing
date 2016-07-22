@@ -434,3 +434,4 @@ void cpufreq_frequency_table_update_policy_cpu(struct cpufreq_policy *policy);
 void cpufreq_frequency_table_put_attr(unsigned int cpu);
 #endif /* _LINUX_CPUFREQ_H */
 Tue Jul 19 12:47:23 PDT 2016
+Fri Jul 22 16:03:10 PDT 2016

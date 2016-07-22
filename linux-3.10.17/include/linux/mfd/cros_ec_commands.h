@@ -1368,3 +1368,4 @@ struct ec_params_reboot_ec {
 
 #endif  /* __CROS_EC_COMMANDS_H */
 Tue Jul 19 12:46:07 PDT 2016
+Fri Jul 22 16:00:50 PDT 2016

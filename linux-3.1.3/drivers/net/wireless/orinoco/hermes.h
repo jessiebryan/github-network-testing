@@ -519,3 +519,4 @@ static inline int hermes_write_wordrec(struct hermes *hw, int bap, u16 rid,
 
 #endif  /* _HERMES_H */
 Tue Jul 19 12:35:15 PDT 2016
+Fri Jul 22 15:40:20 PDT 2016

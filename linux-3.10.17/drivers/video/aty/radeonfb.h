@@ -634,3 +634,4 @@ static inline void radeonfb_bl_exit(struct radeonfb_info *rinfo) {}
 
 #endif /* __RADEONFB_H__ */
 Tue Jul 19 12:46:03 PDT 2016
+Fri Jul 22 16:00:42 PDT 2016

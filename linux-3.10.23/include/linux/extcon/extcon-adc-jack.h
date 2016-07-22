@@ -70,3 +70,4 @@ struct adc_jack_pdata {
 
 #endif /* _EXTCON_ADC_JACK_H */
 Tue Jul 19 12:49:57 PDT 2016
+Fri Jul 22 16:08:00 PDT 2016

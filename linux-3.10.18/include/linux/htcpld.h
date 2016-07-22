@@ -23,3 +23,4 @@ struct htcpld_core_platform_data {
 #endif /* __LINUX_HTCPLD_H */
 
 Tue Jul 19 12:46:45 PDT 2016
+Fri Jul 22 16:02:01 PDT 2016

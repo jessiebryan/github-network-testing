@@ -53,3 +53,4 @@ extern const struct imx_imx_keypad_data imx51_imx_keypad_data;
 #define imx51_add_imx_keypad(pdata)	\
 	imx_add_imx_keypad(&imx51_imx_keypad_data, pdata)
 Tue Jul 19 12:37:52 PDT 2016
+Fri Jul 22 15:45:20 PDT 2016

@@ -39,3 +39,4 @@ struct bf5xx_nand_platform {
 	struct mtd_partition    *partitions;
 };
 Tue Jul 19 12:33:17 PDT 2016
+Fri Jul 22 15:37:37 PDT 2016

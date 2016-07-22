@@ -35,3 +35,4 @@ extern void s5p6450_init_uarts(struct s3c2410_uartcfg *cfg, int no);
 
 extern struct sys_timer s5p6450_timer;
 Tue Jul 19 12:33:16 PDT 2016
+Fri Jul 22 15:37:36 PDT 2016

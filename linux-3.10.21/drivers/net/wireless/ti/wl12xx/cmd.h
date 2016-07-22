@@ -131,3 +131,4 @@ int wl12xx_cmd_channel_switch(struct wl1271 *wl,
 
 #endif /* __WL12XX_CMD_H__ */
 Tue Jul 19 12:48:33 PDT 2016
+Fri Jul 22 16:05:22 PDT 2016

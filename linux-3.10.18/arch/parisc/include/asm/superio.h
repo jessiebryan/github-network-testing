@@ -84,3 +84,4 @@ extern int superio_fixup_irq(struct pci_dev *pcidev); /* called by iosapic */
 
 #endif /* _PARISC_SUPERIO_H */
 Tue Jul 19 12:46:26 PDT 2016
+Fri Jul 22 16:01:26 PDT 2016

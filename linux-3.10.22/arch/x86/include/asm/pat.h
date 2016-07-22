@@ -26,3 +26,4 @@ void io_free_memtype(resource_size_t start, resource_size_t end);
 
 #endif /* _ASM_X86_PAT_H */
 Tue Jul 19 12:49:05 PDT 2016
+Fri Jul 22 16:06:22 PDT 2016

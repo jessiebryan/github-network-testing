@@ -65,3 +65,4 @@ void rtl92d_linked_set_reg(struct ieee80211_hw *hw);
 
 #endif
 Tue Jul 19 12:48:33 PDT 2016
+Fri Jul 22 16:05:22 PDT 2016

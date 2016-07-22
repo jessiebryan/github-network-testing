@@ -44,3 +44,4 @@ struct nouveau_bo *nv50_display_crtc_sema(struct drm_device *, int head);
 
 #endif /* __NV50_DISPLAY_H__ */
 Tue Jul 19 12:48:28 PDT 2016
+Fri Jul 22 16:05:13 PDT 2016

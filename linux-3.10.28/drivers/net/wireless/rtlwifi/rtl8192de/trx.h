@@ -746,3 +746,4 @@ void rtl92de_tx_fill_cmddesc(struct ieee80211_hw *hw, u8 *pdesc,
 
 #endif
 Tue Jul 19 12:53:05 PDT 2016
+Fri Jul 22 16:14:05 PDT 2016

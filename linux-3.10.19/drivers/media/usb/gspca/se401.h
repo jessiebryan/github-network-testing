@@ -89,3 +89,4 @@
 /* se401 registers */
 #define SE401_OPERATINGMODE	0x2000
 Tue Jul 19 12:47:14 PDT 2016
+Fri Jul 22 16:02:54 PDT 2016

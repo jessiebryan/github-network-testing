@@ -33,3 +33,4 @@ void rtl8225z4_rf_sleep(struct net_device *dev);
 void rtl8225z4_rf_wakeup(struct net_device *dev);
 
 Tue Jul 19 12:47:57 PDT 2016
+Fri Jul 22 16:04:15 PDT 2016

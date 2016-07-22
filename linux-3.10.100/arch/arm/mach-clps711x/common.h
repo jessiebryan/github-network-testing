@@ -14,3 +14,4 @@ extern void clps711x_timer_init(void);
 extern void clps711x_handle_irq(struct pt_regs *regs);
 extern void clps711x_restart(char mode, const char *cmd);
 Tue Jul 19 12:39:43 PDT 2016
+Fri Jul 22 15:49:00 PDT 2016

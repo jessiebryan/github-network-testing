@@ -380,3 +380,4 @@ struct au1100fb_drv_info {
 
 #endif /* _AU1100LCD_H */
 Tue Jul 19 12:33:36 PDT 2016
+Fri Jul 22 15:38:15 PDT 2016

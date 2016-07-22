@@ -725,3 +725,4 @@ size_t uvc_video_stats_dump(struct uvc_streaming *stream, char *buf,
 
 #endif
 Tue Jul 19 12:51:06 PDT 2016
+Fri Jul 22 16:10:12 PDT 2016

@@ -32,3 +32,4 @@ void snd_usb_handle_sync_urb(struct snd_usb_endpoint *ep,
 
 #endif /* __USBAUDIO_ENDPOINT_H */
 Tue Jul 19 12:46:54 PDT 2016
+Fri Jul 22 16:02:16 PDT 2016

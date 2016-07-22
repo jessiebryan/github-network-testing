@@ -342,3 +342,4 @@ void fimc_is_log_dump(const char *level, const void *buf, size_t len);
 
 #endif /* FIMC_IS_H_ */
 Tue Jul 19 12:43:26 PDT 2016
+Fri Jul 22 15:55:47 PDT 2016

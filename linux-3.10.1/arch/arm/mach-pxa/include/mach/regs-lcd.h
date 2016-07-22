@@ -196,3 +196,4 @@
 #define SMART_DELAY(ms)		(SMART_CMD_DELAY | ((ms) & 0xff))
 #endif /* __ASM_ARCH_REGS_LCD_H */
 Tue Jul 19 12:38:28 PDT 2016
+Fri Jul 22 15:46:28 PDT 2016

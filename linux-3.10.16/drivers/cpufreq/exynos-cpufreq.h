@@ -47,3 +47,4 @@ extern int exynos4210_cpufreq_init(struct exynos_dvfs_info *);
 extern int exynos4x12_cpufreq_init(struct exynos_dvfs_info *);
 extern int exynos5250_cpufreq_init(struct exynos_dvfs_info *);
 Tue Jul 19 12:45:19 PDT 2016
+Fri Jul 22 15:59:15 PDT 2016

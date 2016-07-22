@@ -1097,3 +1097,4 @@ extern CARD_FILES   CardFiles[];
 #endif /*CARDTYPE_H_WANT_DATA*/
 #endif /* _CARDTYPE_H_ */
 Tue Jul 19 12:49:07 PDT 2016
+Fri Jul 22 16:06:28 PDT 2016

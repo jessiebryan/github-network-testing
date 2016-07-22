@@ -1023,3 +1023,4 @@ static inline int libipw_get_scans(struct libipw_device *ieee)
 
 #endif				/* LIBIPW_H */
 Tue Jul 19 12:38:47 PDT 2016
+Fri Jul 22 15:47:07 PDT 2016

@@ -48,3 +48,4 @@ extern unsigned int speedstep_get_freqs(enum speedstep_processor processor,
 	unsigned int *transition_latency,
 	void (*set_state) (unsigned int state));
 Tue Jul 19 12:33:28 PDT 2016
+Fri Jul 22 15:37:59 PDT 2016

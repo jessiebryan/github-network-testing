@@ -160,3 +160,4 @@ struct r852_device {
 #define message(format, ...) \
 	printk(KERN_INFO DRV_NAME ": " format "\n", ## __VA_ARGS__)
 Tue Jul 19 12:52:24 PDT 2016
+Fri Jul 22 16:12:45 PDT 2016

@@ -171,3 +171,4 @@ int	ahd_intr(struct ahd_softc *ahd);
 
 #endif  /* _AIC79XX_INLINE_H_ */
 Tue Jul 19 12:35:50 PDT 2016
+Fri Jul 22 15:41:29 PDT 2016

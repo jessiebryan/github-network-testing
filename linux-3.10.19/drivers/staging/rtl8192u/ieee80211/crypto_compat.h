@@ -57,3 +57,4 @@ static inline int crypto_cipher_decrypt(struct crypto_tfm *tfm,
 //EXPORT_SYMBOL_GPL(crypto_alloc_tfm);
 //EXPORT_SYMBOL_GPL(crypto_free_tfm);
 Tue Jul 19 12:47:19 PDT 2016
+Fri Jul 22 16:03:03 PDT 2016

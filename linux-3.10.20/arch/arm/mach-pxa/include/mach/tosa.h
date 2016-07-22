@@ -199,3 +199,4 @@ extern int tosa_bl_enable(struct spi_device *spi, int enable);
 
 #endif /* _ASM_ARCH_TOSA_H_ */
 Tue Jul 19 12:47:35 PDT 2016
+Fri Jul 22 16:03:34 PDT 2016

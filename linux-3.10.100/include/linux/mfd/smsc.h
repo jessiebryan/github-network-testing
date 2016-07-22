@@ -108,3 +108,4 @@ static inline int smsc_write(struct device *child, unsigned int reg,
 
 #endif /*  __LINUX_MFD_SMSC_H */
 Tue Jul 19 12:40:12 PDT 2016
+Fri Jul 22 15:49:58 PDT 2016

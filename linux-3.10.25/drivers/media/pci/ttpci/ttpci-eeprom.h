@@ -33,3 +33,4 @@ extern int ttpci_eeprom_parse_mac(struct i2c_adapter *adapter, u8 *propsed_mac);
 
 #endif
 Tue Jul 19 12:51:05 PDT 2016
+Fri Jul 22 16:10:11 PDT 2016

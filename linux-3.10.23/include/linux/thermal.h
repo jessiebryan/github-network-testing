@@ -261,3 +261,4 @@ static inline int thermal_generate_netlink_event(struct thermal_zone_device *tz,
 
 #endif /* __THERMAL_H__ */
 Tue Jul 19 12:50:00 PDT 2016
+Fri Jul 22 16:08:07 PDT 2016

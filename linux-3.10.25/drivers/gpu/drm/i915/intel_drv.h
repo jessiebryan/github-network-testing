@@ -731,3 +731,4 @@ extern void intel_display_handle_reset(struct drm_device *dev);
 
 #endif /* __INTEL_DRV_H__ */
 Tue Jul 19 12:51:03 PDT 2016
+Fri Jul 22 16:10:06 PDT 2016

@@ -117,3 +117,4 @@ static inline struct i2c_adapter *cxd2820r_get_tuner_i2c_adapter(
 
 #endif /* CXD2820R_H */
 Tue Jul 19 12:36:54 PDT 2016
+Fri Jul 22 15:43:36 PDT 2016

@@ -30,3 +30,4 @@ extern const struct mxs_mxs_mmc_data mx23_mxs_mmc_data[] __initconst;
 struct platform_device *__init mx23_add_mxsfb(
 		const struct mxsfb_platform_data *pdata);
 Tue Jul 19 12:37:13 PDT 2016
+Fri Jul 22 15:44:12 PDT 2016

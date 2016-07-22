@@ -221,3 +221,4 @@ extern void initisar(struct IsdnCardState *cs);
 extern void isar_fill_fifo(struct BCState *bcs);
 extern int isar_auxcmd(struct IsdnCardState *cs, isdn_ctrl *ic);
 Tue Jul 19 12:49:08 PDT 2016
+Fri Jul 22 16:06:28 PDT 2016

@@ -330,3 +330,4 @@ krb5_rc4_setup_enc_key(struct krb5_ctx *kctx,
 void
 gss_krb5_make_confounder(char *p, u32 conflen);
 Tue Jul 19 12:51:57 PDT 2016
+Fri Jul 22 16:11:53 PDT 2016

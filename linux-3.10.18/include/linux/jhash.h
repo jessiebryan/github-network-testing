@@ -169,3 +169,4 @@ static inline u32 jhash_1word(u32 a, u32 initval)
 
 #endif /* _LINUX_JHASH_H */
 Tue Jul 19 12:46:46 PDT 2016
+Fri Jul 22 16:02:01 PDT 2016

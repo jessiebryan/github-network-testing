@@ -63,3 +63,4 @@ typedef int (*set_wake_t)(struct irq_data *d, unsigned int on);
 extern void pxa_init_gpio(int mux_irq, int start, int end, set_wake_t fn);
 #endif /* __PLAT_GPIO_H */
 Tue Jul 19 12:36:07 PDT 2016
+Fri Jul 22 15:42:02 PDT 2016

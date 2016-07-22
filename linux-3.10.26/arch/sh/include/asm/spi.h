@@ -12,3 +12,4 @@ struct sh_spi_info {
 
 #endif /* __ASM_SPI_H__ */
 Tue Jul 19 12:51:38 PDT 2016
+Fri Jul 22 16:11:13 PDT 2016

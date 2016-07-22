@@ -327,3 +327,4 @@ int tps65912_irq_exit(struct tps65912 *tps65912);
 
 #endif /*  __LINUX_MFD_TPS65912_H */
 Tue Jul 19 12:44:55 PDT 2016
+Fri Jul 22 15:58:29 PDT 2016

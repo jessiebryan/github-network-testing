@@ -124,3 +124,4 @@ static inline void hugetlb_cgroup_migrate(struct page *oldhpage,
 #endif  /* CONFIG_MEM_RES_CTLR_HUGETLB */
 #endif
 Tue Jul 19 12:38:55 PDT 2016
+Fri Jul 22 15:47:22 PDT 2016

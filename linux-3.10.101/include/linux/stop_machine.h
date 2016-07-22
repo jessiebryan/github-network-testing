@@ -155,3 +155,4 @@ static inline int stop_machine_from_inactive_cpu(int (*fn)(void *), void *data,
 #endif	/* CONFIG_STOP_MACHINE && CONFIG_SMP */
 #endif	/* _LINUX_STOP_MACHINE */
 Tue Jul 19 12:40:53 PDT 2016
+Fri Jul 22 15:51:16 PDT 2016

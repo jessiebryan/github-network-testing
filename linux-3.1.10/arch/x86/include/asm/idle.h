@@ -20,3 +20,4 @@ void amd_e400_remove_cpu(int cpu);
 
 #endif /* _ASM_X86_IDLE_H */
 Tue Jul 19 12:33:27 PDT 2016
+Fri Jul 22 15:37:57 PDT 2016

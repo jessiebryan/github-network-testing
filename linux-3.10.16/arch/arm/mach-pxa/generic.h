@@ -58,3 +58,4 @@ void __init pxa_set_hwuart_info(void *info);
 
 void pxa_restart(char, const char *);
 Tue Jul 19 12:45:05 PDT 2016
+Fri Jul 22 15:58:49 PDT 2016

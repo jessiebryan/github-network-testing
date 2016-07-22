@@ -65,3 +65,4 @@ int rtsx_transfer_data_partial(struct rtsx_chip *chip, u8 card, void *buf, size_
 #endif   /* __REALTEK_RTSX_TRANSPORT_H */
 
 Tue Jul 19 12:34:12 PDT 2016
+Fri Jul 22 15:39:17 PDT 2016

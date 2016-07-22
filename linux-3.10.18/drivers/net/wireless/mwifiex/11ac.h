@@ -42,3 +42,4 @@ int mwifiex_cmd_11ac_cfg(struct mwifiex_private *priv,
 			 struct mwifiex_11ac_vht_cfg *cfg);
 #endif /* _MWIFIEX_11AC_H_ */
 Tue Jul 19 12:46:37 PDT 2016
+Fri Jul 22 16:01:47 PDT 2016

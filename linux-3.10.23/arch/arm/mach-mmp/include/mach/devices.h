@@ -55,3 +55,4 @@ extern void pxa_usb_phy_deinit(void __iomem *phy_reg);
 
 #endif /* __MACH_DEVICE_H */
 Tue Jul 19 12:49:30 PDT 2016
+Fri Jul 22 16:07:09 PDT 2016

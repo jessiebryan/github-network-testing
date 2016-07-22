@@ -230,3 +230,4 @@ extern void ccw_device_get_schid(struct ccw_device *, struct subchannel_id *);
 extern void *ccw_device_get_chp_desc(struct ccw_device *, int);
 #endif /* _S390_CCWDEV_H_ */
 Tue Jul 19 12:47:07 PDT 2016
+Fri Jul 22 16:02:40 PDT 2016

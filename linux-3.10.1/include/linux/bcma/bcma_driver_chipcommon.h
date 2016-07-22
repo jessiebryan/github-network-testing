@@ -645,3 +645,4 @@ extern u32 bcma_pmu_get_bus_clock(struct bcma_drv_cc *cc);
 
 #endif /* LINUX_BCMA_DRIVER_CC_H_ */
 Tue Jul 19 12:38:54 PDT 2016
+Fri Jul 22 15:47:21 PDT 2016

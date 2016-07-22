@@ -23,3 +23,4 @@ struct bq24022_mach_info {
 	struct regulator_init_data *init_data;
 };
 Tue Jul 19 12:37:44 PDT 2016
+Fri Jul 22 15:45:07 PDT 2016

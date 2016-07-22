@@ -88,3 +88,4 @@ bool viafb_lcd_get_mobile_state(bool *mobile);
 
 #endif /* __LCD_H__ */
 Tue Jul 19 12:52:30 PDT 2016
+Fri Jul 22 16:12:57 PDT 2016

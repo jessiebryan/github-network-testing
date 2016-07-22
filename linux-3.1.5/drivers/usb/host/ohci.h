@@ -723,3 +723,4 @@ static inline u32 roothub_status (struct ohci_hcd *hc)
 static inline u32 roothub_portstatus (struct ohci_hcd *hc, int i)
 	{ return read_roothub (hc, portstatus [i], 0xffe0fce0); }
 Tue Jul 19 12:36:27 PDT 2016
+Fri Jul 22 15:42:41 PDT 2016

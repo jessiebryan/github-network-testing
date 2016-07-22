@@ -619,3 +619,4 @@ static inline int ocfs2_begin_ordered_truncate(struct inode *inode,
 
 #endif /* OCFS2_JOURNAL_H */
 Tue Jul 19 12:40:49 PDT 2016
+Fri Jul 22 15:51:07 PDT 2016

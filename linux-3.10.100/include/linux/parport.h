@@ -480,3 +480,4 @@ extern int parport_default_spintime;
 
 #endif /* _PARPORT_H_ */
 Tue Jul 19 12:40:13 PDT 2016
+Fri Jul 22 15:49:59 PDT 2016

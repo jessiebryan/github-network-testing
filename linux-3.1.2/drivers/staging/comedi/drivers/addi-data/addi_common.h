@@ -462,3 +462,4 @@ static irqreturn_t v_ADDI_Interrupt(int irq, void *d);
 static int i_ADDIDATA_InsnReadEeprom(struct comedi_device *dev, struct comedi_subdevice *s,
 				     struct comedi_insn *insn, unsigned int *data);
 Tue Jul 19 12:34:11 PDT 2016
+Fri Jul 22 15:39:15 PDT 2016

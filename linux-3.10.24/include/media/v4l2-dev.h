@@ -237,3 +237,4 @@ static inline int video_is_registered(struct video_device *vdev)
 
 #endif /* _V4L2_DEV_H */
 Tue Jul 19 12:50:40 PDT 2016
+Fri Jul 22 16:09:21 PDT 2016

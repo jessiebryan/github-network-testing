@@ -361,3 +361,4 @@ int omap_mux_init(const char *name, u32 flags,
 		  struct omap_ball *package_balls);
 
 Tue Jul 19 12:51:27 PDT 2016
+Fri Jul 22 16:10:52 PDT 2016

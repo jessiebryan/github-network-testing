@@ -15,3 +15,4 @@ extern void s5p6440_i2c1_cfg_gpio(struct platform_device *dev);
 extern void s5p6450_i2c0_cfg_gpio(struct platform_device *dev);
 extern void s5p6450_i2c1_cfg_gpio(struct platform_device *dev);
 Tue Jul 19 12:50:49 PDT 2016
+Fri Jul 22 16:09:37 PDT 2016

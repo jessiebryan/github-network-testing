@@ -296,3 +296,4 @@ int m5mols_update_fw(struct v4l2_subdev *sd,
 
 #endif	/* M5MOLS_H */
 Tue Jul 19 12:34:07 PDT 2016
+Fri Jul 22 15:39:08 PDT 2016

@@ -178,3 +178,4 @@ int call_lvds_script(struct drm_device *, struct dcb_output *, int head,
 
 #endif
 Tue Jul 19 12:49:07 PDT 2016
+Fri Jul 22 16:06:26 PDT 2016

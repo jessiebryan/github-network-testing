@@ -140,3 +140,4 @@ static inline bool validfmt(enum tiler_fmt fmt)
 
 #endif
 Tue Jul 19 12:47:50 PDT 2016
+Fri Jul 22 16:04:02 PDT 2016

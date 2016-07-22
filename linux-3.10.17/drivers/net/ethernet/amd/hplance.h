@@ -25,3 +25,4 @@
 #define HPLANCE_MEMOFF 0x8000                     /* struct lance_init_block */
 #define HPLANCE_NVRAMOFF 0xC008                   /* etheraddress as one *nibble* per byte */
 Tue Jul 19 12:45:58 PDT 2016
+Fri Jul 22 16:00:32 PDT 2016

@@ -13,3 +13,4 @@ int adfspart_check_ICS(struct parsed_partitions *state);
 int adfspart_check_POWERTEC(struct parsed_partitions *state);
 int adfspart_check_EESOX(struct parsed_partitions *state);
 Tue Jul 19 12:46:31 PDT 2016
+Fri Jul 22 16:01:37 PDT 2016

@@ -2163,3 +2163,4 @@ extern void radeon_commit_ring(drm_radeon_private_t *dev_priv);
 
 #endif				/* __RADEON_DRV_H__ */
 Tue Jul 19 12:47:50 PDT 2016
+Fri Jul 22 16:04:02 PDT 2016

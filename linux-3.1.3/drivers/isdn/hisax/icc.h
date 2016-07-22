@@ -71,3 +71,4 @@ extern void icc_interrupt(struct IsdnCardState *cs, u_char val);
 extern void clear_pending_icc_ints(struct IsdnCardState *cs);
 extern void setup_icc(struct IsdnCardState *);
 Tue Jul 19 12:35:12 PDT 2016
+Fri Jul 22 15:40:14 PDT 2016

@@ -349,3 +349,4 @@ int lp8788_write_byte(struct lp8788 *lp, u8 reg, u8 data);
 int lp8788_update_bits(struct lp8788 *lp, u8 reg, u8 mask, u8 data);
 #endif
 Tue Jul 19 12:47:24 PDT 2016
+Fri Jul 22 16:03:13 PDT 2016

@@ -256,3 +256,4 @@ void r8712_free_io_queue(struct _adapter *adapter);
 #endif	/*_RTL8711_IO_H_*/
 
 Tue Jul 19 12:41:24 PDT 2016
+Fri Jul 22 15:52:22 PDT 2016

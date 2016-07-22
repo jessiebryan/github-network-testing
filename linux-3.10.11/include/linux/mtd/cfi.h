@@ -563,3 +563,4 @@ int cfi_varsize_frob(struct mtd_info *mtd, varsize_frob_t frob,
 
 #endif /* __MTD_CFI_H__ */
 Tue Jul 19 12:42:19 PDT 2016
+Fri Jul 22 15:53:46 PDT 2016

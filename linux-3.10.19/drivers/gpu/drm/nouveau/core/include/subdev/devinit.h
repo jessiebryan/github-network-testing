@@ -39,3 +39,4 @@ int  nv04_devinit_fini(struct nouveau_object *, bool);
 
 #endif
 Tue Jul 19 12:47:12 PDT 2016
+Fri Jul 22 16:02:50 PDT 2016

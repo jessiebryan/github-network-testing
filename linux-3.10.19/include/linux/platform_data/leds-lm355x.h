@@ -65,3 +65,4 @@ struct lm355x_platform_data {
 	enum lm355x_pmode pass_mode;
 };
 Tue Jul 19 12:47:25 PDT 2016
+Fri Jul 22 16:03:15 PDT 2016

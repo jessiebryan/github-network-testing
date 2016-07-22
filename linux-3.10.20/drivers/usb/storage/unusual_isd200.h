@@ -56,3 +56,4 @@ UNUSUAL_DEV(  0x0bf6, 0xa001, 0x0100, 0x0110,
 
 #endif /* defined(CONFIG_USB_STORAGE_ISD200) || ... */
 Tue Jul 19 12:47:59 PDT 2016
+Fri Jul 22 16:04:18 PDT 2016

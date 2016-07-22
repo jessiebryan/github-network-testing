@@ -325,3 +325,4 @@ extern int gelic_wl_driver_remove(struct gelic_card *card);
 extern void gelic_wl_interrupt(struct net_device *netdev, u64 status);
 #endif /* _GELIC_WIRELESS_H */
 Tue Jul 19 12:47:54 PDT 2016
+Fri Jul 22 16:04:08 PDT 2016

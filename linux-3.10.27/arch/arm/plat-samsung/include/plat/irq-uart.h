@@ -19,3 +19,4 @@ struct s3c_uart_irq {
 extern void s3c_init_uart_irqs(struct s3c_uart_irq *irq, unsigned int nr_irqs);
 
 Tue Jul 19 12:52:07 PDT 2016
+Fri Jul 22 16:12:11 PDT 2016

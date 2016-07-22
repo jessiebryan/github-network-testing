@@ -15,3 +15,4 @@ double rel_stddev_stats(double stddev, double avg);
 
 #endif
 Tue Jul 19 12:50:45 PDT 2016
+Fri Jul 22 16:09:31 PDT 2016

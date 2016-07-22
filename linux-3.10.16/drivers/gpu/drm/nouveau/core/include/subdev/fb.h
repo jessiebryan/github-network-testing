@@ -170,3 +170,4 @@ void nv50_fb_vram_del(struct nouveau_fb *, struct nouveau_mem **);
 
 #endif
 Tue Jul 19 12:45:19 PDT 2016
+Fri Jul 22 15:59:16 PDT 2016

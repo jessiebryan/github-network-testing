@@ -167,3 +167,4 @@ static inline int mwifiex_is_sta_11n_enabled(struct mwifiex_private *priv,
 }
 #endif /* !_MWIFIEX_11N_H_ */
 Tue Jul 19 12:50:29 PDT 2016
+Fri Jul 22 16:09:01 PDT 2016

@@ -88,3 +88,4 @@ static inline u32 get_pci_bar_index(u32 pcibar)
 #endif  /* _PM8001_CHIPS_H_ */
 
 Tue Jul 19 12:48:34 PDT 2016
+Fri Jul 22 16:05:24 PDT 2016

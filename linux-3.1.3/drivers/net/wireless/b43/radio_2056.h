@@ -1124,3 +1124,4 @@ b43_nphy_get_chantabent_rev3(struct b43_wldev *dev, u16 freq);
 
 #endif /* B43_RADIO_2056_H_ */
 Tue Jul 19 12:35:14 PDT 2016
+Fri Jul 22 15:40:19 PDT 2016

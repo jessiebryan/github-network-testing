@@ -334,3 +334,4 @@ int storvsc_get_major_info(struct storvsc_device_info *device_info,
 
 #endif /* _HYPERV_STORAGE_H */
 Tue Jul 19 12:34:12 PDT 2016
+Fri Jul 22 15:39:16 PDT 2016

@@ -1145,3 +1145,4 @@ struct fc_host_statistics *fc_get_host_stats(struct Scsi_Host *);
 
 #endif /* _LIBFC_H_ */
 Tue Jul 19 12:40:16 PDT 2016
+Fri Jul 22 15:50:04 PDT 2016

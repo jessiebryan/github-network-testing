@@ -428,3 +428,4 @@ static inline int plx9080_abort_dma(void __iomem *iobase, unsigned int channel)
 
 #endif /* __COMEDI_PLX9080_H */
 Tue Jul 19 12:44:09 PDT 2016
+Fri Jul 22 15:57:07 PDT 2016

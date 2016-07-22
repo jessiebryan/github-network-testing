@@ -98,3 +98,4 @@ static char *qla2x00_model_name[QLA_MODEL_NAMES*2] = {
 	"QME2472",	"Dell BS PCI-Express to 4Gb FC, Dual Channel",	/* 0x15b */
 };
 Tue Jul 19 12:37:34 PDT 2016
+Fri Jul 22 15:44:51 PDT 2016

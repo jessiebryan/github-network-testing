@@ -7,3 +7,4 @@ void rtl8187_rfkill_exit(struct ieee80211_hw *hw);
 
 #endif /* RTL8187_RFKILL_H */
 Tue Jul 19 12:47:16 PDT 2016
+Fri Jul 22 16:02:58 PDT 2016

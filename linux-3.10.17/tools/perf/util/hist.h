@@ -254,3 +254,4 @@ int perf_diff__formula(struct hist_entry *he, struct hist_entry *pair,
 double perf_diff__period_percent(struct hist_entry *he, u64 period);
 #endif	/* __PERF_HIST_H */
 Tue Jul 19 12:46:15 PDT 2016
+Fri Jul 22 16:01:04 PDT 2016

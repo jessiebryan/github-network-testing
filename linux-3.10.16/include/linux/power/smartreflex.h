@@ -317,3 +317,4 @@ static inline void omap_sr_register_pmic(
 #endif
 #endif
 Tue Jul 19 12:45:32 PDT 2016
+Fri Jul 22 15:59:42 PDT 2016

@@ -550,3 +550,4 @@ static inline void acpi_i2c_register_devices(struct i2c_adapter *adap) {}
 
 #endif /* _LINUX_I2C_H */
 Tue Jul 19 12:42:18 PDT 2016
+Fri Jul 22 15:53:44 PDT 2016

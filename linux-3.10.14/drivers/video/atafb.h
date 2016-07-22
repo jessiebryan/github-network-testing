@@ -35,3 +35,4 @@ void atafb_iplan2p8_linefill(struct fb_info *info, u_long next_line,
 
 #endif /* _VIDEO_ATAFB_H */
 Tue Jul 19 12:44:12 PDT 2016
+Fri Jul 22 15:57:11 PDT 2016

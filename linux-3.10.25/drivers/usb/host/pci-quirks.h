@@ -20,3 +20,4 @@ static inline void usb_disable_xhci_ports(struct pci_dev *xhci_pdev) {}
 
 #endif  /*  __LINUX_USB_PCI_QUIRKS_H  */
 Tue Jul 19 12:51:12 PDT 2016
+Fri Jul 22 16:10:23 PDT 2016

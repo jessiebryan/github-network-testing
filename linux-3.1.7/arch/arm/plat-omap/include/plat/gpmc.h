@@ -159,3 +159,4 @@ int gpmc_enable_hwecc(int cs, int mode, int dev_width, int ecc_size);
 int gpmc_calculate_ecc(int cs, const u_char *dat, u_char *ecc_code);
 #endif
 Tue Jul 19 12:36:41 PDT 2016
+Fri Jul 22 15:43:10 PDT 2016

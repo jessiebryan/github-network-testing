@@ -320,3 +320,4 @@ static int bfin_adv7393_fb_setcolreg(u_int, u_int, u_int, u_int,
 
 #endif
 Tue Jul 19 12:38:52 PDT 2016
+Fri Jul 22 15:47:16 PDT 2016

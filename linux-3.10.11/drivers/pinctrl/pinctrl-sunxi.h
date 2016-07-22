@@ -477,3 +477,4 @@ static inline u32 sunxi_pull_offset(u16 pin)
 
 #endif /* __PINCTRL_SUNXI_H */
 Tue Jul 19 12:42:09 PDT 2016
+Fri Jul 22 15:53:31 PDT 2016

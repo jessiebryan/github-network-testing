@@ -46,3 +46,4 @@ void bonding_candidate_del(struct orig_node *orig_node,
 
 #endif /* _NET_BATMAN_ADV_ROUTING_H_ */
 Tue Jul 19 12:35:27 PDT 2016
+Fri Jul 22 15:40:43 PDT 2016

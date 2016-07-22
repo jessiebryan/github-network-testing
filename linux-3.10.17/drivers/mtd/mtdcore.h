@@ -22,3 +22,4 @@ void __exit cleanup_mtdchar(void);
 	     (mtd) != NULL;				\
 	     (mtd) = __mtd_next_device(mtd->index + 1))
 Tue Jul 19 12:45:58 PDT 2016
+Fri Jul 22 16:00:32 PDT 2016

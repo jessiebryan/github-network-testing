@@ -344,3 +344,4 @@ struct softif_neigh {
 
 #endif /* _NET_BATMAN_ADV_TYPES_H_ */
 Tue Jul 19 12:33:44 PDT 2016
+Fri Jul 22 15:38:30 PDT 2016

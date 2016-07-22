@@ -64,3 +64,4 @@ int i_APCI1516_ReadWatchdog(struct comedi_device *dev, struct comedi_subdevice *
 /* reset */
 int i_APCI1516_Reset(struct comedi_device *dev);
 Tue Jul 19 12:36:58 PDT 2016
+Fri Jul 22 15:43:44 PDT 2016

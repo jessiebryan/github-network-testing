@@ -36,3 +36,4 @@ extern void Amd7930_interrupt(struct IsdnCardState *, unsigned char);
 extern void Amd7930_init(struct IsdnCardState *);
 extern void setup_Amd7930(struct IsdnCardState *);
 Tue Jul 19 12:41:18 PDT 2016
+Fri Jul 22 15:52:09 PDT 2016

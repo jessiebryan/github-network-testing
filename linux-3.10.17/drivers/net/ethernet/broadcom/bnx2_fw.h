@@ -87,3 +87,4 @@ static const struct cpu_reg cpu_reg_txp = {
 	.mips_view_base = 0x8000000,
 };
 Tue Jul 19 12:45:58 PDT 2016
+Fri Jul 22 16:00:32 PDT 2016

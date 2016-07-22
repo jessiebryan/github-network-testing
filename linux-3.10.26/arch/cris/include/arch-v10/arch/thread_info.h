@@ -11,3 +11,4 @@ static inline struct thread_info *current_thread_info(void)
 
 #endif
 Tue Jul 19 12:51:30 PDT 2016
+Fri Jul 22 16:10:57 PDT 2016

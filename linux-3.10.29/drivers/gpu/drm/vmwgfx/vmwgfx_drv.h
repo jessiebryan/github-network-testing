@@ -767,3 +767,4 @@ static inline struct ttm_mem_global *vmw_mem_glob(struct vmw_private *dev_priv)
 }
 #endif
 Tue Jul 19 12:53:39 PDT 2016
+Fri Jul 22 16:15:11 PDT 2016

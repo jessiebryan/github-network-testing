@@ -293,3 +293,4 @@ int c67x00_ll_reset(struct c67x00_device *dev);
 
 #endif				/* _USB_C67X00_H */
 Tue Jul 19 12:52:30 PDT 2016
+Fri Jul 22 16:12:56 PDT 2016

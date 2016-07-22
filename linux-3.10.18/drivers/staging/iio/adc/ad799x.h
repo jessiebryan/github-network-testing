@@ -136,3 +136,4 @@ static inline void ad799x_ring_cleanup(struct iio_dev *indio_dev)
 #endif /* CONFIG_AD799X_RING_BUFFER */
 #endif /* _AD799X_H_ */
 Tue Jul 19 12:46:40 PDT 2016
+Fri Jul 22 16:01:51 PDT 2016

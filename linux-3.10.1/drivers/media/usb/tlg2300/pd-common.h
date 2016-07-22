@@ -270,3 +270,4 @@ void set_debug_mode(struct video_device *vfd, int debug_mode);
 
 #endif
 Tue Jul 19 12:38:46 PDT 2016
+Fri Jul 22 15:47:04 PDT 2016

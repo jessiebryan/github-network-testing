@@ -37,3 +37,4 @@ struct as10x_fw_pkt_t {
 int as102_fw_upload(struct as10x_bus_adapter_t *bus_adap);
 #endif
 Tue Jul 19 12:42:11 PDT 2016
+Fri Jul 22 15:53:34 PDT 2016

@@ -59,3 +59,4 @@ static inline unsigned long __xchg(unsigned long x, volatile void * ptr, int siz
 
 #endif /* __ARCH_H8300_CMPXCHG__ */
 Tue Jul 19 12:43:13 PDT 2016
+Fri Jul 22 15:55:21 PDT 2016

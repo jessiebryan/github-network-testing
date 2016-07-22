@@ -99,3 +99,4 @@ static inline struct clk *imx_clk_fixed_factor(const char *name,
 
 #endif
 Tue Jul 19 12:45:04 PDT 2016
+Fri Jul 22 15:58:47 PDT 2016

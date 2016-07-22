@@ -32,3 +32,4 @@ extern void sunserial_console_termios(struct console *,
 
 #endif /* !(_SERIAL_SUN_H) */
 Tue Jul 19 12:35:18 PDT 2016
+Fri Jul 22 15:40:27 PDT 2016

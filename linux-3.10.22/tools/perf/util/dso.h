@@ -147,3 +147,4 @@ size_t dso__fprintf_symbols_by_name(struct dso *dso,
 size_t dso__fprintf(struct dso *dso, enum map_type type, FILE *fp);
 #endif /* __PERF_DSO */
 Tue Jul 19 12:49:28 PDT 2016
+Fri Jul 22 16:07:04 PDT 2016

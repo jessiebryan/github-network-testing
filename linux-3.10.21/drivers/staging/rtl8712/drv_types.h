@@ -193,3 +193,4 @@ u8 r8712_usb_hal_bus_init(struct _adapter *adapter);
 #endif /*__DRV_TYPES_H__*/
 
 Tue Jul 19 12:48:35 PDT 2016
+Fri Jul 22 16:05:27 PDT 2016

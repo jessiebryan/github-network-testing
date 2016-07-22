@@ -311,3 +311,4 @@ struct iwl_lq_cmd {
 }; /* LINK_QUALITY_CMD_API_S_VER_1 */
 #endif /* __fw_api_rs_h__ */
 Tue Jul 19 12:39:25 PDT 2016
+Fri Jul 22 15:48:25 PDT 2016

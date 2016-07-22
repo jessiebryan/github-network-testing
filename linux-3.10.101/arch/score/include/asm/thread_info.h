@@ -99,3 +99,4 @@ register struct thread_info *__current_thread_info __asm__("r28");
 
 #endif /* _ASM_SCORE_THREAD_INFO_H */
 Tue Jul 19 12:40:34 PDT 2016
+Fri Jul 22 15:50:39 PDT 2016

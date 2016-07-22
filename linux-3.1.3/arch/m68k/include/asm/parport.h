@@ -25,3 +25,4 @@ static int __devinit parport_pc_find_nonpci_ports (int autoirq, int autodma)
 
 #endif /* !(_ASM_M68K_PARPORT_H) */
 Tue Jul 19 12:34:54 PDT 2016
+Fri Jul 22 15:39:55 PDT 2016

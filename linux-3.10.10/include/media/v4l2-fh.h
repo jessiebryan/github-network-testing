@@ -100,3 +100,4 @@ static inline int v4l2_fh_is_singular_file(struct file *filp)
 
 #endif /* V4L2_EVENT_H */
 Tue Jul 19 12:39:36 PDT 2016
+Fri Jul 22 15:48:47 PDT 2016

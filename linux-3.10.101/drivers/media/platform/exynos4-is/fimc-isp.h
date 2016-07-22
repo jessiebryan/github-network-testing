@@ -180,3 +180,4 @@ const struct fimc_fmt *fimc_isp_find_format(const u32 *pixelformat,
 					const u32 *mbus_code, int index);
 #endif /* FIMC_ISP_H_ */
 Tue Jul 19 12:40:41 PDT 2016
+Fri Jul 22 15:50:52 PDT 2016

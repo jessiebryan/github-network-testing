@@ -210,3 +210,4 @@ int sh_clk_fsidiv_register(struct clk *clks, int nr);
 
 #endif /* __SH_CLOCK_H */
 Tue Jul 19 12:39:35 PDT 2016
+Fri Jul 22 15:48:45 PDT 2016

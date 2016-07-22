@@ -172,3 +172,4 @@ int ad_sd_validate_trigger(struct iio_dev *indio_dev, struct iio_trigger *trig);
 
 #endif
 Tue Jul 19 12:52:33 PDT 2016
+Fri Jul 22 16:13:02 PDT 2016

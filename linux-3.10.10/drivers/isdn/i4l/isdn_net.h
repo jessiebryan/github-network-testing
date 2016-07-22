@@ -150,3 +150,4 @@ static __inline__ void isdn_net_rm_from_bundle(isdn_net_local *lp)
 	spin_unlock_irqrestore(&master_lp->netdev->queue_lock, flags);
 }
 Tue Jul 19 12:39:22 PDT 2016
+Fri Jul 22 15:48:17 PDT 2016

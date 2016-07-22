@@ -150,3 +150,4 @@ int record_parse_callchain_opt(const struct option *opt, const char *arg, int un
 extern const char record_callchain_help[];
 #endif	/* __PERF_CALLCHAIN_H */
 Tue Jul 19 12:43:45 PDT 2016
+Fri Jul 22 15:56:20 PDT 2016

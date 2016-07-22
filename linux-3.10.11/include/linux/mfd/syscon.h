@@ -25,3 +25,4 @@ extern struct regmap *syscon_regmap_lookup_by_phandle(
 					const char *property);
 #endif /* __LINUX_MFD_SYSCON_H__ */
 Tue Jul 19 12:42:19 PDT 2016
+Fri Jul 22 15:53:45 PDT 2016

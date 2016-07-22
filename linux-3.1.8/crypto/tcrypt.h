@@ -114,3 +114,4 @@ static struct hash_speed hash_speed_template_16[] = {
 
 #endif	/* _CRYPTO_TCRYPT_H */
 Tue Jul 19 12:37:28 PDT 2016
+Fri Jul 22 15:44:40 PDT 2016

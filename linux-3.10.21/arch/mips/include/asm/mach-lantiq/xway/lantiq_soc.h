@@ -93,3 +93,4 @@ extern void ltq_pmu_disable(unsigned int module);
 #endif /* CONFIG_SOC_TYPE_XWAY */
 #endif /* _LTQ_XWAY_H__ */
 Tue Jul 19 12:48:20 PDT 2016
+Fri Jul 22 16:04:57 PDT 2016

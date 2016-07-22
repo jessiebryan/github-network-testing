@@ -179,3 +179,4 @@ intel_mid_otg_unregister_notifier(struct intel_mid_otg_xceiv *iotg,
 
 #endif /* __INTEL_MID_OTG_H */
 Tue Jul 19 12:37:07 PDT 2016
+Fri Jul 22 15:44:00 PDT 2016

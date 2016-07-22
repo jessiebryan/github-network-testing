@@ -537,3 +537,4 @@ void iwl_mvm_bt_coex_vif_assoc(struct iwl_mvm *mvm, struct ieee80211_vif *vif);
 
 #endif /* __IWL_MVM_H__ */
 Tue Jul 19 12:40:43 PDT 2016
+Fri Jul 22 15:50:57 PDT 2016

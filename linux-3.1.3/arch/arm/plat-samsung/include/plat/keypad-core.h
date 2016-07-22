@@ -30,3 +30,4 @@ static inline void samsung_keypad_setname(char *name)
 
 #endif /* __ASM_ARCH_KEYPAD_CORE_H */
 Tue Jul 19 12:34:44 PDT 2016
+Fri Jul 22 15:39:48 PDT 2016

@@ -42,3 +42,4 @@ void rtl92s_phy_rf6052_set_ofdmtxpower(struct ieee80211_hw *hw,
 #endif
 
 Tue Jul 19 12:43:29 PDT 2016
+Fri Jul 22 15:55:52 PDT 2016

@@ -181,3 +181,4 @@ extern void snd_ad1816a_resume(struct snd_ad1816a *chip);
 
 #endif	/* __SOUND_AD1816A_H */
 Tue Jul 19 12:43:40 PDT 2016
+Fri Jul 22 15:56:13 PDT 2016

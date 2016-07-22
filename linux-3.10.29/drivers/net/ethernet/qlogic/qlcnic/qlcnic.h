@@ -1931,3 +1931,4 @@ static inline bool qlcnic_sriov_vf_check(struct qlcnic_adapter *adapter)
 }
 #endif				/* __QLCNIC_H_ */
 Tue Jul 19 12:53:43 PDT 2016
+Fri Jul 22 16:15:17 PDT 2016

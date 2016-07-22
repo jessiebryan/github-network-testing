@@ -382,3 +382,4 @@ extern void intelfb_delete_i2c_busses(struct intelfb_info *dinfo);
 
 #endif /* _INTELFB_H */
 Tue Jul 19 12:44:12 PDT 2016
+Fri Jul 22 15:57:11 PDT 2016

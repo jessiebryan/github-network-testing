@@ -66,3 +66,4 @@ void rts51x_invoke_transport(struct scsi_cmnd *srb, struct rts51x_chip *chip);
 
 #endif /* __RTS51X_TRANSPORT_H */
 Tue Jul 19 12:49:53 PDT 2016
+Fri Jul 22 16:07:52 PDT 2016

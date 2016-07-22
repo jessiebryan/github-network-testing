@@ -28,3 +28,4 @@ extern void pxa27x_cpu_pm_enter(suspend_state_t state);
 
 #endif /* __MACH_PXA27x_H */
 Tue Jul 19 12:41:03 PDT 2016
+Fri Jul 22 15:51:34 PDT 2016

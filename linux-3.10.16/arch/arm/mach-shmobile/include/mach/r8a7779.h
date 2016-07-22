@@ -50,3 +50,4 @@ extern struct smp_operations r8a7779_smp_ops;
 
 #endif /* __ASM_R8A7779_H__ */
 Tue Jul 19 12:45:06 PDT 2016
+Fri Jul 22 15:58:50 PDT 2016

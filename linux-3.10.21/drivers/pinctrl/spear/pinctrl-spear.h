@@ -451,3 +451,4 @@ int spear_pinctrl_remove(struct platform_device *pdev);
 
 #endif /* __PINMUX_SPEAR_H__ */
 Tue Jul 19 12:48:33 PDT 2016
+Fri Jul 22 16:05:23 PDT 2016

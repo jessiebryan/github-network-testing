@@ -45,3 +45,4 @@ int PIPEnsSendBulkOut(struct vnt_private *, PUSB_SEND_CONTEXT pContext);
 
 #endif /* __USBPIPE_H__ */
 Tue Jul 19 12:42:13 PDT 2016
+Fri Jul 22 15:53:36 PDT 2016

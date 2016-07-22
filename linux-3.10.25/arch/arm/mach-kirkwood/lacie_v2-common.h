@@ -15,3 +15,4 @@ void lacie_v2_hdd_power_init(int hdd_num);
 
 #endif
 Tue Jul 19 12:50:47 PDT 2016
+Fri Jul 22 16:09:35 PDT 2016

@@ -209,3 +209,4 @@ rndis_tx_fixup(struct usbnet *dev, struct sk_buff *skb, gfp_t flags);
 
 #endif	/* __LINUX_USB_RNDIS_HOST_H */
 Tue Jul 19 12:51:19 PDT 2016
+Fri Jul 22 16:10:36 PDT 2016

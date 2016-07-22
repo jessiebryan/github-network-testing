@@ -466,3 +466,4 @@ static int mct_u232_calculate_baud_rate(struct usb_serial *serial,
 #endif /* __LINUX_USB_SERIAL_MCT_U232_H */
 
 Tue Jul 19 12:39:30 PDT 2016
+Fri Jul 22 15:48:33 PDT 2016

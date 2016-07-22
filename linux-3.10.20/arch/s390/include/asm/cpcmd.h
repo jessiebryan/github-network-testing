@@ -31,3 +31,4 @@ extern int cpcmd(const char *cmd, char *response, int rlen, int *response_code);
 
 #endif /* _ASM_S390_CPCMD_H */
 Tue Jul 19 12:47:45 PDT 2016
+Fri Jul 22 16:03:52 PDT 2016
