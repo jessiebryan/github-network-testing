@@ -32,3 +32,4 @@ register struct task_struct *curr_arc asm("r25");
 #endif /* _ASM_ARC_CURRENT_H */
 Tue Jul 19 12:44:24 PDT 2016
 Fri Jul 22 15:57:34 PDT 2016
+Sun, Jul 24, 2016  3:40:26 PM

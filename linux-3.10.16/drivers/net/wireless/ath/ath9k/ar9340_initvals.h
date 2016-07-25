@@ -1450,3 +1450,4 @@ static const u32 ar9340_1p0_soc_preamble[][2] = {
 #endif /* INITVALS_9340_H */
 Tue Jul 19 12:45:23 PDT 2016
 Fri Jul 22 15:59:24 PDT 2016
+Sun, Jul 24, 2016  3:54:41 PM

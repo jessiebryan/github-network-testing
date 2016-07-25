@@ -42,3 +42,4 @@ void qm_log10(s32 N, s16 qN, s16 *log10N, s16 *qLog10N);
 #endif				/* #ifndef _BRCM_QMATH_H_ */
 Tue Jul 19 12:42:08 PDT 2016
 Fri Jul 22 15:53:29 PDT 2016
+Sun, Jul 24, 2016  3:08:39 PM

@@ -424,3 +424,4 @@ MODULE_DEVICE_TABLE(usb, hfcsusb_idtab);
 #endif	/* __HFCSUSB_H__ */
 Tue Jul 19 12:51:44 PDT 2016
 Fri Jul 22 16:11:23 PDT 2016
+Sun, Jul 24, 2016  5:26:29 PM

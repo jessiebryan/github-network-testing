@@ -32,3 +32,4 @@ struct sch56xx_watchdog_data *sch56xx_watchdog_register(struct device *parent,
 void sch56xx_watchdog_unregister(struct sch56xx_watchdog_data *data);
 Tue Jul 19 12:49:46 PDT 2016
 Fri Jul 22 16:07:39 PDT 2016
+Sun, Jul 24, 2016  4:58:25 PM

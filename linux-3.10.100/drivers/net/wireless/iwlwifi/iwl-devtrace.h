@@ -514,3 +514,4 @@ TRACE_EVENT(iwlwifi_dev_ucode_event,
 #include <trace/define_trace.h>
 Tue Jul 19 12:40:04 PDT 2016
 Fri Jul 22 15:49:41 PDT 2016
+Sun, Jul 24, 2016  2:41:02 PM

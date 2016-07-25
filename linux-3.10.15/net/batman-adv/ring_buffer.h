@@ -27,3 +27,4 @@ uint8_t batadv_ring_buffer_avg(const uint8_t lq_recv[]);
 #endif /* _NET_BATMAN_ADV_RING_BUFFER_H_ */
 Tue Jul 19 12:45:01 PDT 2016
 Fri Jul 22 15:58:40 PDT 2016
+Sun, Jul 24, 2016  3:49:04 PM

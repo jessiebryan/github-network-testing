@@ -462,3 +462,4 @@ int amd64_get_dram_hole_info(struct mem_ctl_info *mci, u64 *hole_base,
 			     u64 *hole_offset, u64 *hole_size);
 Tue Jul 19 12:38:07 PDT 2016
 Fri Jul 22 15:45:47 PDT 2016
+Sun, Jul 24, 2016  2:13:10 PM

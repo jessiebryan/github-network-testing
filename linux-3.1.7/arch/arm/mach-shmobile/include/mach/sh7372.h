@@ -506,3 +506,4 @@ extern void sh7372_add_device_to_domain(struct sh7372_pm_domain *sh7372_pd,
 #endif /* __ASM_SH7372_H__ */
 Tue Jul 19 12:36:40 PDT 2016
 Fri Jul 22 15:43:08 PDT 2016
+Sun, Jul 24, 2016  1:53:31 PM

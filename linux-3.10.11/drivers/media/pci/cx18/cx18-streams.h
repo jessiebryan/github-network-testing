@@ -62,3 +62,4 @@ int cx18_stop_v4l2_encode_stream(struct cx18_stream *s, int gop_end);
 void cx18_stop_all_captures(struct cx18 *cx);
 Tue Jul 19 12:42:05 PDT 2016
 Fri Jul 22 15:53:24 PDT 2016
+Sun, Jul 24, 2016  3:08:03 PM

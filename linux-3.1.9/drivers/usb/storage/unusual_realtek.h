@@ -41,3 +41,4 @@ UNUSUAL_DEV(0x0bda, 0x0159, 0x0000, 0x9999,
 #endif  /* defined(CONFIG_USB_STORAGE_REALTEK) || ... */
 Tue Jul 19 12:38:16 PDT 2016
 Fri Jul 22 15:46:02 PDT 2016
+Sun, Jul 24, 2016  2:15:05 PM

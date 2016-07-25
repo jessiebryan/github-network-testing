@@ -38,3 +38,4 @@ extern struct snd_ice1712_card_info  snd_vt1724_prodigy_hifi_cards[];
 #endif /* __SOUND_PRODIGY_HIFI_H */
 Tue Jul 19 12:48:48 PDT 2016
 Fri Jul 22 16:05:51 PDT 2016
+Sun, Jul 24, 2016  4:44:40 PM

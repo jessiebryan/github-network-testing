@@ -261,3 +261,4 @@ do { \
 	APPEND_MATH_IMM_u32(RSHIFT, desc, dest, src0, src1, data)
 Tue Jul 19 12:36:19 PDT 2016
 Fri Jul 22 15:42:26 PDT 2016
+Sun, Jul 24, 2016  1:48:25 PM

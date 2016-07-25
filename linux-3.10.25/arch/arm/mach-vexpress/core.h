@@ -11,3 +11,4 @@ extern struct smp_operations	vexpress_smp_ops;
 extern void vexpress_cpu_die(unsigned int cpu);
 Tue Jul 19 12:50:49 PDT 2016
 Fri Jul 22 16:09:38 PDT 2016
+Sun, Jul 24, 2016  5:13:32 PM

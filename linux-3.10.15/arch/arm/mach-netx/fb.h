@@ -24,3 +24,4 @@ void netx_clcd_remove(struct clcd_fb *fb);
 int netx_fb_init(struct clcd_board *board, struct clcd_panel *panel);
 Tue Jul 19 12:44:26 PDT 2016
 Fri Jul 22 15:57:38 PDT 2016
+Sun, Jul 24, 2016  3:40:50 PM

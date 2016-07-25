@@ -49,3 +49,4 @@ extern int davinci_serial_setup_clk(unsigned instance, unsigned int *rate);
 #endif /* __ASM_ARCH_SERIAL_H */
 Tue Jul 19 12:42:29 PDT 2016
 Fri Jul 22 15:54:02 PDT 2016
+Sun, Jul 24, 2016  3:12:58 PM

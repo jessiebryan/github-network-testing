@@ -236,3 +236,4 @@ static inline void via_write_misc_reg_mask(u8 data, u8 mask)
 #endif /* __VIA_CORE_H__ */
 Tue Jul 19 12:49:23 PDT 2016
 Fri Jul 22 16:06:54 PDT 2016
+Sun, Jul 24, 2016  4:52:44 PM

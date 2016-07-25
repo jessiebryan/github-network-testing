@@ -66,3 +66,4 @@ extern void	HiSax_closecard(int);
 extern int	hisax_init_pcmcia(void *, int *, IsdnCard_t *);
 Tue Jul 19 12:36:54 PDT 2016
 Fri Jul 22 15:43:35 PDT 2016
+Sun, Jul 24, 2016  1:56:53 PM

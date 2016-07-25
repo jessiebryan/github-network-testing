@@ -259,3 +259,4 @@ static inline int twl6040_get_revid(struct twl6040 *twl6040)
 #endif  /* End of __TWL6040_CODEC_H__ */
 Tue Jul 19 12:42:19 PDT 2016
 Fri Jul 22 15:53:45 PDT 2016
+Sun, Jul 24, 2016  3:10:43 PM

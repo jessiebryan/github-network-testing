@@ -45,3 +45,4 @@ static inline void st_magn_deallocate_ring(struct iio_dev *indio_dev)
 #endif /* ST_MAGN_H */
 Tue Jul 19 12:49:46 PDT 2016
 Fri Jul 22 16:07:39 PDT 2016
+Sun, Jul 24, 2016  4:58:26 PM

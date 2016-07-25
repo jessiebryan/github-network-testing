@@ -113,3 +113,4 @@ void altera_free_buffers(struct altera_state *astate);
 #endif /* ALTERA_JTAG_H */
 Tue Jul 19 12:44:06 PDT 2016
 Fri Jul 22 15:57:00 PDT 2016
+Sun, Jul 24, 2016  3:35:55 PM

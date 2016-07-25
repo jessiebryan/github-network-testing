@@ -272,3 +272,4 @@ drm_hdmi_avi_infoframe_from_display_mode(struct hdmi_avi_infoframe *frame,
 #endif /* __DRM_EDID_H__ */
 Tue Jul 19 12:39:32 PDT 2016
 Fri Jul 22 15:48:37 PDT 2016
+Sun, Jul 24, 2016  2:33:20 PM

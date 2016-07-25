@@ -57,3 +57,4 @@ int i_APCI1710_InsnBitsGetTorCounterProgressStatusAndValue(struct comedi_device 
 							   unsigned int *data);
 Tue Jul 19 12:38:13 PDT 2016
 Fri Jul 22 15:45:58 PDT 2016
+Sun, Jul 24, 2016  2:14:32 PM

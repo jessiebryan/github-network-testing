@@ -16,3 +16,4 @@ struct altera_jtaguart_platform_uart {
 #endif /* __ALTJUART_H */
 Tue Jul 19 12:40:10 PDT 2016
 Fri Jul 22 15:49:54 PDT 2016
+Sun, Jul 24, 2016  2:42:35 PM

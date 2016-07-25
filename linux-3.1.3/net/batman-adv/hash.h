@@ -149,3 +149,4 @@ static inline void *hash_remove(struct hashtable_t *hash,
 #endif /* _NET_BATMAN_ADV_HASH_H_ */
 Tue Jul 19 12:35:27 PDT 2016
 Fri Jul 22 15:40:43 PDT 2016
+Sun, Jul 24, 2016  1:35:47 PM

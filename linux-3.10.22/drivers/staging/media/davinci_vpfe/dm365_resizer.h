@@ -244,3 +244,4 @@ void vpfe_resizer_dma_isr(struct vpfe_resizer_device *resizer);
 #endif		/* _DAVINCI_VPFE_DM365_RESIZER_H */
 Tue Jul 19 12:49:14 PDT 2016
 Fri Jul 22 16:06:39 PDT 2016
+Sun, Jul 24, 2016  4:50:44 PM

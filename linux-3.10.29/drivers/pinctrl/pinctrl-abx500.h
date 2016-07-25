@@ -234,3 +234,4 @@ abx500_pinctrl_ab8505_init(struct abx500_pinctrl_soc_data **soc)
 #endif /* PINCTRL_PINCTRL_ABx500_H */
 Tue Jul 19 12:53:44 PDT 2016
 Fri Jul 22 16:15:21 PDT 2016
+Sun, Jul 24, 2016  5:55:29 PM

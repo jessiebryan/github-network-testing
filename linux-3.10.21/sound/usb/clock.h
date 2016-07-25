@@ -11,3 +11,4 @@ int snd_usb_clock_find_source(struct snd_usb_audio *chip, int entity_id,
 #endif /* __USBAUDIO_CLOCK_H */
 Tue Jul 19 12:48:48 PDT 2016
 Fri Jul 22 16:05:52 PDT 2016
+Sun, Jul 24, 2016  4:44:48 PM

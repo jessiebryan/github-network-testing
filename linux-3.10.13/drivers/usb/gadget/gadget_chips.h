@@ -55,3 +55,4 @@ static inline bool gadget_supports_altsettings(struct usb_gadget *gadget)
 #endif /* __GADGET_CHIPS_H */
 Tue Jul 19 12:43:32 PDT 2016
 Fri Jul 22 15:55:58 PDT 2016
+Sun, Jul 24, 2016  3:28:03 PM

@@ -75,3 +75,4 @@ static inline void snd_ivtv_unlock(struct snd_ivtv_card *itvsc)
 	pr_info("%s-alsa: " fmt, v4l2_dev->name , ## args)
 Tue Jul 19 12:42:48 PDT 2016
 Fri Jul 22 15:54:35 PDT 2016
+Sun, Jul 24, 2016  3:17:16 PM

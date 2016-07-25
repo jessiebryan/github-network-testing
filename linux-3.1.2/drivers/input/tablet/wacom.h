@@ -125,3 +125,4 @@ void wacom_setup_input_capabilities(struct input_dev *input_dev,
 #endif
 Tue Jul 19 12:34:05 PDT 2016
 Fri Jul 22 15:39:05 PDT 2016
+Sun, Jul 24, 2016  1:23:50 PM

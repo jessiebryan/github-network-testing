@@ -185,3 +185,4 @@ static inline void efx_device_detach_sync(struct efx_nic *efx)
 #endif /* EFX_EFX_H */
 Tue Jul 19 12:48:32 PDT 2016
 Fri Jul 22 16:05:20 PDT 2016
+Sun, Jul 24, 2016  4:40:44 PM

@@ -77,3 +77,4 @@ int riva_probe_i2c_connector(struct riva_par *par, int conn, u8 **out_edid);
 #endif /* __RIVAFB_H */
 Tue Jul 19 12:35:19 PDT 2016
 Fri Jul 22 15:40:28 PDT 2016
+Sun, Jul 24, 2016  1:33:55 PM

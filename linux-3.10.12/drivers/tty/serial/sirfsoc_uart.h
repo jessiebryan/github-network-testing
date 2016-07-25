@@ -186,3 +186,4 @@ struct sirfsoc_uart_port {
 #define SIRFSOC_UART_IO_TX_REASONABLE_CNT	6
 Tue Jul 19 12:42:54 PDT 2016
 Fri Jul 22 15:54:48 PDT 2016
+Sun, Jul 24, 2016  3:18:49 PM

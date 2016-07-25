@@ -222,3 +222,4 @@ static int fill_powernow_table_pstate(struct powernow_k8_data *data, struct cpuf
 static int fill_powernow_table_fidvid(struct powernow_k8_data *data, struct cpufreq_frequency_table *powernow_table);
 Tue Jul 19 12:35:11 PDT 2016
 Fri Jul 22 15:40:12 PDT 2016
+Sun, Jul 24, 2016  1:31:56 PM

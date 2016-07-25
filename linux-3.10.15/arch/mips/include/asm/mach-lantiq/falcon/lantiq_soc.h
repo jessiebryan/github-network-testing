@@ -71,3 +71,4 @@ extern void pinctrl_falcon_add_gpio_range(struct pinctrl_gpio_range *range);
 #endif /* _LTQ_XWAY_H__ */
 Tue Jul 19 12:44:33 PDT 2016
 Fri Jul 22 15:57:50 PDT 2016
+Sun, Jul 24, 2016  3:42:29 PM

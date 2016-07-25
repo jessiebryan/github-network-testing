@@ -94,3 +94,4 @@ struct platform_device *__init mxs_add_mxs_pwm(
 		resource_size_t iobase, int id);
 Tue Jul 19 12:35:30 PDT 2016
 Fri Jul 22 15:40:51 PDT 2016
+Sun, Jul 24, 2016  1:36:42 PM

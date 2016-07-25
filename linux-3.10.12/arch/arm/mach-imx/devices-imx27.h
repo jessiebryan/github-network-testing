@@ -89,3 +89,4 @@ extern const struct imx_pata_imx_data imx27_pata_imx_data;
 	imx_add_pata_imx(&imx27_pata_imx_data)
 Tue Jul 19 12:42:29 PDT 2016
 Fri Jul 22 15:54:03 PDT 2016
+Sun, Jul 24, 2016  3:13:01 PM

@@ -269,3 +269,4 @@ static inline u32 camif_hw_get_status(struct camif_vp *vp)
 #endif /* CAMIF_REGS_H_ */
 Tue Jul 19 12:39:23 PDT 2016
 Fri Jul 22 15:48:19 PDT 2016
+Sun, Jul 24, 2016  2:31:17 PM

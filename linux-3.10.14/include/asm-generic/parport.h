@@ -23,3 +23,4 @@ static int parport_pc_find_nonpci_ports(int autoirq, int autodma)
 #endif /* __ASM_GENERIC_PARPORT_H */
 Tue Jul 19 12:44:13 PDT 2016
 Fri Jul 22 15:57:14 PDT 2016
+Sun, Jul 24, 2016  3:37:47 PM

@@ -75,3 +75,4 @@ extern const struct sh_pfc_soc_info shx3_pinmux_info;
 #endif /* __SH_PFC_CORE_H__ */
 Tue Jul 19 12:44:08 PDT 2016
 Fri Jul 22 15:57:04 PDT 2016
+Sun, Jul 24, 2016  3:36:31 PM

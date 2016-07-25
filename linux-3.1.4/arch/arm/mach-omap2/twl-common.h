@@ -59,3 +59,4 @@ void omap4_pmic_get_config(struct twl4030_platform_data *pmic_data,
 #endif /* __OMAP_PMIC_COMMON__ */
 Tue Jul 19 12:35:31 PDT 2016
 Fri Jul 22 15:40:51 PDT 2016
+Sun, Jul 24, 2016  1:36:48 PM

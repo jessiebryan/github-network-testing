@@ -67,3 +67,4 @@ static struct vendor_info const vendor_info_table[] = {
 #define N_VENDORS ARRAY_SIZE(vendor_info_table)
 Tue Jul 19 12:33:22 PDT 2016
 Fri Jul 22 15:37:47 PDT 2016
+Sun, Jul 24, 2016  1:13:52 PM

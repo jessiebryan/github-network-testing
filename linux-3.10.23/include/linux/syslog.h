@@ -52,3 +52,4 @@ int do_syslog(int type, char __user *buf, int count, bool from_file);
 #endif /* _LINUX_SYSLOG_H */
 Tue Jul 19 12:50:00 PDT 2016
 Fri Jul 22 16:08:06 PDT 2016
+Sun, Jul 24, 2016  5:01:55 PM

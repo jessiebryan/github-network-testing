@@ -56,3 +56,4 @@ void MIC_vGetMIC(unsigned long *pdwL, unsigned long *pdwR);
 #endif //__MICHAEL_H__
 Tue Jul 19 12:38:51 PDT 2016
 Fri Jul 22 15:47:14 PDT 2016
+Sun, Jul 24, 2016  2:23:26 PM

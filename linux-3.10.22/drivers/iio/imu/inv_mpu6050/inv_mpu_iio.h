@@ -246,3 +246,4 @@ int inv_mpu6050_write_reg(struct inv_mpu6050_state *st, int reg, u8 val);
 int inv_mpu6050_set_power_itg(struct inv_mpu6050_state *st, bool power_on);
 Tue Jul 19 12:49:07 PDT 2016
 Fri Jul 22 16:06:27 PDT 2016
+Sun, Jul 24, 2016  4:49:11 PM

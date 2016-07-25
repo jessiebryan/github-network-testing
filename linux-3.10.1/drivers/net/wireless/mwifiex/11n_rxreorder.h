@@ -82,3 +82,4 @@ void mwifiex_update_rxreor_flags(struct mwifiex_adapter *adapter, u8 flags);
 #endif /* _MWIFIEX_11N_RXREORDER_H_ */
 Tue Jul 19 12:38:48 PDT 2016
 Fri Jul 22 15:47:07 PDT 2016
+Sun, Jul 24, 2016  2:22:40 PM

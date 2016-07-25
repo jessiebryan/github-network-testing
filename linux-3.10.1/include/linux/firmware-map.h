@@ -49,3 +49,4 @@ static inline int firmware_map_remove(u64 start, u64 end, const char *type)
 #endif /* _LINUX_FIRMWARE_MAP_H */
 Tue Jul 19 12:38:55 PDT 2016
 Fri Jul 22 15:47:22 PDT 2016
+Sun, Jul 24, 2016  2:24:22 PM

@@ -187,3 +187,4 @@ static inline u16 ath6kl_hif_pipe_get_free_queue_number(struct ath6kl *ar,
 #endif
 Tue Jul 19 12:47:54 PDT 2016
 Fri Jul 22 16:04:09 PDT 2016
+Sun, Jul 24, 2016  4:31:34 PM

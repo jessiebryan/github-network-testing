@@ -939,3 +939,4 @@ static inline int dwc3_gadget_resume(struct dwc3 *dwc)
 #endif /* __DRIVERS_USB_DWC3_CORE_H */
 Tue Jul 19 12:49:15 PDT 2016
 Fri Jul 22 16:06:42 PDT 2016
+Sun, Jul 24, 2016  4:51:04 PM

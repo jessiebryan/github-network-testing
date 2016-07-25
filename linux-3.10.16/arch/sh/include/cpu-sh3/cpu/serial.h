@@ -10,3 +10,4 @@ extern struct plat_sci_port_ops sh7720_sci_port_ops;
 #endif /* __CPU_SH3_SERIAL_H */
 Tue Jul 19 12:45:15 PDT 2016
 Fri Jul 22 15:59:09 PDT 2016
+Sun, Jul 24, 2016  3:52:43 PM

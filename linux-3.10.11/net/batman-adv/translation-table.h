@@ -68,3 +68,4 @@ bool batadv_tt_add_temporary_global_entry(struct batadv_priv *bat_priv,
 #endif /* _NET_BATMAN_ADV_TRANSLATION_TABLE_H_ */
 Tue Jul 19 12:42:26 PDT 2016
 Fri Jul 22 15:53:56 PDT 2016
+Sun, Jul 24, 2016  3:12:11 PM

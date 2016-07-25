@@ -56,3 +56,4 @@ UNUSUAL_DEV(  0x07af, 0x0006, 0x0100, 0x0100,
 #endif /* defined(CONFIG_USB_STORAGE_SDDR09) || ... */
 Tue Jul 19 12:51:12 PDT 2016
 Fri Jul 22 16:10:24 PDT 2016
+Sun, Jul 24, 2016  5:19:04 PM

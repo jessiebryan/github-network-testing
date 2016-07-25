@@ -345,3 +345,4 @@ static inline int interface_to_infnum(struct usb_interface *interface)
 #endif /* __USBIP_COMMON_H */
 Tue Jul 19 12:37:00 PDT 2016
 Fri Jul 22 15:43:47 PDT 2016
+Sun, Jul 24, 2016  1:58:22 PM

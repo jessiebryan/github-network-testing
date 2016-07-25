@@ -226,3 +226,4 @@ int si470x_vidioc_querycap(struct file *file, void *priv,
 		struct v4l2_capability *capability);
 Tue Jul 19 12:45:57 PDT 2016
 Fri Jul 22 16:00:31 PDT 2016
+Sun, Jul 24, 2016  4:03:28 PM

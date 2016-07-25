@@ -80,3 +80,4 @@ static inline void thermal_gov_user_space_unregister(void) {}
 #endif /* __THERMAL_CORE_H__ */
 Tue Jul 19 12:42:54 PDT 2016
 Fri Jul 22 15:54:47 PDT 2016
+Sun, Jul 24, 2016  3:18:47 PM

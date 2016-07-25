@@ -43,3 +43,4 @@
 #define DX3(p, s1, s2, s3)	((DX2((p)+1, s2, s3) << (s1)) ^ (p)[0])
 Tue Jul 19 12:36:01 PDT 2016
 Fri Jul 22 15:41:50 PDT 2016
+Sun, Jul 24, 2016  1:44:01 PM

@@ -35,3 +35,4 @@ unsigned long pba_clk_get_rate(struct clk *clk);
 void pba_clk_mode(struct clk *clk, int enabled);
 Tue Jul 19 12:50:50 PDT 2016
 Fri Jul 22 16:09:39 PDT 2016
+Sun, Jul 24, 2016  5:13:43 PM

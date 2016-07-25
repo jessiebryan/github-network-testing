@@ -75,3 +75,4 @@ extern void s5p64x0_spi_set_info(int cntrlr, int src_clk_nr, int num_cs);
 #endif /* __S3C64XX_PLAT_SPI_H */
 Tue Jul 19 12:37:55 PDT 2016
 Fri Jul 22 15:45:24 PDT 2016
+Sun, Jul 24, 2016  2:10:16 PM

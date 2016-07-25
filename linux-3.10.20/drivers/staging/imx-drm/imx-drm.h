@@ -70,3 +70,4 @@ int imx_drm_encoder_add_possible_crtcs(struct imx_drm_encoder *imx_drm_encoder,
 #endif /* _IMX_DRM_H_ */
 Tue Jul 19 12:47:57 PDT 2016
 Fri Jul 22 16:04:14 PDT 2016
+Sun, Jul 24, 2016  4:32:16 PM

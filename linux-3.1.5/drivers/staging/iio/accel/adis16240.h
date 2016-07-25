@@ -196,3 +196,4 @@ static inline void adis16240_unconfigure_ring(struct iio_dev *indio_dev)
 #endif /* SPI_ADIS16240_H_ */
 Tue Jul 19 12:36:25 PDT 2016
 Fri Jul 22 15:42:38 PDT 2016
+Sun, Jul 24, 2016  1:49:53 PM

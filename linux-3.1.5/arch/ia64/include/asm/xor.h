@@ -31,3 +31,4 @@ static struct xor_block_template xor_block_ia64 = {
 #define XOR_TRY_TEMPLATES	xor_speed(&xor_block_ia64)
 Tue Jul 19 12:36:10 PDT 2016
 Fri Jul 22 15:42:08 PDT 2016
+Sun, Jul 24, 2016  1:46:13 PM

@@ -99,3 +99,4 @@ static inline int plat_device_is_coherent(struct device *dev)
 #endif /* __ASM_MACH_IP32_DMA_COHERENCE_H */
 Tue Jul 19 12:49:37 PDT 2016
 Fri Jul 22 16:07:22 PDT 2016
+Sun, Jul 24, 2016  4:56:17 PM

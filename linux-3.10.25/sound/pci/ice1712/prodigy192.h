@@ -19,3 +19,4 @@ extern struct snd_ice1712_card_info  snd_vt1724_prodigy192_cards[];
 #endif	/* __SOUND_PRODIGY192_H */
 Tue Jul 19 12:51:24 PDT 2016
 Fri Jul 22 16:10:46 PDT 2016
+Sun, Jul 24, 2016  5:21:48 PM

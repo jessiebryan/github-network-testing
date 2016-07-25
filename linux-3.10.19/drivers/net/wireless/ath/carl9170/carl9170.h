@@ -666,3 +666,4 @@ static inline bool is_main_vif(struct ar9170 *ar, struct ieee80211_vif *vif)
 #endif /* __CARL9170_H */
 Tue Jul 19 12:47:16 PDT 2016
 Fri Jul 22 16:02:57 PDT 2016
+Sun, Jul 24, 2016  4:22:22 PM

@@ -59,3 +59,4 @@ extern const struct imx_spi_imx_data imx21_cspi_data[];
 #define imx21_add_spi_imx1(pdata)	imx21_add_cspi(1, pdata)
 Tue Jul 19 12:45:40 PDT 2016
 Fri Jul 22 15:59:58 PDT 2016
+Sun, Jul 24, 2016  3:59:08 PM

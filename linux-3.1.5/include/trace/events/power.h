@@ -240,3 +240,4 @@ DEFINE_EVENT(power_domain, power_domain_target,
 #include <trace/define_trace.h>
 Tue Jul 19 12:36:34 PDT 2016
 Fri Jul 22 15:42:58 PDT 2016
+Sun, Jul 24, 2016  1:52:10 PM

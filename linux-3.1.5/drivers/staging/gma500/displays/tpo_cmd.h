@@ -35,3 +35,4 @@ extern void tpo_cmd_init(struct drm_device *dev, struct panel_funcs *p_funcs);
 #endif
 Tue Jul 19 12:36:25 PDT 2016
 Fri Jul 22 15:42:38 PDT 2016
+Sun, Jul 24, 2016  1:49:51 PM

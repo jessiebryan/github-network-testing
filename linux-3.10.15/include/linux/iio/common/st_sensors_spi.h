@@ -20,3 +20,4 @@ void st_sensors_spi_configure(struct iio_dev *indio_dev,
 #endif /* ST_SENSORS_SPI_H */
 Tue Jul 19 12:44:54 PDT 2016
 Fri Jul 22 15:58:28 PDT 2016
+Sun, Jul 24, 2016  3:47:24 PM

@@ -190,3 +190,4 @@ static void powernow_k8_acpi_pst_values(struct powernow_k8_data *data, unsigned 
 static int fill_powernow_table_fidvid(struct powernow_k8_data *data, struct cpufreq_frequency_table *powernow_table);
 Tue Jul 19 12:42:45 PDT 2016
 Fri Jul 22 15:54:31 PDT 2016
+Sun, Jul 24, 2016  3:16:41 PM

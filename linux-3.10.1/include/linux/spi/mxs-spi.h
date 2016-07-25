@@ -148,3 +148,4 @@ void mxs_ssp_set_clk_rate(struct mxs_ssp *ssp, unsigned int rate);
 #endif	/* __LINUX_SPI_MXS_SPI_H__ */
 Tue Jul 19 12:38:58 PDT 2016
 Fri Jul 22 15:47:27 PDT 2016
+Sun, Jul 24, 2016  2:25:05 PM

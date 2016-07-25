@@ -1180,3 +1180,4 @@ static const char * chip_ids[ 16 ] =  {
 #endif  /* _SMC91X_H_ */
 Tue Jul 19 12:44:06 PDT 2016
 Fri Jul 22 15:57:02 PDT 2016
+Sun, Jul 24, 2016  3:36:08 PM

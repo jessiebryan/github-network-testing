@@ -63,3 +63,4 @@ static inline void rmobile_add_devices_to_domains(struct pm_domain_device d[],
 #endif /* PM_RMOBILE_H */
 Tue Jul 19 12:52:06 PDT 2016
 Fri Jul 22 16:12:11 PDT 2016
+Sun, Jul 24, 2016  5:32:06 PM

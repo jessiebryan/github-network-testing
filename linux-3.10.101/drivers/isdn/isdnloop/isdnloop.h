@@ -112,3 +112,4 @@ static isdnloop_card *cards = (isdnloop_card *) 0;
 #endif                          /* isdnloop_h */
 Tue Jul 19 12:40:40 PDT 2016
 Fri Jul 22 15:50:50 PDT 2016
+Sun, Jul 24, 2016  2:49:26 PM

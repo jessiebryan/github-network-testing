@@ -377,3 +377,4 @@ static struct au1100fb_panel known_lcd_panels[] =
 #endif /* _AU1100LCD_H */
 Tue Jul 19 12:50:33 PDT 2016
 Fri Jul 22 16:09:09 PDT 2016
+Sun, Jul 24, 2016  5:09:45 PM

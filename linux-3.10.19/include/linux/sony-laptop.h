@@ -34,3 +34,4 @@ int sony_pic_camera_command(int command, u8 value);
 #endif /* _SONYLAPTOP_H_ */
 Tue Jul 19 12:47:26 PDT 2016
 Fri Jul 22 16:03:16 PDT 2016
+Sun, Jul 24, 2016  4:24:54 PM

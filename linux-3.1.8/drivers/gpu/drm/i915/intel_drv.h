@@ -380,3 +380,4 @@ extern void intel_init_clock_gating(struct drm_device *dev);
 #endif /* __INTEL_DRV_H__ */
 Tue Jul 19 12:37:29 PDT 2016
 Fri Jul 22 15:44:41 PDT 2016
+Sun, Jul 24, 2016  2:04:57 PM

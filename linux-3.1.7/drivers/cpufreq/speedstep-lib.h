@@ -49,3 +49,4 @@ extern unsigned int speedstep_get_freqs(enum speedstep_processor processor,
 	void (*set_state) (unsigned int state));
 Tue Jul 19 12:36:53 PDT 2016
 Fri Jul 22 15:43:33 PDT 2016
+Sun, Jul 24, 2016  1:56:40 PM

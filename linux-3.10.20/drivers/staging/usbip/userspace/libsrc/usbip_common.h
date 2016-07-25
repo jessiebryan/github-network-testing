@@ -150,3 +150,4 @@ void usbip_names_get_class(char *buff, size_t size, uint8_t class,
 #endif /* __USBIP_COMMON_H */
 Tue Jul 19 12:47:58 PDT 2016
 Fri Jul 22 16:04:16 PDT 2016
+Sun, Jul 24, 2016  4:32:28 PM

@@ -38,3 +38,4 @@ int as102_fw_upload(struct as10x_bus_adapter_t *bus_adap);
 #endif
 Tue Jul 19 12:40:07 PDT 2016
 Fri Jul 22 15:49:46 PDT 2016
+Sun, Jul 24, 2016  2:41:37 PM

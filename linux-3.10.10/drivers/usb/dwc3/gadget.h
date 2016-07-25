@@ -194,3 +194,4 @@ static inline const char *dwc3_ep_event_string(u8 event)
 #endif /* __DRIVERS_USB_DWC3_GADGET_H */
 Tue Jul 19 12:39:29 PDT 2016
 Fri Jul 22 15:48:32 PDT 2016
+Sun, Jul 24, 2016  2:32:46 PM

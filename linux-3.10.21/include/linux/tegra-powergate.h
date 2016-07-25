@@ -49,3 +49,4 @@ int tegra_powergate_sequence_power_up(int id, struct clk *clk);
 #endif /* _MACH_TEGRA_POWERGATE_H_ */
 Tue Jul 19 12:48:43 PDT 2016
 Fri Jul 22 16:05:41 PDT 2016
+Sun, Jul 24, 2016  4:43:26 PM

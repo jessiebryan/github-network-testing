@@ -410,3 +410,4 @@ APUOPFB(M_BIFE,		RR,	0x128,	0x10,	"bife",		_A2(A_T,A_A),	00011,	BR)	/* BIZ      
 #undef _A4
 Tue Jul 19 12:49:01 PDT 2016
 Fri Jul 22 16:06:16 PDT 2016
+Sun, Jul 24, 2016  4:47:48 PM

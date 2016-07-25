@@ -31,3 +31,4 @@ UNUSUAL_DEV(  0x07b4, 0x010a, 0x0102, 0x0102,
 #endif /* defined(CONFIG_USB_STORAGE_ALAUDA) || ... */
 Tue Jul 19 12:35:53 PDT 2016
 Fri Jul 22 15:41:35 PDT 2016
+Sun, Jul 24, 2016  1:42:06 PM

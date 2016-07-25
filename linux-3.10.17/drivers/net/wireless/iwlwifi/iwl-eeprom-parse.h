@@ -138,3 +138,4 @@ void iwl_init_ht_hw_capab(const struct iwl_cfg *cfg,
 #endif /* __iwl_eeprom_parse_h__ */
 Tue Jul 19 12:45:59 PDT 2016
 Fri Jul 22 16:00:35 PDT 2016
+Sun, Jul 24, 2016  4:04:00 PM

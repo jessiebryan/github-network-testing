@@ -637,3 +637,4 @@ extern int tps80031_ext_power_req_config(struct device *dev,
 #endif /*__LINUX_MFD_TPS80031_H */
 Tue Jul 19 12:53:52 PDT 2016
 Fri Jul 22 16:15:36 PDT 2016
+Sun, Jul 24, 2016  5:57:21 PM

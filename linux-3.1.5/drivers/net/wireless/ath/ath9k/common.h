@@ -64,3 +64,4 @@ void ath9k_cmn_update_txpow(struct ath_hw *ah, u16 cur_txpow,
 			    u16 new_txpow, u16 *txpower);
 Tue Jul 19 12:36:23 PDT 2016
 Fri Jul 22 15:42:33 PDT 2016
+Sun, Jul 24, 2016  1:49:16 PM

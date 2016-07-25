@@ -107,3 +107,4 @@ void mei_cl_all_write_clear(struct mei_device *dev);
 #endif /* _MEI_CLIENT_H_ */
 Tue Jul 19 12:52:24 PDT 2016
 Fri Jul 22 16:12:45 PDT 2016
+Sun, Jul 24, 2016  5:36:16 PM

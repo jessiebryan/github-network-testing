@@ -26,3 +26,4 @@ static int parport_pc_find_nonpci_ports (int autoirq, int autodma)
 #endif /* !(_ASM_M68K_PARPORT_H) */
 Tue Jul 19 12:48:56 PDT 2016
 Fri Jul 22 16:06:07 PDT 2016
+Sun, Jul 24, 2016  4:46:45 PM

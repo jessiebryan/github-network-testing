@@ -235,3 +235,4 @@ int gspca_coarse_grained_expo_autogain(struct gspca_dev *gspca_dev,
 #endif /* GSPCAV2_H */
 Tue Jul 19 12:44:45 PDT 2016
 Fri Jul 22 15:58:10 PDT 2016
+Sun, Jul 24, 2016  3:45:06 PM

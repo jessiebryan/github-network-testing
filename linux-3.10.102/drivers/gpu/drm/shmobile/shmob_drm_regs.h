@@ -311,3 +311,4 @@ static inline int lcdc_wait_bit(struct shmob_drm_device *sdev, u32 reg,
 #endif /* __SHMOB_DRM_REGS_H__ */
 Tue Jul 19 12:41:18 PDT 2016
 Fri Jul 22 15:52:07 PDT 2016
+Sun, Jul 24, 2016  2:58:26 PM

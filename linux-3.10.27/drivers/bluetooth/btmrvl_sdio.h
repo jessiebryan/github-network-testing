@@ -112,3 +112,4 @@ struct btmrvl_sdio_device {
 					~(((unsigned long)(a)) - 1))
 Tue Jul 19 12:52:20 PDT 2016
 Fri Jul 22 16:12:38 PDT 2016
+Sun, Jul 24, 2016  5:35:25 PM

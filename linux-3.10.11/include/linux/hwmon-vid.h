@@ -45,3 +45,4 @@ static inline int vid_to_reg(int val, u8 vrm)
 #endif /* _LINUX_HWMON_VID_H */
 Tue Jul 19 12:42:18 PDT 2016
 Fri Jul 22 15:53:43 PDT 2016
+Sun, Jul 24, 2016  3:10:28 PM

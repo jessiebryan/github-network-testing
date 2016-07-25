@@ -301,3 +301,4 @@ int dma_resume(struct pci_dev *pci);
 #endif /*__INTEL_MID_DMAC_REGS_H__*/
 Tue Jul 19 12:35:45 PDT 2016
 Fri Jul 22 15:41:20 PDT 2016
+Sun, Jul 24, 2016  1:40:11 PM

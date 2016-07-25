@@ -18,3 +18,4 @@ struct clk *icst_clk_register(struct device *dev,
 			      void __iomem *base);
 Tue Jul 19 12:44:41 PDT 2016
 Fri Jul 22 15:58:04 PDT 2016
+Sun, Jul 24, 2016  3:44:22 PM

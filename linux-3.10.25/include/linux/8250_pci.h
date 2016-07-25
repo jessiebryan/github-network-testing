@@ -37,3 +37,4 @@ void pciserial_suspend_ports(struct serial_private *priv);
 void pciserial_resume_ports(struct serial_private *priv);
 Tue Jul 19 12:51:14 PDT 2016
 Fri Jul 22 16:10:28 PDT 2016
+Sun, Jul 24, 2016  5:19:36 PM

@@ -56,3 +56,4 @@ void ath9k_cmn_update_txpow(struct ath_hw *ah, u16 cur_txpow,
 void ath9k_cmn_init_crypto(struct ath_hw *ah);
 Tue Jul 19 12:51:47 PDT 2016
 Fri Jul 22 16:11:32 PDT 2016
+Sun, Jul 24, 2016  5:27:15 PM

@@ -358,3 +358,4 @@ static inline void write_fp(struct gxfb_par *par, int reg, uint32_t val)
 #endif
 Tue Jul 19 12:49:15 PDT 2016
 Fri Jul 22 16:06:42 PDT 2016
+Sun, Jul 24, 2016  4:51:10 PM

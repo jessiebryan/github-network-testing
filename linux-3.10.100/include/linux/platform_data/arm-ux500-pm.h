@@ -21,3 +21,4 @@ void ux500_pm_init(u32 phy_base, u32 size);
 #endif /* ARM_UX500_PM_H */
 Tue Jul 19 12:40:13 PDT 2016
 Fri Jul 22 15:49:59 PDT 2016
+Sun, Jul 24, 2016  2:43:14 PM

@@ -8,3 +8,4 @@ extern int ezusb_fx1_ihex_firmware_download(struct usb_device *dev,
 #endif /* __EZUSB_H */
 Tue Jul 19 12:43:01 PDT 2016
 Fri Jul 22 15:54:59 PDT 2016
+Sun, Jul 24, 2016  3:20:26 PM

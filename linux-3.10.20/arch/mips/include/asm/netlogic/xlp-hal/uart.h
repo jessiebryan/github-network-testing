@@ -191,3 +191,4 @@ nlm_uart_init(uint64_t base, int baud, int databits, int stopbits,
 #endif /* __XLP_HAL_UART_H__ */
 Tue Jul 19 12:47:42 PDT 2016
 Fri Jul 22 16:03:47 PDT 2016
+Sun, Jul 24, 2016  4:28:41 PM

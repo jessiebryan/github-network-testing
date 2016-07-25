@@ -71,3 +71,4 @@ void ams_delta_latch_write(int base, int ngpio, u16 mask, u16 value);
 #endif /* __ASM_ARCH_OMAP_AMS_DELTA_H */
 Tue Jul 19 12:40:23 PDT 2016
 Fri Jul 22 15:50:17 PDT 2016
+Sun, Jul 24, 2016  2:45:31 PM

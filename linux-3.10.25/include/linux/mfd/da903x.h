@@ -247,3 +247,4 @@ extern int da903x_clr_bits(struct device *dev, int reg, uint8_t bit_mask);
 #endif /* __LINUX_PMIC_DA903X_H */
 Tue Jul 19 12:51:16 PDT 2016
 Fri Jul 22 16:10:31 PDT 2016
+Sun, Jul 24, 2016  5:20:03 PM

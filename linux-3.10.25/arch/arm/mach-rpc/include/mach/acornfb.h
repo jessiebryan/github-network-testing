@@ -140,3 +140,4 @@ acornfb_vidc20_find_rates(struct vidc_timing *vidc,
 #define acornfb_default_econtrol()	(VIDC20_ECTL_DAC | VIDC20_ECTL_REG(3))
 Tue Jul 19 12:50:48 PDT 2016
 Fri Jul 22 16:09:37 PDT 2016
+Sun, Jul 24, 2016  5:13:24 PM

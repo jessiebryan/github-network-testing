@@ -277,3 +277,4 @@ static inline bool carl9170fw_size_check(unsigned int len)
 #endif /* __CARL9170_SHARED_FWDESC_H */
 Tue Jul 19 12:38:47 PDT 2016
 Fri Jul 22 15:47:07 PDT 2016
+Sun, Jul 24, 2016  2:22:33 PM

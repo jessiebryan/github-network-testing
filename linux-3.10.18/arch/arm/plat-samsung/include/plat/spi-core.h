@@ -30,3 +30,4 @@ static inline void s3c64xx_spi_setname(char *name)
 #endif /* __PLAT_S3C_SPI_CORE_H */
 Tue Jul 19 12:46:19 PDT 2016
 Fri Jul 22 16:01:11 PDT 2016
+Sun, Jul 24, 2016  4:08:50 PM

@@ -47,3 +47,4 @@ struct platform_device *__init mx28_add_mxsfb(
 		const struct mxsfb_platform_data *pdata);
 Tue Jul 19 12:35:30 PDT 2016
 Fri Jul 22 15:40:51 PDT 2016
+Sun, Jul 24, 2016  1:36:42 PM

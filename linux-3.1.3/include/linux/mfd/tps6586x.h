@@ -78,3 +78,4 @@ extern int tps6586x_update(struct device *dev, int reg, uint8_t val,
 #endif /*__LINUX_MFD_TPS6586X_H */
 Tue Jul 19 12:35:23 PDT 2016
 Fri Jul 22 15:40:35 PDT 2016
+Sun, Jul 24, 2016  1:34:49 PM

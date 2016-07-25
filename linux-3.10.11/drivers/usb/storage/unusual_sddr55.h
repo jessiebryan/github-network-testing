@@ -44,3 +44,4 @@ UNUSUAL_DEV(  0x55aa, 0xa103, 0x0000, 0x9999,
 #endif /* defined(CONFIG_USB_STORAGE_SDDR55) || ... */
 Tue Jul 19 12:42:14 PDT 2016
 Fri Jul 22 15:53:38 PDT 2016
+Sun, Jul 24, 2016  3:09:42 PM

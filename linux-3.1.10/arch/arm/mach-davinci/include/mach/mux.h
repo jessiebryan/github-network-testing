@@ -1207,3 +1207,4 @@ static inline int davinci_cfg_reg_list(const short pins[])
 #endif /* __INC_MACH_MUX_H */
 Tue Jul 19 12:33:13 PDT 2016
 Fri Jul 22 15:37:30 PDT 2016
+Sun, Jul 24, 2016  1:11:43 PM

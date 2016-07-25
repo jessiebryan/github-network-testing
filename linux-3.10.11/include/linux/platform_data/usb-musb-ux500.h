@@ -25,3 +25,4 @@ void ux500_add_usb(struct device *parent, resource_size_t base,
 #endif
 Tue Jul 19 12:42:20 PDT 2016
 Fri Jul 22 15:53:47 PDT 2016
+Sun, Jul 24, 2016  3:10:59 PM

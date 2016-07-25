@@ -244,3 +244,4 @@ int gspca_auto_gain_n_exposure(struct gspca_dev *gspca_dev, int avg_lum,
 #endif /* GSPCAV2_H */
 Tue Jul 19 12:36:55 PDT 2016
 Fri Jul 22 15:43:37 PDT 2016
+Sun, Jul 24, 2016  1:57:07 PM

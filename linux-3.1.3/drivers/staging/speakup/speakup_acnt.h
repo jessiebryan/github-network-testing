@@ -16,3 +16,4 @@
 #define SYNTH_SPEAKING	's' /* synth is speaking and has a fare way to go */
 Tue Jul 19 12:35:17 PDT 2016
 Fri Jul 22 15:40:25 PDT 2016
+Sun, Jul 24, 2016  1:33:34 PM

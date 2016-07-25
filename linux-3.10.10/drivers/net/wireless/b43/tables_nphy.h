@@ -217,3 +217,4 @@ const struct nphy_rf_control_override_rev7 *b43_nphy_get_rf_ctl_over_rev7(
 #endif /* B43_TABLES_NPHY_H_ */
 Tue Jul 19 12:39:25 PDT 2016
 Fri Jul 22 15:48:24 PDT 2016
+Sun, Jul 24, 2016  2:31:46 PM

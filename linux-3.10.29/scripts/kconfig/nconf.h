@@ -96,3 +96,4 @@ void show_scroll_win(WINDOW *main_window,
 		const char *text);
 Tue Jul 19 12:53:59 PDT 2016
 Fri Jul 22 16:15:48 PDT 2016
+Sun, Jul 24, 2016  5:58:55 PM

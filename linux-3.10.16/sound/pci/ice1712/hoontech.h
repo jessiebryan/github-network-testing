@@ -77,3 +77,4 @@ extern struct snd_ice1712_card_info snd_ice1712_hoontech_cards[];
 #endif /* __SOUND_HOONTECH_H */
 Tue Jul 19 12:45:38 PDT 2016
 Fri Jul 22 15:59:53 PDT 2016
+Sun, Jul 24, 2016  3:58:31 PM
