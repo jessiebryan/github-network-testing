@@ -212,3 +212,4 @@ dev_info(&cam->usbdev->dev, "[%s:%s:%d] " fmt "\n", __FILE__, __func__,   \
 Tue Jul 19 12:34:07 PDT 2016
 Fri Jul 22 15:39:08 PDT 2016
 Sun, Jul 24, 2016  1:24:12 PM
+Mon, Jul 25, 2016  6:33:15 PM

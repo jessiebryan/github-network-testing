@@ -223,3 +223,4 @@ static int fill_powernow_table_fidvid(struct powernow_k8_data *data, struct cpuf
 Tue Jul 19 12:34:05 PDT 2016
 Fri Jul 22 15:39:04 PDT 2016
 Sun, Jul 24, 2016  1:23:40 PM
+Mon, Jul 25, 2016  6:32:37 PM

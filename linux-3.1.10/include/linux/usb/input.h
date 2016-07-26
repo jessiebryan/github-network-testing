@@ -26,3 +26,4 @@ usb_to_input_id(const struct usb_device *dev, struct input_id *id)
 Tue Jul 19 12:33:42 PDT 2016
 Fri Jul 22 15:38:26 PDT 2016
 Sun, Jul 24, 2016  1:18:46 PM
+Mon, Jul 25, 2016  6:26:43 PM
