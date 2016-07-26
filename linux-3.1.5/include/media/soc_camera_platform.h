@@ -78,3 +78,4 @@ static inline void soc_camera_platform_del(const struct soc_camera_device *icd,
 Tue Jul 19 12:36:33 PDT 2016
 Fri Jul 22 15:42:55 PDT 2016
 Sun, Jul 24, 2016  1:51:52 PM
+Mon, Jul 25, 2016  8:18:50 PM

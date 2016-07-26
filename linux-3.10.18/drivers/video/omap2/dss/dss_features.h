@@ -125,3 +125,4 @@ void dss_init_hdmi_ip_ops(struct hdmi_ip_data *ip_data,
 Tue Jul 19 12:46:42 PDT 2016
 Fri Jul 22 16:01:55 PDT 2016
 Sun, Jul 24, 2016  4:14:17 PM
+Mon, Jul 25, 2016 10:59:02 PM

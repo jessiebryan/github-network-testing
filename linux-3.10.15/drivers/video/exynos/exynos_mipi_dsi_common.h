@@ -47,3 +47,4 @@ int exynos_mipi_dsi_fifo_clear(struct mipi_dsim_device *dsim,
 Tue Jul 19 12:44:51 PDT 2016
 Fri Jul 22 15:58:22 PDT 2016
 Sun, Jul 24, 2016  3:46:36 PM
+Mon, Jul 25, 2016 10:28:14 PM

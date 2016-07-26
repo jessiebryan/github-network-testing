@@ -256,3 +256,4 @@ double perf_diff__period_percent(struct hist_entry *he, u64 period);
 Tue Jul 19 12:47:32 PDT 2016
 Fri Jul 22 16:03:28 PDT 2016
 Sun, Jul 24, 2016  4:26:22 PM
+Mon, Jul 25, 2016 11:12:25 PM

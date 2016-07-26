@@ -46,3 +46,4 @@ static inline void st_gyro_deallocate_ring(struct iio_dev *indio_dev)
 Tue Jul 19 12:49:46 PDT 2016
 Fri Jul 22 16:07:39 PDT 2016
 Sun, Jul 24, 2016  4:58:25 PM
+Mon, Jul 25, 2016 11:48:08 PM

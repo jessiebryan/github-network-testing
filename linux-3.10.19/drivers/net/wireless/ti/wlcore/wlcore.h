@@ -617,3 +617,4 @@ wlcore_set_min_fw_ver(struct wl1271 *wl, unsigned int chip,
 Tue Jul 19 12:47:17 PDT 2016
 Fri Jul 22 16:02:59 PDT 2016
 Sun, Jul 24, 2016  4:22:37 PM
+Mon, Jul 25, 2016 11:08:15 PM

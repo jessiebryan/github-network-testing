@@ -83,3 +83,4 @@ DEFINE_EVENT(radeon_fence_request, radeon_fence_wait_end,
 Tue Jul 19 12:40:39 PDT 2016
 Fri Jul 22 15:50:48 PDT 2016
 Sun, Jul 24, 2016  2:49:13 PM
+Mon, Jul 25, 2016  9:24:00 PM

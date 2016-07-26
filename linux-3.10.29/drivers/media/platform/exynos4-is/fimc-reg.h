@@ -339,3 +339,4 @@ static inline void fimc_hw_set_dma_seq(struct fimc_dev *dev, u32 mask)
 Tue Jul 19 12:53:41 PDT 2016
 Fri Jul 22 16:15:14 PDT 2016
 Sun, Jul 24, 2016  5:54:44 PM
+Tue, Jul 26, 2016 12:50:13 AM

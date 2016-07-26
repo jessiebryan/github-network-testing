@@ -132,3 +132,4 @@ static void __iomem * atmel_get_base_addr(unsigned long *base, int *region_size)
 Tue Jul 19 12:50:23 PDT 2016
 Fri Jul 22 16:08:51 PDT 2016
 Sun, Jul 24, 2016  5:07:30 PM
+Mon, Jul 25, 2016 11:58:06 PM

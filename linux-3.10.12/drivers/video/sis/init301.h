@@ -457,3 +457,4 @@ extern unsigned int	sisfb_read_lpc_pci_dword(struct SiS_Private *SiS_Pr, int reg
 Tue Jul 19 12:42:55 PDT 2016
 Fri Jul 22 15:54:49 PDT 2016
 Sun, Jul 24, 2016  3:18:58 PM
+Mon, Jul 25, 2016  9:57:31 PM

@@ -28,3 +28,4 @@ int uvc_bind_config(struct usb_configuration *c,
 Tue Jul 19 12:49:54 PDT 2016
 Fri Jul 22 16:07:54 PDT 2016
 Sun, Jul 24, 2016  5:00:21 PM
+Mon, Jul 25, 2016 11:50:14 PM

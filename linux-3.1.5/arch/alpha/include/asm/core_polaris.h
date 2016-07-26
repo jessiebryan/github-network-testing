@@ -111,3 +111,4 @@ __EXTERN_INLINE int polaris_is_mmio(const volatile void __iomem *addr)
 Tue Jul 19 12:36:03 PDT 2016
 Fri Jul 22 15:41:53 PDT 2016
 Sun, Jul 24, 2016  1:44:26 PM
+Mon, Jul 25, 2016  8:10:05 PM

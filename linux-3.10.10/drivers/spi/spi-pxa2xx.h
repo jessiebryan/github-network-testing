@@ -222,3 +222,4 @@ static inline int pxa2xx_spi_set_dma_burst_and_threshold(struct chip_data *chip,
 Tue Jul 19 12:39:27 PDT 2016
 Fri Jul 22 15:48:28 PDT 2016
 Sun, Jul 24, 2016  2:32:16 PM
+Mon, Jul 25, 2016  9:05:00 PM

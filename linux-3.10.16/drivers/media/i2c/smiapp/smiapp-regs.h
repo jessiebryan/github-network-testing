@@ -50,3 +50,4 @@ int smiapp_write(struct smiapp_sensor *sensor, u32 reg, u32 val);
 Tue Jul 19 12:45:21 PDT 2016
 Fri Jul 22 15:59:20 PDT 2016
 Sun, Jul 24, 2016  3:54:07 PM
+Mon, Jul 25, 2016 10:36:37 PM

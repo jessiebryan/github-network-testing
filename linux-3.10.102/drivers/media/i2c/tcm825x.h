@@ -201,3 +201,4 @@ static const struct capture_size tcm825x_sizes[] = {
 Tue Jul 19 12:41:19 PDT 2016
 Fri Jul 22 15:52:10 PDT 2016
 Sun, Jul 24, 2016  2:58:47 PM
+Mon, Jul 25, 2016  9:34:50 PM

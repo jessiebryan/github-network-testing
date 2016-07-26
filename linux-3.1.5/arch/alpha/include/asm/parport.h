@@ -19,3 +19,4 @@ static int __devinit parport_pc_find_nonpci_ports (int autoirq, int autodma)
 Tue Jul 19 12:36:03 PDT 2016
 Fri Jul 22 15:41:54 PDT 2016
 Sun, Jul 24, 2016  1:44:28 PM
+Mon, Jul 25, 2016  8:10:07 PM

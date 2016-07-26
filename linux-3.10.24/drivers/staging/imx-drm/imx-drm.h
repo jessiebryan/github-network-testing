@@ -71,3 +71,4 @@ int imx_drm_encoder_add_possible_crtcs(struct imx_drm_encoder *imx_drm_encoder,
 Tue Jul 19 12:50:31 PDT 2016
 Fri Jul 22 16:09:05 PDT 2016
 Sun, Jul 24, 2016  5:09:18 PM
+Tue, Jul 26, 2016 12:00:05 AM

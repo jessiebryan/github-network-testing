@@ -195,3 +195,4 @@ static inline const char *dwc3_ep_event_string(u8 event)
 Tue Jul 19 12:53:47 PDT 2016
 Fri Jul 22 16:15:27 PDT 2016
 Sun, Jul 24, 2016  5:56:14 PM
+Tue, Jul 26, 2016 12:51:53 AM
